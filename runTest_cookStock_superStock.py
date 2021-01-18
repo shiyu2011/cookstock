@@ -10,7 +10,12 @@ import cookStock
 reload(cookStock)
 from cookStock import *
 
-x = cookFinancials('RIOT')
+date_from = str(dt.date.today() - dt.timedelta(days=10))
+date_to = str(dt.date.today())
+x = cookFinancials('MMM')
+
+display(x.get_historical_price_data(date_from,date_to, 'daily'))
+
 x.get_ma(str(dt.date.today() - dt.timedelta(days=200)),str(dt.date.today()))
 x.get_30day_trend_ma200()
 

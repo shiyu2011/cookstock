@@ -14,7 +14,7 @@ from get_all_tickers.get_tickers import Region
 
 tickers = gt.get_tickers()
 
-filtered_by_sector = gt.get_tickers_filtered(sectors=gt.SectorConstants.ENERGY)
-filtered_by_sector
-y = batch_process(filtered_by_sector, 'Energy_superStocks_1_8_2021.json')
+filtered_by_sector = gt.get_tickers_filtered(sectors=gt.SectorConstants.HEALTH_CARE)
+#filtered_by_sector = ['VNRX', 'INFU']
+y = batch_process(filtered_by_sector, 'Health_superStocks_1_15_2021.json')
 y.batch_strategy()

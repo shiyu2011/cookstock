@@ -9,9 +9,26 @@ from importlib import reload # python 2.7 does not require this
 import cookStock
 reload(cookStock)
 from cookStock import *
+import pandas as pd
 
-x = cookFinancials('RIOT')
+x = cookFinancials('ALDX')
 
+display(x.get_balanceSheetHistory_quarter())
+
+display(x.get_incomeStatementHistory_quarter())
+
+display(x.get_cashflowStatementHistory_quarter())
+
+display(x.get_BV_quarter())
+
+display(x.get_summary_data())
+
+bv = x.get_BV_quarter()
+display(x.get_GR_median(bv))
+display(x.get_earningsperShare())
+
+bv = x.get_BV()
+display(x.get_GR_median(bv))
 
 bv = x.get_BV(20)
 bv.insert(0, x.get_book_value())

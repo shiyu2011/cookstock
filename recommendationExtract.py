@@ -14,7 +14,7 @@ from pandas_datareader import DataReader
 import time
 
 #ready json file to get ticker
-with open('result/Health_superStocks_1_7_2021.json') as f:
+with open('Healthcare_superStocks_1_13_2021.json') as f:
   data = js.load(f)
 print(data)
 

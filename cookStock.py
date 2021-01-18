@@ -9,11 +9,16 @@ from yahoofinancials import YahooFinancials
 import numpy as np
 import json as js
 import datetime as dt
+import os.path
+
 class cookFinancials(YahooFinancials):
     ticker = ''
     bshData = []
+    bshData_quarter = []
     ish = []
+    ish_quarter = []
     cfsh = []
+    cfsh_quarter = []
     summaryData = []
     priceData = []
     def __init__(self, ticker):
@@ -27,13 +32,24 @@ class cookFinancials(YahooFinancials):
         self.bshData = self.get_financial_stmts('annual', 'balance')['balanceSheetHistory']
         return self.bshData
     
+    def get_balanceSheetHistory_quarter(self):
+        self.bshData_quarter = self.get_financial_stmts('quarterly', 'balance')['balanceSheetHistoryQuarterly']
+        return self.bshData_quarter
+    
     def get_incomeStatementHistory(self):
         self.ish = self.get_financial_stmts('annual', 'income')['incomeStatementHistory']
         return self.ish
     
+    def get_incomeStatementHistory_quarter(self):
+        self.ish_quarter = self.get_financial_stmts('quarterly', 'income')['incomeStatementHistoryQuarterly']
+        return self.ish_quarter
+    
     def get_cashflowStatementHistory(self):
         self.cfsh = self.get_financial_stmts('annual','cash')['cashflowStatementHistory']
         return self.cfsh
+    def get_cashflowStatementHistory_quarter(self):
+        self.cfsh_quarter = self.get_financial_stmts('quarterly','cash')['cashflowStatementHistoryQuarterly']
+        return self.cfsh_quarter
     
     def get_BV(self, numofYears=20):
         bv = []
@@ -44,6 +60,17 @@ class cookFinancials(YahooFinancials):
             if not(self.bshData[self.ticker][i][date_key]):    
                 break
             bv.append(self.bshData[self.ticker][i][date_key]['totalStockholderEquity'])
+        return bv
+    
+    def get_BV_quarter(self, numofQuarter=20):
+        bv = []
+        if not(self.bshData_quarter):
+            self.get_balanceSheetHistory_quarter()
+        for i in range(min(np.size(self.bshData_quarter[self.ticker]), numofQuarter)):
+            date_key = list(self.bshData_quarter[self.ticker][i].keys())[0]
+            if not(self.bshData_quarter[self.ticker][i][date_key]):    
+                break
+            bv.append(self.bshData_quarter[self.ticker][i][date_key]['totalStockholderEquity'])
         return bv   
     
     def get_ROIC(self, numofYears=20):
@@ -108,6 +135,13 @@ class cookFinancials(YahooFinancials):
     
     #use mean of each year    
     def get_BV_GR_median(self, bv):
+        gr = []
+        for v in range(np.size(bv)-1):
+            gr.append((bv[v]-bv[v+1])/abs(bv[v+1]))
+        #print(gr)
+        return np.size(bv)-1, np.median(gr)
+    
+    def get_GR_median(self, bv):
         gr = []
         for v in range(np.size(bv)-1):
             gr.append((bv[v]-bv[v+1])/abs(bv[v+1]))
@@ -253,7 +287,7 @@ class cookFinancials(YahooFinancials):
     
     def vol_strategy(self):
         v3,a3,v50,a50 = self.get_vol(3, 50)
-        if a3>a50*2:
+        if a3>a50*1.5 and np.max(a3) > 1000000: #1m trade
             return 1
         else:
             return -1
@@ -306,8 +340,8 @@ class cookFinancials(YahooFinancials):
 class batch_process:
     def __init__(self, tickers, section):
         self.tickers = tickers
-        self.jsfile = section
-        with open(section, "w") as f:
+        self.jsfile = os.path.join('result', section)
+        with open(self.jsfile, "w") as f:
             s = {"data":[]}
             js.dump(s, f, indent = 4)
             

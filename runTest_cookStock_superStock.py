@@ -12,7 +12,7 @@ from cookStock import *
 
 date_from = str(dt.date.today() - dt.timedelta(days=10))
 date_to = str(dt.date.today())
-x = cookFinancials('MMM')
+x = cookFinancials('GME')
 
 display(x.get_historical_price_data(date_from,date_to, 'daily'))
 

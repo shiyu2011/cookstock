@@ -11,7 +11,7 @@ reload(cookStock)
 from cookStock import *
 import pandas as pd
 
-x = cookFinancials('ALDX')
+x = cookFinancials('GME')
 
 display(x.get_balanceSheetHistory_quarter())
 

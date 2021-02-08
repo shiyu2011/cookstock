@@ -286,8 +286,8 @@ class cookFinancials(YahooFinancials):
         return vol3day, np.sum(vol3day)/checkDays, vol50day, np.sum(vol50day)/avrgDays
     
     def vol_strategy(self):
-        v3,a3,v50,a50 = self.get_vol(3, 50)
-        if a3>a50*1.5 and np.max(a3) > 1000000: #1m trade
+        v3,a3,v50,a50 = self.get_vol(3, 100)
+        if a3>a50*2 and np.max(a3) > 1000000: #1m trade
             return 1
         else:
             return -1
@@ -312,7 +312,7 @@ class cookFinancials(YahooFinancials):
             return -1
         
     def combine_strategy(self):
-        if self.mv_strategy() and self.vol_strategy() and self.price_strategy():
+        if self.mv_strategy()==1 and self.vol_strategy()==1 and self.price_strategy()==1:
             return self.ticker
         else:
             return -1

@@ -23,7 +23,7 @@ from cookStock import *
 
 ###load selected stocks
 
-name = 'Tech_superStocks_2_5_2021'
+name = 'Heal_superStocks_2_5_2021'
 with open(os.path.join('result', name+'.json')) as f:
     data = js.load(f)
 print(data)

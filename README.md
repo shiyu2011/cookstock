@@ -1,4 +1,4 @@
-# cookstock
+# cookStock
 
 Implemente a handful of stock screening tools
 1. Mark Minervini's stage 2 template searching

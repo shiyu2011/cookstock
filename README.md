@@ -6,7 +6,7 @@ Implemente a handful of stock screening tools
 3. Tool to calculate stock value based on RULE one principle
 4. Tool to extract news from YahooFinance
 
-Use YahooFinance API to pull stock data for screening
+Use YahooFinance API to pull stock data for screening, 
 all the tools can run under a batch mode, which allows you to screen and analyze stocks automatically
 
 Here is an example of TSLA's volatility contraction pattern

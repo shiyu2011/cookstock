@@ -313,7 +313,12 @@ class cookFinancials(YahooFinancials):
     
     def vol_strategy(self):
         v3,a3,v50,a50 = self.get_vol(3, 50)
-        if a3>a50*2 and np.max(a3) > 1000000: #1m trade
+        #if a3>a50*2 and np.max(a3) > 1000000: #1m trade
+        #    return 1
+        #else:
+        #    return -1
+        
+        if a50 > 1000000*0.8: #1m trade
             return 1
         else:
             return -1
@@ -655,7 +660,7 @@ class cookFinancials(YahooFinancials):
 class batch_process:
     def __init__(self, tickers, section):
         self.tickers = tickers
-        self.jsfile = os.path.join('../result', section)
+        self.jsfile = os.path.join('result', section)
         with open(self.jsfile, "w") as f:
             s = {"data":[]}
             js.dump(s, f, indent = 4)
@@ -672,14 +677,14 @@ class batch_process:
                 if x.mv_strategy()==1:
                     s1 = 1
                     print("passing moving average strategy")
-                # if x.vol_strategy() == 1: #not from original book, not working
-                #     s2 = 1
-                #     print("passing 3 day volume strategy")
+                if x.vol_strategy() == 1: #not from original book, not working
+                    s2 = 1
+                    print("passing 3 day volume strategy")
                 if x.price_strategy() == 1:
                     s3 = 1
                     print("passing price strategy")
                 #if s1==1 and s2==1 and s3==1:
-                if s1==1 and s3==1:
+                if s1==1 and s3==1 and s2:
                     print("congrats, this stock passes all strategys, run volatility contraction pattern")
                     superStock.append(self.tickers[i])    
                 #sleep(0.5)

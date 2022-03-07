@@ -7,14 +7,14 @@ Created on Sat Jan  9 00:21:01 2021
 """
 from importlib import reload # python 2.7 does not require this
 import sys
-sys.path.insert(0, '../src/')
+sys.path.insert(0, '/Users/sxu/deeppath/stock/cookstock/src/')
 import cookStock
 reload(cookStock)
 from cookStock import *
 import matplotlib.pyplot as plt
 
-generatedDate = '4_9_2021'
-generatedInd = 'Service'
+generatedDate = '10_10_2021'
+generatedInd = 'Energy'
 name = generatedInd + '_superStocks_' + generatedDate
 with open(os.path.join('../result', name+'.json')) as f:
     data = js.load(f)

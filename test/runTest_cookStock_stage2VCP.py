@@ -18,7 +18,7 @@ matplotlib.use('Agg')
 
 date_from = (dt.date.today() - dt.timedelta(days=100))
 date_to = (dt.date.today())
-x = cookFinancials('TSLA')
+x = cookFinancials('BTU')
 
 print(x.get_ma(date_from, date_to))
 print(x.get_ma_ref(date_from, date_to))

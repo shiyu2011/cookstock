@@ -7,7 +7,7 @@ Created on Sat Jan  9 00:21:35 2021
 """
 from importlib import reload # python 2.7 does not require this
 import sys
-sys.path.insert(0, '../src/')
+sys.path.insert(0, '/Users/sxu/deeppath/stock/cookstock/src/')
 import cookStock
 reload(cookStock)
 from cookStock import *
@@ -21,7 +21,7 @@ from get_tickers import *
 tmp = get_tickers(NYSE=True, NASDAQ=True, AMEX=True)
 
 tickers = [] 
-for i in tmp: 
+for i in tmp:   
     if i not in tickers: 
         tickers.append(i) 
         
@@ -33,7 +33,7 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Tech_superStocks_4_12_2021.json')
+y = batch_process(selected, 'Tech_superStocks_10_10_2021.json')
 y.batch_strategy()
 
 ###########bio
@@ -45,7 +45,7 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Heal_superStocks_4_12_2021.json')
+y = batch_process(selected, 'Heal_superStocks_10_10_2021.json')
 y.batch_strategy()
 
 
@@ -58,7 +58,7 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Basic_superStocks_4_12_2021.json')
+y = batch_process(selected, 'Basic_superStocks_10_10_2021.json')
 y.batch_strategy()
 
 ###########Basics
@@ -70,5 +70,58 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Service_superStocks_4_12_2021.json')
+y = batch_process(selected, 'Service_superStocks_10_10_2021.json')
+y.batch_strategy()
+
+
+
+###########Basics
+filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.FINANCE)
+
+selected = [] 
+for i in filtered_by_sector: 
+    if i not in selected: 
+        selected.append(i) 
+        
+#filtered_by_sector = ['VNRX', 'INFU']
+y = batch_process(selected, 'Finance_superStocks_10_10_2021.json')
+y.batch_strategy()
+
+
+
+###########Basics
+filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.ENERGY)
+
+selected = [] 
+for i in filtered_by_sector: 
+    if i not in selected: 
+        selected.append(i) 
+        
+#filtered_by_sector = ['VNRX', 'INFU']
+y = batch_process(selected, 'Energy_superStocks_10_10_2021.json')
+y.batch_strategy()
+
+
+###########Basics
+filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.NON_DURABLE_GOODS)
+
+selected = [] 
+for i in filtered_by_sector: 
+    if i not in selected: 
+        selected.append(i) 
+        
+#filtered_by_sector = ['VNRX', 'INFU']
+y = batch_process(selected, 'nonDurableGoods_superStocks_10_10_2021.json')
+y.batch_strategy()
+
+###########Basics
+filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.DURABLE_GOODS)
+
+selected = [] 
+for i in filtered_by_sector: 
+    if i not in selected: 
+        selected.append(i) 
+        
+#filtered_by_sector = ['VNRX', 'INFU']
+y = batch_process(selected, 'DurableGoods_superStocks_10_10_2021.json')
 y.batch_strategy()

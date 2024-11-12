@@ -50,104 +50,19 @@ for i in filtered_by_sector:
 #filtered_by_sector = ['VNRX', 'INFU']
 #get name of the file from the sector and date automatically
 current_date = dt.date.today().strftime("%m_%d_%Y")
-file = SectorConstants.TECH + '_superStocks_' + current_date + '.json'
 
-y = batch_process(selected, file)
-y.batch_strategy()
+#set sector names to be run
+sectorCollection = [SectorConstants.TECH, SectorConstants.HEALTH_CARE, SectorConstants.BASICS, SectorConstants.SERVICES, SectorConstants.FINANCE, SectorConstants.ENERGY, SectorConstants.NON_DURABLE_GOODS, SectorConstants.DURABLE_GOODS]
 
-###########bio
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.HEALTH_CARE)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.HEALTH_CARE + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-
-###########Basics
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.BASICS)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.BASICS + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-###########services
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.SERVICES)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.SERVICES + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-
-
-###########FINANCE
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.FINANCE)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.FINANCE + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-
-
-###########ENERGY
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.ENERGY)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.ENERGY + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-
-###########NON_DURABLE_GOODS
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.NON_DURABLE_GOODS)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.NON_DURABLE_GOODS + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
-
-###########DURABLE_GOODS
-filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.DURABLE_GOODS)
-
-selected = [] 
-for i in filtered_by_sector: 
-    if i not in selected: 
-        selected.append(i) 
-        
-#filtered_by_sector = ['VNRX', 'INFU']
-file = SectorConstants.DURABLE_GOODS + '_superStocks_' + current_date + '.json'
-y = batch_process(selected, file)
-y.batch_strategy()
+for sector in sectorCollection:
+    filtered_by_sector = get_tickers_filtered(sectors=sector)
+    selected = [] 
+    for i in filtered_by_sector: 
+        if i not in selected: 
+            selected.append(i) 
+    file = sector + '_superStocks_' + current_date + '.json'
+    print('start processing ' + sector)
+    y = batch_process(selected, file)
+    y.batch_strategy()
+    print('end processing ' + sector)
+    print('----------------------------------')

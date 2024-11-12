@@ -23,6 +23,14 @@ yhPath = os.path.join(basePath, 'yahoofinancials')
 sys.path.insert(0, yhPath)
 from yahoofinancials import YahooFinancials
 
+#define some constants
+class algoParas:   
+    PIVOT_PRICE_PERC = 0.2
+    VOLUME_DROP_THRESHOLD_HIGH = 0.8
+    VOLUME_DROP_THRESHOLD_LOW = 0.4
+    REGRESSION_DAYS = 100
+    
+    
 
 class cookFinancials(YahooFinancials):
     ticker = ''
@@ -36,6 +44,9 @@ class cookFinancials(YahooFinancials):
     priceData = []
     m_recordVCP = []
     m_footPrint = []
+    current_stickerPrice = []
+    #define some parameters
+    
     def __init__(self, ticker):
         super().__init__(ticker)  # Calls the parent class's initializer
         if isinstance(ticker, str):
@@ -43,6 +54,7 @@ class cookFinancials(YahooFinancials):
         else:
             self.ticker = [t.upper() for t in ticker]
         self._cache = {}
+        self.current_stickerPrice = self.get_current_price()
         
     def get_balanceSheetHistory(self):
         self.bshData = self.get_financial_stmts('annual', 'balance')['balanceSheetHistory']
@@ -318,12 +330,14 @@ class cookFinancials(YahooFinancials):
         if not(self.priceData):
             date = dt.date.today()
             self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
-        currentPrice = self.priceData[self.ticker]['prices'][-1]['close']
+        if not self.current_stickerPrice:
+            self.current_stickerPrice = self.get_current_price()
+        currentPrice = self.current_stickerPrice
         price50 = self.get_ma_50(dt.date.today())
         price150 = self.get_ma_150(dt.date.today())
         price200 = self.get_ma_200(dt.date.today())
         #print(currentPrice, price50, price150, price200, self.get_30day_trend_ma200())
-        if currentPrice > price50 and currentPrice > price200 and self.get_30day_trend_ma200() == 1:
+        if currentPrice > price200 and self.get_30day_trend_ma200() == 1:
             print("Moving average strategy met with current price above 50-day and 200-day moving averages and positive 30-day trend.")
             return 1
         return -1  
@@ -332,7 +346,8 @@ class cookFinancials(YahooFinancials):
         date = dt.date.today()
         vol3day = []
         vol50day = []
-        self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
+        if not self.priceData:
+            self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
         length = len(self.priceData[self.ticker]['prices'])
         for i in range(checkDays):
             if not(self.priceData[self.ticker]['prices'][length-1-i]['volume']):
@@ -348,10 +363,10 @@ class cookFinancials(YahooFinancials):
     
     def vol_strategy(self):
         # Fetch the 3-day and 50-day volume averages
-        vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 50)
+        vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 200)
 
         # Check if 3-day average volume is at least 1.5x the 50-day average volume
-        if avgVol3day >= 1.5 * avgVol50day:
+        if avgVol3day >= 1.25 * avgVol50day:
             print("Volume spike detected with 3-day average volume at least 1.5x 50-day average volume.")
             return 1  # Volume condition met based on recent surge
         
@@ -374,14 +389,16 @@ class cookFinancials(YahooFinancials):
                 self.priceData[self.ticker]['prices'][i]['close'] = self.priceData[self.ticker]['prices'][i-1]['close']
             closePrice.append(self.priceData[self.ticker]['prices'][i]['close'])
         lowestPrice = np.min(closePrice)
-        currentPrice = self.priceData[self.ticker]['prices'][-1]['close']
+        if not self.current_stickerPrice:
+            self.current_stickerPrice = self.get_current_price()
+        currentPrice = self.current_stickerPrice
         highestPrice = np.max(closePrice)
     # Calculate range position as a percentage
         range_position = (currentPrice - lowestPrice) / (highestPrice - lowestPrice)
 
         # Conditions: within the upper third but below 90% of the 1-year high
-        if 0.66 <= range_position < 0.9:
-            print("Price strategy met with current price within the upper third of the 1-year range but below 90% of the 1-year high.")
+        if 0.66 <= range_position: #if it is larger than 1, it means it break out
+            print("Price strategy met with current price within the upper third of the 1-year range.")
             return 1  # Passes price positioning criteria
         return -1  # Fails price strategy
         
@@ -614,9 +631,12 @@ class cookFinancials(YahooFinancials):
         flag = False
         if not(self.m_footPrint):
             self.get_footPrint()
-        #within 10% and current price higher then lower boundary
-        current = self.get_current_price()
-        flag = (self.m_footPrint[-1][2] <= 0.1) and (current> self.m_recordVCP[-1][3])
+        #correction within 10% of max price and current price higher then lower boundary
+        if not self.current_stickerPrice:
+            current = self.get_current_price()
+        else:
+            current = self.current_stickerPrice
+        flag = (self.m_footPrint[-1][2] <= algoParas.PIVOT_PRICE_PERC) and (current> self.m_recordVCP[-1][3])
         #report support and pressure
         print(self.ticker + ' current price: ' + str(current))
         print(self.ticker + ' support price: ' + str(self.m_recordVCP[-1][3]))
@@ -632,101 +652,89 @@ class cookFinancials(YahooFinancials):
         correction = tmpcorrection.astype(float)
         return correction.max() >= 0.5
     #check the last contraction, is the demand dry
+
     def is_demand_dry(self):
-        if not(self.m_footPrint):
+        if not self.m_footPrint:
             self.get_footPrint()
-        startDate = self.m_footPrint[-1][0] 
+
+        # Get the date range from the last footprint entry
+        startDate = self.m_footPrint[-1][0]
         endDate = self.m_footPrint[-1][1]
         startDate_dt = dt.datetime.strptime(startDate, "%Y-%m-%d")
         endDate_dt = dt.datetime.strptime(endDate, "%Y-%m-%d")
-        if not(self.priceData):
+
+        # Load price data if not already loaded
+        if not self.priceData:
             date = dt.date.today()
-            self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
-        #don't need to pull data from remote, use local
+            self.priceData = self.get_historical_price_data(str(date - dt.timedelta(days=365)), str(date), 'daily')
+
+        # Fetch volumes for the specific period in the footprint
         priceDataStruct = self.priceData[self.ticker]['prices']
-        selectedPriceDataStruct = self.get_price_from_buffer_start_end(priceDataStruct, startDate_dt.date(), endDate_dt.date())
-        volume_ls = []
-        for item in selectedPriceDataStruct:
-            volume_ls.append(item['volume'])
-            
-        #do linear regression
-        x = range(len(volume_ls))
-        x = np.asarray(x)
-        y = volume_ls
-        slope, interY = np.polyfit(x, y, 1)
+        footprintVolume = self._extract_volume_for_period(priceDataStruct, startDate_dt.date(), endDate_dt.date())
+
+        # Calculate the volume trend using linear regression
+        slope, intercept = self._calculate_volume_trend(footprintVolume)
         
-        #is it dry?
-        #100 days mean
-        today = dt.date.today()
-        day_from = today - dt.timedelta(100)
-        selectedPriceDataStruct = self.get_price_from_buffer_start_end(priceDataStruct, day_from, today)
-        allVolume_ls = []
-        for item in selectedPriceDataStruct:
-            allVolume_ls.append(item['volume'])
-        meanAllVolume = np.sum(np.array(allVolume_ls))/len(allVolume_ls)
-        meanSelVolume = np.sum(np.array(volume_ls))/len(volume_ls)
-        flag = (slope<=0) and (meanSelVolume < 0.8*meanAllVolume) or (meanSelVolume < 0.4*meanAllVolume)
-        
-        return flag, startDate, endDate, volume_ls, slope, interY
+        #get past 3 days volume
+        recentData = priceDataStruct[-4:]
+        recentVolume = [item['volume'] for item in recentData]
+        slopeRecent, interceptRecent = self._calculate_volume_trend(recentVolume)
+
+        # Determine if demand is dry based on slope and volume comparison
+        isDry = (slope <= 0) or (slopeRecent <= 0)
+        return isDry, startDate, endDate, footprintVolume, slope, intercept
+
+    def _extract_volume_for_period(self, priceDataStruct, start_date, end_date):
+        """Extracts volume data for a specified period from price data."""
+        selected_data = self.get_price_from_buffer_start_end(priceDataStruct, start_date, end_date)
+        return [item['volume'] for item in selected_data]
+
+    def _calculate_volume_trend(self, volume_list):
+        """Performs linear regression to determine volume trend."""
+        x = np.arange(len(volume_list))
+        y = np.array(volume_list)
+        slope, intercept = np.polyfit(x, y, 1)
+        return slope, intercept
+
+    def _calculate_historical_average_volume(self, priceDataStruct, days):
+        """Calculates the average volume over the last 'days' period."""
+        end_date = dt.date.today()
+        start_date = end_date - dt.timedelta(days=days)
+        historical_data = self.get_price_from_buffer_start_end(priceDataStruct, start_date, end_date)
+        volume_list = [item['volume'] for item in historical_data]
+        return np.mean(volume_list) if volume_list else 0
     
-
-
-            
-            
-        
-    def combine_strategy(self):
-        if self.mv_strategy()==1 and self.vol_strategy()==1 and self.price_strategy()==1:
-            return self.ticker
-        else:
-            return -1
-        
-        
-    def get_3day_vol(self):
-        count = 0
-        date = dt.date.today()
-        vol = []
-        while count < 3:
-            print('request date: ',date)
-            data = self.get_historical_price_data(str(date),str(date + dt.timedelta(days=1)), 'daily')
-            if not(data[self.ticker]['prices']):
-                date = date - dt.timedelta(days=1)
-                continue
-            else:
-                print('response date: ', data[self.ticker]['prices'][0]['formatted_date'])
-                vol.append(data[self.ticker]['prices'][0]['volume'])
-                count = count + 1
-                date = date - dt.timedelta(days=1)
-        return vol, np.sum(vol)/3
     
     def combined_best_strategy(self):
         # Check moving average strategy
+        s = True
         if self.mv_strategy() != 1:
-            return False
+            s = s and False
         
         # Check volume strategy
         if self.vol_strategy() != 1:
-            return False
+            s = s and False
         
         # Check price strategy
         if self.price_strategy() != 1:
-            return False
+            s = s and False
         
         # Check if the stock is near a good pivot point
         isGoodPivot, currentPrice, supportPrice, resistancePrice = self.is_pivot_good()
         if not isGoodPivot:
-            return False
+            s = s and False
         
         # Check if recent correction is not too deep
         if self.is_correction_deep():
-            return False
+            s = s and False
         
         # Check if demand is drying up (selling pressure has decreased)
         isDemandDry, startDate, endDate, volume_ls, slope, intercept = self.is_demand_dry()
         if not isDemandDry:
-            return False
+            s = s and False
         
         # All criteria met, return True for a strong buy signal
-        return True
+        return s
 
 
 
@@ -795,7 +803,7 @@ class batch_process:
                 PE = x.get_PE()
                 price=x.get_suggest_price(cEPS, growth, years, rRate, PE, safty)
                 print(price)
-                stickerPrice = x.get_current_price()
+                stickerPrice = x.current_stickerPrice
                 decision = x.get_decision(price[1],stickerPrice)
                 print(decision)
                 y2pb = 0
@@ -813,7 +821,7 @@ class batch_process:
                     self.tickers[i]:{
                         "decision":decision,
                         "suggested price":price[1],
-                        "stock price":x.get_current_price(),                     
+                        "stock price":stickerPrice,                     
                         "Payback years": y2pb,
                         "Book Value": bv,
                         "ROIC": roic,

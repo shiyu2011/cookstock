@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 
 date_from = (dt.date.today() - dt.timedelta(days=100))
 date_to = (dt.date.today())
-x = cookFinancials('AAPL')
+x = cookFinancials('ALIT')
 
 print(x.get_ma(date_from, date_to))
 print(x.get_ma_ref(date_from, date_to))
@@ -71,6 +71,8 @@ ax[1].set_ylabel("volume (m)",color="green",fontsize=14)
 #ax[1].set_ylim([0, 100])
 
 print(x.get_highest_in5days(date_from))
+
+x.combined_best_strategy()
 
 counter, record = x.find_volatility_contraction_pattern(date_from)
 

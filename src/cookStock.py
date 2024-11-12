@@ -108,6 +108,11 @@ class cookFinancials(YahooFinancials):
             date_key = list(self.bshData[self.ticker][i].keys())[0]
             if not(self.bshData[self.ticker][i][date_key]):    
                 break
+            #check if the key is in the dictionary
+            if not(self.bshData[self.ticker][i][date_key].get('stockholdersEquity')):
+                #warning
+                print('stockholdersEquity is not in the dictionary')
+                break
             equity = self.bshData[self.ticker][i][date_key]['stockholdersEquity']
             if self.bshData[self.ticker][i][date_key].get('shortLongTermDebt') is None or not(self.bshData[self.ticker][i][date_key]['shortLongTermDebt']):
                 debt_short = 0
@@ -134,7 +139,12 @@ class cookFinancials(YahooFinancials):
             date_key = list(self.cfsh[self.ticker][i].keys())[0]
             if not(self.cfsh[self.ticker][i][date_key]):    
                 break
-            totalCash.append(self.cfsh[self.ticker][i][date_key]['totalCashFromOperatingActivities'])  
+            #check if the key is in the dictionary
+            if not(self.cfsh[self.ticker][i][date_key].get('operatingCashFlow')):
+                #warning
+                print('operatingCashFlow is not in the dictionary')
+                break
+            totalCash.append(self.cfsh[self.ticker][i][date_key]['operatingCashFlow'])  
         return totalCash
     
     def get_pricetoSales(self):

@@ -312,8 +312,8 @@ class cookFinancials(YahooFinancials):
         #print(last)
         if current - mid > 0 and mid -last > 0:
             return 1
-        else:
-            return -1
+        return -1
+    
     def mv_strategy(self):
         if not(self.priceData):
             date = dt.date.today()
@@ -323,11 +323,10 @@ class cookFinancials(YahooFinancials):
         price150 = self.get_ma_150(dt.date.today())
         price200 = self.get_ma_200(dt.date.today())
         #print(currentPrice, price50, price150, price200, self.get_30day_trend_ma200())
-        if currentPrice > price50 and currentPrice > price150 and currentPrice > \
-            price200 and price150 > price200 and price50 > price150 and price50 > price200 and self.get_30day_trend_ma200() == 1:
+        if currentPrice > price50 and currentPrice > price200 and self.get_30day_trend_ma200() == 1:
+            print("Moving average strategy met with current price above 50-day and 200-day moving averages and positive 30-day trend.")
             return 1
-        else:
-            return -1  
+        return -1  
         
     def get_vol(self, checkDays, avrgDays):
         date = dt.date.today()
@@ -348,16 +347,21 @@ class cookFinancials(YahooFinancials):
         return vol3day, np.sum(vol3day)/checkDays, vol50day, np.sum(vol50day)/avrgDays
     
     def vol_strategy(self):
-        v3,a3,v50,a50 = self.get_vol(3, 50)
-        #if a3>a50*2 and np.max(a3) > 1000000: #1m trade
-        #    return 1
-        #else:
-        #    return -1
+        # Fetch the 3-day and 50-day volume averages
+        vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 50)
+
+        # Check if 3-day average volume is at least 1.5x the 50-day average volume
+        if avgVol3day >= 1.5 * avgVol50day:
+            print("Volume spike detected with 3-day average volume at least 1.5x 50-day average volume.")
+            return 1  # Volume condition met based on recent surge
         
-        if a50 > 1000000*0.8: #1m trade
-            return 1
-        else:
-            return -1
+        # # Check if 50-day average volume is above a minimum threshold (e.g., 800,000 shares)
+        # if avgVol50day >= 800000:
+        #     print("Consistent trading interest with 50-day average volume above 800,000 shares.")
+        #     return 1  # Volume condition met based on sustained interest
+
+        # If neither condition is met, the strategy fails
+        return -1
         
     def price_strategy(self):
         closePrice = []
@@ -372,11 +376,14 @@ class cookFinancials(YahooFinancials):
         lowestPrice = np.min(closePrice)
         currentPrice = self.priceData[self.ticker]['prices'][-1]['close']
         highestPrice = np.max(closePrice)
-        #print(currentPrice, lowestPrice, highestPrice)
-        if currentPrice > lowestPrice*(1+0.3) and currentPrice > 0.75*highestPrice:
-            return 1
-        else:
-            return -1
+    # Calculate range position as a percentage
+        range_position = (currentPrice - lowestPrice) / (highestPrice - lowestPrice)
+
+        # Conditions: within the upper third but below 90% of the 1-year high
+        if 0.66 <= range_position < 0.9:
+            print("Price strategy met with current price within the upper third of the 1-year range but below 90% of the 1-year high.")
+            return 1  # Passes price positioning criteria
+        return -1  # Fails price strategy
         
     def get_price_from_buffer(self, priceDataStruct, startDate, frame):
         selectedPriceDataStruct = []
@@ -691,7 +698,35 @@ class cookFinancials(YahooFinancials):
                 date = date - dt.timedelta(days=1)
         return vol, np.sum(vol)/3
     
-
+    def combined_best_strategy(self):
+        # Check moving average strategy
+        if self.mv_strategy() != 1:
+            return False
+        
+        # Check volume strategy
+        if self.vol_strategy() != 1:
+            return False
+        
+        # Check price strategy
+        if self.price_strategy() != 1:
+            return False
+        
+        # Check if the stock is near a good pivot point
+        isGoodPivot, currentPrice, supportPrice, resistancePrice = self.is_pivot_good()
+        if not isGoodPivot:
+            return False
+        
+        # Check if recent correction is not too deep
+        if self.is_correction_deep():
+            return False
+        
+        # Check if demand is drying up (selling pressure has decreased)
+        isDemandDry, startDate, endDate, volume_ls, slope, intercept = self.is_demand_dry()
+        if not isDemandDry:
+            return False
+        
+        # All criteria met, return True for a strong buy signal
+        return True
 
 
 

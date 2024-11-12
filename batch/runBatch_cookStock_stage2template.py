@@ -48,7 +48,11 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Tech_superStocks_10_10_2021.json')
+#get name of the file from the sector and date automatically
+current_date = dt.date.today().strftime("%m_%d_%Y")
+file = SectorConstants.TECH + '_superStocks_' + current_date + '.json'
+
+y = batch_process(selected, file)
 y.batch_strategy()
 
 ###########bio
@@ -60,7 +64,8 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Heal_superStocks_10_10_2021.json')
+file = SectorConstants.HEALTH_CARE + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
 
@@ -73,10 +78,11 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Basic_superStocks_10_10_2021.json')
+file = SectorConstants.BASICS + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
-###########Basics
+###########services
 filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.SERVICES)
 
 selected = [] 
@@ -85,12 +91,13 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Service_superStocks_10_10_2021.json')
+file = SectorConstants.SERVICES + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
 
 
-###########Basics
+###########FINANCE
 filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.FINANCE)
 
 selected = [] 
@@ -99,12 +106,13 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Finance_superStocks_10_10_2021.json')
+file = SectorConstants.FINANCE + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
 
 
-###########Basics
+###########ENERGY
 filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.ENERGY)
 
 selected = [] 
@@ -113,11 +121,12 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'Energy_superStocks_10_10_2021.json')
+file = SectorConstants.ENERGY + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
 
-###########Basics
+###########NON_DURABLE_GOODS
 filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.NON_DURABLE_GOODS)
 
 selected = [] 
@@ -126,10 +135,11 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'nonDurableGoods_superStocks_10_10_2021.json')
+file = SectorConstants.NON_DURABLE_GOODS + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()
 
-###########Basics
+###########DURABLE_GOODS
 filtered_by_sector = get_tickers_filtered(sectors=SectorConstants.DURABLE_GOODS)
 
 selected = [] 
@@ -138,5 +148,6 @@ for i in filtered_by_sector:
         selected.append(i) 
         
 #filtered_by_sector = ['VNRX', 'INFU']
-y = batch_process(selected, 'DurableGoods_superStocks_10_10_2021.json')
+file = SectorConstants.DURABLE_GOODS + '_superStocks_' + current_date + '.json'
+y = batch_process(selected, file)
 y.batch_strategy()

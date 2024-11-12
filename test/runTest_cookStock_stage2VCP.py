@@ -7,18 +7,37 @@ Created on Sat Jan  9 00:21:01 2021
 """
 from importlib import reload # python 2.7 does not require this
 import sys
-sys.path.insert(0, '../src/')
+import os
+#set cookstock path
+def find_path():
+        home_dir = os.path.expanduser("~")  # Get the home directory
+        for root, dirs, files in os.walk(home_dir):  # Walk through the directory structure
+            if 'cookstock' in dirs:
+                return os.path.join(root, 'cookstock')
+        return None  # Return None if the folder was not found
+
+#set cookstock path
+basePath = os.path.join(find_path())
+#src path
+srcPath = os.path.join(basePath, 'src')
+
+#how to get the path right
+#where I am running the code from
+print("Adding to sys.path:", srcPath)
+sys.path.insert(0, srcPath)
 import cookStock
 reload(cookStock)
 from cookStock import *
-import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.use('Agg')
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
+
+
 
 
 date_from = (dt.date.today() - dt.timedelta(days=100))
 date_to = (dt.date.today())
-x = cookFinancials('BTU')
+x = cookFinancials('AAPL')
 
 print(x.get_ma(date_from, date_to))
 print(x.get_ma_ref(date_from, date_to))
@@ -32,7 +51,6 @@ for i in range(tmpLen):
     date.append(s[i]['formatted_date'])
     price.append(s[i]['close'])
     volume.append(s[i]['volume'])
-%matplotlib qt
 
 
 
@@ -52,7 +70,7 @@ ax[1].bar(date, np.asarray(volume)/10**6 ,color="green")
 ax[1].set_ylabel("volume (m)",color="green",fontsize=14)
 #ax[1].set_ylim([0, 100])
 
-display(x.get_highest_in5days(date_from))
+print(x.get_highest_in5days(date_from))
 
 counter, record = x.find_volatility_contraction_pattern(date_from)
 
@@ -70,14 +88,14 @@ if counter > 0:
     #             dpi=100,
     #             bbox_inches='tight')
     print('footprint:')
-    display(x.get_footPrint())
+    print(x.get_footPrint())
     print('is a good pivot?')
-    display(x.is_pivot_good())
+    print(x.is_pivot_good())
     print('is a deep correction?')
-    display(x.is_correction_deep())
+    print(x.is_correction_deep())
     print('is demand dried?')
     flag, startDate, endDate, volume_ls, slope, interY = x.is_demand_dry()
-    display(flag)
+    print(flag)
     for ind, item in enumerate(date):
         if item == startDate:
             print(ind)
@@ -89,7 +107,7 @@ if counter > 0:
     x_axis = np.array(x_axis)
     y = slope*x_axis-slope*ind + volume_ls[0]
     ax[1].plot(np.asarray(date)[x_axis], y/10**6, color="red",linewidth=4)
-    #fig.show()
+    plt.show()
 
     
 

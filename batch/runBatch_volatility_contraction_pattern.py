@@ -27,21 +27,27 @@ reload(cookStock)
 from cookStock import *
 import matplotlib.pyplot as plt
 
-generatedDate = '10_10_2021'
-generatedInd = 'Energy'
-name = generatedInd + '_superStocks_' + generatedDate
-with open(os.path.join('../result', name+'.json')) as f:
+import get_tickers
+reload(get_tickers)
+from get_tickers import *
+
+sessionName = SectorConstants.TECH
+current_date = dt.date.today().strftime("%m_%d_%Y")
+
+
+file = sessionName + '_superStocks_' + current_date + '.json'
+with open(os.path.join(basePath, 'results', file)) as f:
     data = js.load(f)
 print(data)
 tickers = data['data'][0]
 
 
-jsfile = os.path.join('../result', name+'_vcp_study.json')
+jsfile = os.path.join(basePath, 'results', sessionName +'_vcp_study.json')
 with open(jsfile, "w") as f:
     w = {"data":[]}
     js.dump(w, f, indent = 4)
     
-figFolder = os.path.join('../result', 'picture_' + generatedDate, generatedInd)
+figFolder = os.path.join(basePath, 'results', 'picture_' + current_date, sessionName)
 if not os.path.exists(figFolder):
     os.makedirs(figFolder)
                 
@@ -83,7 +89,7 @@ for ticker in tickers:
         ax[1].set_ylabel("volume (m)",color="green",fontsize=14)
         #ax[1].set_ylim([0, 100])
         
-        display(x.get_highest_in5days(date_from))
+        print(x.get_highest_in5days(date_from))
         
         counter, record = x.find_volatility_contraction_pattern(date_from)
         
@@ -102,16 +108,16 @@ for ticker in tickers:
             #             bbox_inches='tight')
             print('footprint:')
             footprint = x.get_footPrint()
-            display(footprint)
+            print(footprint)
             print('is a good pivot?')
             isGoodPivot, currentPrice, supportPrice, pressurePrice = x.is_pivot_good()
-            display(isGoodPivot)
+            print(isGoodPivot)
             print('is a deep correction?')
             isDeepCor = x.is_correction_deep()
-            display(isDeepCor)
+            print(isDeepCor)
             print('is demand dried?')
             isDemandDry, startDate, endDate, volume_ls, slope, interY = x.is_demand_dry()
-            display(isDemandDry)
+            print(isDemandDry)
             
             s = {ticker:{'current price':str(currentPrice), 'support price':str(supportPrice), 'pressure price':str(pressurePrice), \
                          'is_good_pivot':str(isGoodPivot), 'is_deep_correction':str(isDeepCor), 'is_demand_dry': str(isDemandDry)}}    

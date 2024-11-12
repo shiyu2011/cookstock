@@ -37,5 +37,5 @@ for i in filtered_by_sector:
     if i not in selected: 
         selected.append(i) 
         
-y = batch_process(selected, 'Tech_basic_3_6_2022.json')
+y = batch_process(selected, 'Tech_basic_11_11_2024.json')
 y.batch_financial()

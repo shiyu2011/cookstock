@@ -689,7 +689,7 @@ class batch_process:
     def __init__(self, tickers, section):
         self.tickers = tickers
         basePath = find_path()
-        self.jsfile = os.path.join(basePath, 'cookstock', 'results', section)
+        self.jsfile = os.path.join(basePath, 'results', section)
         with open(self.jsfile, "w") as f:
             s = {"data":[]}
             js.dump(s, f, indent = 4)

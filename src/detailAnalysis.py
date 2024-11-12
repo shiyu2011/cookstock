@@ -17,20 +17,37 @@ import re
 import time
 
 from importlib import reload # python 2.7 does not require this
+
+#set cookstock path
+import sys
+def find_path():
+        home_dir = os.path.expanduser("~")  # Get the home directory
+        for root, dirs, files in os.walk(home_dir):  # Walk through the directory structure
+            if 'cookstock' in dirs:
+                return os.path.join(root, 'cookstock')
+        return None  # Return None if the folder was not found
+
+#set cookstock path
+basePath = os.path.join(find_path())
+#src path
+srcPath = os.path.join(basePath, 'src')
+print("Adding to sys.path:", srcPath)
+sys.path.insert(0, srcPath)
+
 import cookStock
 reload(cookStock)
 from cookStock import *
 
 ###load selected stocks
 
-name = 'Heal_superStocks_2_5_2021'
-with open(os.path.join('result', name+'.json')) as f:
+name = 'Technology_superStocks_11_11_2024'
+with open(os.path.join(basePath, 'results', name + '.json')) as f:
     data = js.load(f)
 print(data)
 tickers = data['data'][0]
 
 
-jsfile = os.path.join('result', name+'_detailed_study.json')
+jsfile = os.path.join(basePath, 'results', name + '_detailed_study.json')
 with open(jsfile, "w") as f:
     w = {"data":[]}
     js.dump(w, f, indent = 4)
@@ -47,7 +64,7 @@ s= {}
 for ticker in tickers:
     try:
         s["ticker"] = ticker
-        display(ticker)
+        print(ticker)
         x = cookFinancials(ticker)
         bv = x.get_BV(20)
         bv.insert(0, x.get_book_value())
@@ -74,7 +91,7 @@ for ticker in tickers:
         
         
         #https://finance.yahoo.com/quote/DDD/profile?p=DDD
-        url = 'https://finance.yahoo.com/quote/'+ticker+'/profile?p='+ticker
+        url = 'https://finance.yahoo.com/quote/'+ticker+'/profile/?p='+ticker
         data = urllib2.urlopen(url)      
         soup = BeautifulSoup(data, features = 'lxml')
         summarys = soup.find('p',class_={'Mt(15px) Lh(1.6)'})

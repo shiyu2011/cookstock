@@ -6,8 +6,23 @@ Created on Sat Jan  9 00:20:22 2021
 @author: sxu
 """
 from importlib import reload # python 2.7 does not require this
+import os
 import sys
-sys.path.insert(0, '/Users/sxu/deeppath/stock/cookstock/src/')
+#set cookstock path
+def find_path():
+        home_dir = os.path.expanduser("~")  # Get the home directory
+        for root, dirs, files in os.walk(home_dir):  # Walk through the directory structure
+            if 'cookstock' in dirs:
+                return os.path.join(root, 'cookstock')
+        return None  # Return None if the folder was not found
+
+#set cookstock path
+basePath = os.path.join(find_path())
+#src path
+srcPath = os.path.join(basePath, 'src')
+print("Adding to sys.path:", srcPath)
+sys.path.insert(0, srcPath)
+
 import cookStock
 reload(cookStock)
 from cookStock import *

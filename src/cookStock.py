@@ -5,12 +5,24 @@ Created on Sat Jan  9 00:10:18 2021
 
 @author: sxu
 """
-from yahoofinancials import YahooFinancials
 import numpy as np
 import json as js
 import datetime as dt
 import os.path
 from time import sleep
+import sys
+
+def find_path():
+    home_dir = os.path.expanduser("~")  # Get the home directory
+    for root, dirs, files in os.walk(home_dir):  # Walk through the directory structure
+        if 'cookstock' in dirs:
+            return os.path.join(root, 'cookstock')
+    return None  # Return None if the folder was not found
+basePath = find_path()
+yhPath = os.path.join(basePath, 'yahoofinancials')
+sys.path.insert(0, yhPath)
+from yahoofinancials import YahooFinancials
+
 
 class cookFinancials(YahooFinancials):
     ticker = ''
@@ -25,6 +37,7 @@ class cookFinancials(YahooFinancials):
     m_recordVCP = []
     m_footPrint = []
     def __init__(self, ticker):
+        super().__init__(ticker)  # Calls the parent class's initializer
         if isinstance(ticker, str):
             self.ticker = ticker.upper()
         else:
@@ -62,7 +75,12 @@ class cookFinancials(YahooFinancials):
             date_key = list(self.bshData[self.ticker][i].keys())[0]
             if not(self.bshData[self.ticker][i][date_key]):    
                 break
-            bv.append(self.bshData[self.ticker][i][date_key]['totalStockholderEquity'])
+            #check if the key is in the dictionary
+            if not(self.bshData[self.ticker][i][date_key].get('stockholdersEquity')):
+                #warning
+                print('stockholdersEquity is not in the dictionary')
+                break
+            bv.append(self.bshData[self.ticker][i][date_key]['stockholdersEquity'])
         return bv
     
     def get_BV_quarter(self, numofQuarter=20):
@@ -73,7 +91,11 @@ class cookFinancials(YahooFinancials):
             date_key = list(self.bshData_quarter[self.ticker][i].keys())[0]
             if not(self.bshData_quarter[self.ticker][i][date_key]):    
                 break
-            bv.append(self.bshData_quarter[self.ticker][i][date_key]['totalStockholderEquity'])
+            if not(self.bshData_quarter[self.ticker][i][date_key].get('stockholdersEquity')):
+                #warning
+                print('stockholdersEquity is not in the dictionary')
+                break
+            bv.append(self.bshData_quarter[self.ticker][i][date_key]['stockholdersEquity'])
         return bv   
     
     def get_ROIC(self, numofYears=20):
@@ -86,7 +108,7 @@ class cookFinancials(YahooFinancials):
             date_key = list(self.bshData[self.ticker][i].keys())[0]
             if not(self.bshData[self.ticker][i][date_key]):    
                 break
-            equity = self.bshData[self.ticker][i][date_key]['totalStockholderEquity']
+            equity = self.bshData[self.ticker][i][date_key]['stockholdersEquity']
             if self.bshData[self.ticker][i][date_key].get('shortLongTermDebt') is None or not(self.bshData[self.ticker][i][date_key]['shortLongTermDebt']):
                 debt_short = 0
             else:
@@ -138,11 +160,15 @@ class cookFinancials(YahooFinancials):
     
     #use mean of each year    
     def get_BV_GR_median(self, bv):
+        # Filter out None values from bv
+        bv_filtered = [value for value in bv if value is not None]
+        
         gr = []
-        for v in range(np.size(bv)-1):
-            gr.append((bv[v]-bv[v+1])/abs(bv[v+1]))
-        #print(gr)
-        return np.size(bv)-1, np.median(gr)
+        for v in range(np.size(bv_filtered) - 1):
+            # Calculate growth rate between consecutive years
+            gr.append((bv_filtered[v] - bv_filtered[v + 1]) / abs(bv_filtered[v + 1]))
+
+        return np.size(bv_filtered) - 1, np.median(gr) if gr else None
     
     def get_GR_median(self, bv):
         gr = []
@@ -586,7 +612,7 @@ class cookFinancials(YahooFinancials):
             self.get_footPrint()
         tmp = np.asarray(self.m_footPrint)
         tmpcorrection = tmp[:,2]
-        correction = tmpcorrection.astype(np.float)
+        correction = tmpcorrection.astype(float)
         return correction.max() >= 0.5
     #check the last contraction, is the demand dry
     def is_demand_dry(self):
@@ -654,13 +680,16 @@ class cookFinancials(YahooFinancials):
                 count = count + 1
                 date = date - dt.timedelta(days=1)
         return vol, np.sum(vol)/3
+    
+
 
 
 
 class batch_process:
     def __init__(self, tickers, section):
         self.tickers = tickers
-        self.jsfile = os.path.join('result', section)
+        basePath = find_path()
+        self.jsfile = os.path.join(basePath, 'cookstock', 'results', section)
         with open(self.jsfile, "w") as f:
             s = {"data":[]}
             js.dump(s, f, indent = 4)

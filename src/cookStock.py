@@ -54,6 +54,8 @@ class cookFinancials(YahooFinancials):
         else:
             self.ticker = [t.upper() for t in ticker]
         self._cache = {}
+        date = dt.date.today()
+        self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
         self.current_stickerPrice = self.get_current_price()
         
     def get_balanceSheetHistory(self):
@@ -366,8 +368,8 @@ class cookFinancials(YahooFinancials):
         vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 200)
 
         # Check if 3-day average volume is at least 1.5x the 50-day average volume
-        if avgVol3day >= 1.25 * avgVol50day:
-            print("Volume spike detected with 3-day average volume at least 1.5x 50-day average volume.")
+        if avgVol3day >= 1.3 * avgVol50day:
+            print("Volume spike detected with 3-day average volume at least 1.3x 200-day average volume.")
             return 1  # Volume condition met based on recent surge
         
         # # Check if 50-day average volume is above a minimum threshold (e.g., 800,000 shares)
@@ -675,7 +677,7 @@ class cookFinancials(YahooFinancials):
         # Calculate the volume trend using linear regression
         slope, intercept = self._calculate_volume_trend(footprintVolume)
         
-        #get past 3 days volume
+        #get past 4 days volume
         recentData = priceDataStruct[-4:]
         recentVolume = [item['volume'] for item in recentData]
         slopeRecent, interceptRecent = self._calculate_volume_trend(recentVolume)

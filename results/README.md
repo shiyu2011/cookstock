@@ -13,8 +13,9 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 27.57
-- **Current Time**: 11/14/2024 10:53:33
+- **Current Price**: 27.91
+- **Price Change**: 2.3844%
+- **Current Time**: 11/14/2024 11:28:05
 ![AAOI Chart](./2024-11-13/AAOI.jpg)
 
 #### AIRG
@@ -25,8 +26,8 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 9.66
-- **Current Time**: 11/14/2024 10:53:41
-- **Current Price is 3% higher than in data**
+- **Price Change**: 3.3155%
+- **Current Time**: 11/14/2024 11:28:14
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![AIRG Chart](./2024-11-13/AIRG.jpg)
@@ -38,8 +39,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 37.0156
-- **Current Time**: 11/14/2024 10:53:49
+- **Current Price**: 37.21
+- **Price Change**: -1.5348%
+- **Current Time**: 11/14/2024 11:28:22
 ![ALKT Chart](./2024-11-13/ALKT.jpg)
 
 #### ALTR
@@ -49,8 +51,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 103.8147
-- **Current Time**: 11/14/2024 10:53:58
+- **Current Price**: 103.85
+- **Price Change**: 0.0289%
+- **Current Time**: 11/14/2024 11:28:30
 ![ALTR Chart](./2024-11-13/ALTR.jpg)
 
 #### AVPT
@@ -61,7 +64,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 15.895
-- **Current Time**: 11/14/2024 10:54:05
+- **Price Change**: -0.8422%
+- **Current Time**: 11/14/2024 11:28:38
 ![AVPT Chart](./2024-11-13/AVPT.jpg)
 
 #### BCOV
@@ -71,8 +75,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 2.96
-- **Current Time**: 11/14/2024 10:54:13
+- **Current Price**: 3.03
+- **Price Change**: 1.6779%
+- **Current Time**: 11/14/2024 11:28:45
 ![BCOV Chart](./2024-11-13/BCOV.jpg)
 
 #### CARG
@@ -82,8 +87,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 35.88
-- **Current Time**: 11/14/2024 10:54:21
+- **Current Price**: 35.93
+- **Price Change**: -1.7501%
+- **Current Time**: 11/14/2024 11:28:54
 ![CARG Chart](./2024-11-13/CARG.jpg)
 
 #### CCLDO
@@ -94,7 +100,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 17.6709
-- **Current Time**: 11/14/2024 10:54:30
+- **Price Change**: 0.6745%
+- **Current Time**: 11/14/2024 11:29:03
 ![CCLDO Chart](./2024-11-13/CCLDO.jpg)
 
 #### CCLDP
@@ -105,7 +112,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 16.99
-- **Current Time**: 11/14/2024 10:54:36
+- **Price Change**: -2.1313%
+- **Current Time**: 11/14/2024 11:29:10
 ![CCLDP Chart](./2024-11-13/CCLDP.jpg)
 
 #### CLMB
@@ -116,7 +124,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 120.6679
-- **Current Time**: 11/14/2024 10:54:46
+- **Price Change**: -0.7420%
+- **Current Time**: 11/14/2024 11:29:17
 ![CLMB Chart](./2024-11-13/CLMB.jpg)
 
 #### CYBR
@@ -126,9 +135,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 307.07
-- **Current Time**: 11/14/2024 10:54:53
-- **Current Price is 3% higher than in data**
+- **Current Price**: 305.67
+- **Price Change**: 4.8215%
+- **Current Time**: 11/14/2024 11:29:25
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![CYBR Chart](./2024-11-13/CYBR.jpg)
@@ -140,9 +149,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 2.925
-- **Current Time**: 11/14/2024 10:55:02
-- **Current Price is 3% higher than in data**
+- **Current Price**: 2.96
+- **Price Change**: 5.3381%
+- **Current Time**: 11/14/2024 11:29:34
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![EXFY Chart](./2024-11-13/EXFY.jpg)
@@ -154,8 +163,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 94.58
-- **Current Time**: 11/14/2024 10:55:09
+- **Current Price**: 94.85
+- **Price Change**: -3.0956%
+- **Current Time**: 11/14/2024 11:29:41
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![FTNT Chart](./2024-11-13/FTNT.jpg)
@@ -167,8 +177,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 1.8045
-- **Current Time**: 11/14/2024 10:55:17
+- **Current Price**: 1.8093
+- **Price Change**: -0.5879%
+- **Current Time**: 11/14/2024 11:29:50
 ![GAN Chart](./2024-11-13/GAN.jpg)
 
 #### IBEX
@@ -179,7 +190,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 19.45
-- **Current Time**: 11/14/2024 10:55:25
+- **Price Change**: -2.4574%
+- **Current Time**: 11/14/2024 11:29:59
 ![IBEX Chart](./2024-11-13/IBEX.jpg)
 
 #### INOD
@@ -189,8 +201,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 38.2
-- **Current Time**: 11/14/2024 10:55:34
+- **Current Price**: 38.525
+- **Price Change**: -2.0468%
+- **Current Time**: 11/14/2024 11:30:06
 ![INOD Chart](./2024-11-13/INOD.jpg)
 
 #### IONQ
@@ -200,8 +213,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 26.072
-- **Current Time**: 11/14/2024 10:55:41
+- **Current Price**: 26.3092
+- **Price Change**: -1.6846%
+- **Current Time**: 11/14/2024 11:30:15
 ![IONQ Chart](./2024-11-13/IONQ.jpg)
 
 #### ISSC
@@ -211,8 +225,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 7.65
-- **Current Time**: 11/14/2024 10:55:49
+- **Current Price**: 7.66
+- **Price Change**: -0.9056%
+- **Current Time**: 11/14/2024 11:30:23
 ![ISSC Chart](./2024-11-13/ISSC.jpg)
 
 #### KD
@@ -222,8 +237,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.4934
-- **Current Time**: 11/14/2024 10:55:57
+- **Current Price**: 28.445
+- **Price Change**: -0.8885%
+- **Current Time**: 11/14/2024 11:30:29
 ![KD Chart](./2024-11-13/KD.jpg)
 
 #### KLTR
@@ -233,10 +249,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 1.9801
-- **Current Time**: 11/14/2024 10:56:04
-- **Current Price is 3% lower than in data**
-this is a bust!!!!!!!!
+- **Current Price**: 2.0
+- **Price Change**: -2.9126%
+- **Current Time**: 11/14/2024 11:30:37
 ![KLTR Chart](./2024-11-13/KLTR.jpg)
 
 #### KVYO
@@ -246,8 +261,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 36.845
-- **Current Time**: 11/14/2024 10:56:13
+- **Current Price**: 37.01
+- **Price Change**: 0.9272%
+- **Current Time**: 11/14/2024 11:30:45
 ![KVYO Chart](./2024-11-13/KVYO.jpg)
 
 #### MGNI
@@ -257,8 +273,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 16.54
-- **Current Time**: 11/14/2024 10:56:21
+- **Current Price**: 16.69
+- **Price Change**: -0.6548%
+- **Current Time**: 11/14/2024 11:30:54
 ![MGNI Chart](./2024-11-13/MGNI.jpg)
 
 #### MTLS
@@ -268,8 +285,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 7.175
-- **Current Time**: 11/14/2024 10:56:28
+- **Current Price**: 7.21
+- **Price Change**: -1.7711%
+- **Current Time**: 11/14/2024 11:31:01
 ![MTLS Chart](./2024-11-13/MTLS.jpg)
 
 #### NYAX
@@ -279,8 +297,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.26
-- **Current Time**: 11/14/2024 10:56:38
+- **Current Price**: 28.6367
+- **Price Change**: 2.2739%
+- **Current Time**: 11/14/2024 11:31:11
 ![NYAX Chart](./2024-11-13/NYAX.jpg)
 
 #### OS
@@ -290,8 +309,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 33.005
-- **Current Time**: 11/14/2024 10:56:45
+- **Current Price**: 32.98
+- **Price Change**: -4.2671%
+- **Current Time**: 11/14/2024 11:31:17
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![OS Chart](./2024-11-13/OS.jpg)
@@ -303,8 +323,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 59.4
-- **Current Time**: 11/14/2024 10:56:53
+- **Current Price**: 59.8
+- **Price Change**: -1.4827%
+- **Current Time**: 11/14/2024 11:31:26
 ![PLTR Chart](./2024-11-13/PLTR.jpg)
 
 #### QUBT
@@ -314,9 +335,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 4.3506
-- **Current Time**: 11/14/2024 10:57:02
-- **Current Price is 3% higher than in data**
+- **Current Price**: 4.07
+- **Price Change**: 53.0075%
+- **Current Time**: 11/14/2024 11:31:33
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![QUBT Chart](./2024-11-13/QUBT.jpg)
@@ -328,8 +349,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 53.0025
-- **Current Time**: 11/14/2024 10:57:10
+- **Current Price**: 52.98
+- **Price Change**: -0.3011%
+- **Current Time**: 11/14/2024 11:31:42
 ![RBLX Chart](./2024-11-13/RBLX.jpg)
 
 #### RDCM
@@ -339,8 +361,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 11.01
-- **Current Time**: 11/14/2024 10:57:17
+- **Current Price**: 11.05
+- **Price Change**: -7.8399%
+- **Current Time**: 11/14/2024 11:31:49
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![RDCM Chart](./2024-11-13/RDCM.jpg)
@@ -352,8 +375,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 33.34
-- **Current Time**: 11/14/2024 10:57:25
+- **Current Price**: 33.37
+- **Price Change**: -3.0506%
+- **Current Time**: 11/14/2024 11:31:58
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![RDVT Chart](./2024-11-13/RDVT.jpg)
@@ -365,8 +389,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 37.465
-- **Current Time**: 11/14/2024 10:57:33
+- **Current Price**: 37.525
+- **Price Change**: -1.0938%
+- **Current Time**: 11/14/2024 11:32:06
 ![RNG Chart](./2024-11-13/RNG.jpg)
 
 #### SCKT
@@ -377,7 +402,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 1.35
-- **Current Time**: 11/14/2024 10:57:42
+- **Price Change**: -2.8777%
+- **Current Time**: 11/14/2024 11:32:15
 ![SCKT Chart](./2024-11-13/SCKT.jpg)
 
 #### SHOP
@@ -387,8 +413,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 110.06
-- **Current Time**: 11/14/2024 10:57:49
+- **Current Price**: 110.5
+- **Price Change**: -3.9882%
+- **Current Time**: 11/14/2024 11:32:21
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![SHOP Chart](./2024-11-13/SHOP.jpg)
@@ -400,8 +427,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 17.2083
-- **Current Time**: 11/14/2024 10:57:56
+- **Current Price**: 17.34
+- **Price Change**: 0.9901%
+- **Current Time**: 11/14/2024 11:32:30
 ![SRAD Chart](./2024-11-13/SRAD.jpg)
 
 #### SWI
@@ -411,8 +439,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 13.5
-- **Current Time**: 11/14/2024 10:58:06
+- **Current Price**: 13.515
+- **Price Change**: -0.9890%
+- **Current Time**: 11/14/2024 11:32:38
 ![SWI Chart](./2024-11-13/SWI.jpg)
 
 #### TEM
@@ -422,8 +451,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 58.8
-- **Current Time**: 11/14/2024 10:58:13
+- **Current Price**: 57.8792
+- **Price Change**: -14.9835%
+- **Current Time**: 11/14/2024 11:32:46
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![TEM Chart](./2024-11-13/TEM.jpg)
@@ -435,8 +465,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 40.22
-- **Current Time**: 11/14/2024 10:58:21
+- **Current Price**: 40.4
+- **Price Change**: 1.2024%
+- **Current Time**: 11/14/2024 11:32:54
 ![TOST Chart](./2024-11-13/TOST.jpg)
 
 #### TRT
@@ -446,8 +477,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 6.75
-- **Current Time**: 11/14/2024 10:58:30
+- **Current Price**: 6.63
+- **Price Change**: -2.0419%
+- **Current Time**: 11/14/2024 11:33:01
 ![TRT Chart](./2024-11-13/TRT.jpg)
 
 #### TSEM
@@ -457,8 +489,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 46.03
-- **Current Time**: 11/14/2024 10:58:38
+- **Current Price**: 46.16
+- **Price Change**: -4.6675%
+- **Current Time**: 11/14/2024 11:33:10
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![TSEM Chart](./2024-11-13/TSEM.jpg)
@@ -470,8 +503,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 49.565
-- **Current Time**: 11/14/2024 10:58:45
+- **Current Price**: 49.51
+- **Price Change**: -2.1155%
+- **Current Time**: 11/14/2024 11:33:17
 ![VERX Chart](./2024-11-13/VERX.jpg)
 
 #### VICR
@@ -481,8 +515,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 54.02
-- **Current Time**: 11/14/2024 10:58:55
+- **Current Price**: 53.92
+- **Price Change**: -5.5195%
+- **Current Time**: 11/14/2024 11:33:26
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![VICR Chart](./2024-11-13/VICR.jpg)
@@ -494,8 +529,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 73.71
-- **Current Time**: 11/14/2024 10:59:02
+- **Current Price**: 73.425
+- **Price Change**: -6.4411%
+- **Current Time**: 11/14/2024 11:33:34
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![WGS Chart](./2024-11-13/WGS.jpg)
@@ -508,7 +544,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 6.795
-- **Current Time**: 11/14/2024 10:59:10
+- **Price Change**: -1.0917%
+- **Current Time**: 11/14/2024 11:33:42
 ![WIT Chart](./2024-11-13/WIT.jpg)
 
 #### XNET
@@ -518,8 +555,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 1.9591
-- **Current Time**: 11/14/2024 10:59:18
+- **Current Price**: 1.99
+- **Price Change**: -5.6872%
+- **Current Time**: 11/14/2024 11:33:50
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![XNET Chart](./2024-11-13/XNET.jpg)
@@ -532,7 +570,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 9.9
-- **Current Time**: 11/14/2024 10:59:26
+- **Price Change**: 0.0000%
+- **Current Time**: 11/14/2024 11:33:59
 ![ZUO Chart](./2024-11-13/ZUO.jpg)
 
 #### AGIO
@@ -542,8 +581,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 56.12
-- **Current Time**: 11/14/2024 10:59:35
+- **Current Price**: 56.36
+- **Price Change**: -3.8225%
+- **Current Time**: 11/14/2024 11:34:06
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![AGIO Chart](./2024-11-13/AGIO.jpg)
@@ -555,8 +595,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 7.14
-- **Current Time**: 11/14/2024 10:59:41
+- **Current Price**: 7.115
+- **Price Change**: -3.9811%
+- **Current Time**: 11/14/2024 11:34:13
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![AIRS Chart](./2024-11-13/AIRS.jpg)
@@ -568,8 +609,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 27.08
-- **Current Time**: 11/14/2024 10:59:50
+- **Current Price**: 27.11
+- **Price Change**: -0.3675%
+- **Current Time**: 11/14/2024 11:34:22
 ![AORT Chart](./2024-11-13/AORT.jpg)
 
 #### ATYR
@@ -579,8 +621,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.2
-- **Current Time**: 11/14/2024 10:59:58
+- **Current Price**: 3.19
+- **Price Change**: -9.3750%
+- **Current Time**: 11/14/2024 11:34:29
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![ATYR Chart](./2024-11-13/ATYR.jpg)
@@ -592,8 +635,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 5.59
-- **Current Time**: 11/14/2024 11:00:06
+- **Current Price**: 5.6
+- **Price Change**: -2.4390%
+- **Current Time**: 11/14/2024 11:34:38
 ![AVAH Chart](./2024-11-13/AVAH.jpg)
 
 #### BLTE
@@ -603,11 +647,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 85.195
-- **Current Time**: 11/14/2024 11:00:13
-- **Current Price is 3% higher than in data**
-- **Current Price is 3% higher than in data**
-this is a boom!!!!!!!!!
+- **Current Price**: 84.25
+- **Price Change**: 2.4565%
+- **Current Time**: 11/14/2024 11:34:46
 ![BLTE Chart](./2024-11-13/BLTE.jpg)
 
 #### BNTX
@@ -617,8 +659,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 110.875
-- **Current Time**: 11/14/2024 11:00:22
+- **Current Price**: 110.54
+- **Price Change**: -0.8432%
+- **Current Time**: 11/14/2024 11:34:54
 ![BNTX Chart](./2024-11-13/BNTX.jpg)
 
 #### CAH
@@ -628,8 +671,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 123.1
-- **Current Time**: 11/14/2024 11:00:30
+- **Current Price**: 122.94
+- **Price Change**: -1.9070%
+- **Current Time**: 11/14/2024 11:35:03
 ![CAH Chart](./2024-11-13/CAH.jpg)
 
 #### CDMO
@@ -639,8 +683,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 12.215
-- **Current Time**: 11/14/2024 11:00:38
+- **Current Price**: 12.21
+- **Price Change**: 0.0820%
+- **Current Time**: 11/14/2024 11:35:10
 ![CDMO Chart](./2024-11-13/CDMO.jpg)
 
 #### CKPT
@@ -650,9 +695,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.835
-- **Current Time**: 11/14/2024 11:00:46
-- **Current Price is 3% higher than in data**
+- **Current Price**: 3.87
+- **Price Change**: 6.9061%
+- **Current Time**: 11/14/2024 11:35:18
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![CKPT Chart](./2024-11-13/CKPT.jpg)
@@ -664,11 +709,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 11.455
-- **Current Time**: 11/14/2024 11:00:55
-- **Current Price is 3% higher than in data**
-- **Current Price is 3% higher than in data**
-this is a boom!!!!!!!!!
+- **Current Price**: 11.22
+- **Price Change**: 2.4658%
+- **Current Time**: 11/14/2024 11:35:26
 ![CLPT Chart](./2024-11-13/CLPT.jpg)
 
 #### CNTA
@@ -678,8 +721,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 17.645
-- **Current Time**: 11/14/2024 11:01:02
+- **Current Price**: 17.86
+- **Price Change**: -1.2168%
+- **Current Time**: 11/14/2024 11:35:34
 ![CNTA Chart](./2024-11-13/CNTA.jpg)
 
 #### DCTH
@@ -689,8 +733,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 9.4137
-- **Current Time**: 11/14/2024 11:01:10
+- **Current Price**: 9.35
+- **Price Change**: -0.6376%
+- **Current Time**: 11/14/2024 11:35:43
 ![DCTH Chart](./2024-11-13/DCTH.jpg)
 
 #### ELDN
@@ -700,10 +745,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 4.1
-- **Current Time**: 11/14/2024 11:01:18
-- **Current Price is 3% lower than in data**
-this is a bust!!!!!!!!
+- **Current Price**: 4.19
+- **Price Change**: -1.8735%
+- **Current Time**: 11/14/2024 11:35:49
 ![ELDN Chart](./2024-11-13/ELDN.jpg)
 
 #### ETON
@@ -713,8 +757,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.48
-- **Current Time**: 11/14/2024 11:01:25
+- **Current Price**: 10.465
+- **Price Change**: -1.2736%
+- **Current Time**: 11/14/2024 11:35:58
 ![ETON Chart](./2024-11-13/ETON.jpg)
 
 #### FTLF
@@ -724,8 +769,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 33.2499
-- **Current Time**: 11/14/2024 11:01:33
+- **Current Price**: 33.08
+- **Price Change**: -5.1606%
+- **Current Time**: 11/14/2024 11:36:06
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![FTLF Chart](./2024-11-13/FTLF.jpg)
@@ -737,8 +783,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 92.2
-- **Current Time**: 11/14/2024 11:01:41
+- **Current Price**: 92.32
+- **Price Change**: -0.3347%
+- **Current Time**: 11/14/2024 11:36:15
 ![GILD Chart](./2024-11-13/GILD.jpg)
 
 #### HIMS
@@ -748,8 +795,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 21.645
-- **Current Time**: 11/14/2024 11:01:51
+- **Current Price**: 20.6408
+- **Price Change**: -25.2145%
+- **Current Time**: 11/14/2024 11:36:22
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![HIMS Chart](./2024-11-13/HIMS.jpg)
@@ -761,8 +809,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 1.8501
-- **Current Time**: 11/14/2024 11:01:58
+- **Current Price**: 1.925
+- **Price Change**: -17.7350%
+- **Current Time**: 11/14/2024 11:36:30
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![ICAD Chart](./2024-11-13/ICAD.jpg)
@@ -774,8 +823,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 116.37
-- **Current Time**: 11/14/2024 11:02:06
+- **Current Price**: 116.1938
+- **Price Change**: -4.8216%
+- **Current Time**: 11/14/2024 11:36:37
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![LGND Chart](./2024-11-13/LGND.jpg)
@@ -787,8 +837,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 7.42
-- **Current Time**: 11/14/2024 11:02:14
+- **Current Price**: 7.48
+- **Price Change**: 1.2179%
+- **Current Time**: 11/14/2024 11:36:46
 ![LNSR Chart](./2024-11-13/LNSR.jpg)
 
 #### MGTX
@@ -798,8 +849,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 6.76
-- **Current Time**: 11/14/2024 11:02:22
+- **Current Price**: 6.78
+- **Price Change**: -3.6932%
+- **Current Time**: 11/14/2024 11:36:54
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![MGTX Chart](./2024-11-13/MGTX.jpg)
@@ -811,8 +863,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.23
-- **Current Time**: 11/14/2024 11:02:30
+- **Current Price**: 3.3
+- **Price Change**: 0.3040%
+- **Current Time**: 11/14/2024 11:37:02
 ![NXGL Chart](./2024-11-13/NXGL.jpg)
 
 #### OFIX
@@ -822,8 +875,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 17.775
-- **Current Time**: 11/14/2024 11:02:38
+- **Current Price**: 17.84
+- **Price Change**: -4.2918%
+- **Current Time**: 11/14/2024 11:37:10
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![OFIX Chart](./2024-11-13/OFIX.jpg)
@@ -835,8 +889,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.75
-- **Current Time**: 11/14/2024 11:02:46
+- **Current Price**: 3.84
+- **Price Change**: -13.3183%
+- **Current Time**: 11/14/2024 11:37:18
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![ORGO Chart](./2024-11-13/ORGO.jpg)
@@ -848,8 +903,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 24.8
-- **Current Time**: 11/14/2024 11:02:53
+- **Current Price**: 24.96
+- **Price Change**: -1.2268%
+- **Current Time**: 11/14/2024 11:37:26
 ![PAHC Chart](./2024-11-13/PAHC.jpg)
 
 #### PDEX
@@ -860,7 +916,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 47.02
-- **Current Time**: 11/14/2024 11:03:02
+- **Price Change**: 0.1278%
+- **Current Time**: 11/14/2024 11:37:34
 ![PDEX Chart](./2024-11-13/PDEX.jpg)
 
 #### RDNT
@@ -870,8 +927,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 82.4
-- **Current Time**: 11/14/2024 11:03:10
+- **Current Price**: 82.2277
+- **Price Change**: -0.4025%
+- **Current Time**: 11/14/2024 11:37:42
 ![RDNT Chart](./2024-11-13/RDNT.jpg)
 
 #### RIGL
@@ -881,8 +939,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.025
-- **Current Time**: 11/14/2024 11:03:17
+- **Current Price**: 27.93
+- **Price Change**: 1.8971%
+- **Current Time**: 11/14/2024 11:37:50
 ![RIGL Chart](./2024-11-13/RIGL.jpg)
 
 #### RYTM
@@ -892,8 +951,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 60.75
-- **Current Time**: 11/14/2024 11:03:25
+- **Current Price**: 60.48
+- **Price Change**: 0.6825%
+- **Current Time**: 11/14/2024 11:37:59
 ![RYTM Chart](./2024-11-13/RYTM.jpg)
 
 #### SPRY
@@ -903,8 +963,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 14.27
-- **Current Time**: 11/14/2024 11:03:33
+- **Current Price**: 14.14
+- **Price Change**: 0.4261%
+- **Current Time**: 11/14/2024 11:38:05
 ![SPRY Chart](./2024-11-13/SPRY.jpg)
 
 #### TGTX
@@ -914,8 +975,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 30.9701
-- **Current Time**: 11/14/2024 11:03:43
+- **Current Price**: 30.835
+- **Price Change**: -11.6476%
+- **Current Time**: 11/14/2024 11:38:13
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![TGTX Chart](./2024-11-13/TGTX.jpg)
@@ -927,8 +989,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 19.73
-- **Current Time**: 11/14/2024 11:03:50
+- **Current Price**: 19.625
+- **Price Change**: -1.6784%
+- **Current Time**: 11/14/2024 11:38:22
 ![TRDA Chart](./2024-11-13/TRDA.jpg)
 
 #### UPB
@@ -938,8 +1001,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 25.95
-- **Current Time**: 11/14/2024 11:03:58
+- **Current Price**: 26.27
+- **Price Change**: 1.3894%
+- **Current Time**: 11/14/2024 11:38:30
 ![UPB Chart](./2024-11-13/UPB.jpg)
 
 #### VMD
@@ -949,8 +1013,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 9.13
-- **Current Time**: 11/14/2024 11:04:06
+- **Current Price**: 9.1
+- **Price Change**: -0.5464%
+- **Current Time**: 11/14/2024 11:38:38
 ![VMD Chart](./2024-11-13/VMD.jpg)
 
 #### WVE
@@ -960,8 +1025,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 15.27
-- **Current Time**: 11/14/2024 11:04:14
+- **Current Price**: 15.38
+- **Price Change**: -1.9758%
+- **Current Time**: 11/14/2024 11:38:46
 ![WVE Chart](./2024-11-13/WVE.jpg)
 
 #### ZLAB
@@ -971,8 +1037,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 27.16
-- **Current Time**: 11/14/2024 11:04:23
+- **Current Price**: 27.1
+- **Price Change**: -9.5159%
+- **Current Time**: 11/14/2024 11:38:54
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![ZLAB Chart](./2024-11-13/ZLAB.jpg)
@@ -985,7 +1052,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 26.55
-- **Current Time**: 11/14/2024 11:04:31
+- **Price Change**: -1.7395%
+- **Current Time**: 11/14/2024 11:39:02
 ![ABLLL Chart](./2024-11-13/ABLLL.jpg)
 
 #### ACT
@@ -995,8 +1063,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 34.135
-- **Current Time**: 11/14/2024 11:04:38
+- **Current Price**: 34.23
+- **Price Change**: -0.2041%
+- **Current Time**: 11/14/2024 11:39:10
 ![ACT Chart](./2024-11-13/ACT.jpg)
 
 #### AFGD
@@ -1006,8 +1075,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 24.85
-- **Current Time**: 11/14/2024 11:04:45
+- **Current Price**: 25.0365
+- **Price Change**: -0.8063%
+- **Current Time**: 11/14/2024 11:39:18
 ![AFGD Chart](./2024-11-13/AFGD.jpg)
 
 #### AFRM
@@ -1017,8 +1087,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 53.745
-- **Current Time**: 11/14/2024 11:04:54
+- **Current Price**: 54.41
+- **Price Change**: -0.7479%
+- **Current Time**: 11/14/2024 11:39:26
 ![AFRM Chart](./2024-11-13/AFRM.jpg)
 
 #### AGO
@@ -1028,8 +1099,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 91.13
-- **Current Time**: 11/14/2024 11:05:02
+- **Current Price**: 91.285
+- **Price Change**: 2.6251%
+- **Current Time**: 11/14/2024 11:39:33
 ![AGO Chart](./2024-11-13/AGO.jpg)
 
 #### ATLC
@@ -1039,8 +1111,11 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 47.5
-- **Current Time**: 11/14/2024 11:05:09
+- **Current Price**: 48.12
+- **Price Change**: 4.2010%
+- **Current Time**: 11/14/2024 11:39:42
+- **Current Price is 3% higher than in data**
+this is a boom!!!!!!!!!
 ![ATLC Chart](./2024-11-13/ATLC.jpg)
 
 #### BAFN
@@ -1051,7 +1126,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 13.725
-- **Current Time**: 11/14/2024 11:05:17
+- **Price Change**: 0.1825%
+- **Current Time**: 11/14/2024 11:39:49
 ![BAFN Chart](./2024-11-13/BAFN.jpg)
 
 #### BANF
@@ -1061,8 +1137,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 122.17
-- **Current Time**: 11/14/2024 11:05:26
+- **Current Price**: 122.6
+- **Price Change**: 0.0245%
+- **Current Time**: 11/14/2024 11:40:00
 ![BANF Chart](./2024-11-13/BANF.jpg)
 
 #### BGH
@@ -1072,8 +1149,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 15.3129
-- **Current Time**: 11/14/2024 11:05:33
+- **Current Price**: 15.314
+- **Price Change**: -0.6230%
+- **Current Time**: 11/14/2024 11:40:06
 ![BGH Chart](./2024-11-13/BGH.jpg)
 
 #### BHB
@@ -1083,8 +1161,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 34.84
-- **Current Time**: 11/14/2024 11:05:41
+- **Current Price**: 35.055
+- **Price Change**: -1.0863%
+- **Current Time**: 11/14/2024 11:40:14
 ![BHB Chart](./2024-11-13/BHB.jpg)
 
 #### BOW
@@ -1094,8 +1173,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 33.345
-- **Current Time**: 11/14/2024 11:05:48
+- **Current Price**: 33.7
+- **Price Change**: 1.7512%
+- **Current Time**: 11/14/2024 11:40:23
 ![BOW Chart](./2024-11-13/BOW.jpg)
 
 #### BRBS
@@ -1105,8 +1185,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.5
-- **Current Time**: 11/14/2024 11:05:58
+- **Current Price**: 3.54
+- **Price Change**: -1.6667%
+- **Current Time**: 11/14/2024 11:40:29
 ![BRBS Chart](./2024-11-13/BRBS.jpg)
 
 #### BSRR
@@ -1116,8 +1197,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 31.4
-- **Current Time**: 11/14/2024 11:06:06
+- **Current Price**: 31.715
+- **Price Change**: -1.4144%
+- **Current Time**: 11/14/2024 11:40:38
 ![BSRR Chart](./2024-11-13/BSRR.jpg)
 
 #### BTT
@@ -1127,8 +1209,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 21.2605
-- **Current Time**: 11/14/2024 11:06:13
+- **Current Price**: 21.285
+- **Price Change**: 0.1176%
+- **Current Time**: 11/14/2024 11:40:45
 ![BTT Chart](./2024-11-13/BTT.jpg)
 
 #### BWB
@@ -1139,7 +1222,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 14.93
-- **Current Time**: 11/14/2024 11:06:23
+- **Price Change**: -0.7314%
+- **Current Time**: 11/14/2024 11:40:57
 ![BWB Chart](./2024-11-13/BWB.jpg)
 
 #### CBNK
@@ -1149,8 +1233,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.03
-- **Current Time**: 11/14/2024 11:06:30
+- **Current Price**: 28.075
+- **Price Change**: -0.2664%
+- **Current Time**: 11/14/2024 11:41:05
 ![CBNK Chart](./2024-11-13/CBNK.jpg)
 
 #### CCB
@@ -1160,8 +1245,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 72.99
-- **Current Time**: 11/14/2024 11:06:37
+- **Current Price**: 73.1761
+- **Price Change**: -0.6569%
+- **Current Time**: 11/14/2024 11:41:13
 ![CCB Chart](./2024-11-13/CCB.jpg)
 
 #### CEP
@@ -1171,8 +1257,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.25
-- **Current Time**: 11/14/2024 11:06:43
+- **Current Price**: 10.28
+- **Price Change**: 1.0816%
+- **Current Time**: 11/14/2024 11:41:22
 ![CEP Chart](./2024-11-13/CEP.jpg)
 
 #### CFBK
@@ -1183,7 +1270,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 28.0
-- **Current Time**: 11/14/2024 11:06:52
+- **Price Change**: -0.8850%
+- **Current Time**: 11/14/2024 11:41:31
 ![CFBK Chart](./2024-11-13/CFBK.jpg)
 
 #### CFFS
@@ -1194,7 +1282,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 11.16
-- **Current Time**: 11/14/2024 11:07:02
+- **Price Change**: 0.0000%
+- **Current Time**: 11/14/2024 11:41:35
 ![CFFS Chart](./2024-11-13/CFFS.jpg)
 
 #### CIFR
@@ -1204,8 +1293,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 6.49
-- **Current Time**: 11/14/2024 11:07:08
+- **Current Price**: 6.45
+- **Price Change**: -2.5680%
+- **Current Time**: 11/14/2024 11:41:44
 ![CIFR Chart](./2024-11-13/CIFR.jpg)
 
 #### COF
@@ -1215,8 +1305,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 182.765
-- **Current Time**: 11/14/2024 11:07:16
+- **Current Price**: 183.415
+- **Price Change**: -1.1400%
+- **Current Time**: 11/14/2024 11:41:52
 ![COF Chart](./2024-11-13/COF.jpg)
 
 #### COFS
@@ -1226,8 +1317,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 35.59
-- **Current Time**: 11/14/2024 11:07:24
+- **Current Price**: 35.6
+- **Price Change**: -0.7527%
+- **Current Time**: 11/14/2024 11:42:00
 ![COFS Chart](./2024-11-13/COFS.jpg)
 
 #### CORZ
@@ -1237,8 +1329,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 15.565
-- **Current Time**: 11/14/2024 11:07:32
+- **Current Price**: 15.54
+- **Price Change**: -3.6578%
+- **Current Time**: 11/14/2024 11:42:09
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![CORZ Chart](./2024-11-13/CORZ.jpg)
@@ -1250,8 +1343,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 14.4376
-- **Current Time**: 11/14/2024 11:07:42
+- **Current Price**: 14.4946
+- **Price Change**: -0.3122%
+- **Current Time**: 11/14/2024 11:42:16
 ![CPBI Chart](./2024-11-13/CPBI.jpg)
 
 #### CPSS
@@ -1262,7 +1356,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 10.37
-- **Current Time**: 11/14/2024 11:07:47
+- **Price Change**: 1.9666%
+- **Current Time**: 11/14/2024 11:42:24
 ![CPSS Chart](./2024-11-13/CPSS.jpg)
 
 #### CRBG
@@ -1272,8 +1367,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 30.57
-- **Current Time**: 11/14/2024 11:07:55
+- **Current Price**: 30.55
+- **Price Change**: -0.6827%
+- **Current Time**: 11/14/2024 11:42:32
 ![CRBG Chart](./2024-11-13/CRBG.jpg)
 
 #### CRF
@@ -1283,8 +1379,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 9.1189
-- **Current Time**: 11/14/2024 11:08:04
+- **Current Price**: 9.115
+- **Price Change**: -0.5998%
+- **Current Time**: 11/14/2024 11:42:40
 ![CRF Chart](./2024-11-13/CRF.jpg)
 
 #### CURB
@@ -1294,8 +1391,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 23.95
-- **Current Time**: 11/14/2024 11:08:10
+- **Current Price**: 23.96
+- **Price Change**: -0.7867%
+- **Current Time**: 11/14/2024 11:42:49
 ![CURB Chart](./2024-11-13/CURB.jpg)
 
 #### CWBC
@@ -1305,8 +1403,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 20.4
-- **Current Time**: 11/14/2024 11:08:19
+- **Current Price**: 20.49
+- **Price Change**: 0.2446%
+- **Current Time**: 11/14/2024 11:42:58
 ![CWBC Chart](./2024-11-13/CWBC.jpg)
 
 #### CZWI
@@ -1316,8 +1415,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 14.9999
-- **Current Time**: 11/14/2024 11:08:28
+- **Current Price**: 14.966
+- **Price Change**: 1.1216%
+- **Current Time**: 11/14/2024 11:43:03
 ![CZWI Chart](./2024-11-13/CZWI.jpg)
 
 #### ECCC
@@ -1328,7 +1428,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 23.5011
-- **Current Time**: 11/14/2024 11:08:35
+- **Price Change**: -0.4191%
+- **Current Time**: 11/14/2024 11:43:11
 ![ECCC Chart](./2024-11-13/ECCC.jpg)
 
 #### EMO
@@ -1338,8 +1439,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 46.9
-- **Current Time**: 11/14/2024 11:08:43
+- **Current Price**: 46.73
+- **Price Change**: 0.1930%
+- **Current Time**: 11/14/2024 11:43:20
 ![EMO Chart](./2024-11-13/EMO.jpg)
 
 #### FBIZ
@@ -1349,8 +1451,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 49.23
-- **Current Time**: 11/14/2024 11:08:51
+- **Current Price**: 49.41
+- **Price Change**: -2.1778%
+- **Current Time**: 11/14/2024 11:43:27
 ![FBIZ Chart](./2024-11-13/FBIZ.jpg)
 
 #### FBLA
@@ -1360,8 +1463,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 12.27
-- **Current Time**: 11/14/2024 11:09:00
+- **Current Price**: 12.3
+- **Price Change**: -0.5659%
+- **Current Time**: 11/14/2024 11:43:34
 ![FBLA Chart](./2024-11-13/FBLA.jpg)
 
 #### FCT
@@ -1371,8 +1475,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.32
-- **Current Time**: 11/14/2024 11:09:08
+- **Current Price**: 10.312
+- **Price Change**: -0.1742%
+- **Current Time**: 11/14/2024 11:43:43
 ![FCT Chart](./2024-11-13/FCT.jpg)
 
 #### FDBC
@@ -1383,7 +1488,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 55.53
-- **Current Time**: 11/14/2024 11:09:16
+- **Price Change**: 0.0000%
+- **Current Time**: 11/14/2024 11:43:51
 ![FDBC Chart](./2024-11-13/FDBC.jpg)
 
 #### FDSB
@@ -1393,8 +1499,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 12.42
-- **Current Time**: 11/14/2024 11:09:23
+- **Current Price**: 12.385
+- **Price Change**: -0.9992%
+- **Current Time**: 11/14/2024 11:43:59
 ![FDSB Chart](./2024-11-13/FDSB.jpg)
 
 #### FINS
@@ -1404,8 +1511,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 12.775
-- **Current Time**: 11/14/2024 11:09:31
+- **Current Price**: 12.787
+- **Price Change**: -0.0235%
+- **Current Time**: 11/14/2024 11:44:07
 ![FINS Chart](./2024-11-13/FINS.jpg)
 
 #### FLD
@@ -1415,8 +1523,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.94
-- **Current Time**: 11/14/2024 11:09:39
+- **Current Price**: 10.9416
+- **Price Change**: 0.0146%
+- **Current Time**: 11/14/2024 11:44:16
 ![FLD Chart](./2024-11-13/FLD.jpg)
 
 #### FNLC
@@ -1427,7 +1536,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 28.45
-- **Current Time**: 11/14/2024 11:09:44
+- **Price Change**: -1.2838%
+- **Current Time**: 11/14/2024 11:44:23
 ![FNLC Chart](./2024-11-13/FNLC.jpg)
 
 #### FOA
@@ -1437,8 +1547,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 19.3
-- **Current Time**: 11/14/2024 11:09:53
+- **Current Price**: 19.28
+- **Price Change**: 2.4442%
+- **Current Time**: 11/14/2024 11:44:32
 ![FOA Chart](./2024-11-13/FOA.jpg)
 
 #### FRHC
@@ -1448,8 +1559,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 116.49
-- **Current Time**: 11/14/2024 11:10:02
+- **Current Price**: 116.5
+- **Price Change**: 1.6491%
+- **Current Time**: 11/14/2024 11:44:40
 ![FRHC Chart](./2024-11-13/FRHC.jpg)
 
 #### FRME
@@ -1459,8 +1571,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 43.47
-- **Current Time**: 11/14/2024 11:10:09
+- **Current Price**: 43.63
+- **Price Change**: 0.1377%
+- **Current Time**: 11/14/2024 11:44:46
 ![FRME Chart](./2024-11-13/FRME.jpg)
 
 #### FSFG
@@ -1470,8 +1583,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.71
-- **Current Time**: 11/14/2024 11:10:19
+- **Current Price**: 28.82
+- **Price Change**: 0.1390%
+- **Current Time**: 11/14/2024 11:44:54
 ![FSFG Chart](./2024-11-13/FSFG.jpg)
 
 #### FXNC
@@ -1481,8 +1595,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 23.84
-- **Current Time**: 11/14/2024 11:10:26
+- **Current Price**: 24.09
+- **Price Change**: 1.0063%
+- **Current Time**: 11/14/2024 11:45:02
 ![FXNC Chart](./2024-11-13/FXNC.jpg)
 
 #### GCMG
@@ -1493,7 +1608,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 11.64
-- **Current Time**: 11/14/2024 11:10:33
+- **Price Change**: 0.1721%
+- **Current Time**: 11/14/2024 11:45:10
 ![GCMG Chart](./2024-11-13/GCMG.jpg)
 
 #### GIG
@@ -1504,7 +1620,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 9.9521
-- **Current Time**: 11/14/2024 11:10:37
+- **Price Change**: 0.0211%
+- **Current Time**: 11/14/2024 11:45:19
 ![GIG Chart](./2024-11-13/GIG.jpg)
 
 #### GSBC
@@ -1515,7 +1632,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 62.68
-- **Current Time**: 11/14/2024 11:10:47
+- **Price Change**: -1.4310%
+- **Current Time**: 11/14/2024 11:45:26
 ![GSBC Chart](./2024-11-13/GSBC.jpg)
 
 #### HIFS
@@ -1526,7 +1644,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 281.0
-- **Current Time**: 11/14/2024 11:10:55
+- **Price Change**: -1.4104%
+- **Current Time**: 11/14/2024 11:45:34
 ![HIFS Chart](./2024-11-13/HIFS.jpg)
 
 #### HNVR
@@ -1536,8 +1655,11 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: False
-- **Current Price**: 20.9267
-- **Current Time**: 11/14/2024 11:11:02
+- **Current Price**: 20.0
+- **Price Change**: -6.1473%
+- **Current Time**: 11/14/2024 11:45:42
+- **Current Price is 3% lower than in data**
+this is a bust!!!!!!!!
 
 #### HNW
 - **Current Price during run time**: 12.29
@@ -1547,7 +1669,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 12.24
-- **Current Time**: 11/14/2024 11:11:10
+- **Price Change**: -0.4068%
+- **Current Time**: 11/14/2024 11:45:50
 ![HNW Chart](./2024-11-13/HNW.jpg)
 
 #### HOMB
@@ -1557,8 +1680,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 30.79
-- **Current Time**: 11/14/2024 11:11:17
+- **Current Price**: 30.87
+- **Price Change**: 0.2273%
+- **Current Time**: 11/14/2024 11:45:58
 ![HOMB Chart](./2024-11-13/HOMB.jpg)
 
 #### HOOD
@@ -1568,8 +1692,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 32.4708
-- **Current Time**: 11/14/2024 11:11:25
+- **Current Price**: 32.245
+- **Price Change**: 1.0498%
+- **Current Time**: 11/14/2024 11:46:06
 ![HOOD Chart](./2024-11-13/HOOD.jpg)
 
 #### HUT
@@ -1579,8 +1704,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 24.02
-- **Current Time**: 11/14/2024 11:11:33
+- **Current Price**: 23.94
+- **Price Change**: -3.3898%
+- **Current Time**: 11/14/2024 11:46:15
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![HUT Chart](./2024-11-13/HUT.jpg)
@@ -1593,7 +1719,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 28.5
-- **Current Time**: 11/14/2024 11:11:42
+- **Price Change**: 1.3514%
+- **Current Time**: 11/14/2024 11:46:23
 ![HWBK Chart](./2024-11-13/HWBK.jpg)
 
 #### HYB
@@ -1603,8 +1730,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 8.18
-- **Current Time**: 11/14/2024 11:11:50
+- **Current Price**: 8.19
+- **Price Change**: 0.6143%
+- **Current Time**: 11/14/2024 11:46:30
 ![HYB Chart](./2024-11-13/HYB.jpg)
 
 #### IBKR
@@ -1614,8 +1742,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 177.26
-- **Current Time**: 11/14/2024 11:11:59
+- **Current Price**: 177.385
+- **Price Change**: -0.7081%
+- **Current Time**: 11/14/2024 11:46:38
 ![IBKR Chart](./2024-11-13/IBKR.jpg)
 
 #### IPXX
@@ -1626,7 +1755,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 10.8
-- **Current Time**: 11/14/2024 11:12:06
+- **Price Change**: 0.0927%
+- **Current Time**: 11/14/2024 11:46:45
 ![IPXX Chart](./2024-11-13/IPXX.jpg)
 
 #### JEF
@@ -1636,8 +1766,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 73.965
-- **Current Time**: 11/14/2024 11:12:15
+- **Current Price**: 73.72
+- **Price Change**: -1.1531%
+- **Current Time**: 11/14/2024 11:46:55
 ![JEF Chart](./2024-11-13/JEF.jpg)
 
 #### LMND
@@ -1647,8 +1778,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 31.87
-- **Current Time**: 11/14/2024 11:12:22
+- **Current Price**: 32.075
+- **Price Change**: 0.2657%
+- **Current Time**: 11/14/2024 11:47:02
 ![LMND Chart](./2024-11-13/LMND.jpg)
 
 #### LSAK
@@ -1659,7 +1791,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 5.09
-- **Current Time**: 11/14/2024 11:12:30
+- **Price Change**: -0.5859%
+- **Current Time**: 11/14/2024 11:47:10
 ![LSAK Chart](./2024-11-13/LSAK.jpg)
 
 #### MBINN
@@ -1670,7 +1803,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 22.52
-- **Current Time**: 11/14/2024 11:12:38
+- **Price Change**: -0.7055%
+- **Current Time**: 11/14/2024 11:47:18
 ![MBINN Chart](./2024-11-13/MBINN.jpg)
 
 #### MOFG
@@ -1680,8 +1814,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 32.6
-- **Current Time**: 11/14/2024 11:12:46
+- **Current Price**: 32.65
+- **Price Change**: -0.8202%
+- **Current Time**: 11/14/2024 11:47:26
 ![MOFG Chart](./2024-11-13/MOFG.jpg)
 
 #### MPB
@@ -1691,8 +1826,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 32.12
-- **Current Time**: 11/14/2024 11:12:54
+- **Current Price**: 32.275
+- **Price Change**: -0.6312%
+- **Current Time**: 11/14/2024 11:47:34
 ![MPB Chart](./2024-11-13/MPB.jpg)
 
 #### MRBK
@@ -1703,7 +1839,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 14.15
-- **Current Time**: 11/14/2024 11:13:04
+- **Price Change**: 1.2160%
+- **Current Time**: 11/14/2024 11:47:42
 ![MRBK Chart](./2024-11-13/MRBK.jpg)
 
 #### MRX
@@ -1713,8 +1850,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 28.435
-- **Current Time**: 11/14/2024 11:13:09
+- **Current Price**: 28.705
+- **Price Change**: 0.8609%
+- **Current Time**: 11/14/2024 11:47:51
 ![MRX Chart](./2024-11-13/MRX.jpg)
 
 #### MUE
@@ -1724,8 +1862,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.545
-- **Current Time**: 11/14/2024 11:13:20
+- **Current Price**: 10.52
+- **Price Change**: 0.0000%
+- **Current Time**: 11/14/2024 11:47:58
 ![MUE Chart](./2024-11-13/MUE.jpg)
 
 #### NAZ
@@ -1735,8 +1874,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 12.305
-- **Current Time**: 11/14/2024 11:13:26
+- **Current Price**: 12.3099
+- **Price Change**: 0.8182%
+- **Current Time**: 11/14/2024 11:48:08
 ![NAZ Chart](./2024-11-13/NAZ.jpg)
 
 #### NBHC
@@ -1746,8 +1886,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 48.6099
-- **Current Time**: 11/14/2024 11:13:35
+- **Current Price**: 48.675
+- **Price Change**: 0.2162%
+- **Current Time**: 11/14/2024 11:48:14
 ![NBHC Chart](./2024-11-13/NBHC.jpg)
 
 #### NBN
@@ -1757,8 +1898,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 101.34
-- **Current Time**: 11/14/2024 11:13:43
+- **Current Price**: 101.48
+- **Price Change**: -0.7433%
+- **Current Time**: 11/14/2024 11:48:22
 ![NBN Chart](./2024-11-13/NBN.jpg)
 
 #### NCTY
@@ -1768,9 +1910,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 11.05
-- **Current Time**: 11/14/2024 11:13:50
-- **Current Price is 3% higher than in data**
+- **Current Price**: 11.03
+- **Price Change**: 9.3162%
+- **Current Time**: 11/14/2024 11:48:29
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![NCTY Chart](./2024-11-13/NCTY.jpg)
@@ -1782,8 +1924,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 3.465
-- **Current Time**: 11/14/2024 11:13:59
+- **Current Price**: 3.4701
+- **Price Change**: -1.1368%
+- **Current Time**: 11/14/2024 11:48:38
 ![NCV Chart](./2024-11-13/NCV.jpg)
 
 #### NEWT
@@ -1793,8 +1936,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 14.21
-- **Current Time**: 11/14/2024 11:14:07
+- **Current Price**: 14.23
+- **Price Change**: -1.7265%
+- **Current Time**: 11/14/2024 11:48:45
 ![NEWT Chart](./2024-11-13/NEWT.jpg)
 
 #### NRIM
@@ -1804,8 +1948,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 82.1
-- **Current Time**: 11/14/2024 11:14:14
+- **Current Price**: 83.13
+- **Price Change**: 1.7130%
+- **Current Time**: 11/14/2024 11:48:54
 ![NRIM Chart](./2024-11-13/NRIM.jpg)
 
 #### OBT
@@ -1815,8 +1960,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 62.16
-- **Current Time**: 11/14/2024 11:14:22
+- **Current Price**: 61.76
+- **Price Change**: -1.2630%
+- **Current Time**: 11/14/2024 11:49:03
 ![OBT Chart](./2024-11-13/OBT.jpg)
 
 #### OPOF
@@ -1826,8 +1972,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 20.98
-- **Current Time**: 11/14/2024 11:14:29
+- **Current Price**: 20.76
+- **Price Change**: -0.1923%
+- **Current Time**: 11/14/2024 11:49:10
 ![OPOF Chart](./2024-11-13/OPOF.jpg)
 
 #### PFIS
@@ -1837,8 +1984,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 51.15
-- **Current Time**: 11/14/2024 11:14:39
+- **Current Price**: 51.61
+- **Price Change**: -1.2816%
+- **Current Time**: 11/14/2024 11:49:19
 ![PFIS Chart](./2024-11-13/PFIS.jpg)
 
 #### PFXNZ
@@ -1849,7 +1997,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 22.7305
-- **Current Time**: 11/14/2024 11:14:45
+- **Price Change**: -0.3048%
+- **Current Time**: 11/14/2024 11:49:26
 ![PFXNZ Chart](./2024-11-13/PFXNZ.jpg)
 
 #### PHK
@@ -1859,8 +2008,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 4.93
-- **Current Time**: 11/14/2024 11:14:56
+- **Current Price**: 4.9377
+- **Price Change**: -1.0481%
+- **Current Time**: 11/14/2024 11:49:35
 ![PHK Chart](./2024-11-13/PHK.jpg)
 
 #### PLBC
@@ -1871,7 +2021,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 46.4
-- **Current Time**: 11/14/2024 11:15:03
+- **Price Change**: 1.0893%
+- **Current Time**: 11/14/2024 11:49:41
 ![PLBC Chart](./2024-11-13/PLBC.jpg)
 
 #### RVT
@@ -1881,8 +2032,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 16.18
-- **Current Time**: 11/14/2024 11:15:11
+- **Current Price**: 16.1993
+- **Price Change**: -1.3140%
+- **Current Time**: 11/14/2024 11:49:51
 ![RVT Chart](./2024-11-13/RVT.jpg)
 
 #### SASR
@@ -1892,8 +2044,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 38.12
-- **Current Time**: 11/14/2024 11:15:18
+- **Current Price**: 38.135
+- **Price Change**: 0.5140%
+- **Current Time**: 11/14/2024 11:49:58
 ![SASR Chart](./2024-11-13/SASR.jpg)
 
 #### SCHW
@@ -1903,8 +2056,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 80.185
-- **Current Time**: 11/14/2024 11:15:26
+- **Current Price**: 80.125
+- **Price Change**: -0.6386%
+- **Current Time**: 11/14/2024 11:50:05
 ![SCHW Chart](./2024-11-13/SCHW.jpg)
 
 #### SIEB
@@ -1914,8 +2068,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 2.684
-- **Current Time**: 11/14/2024 11:15:34
+- **Current Price**: 2.73
+- **Price Change**: 2.6316%
+- **Current Time**: 11/14/2024 11:50:15
 ![SIEB Chart](./2024-11-13/SIEB.jpg)
 
 #### SMBK
@@ -1925,8 +2080,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 36.155
-- **Current Time**: 11/14/2024 11:15:42
+- **Current Price**: 36.12
+- **Price Change**: 0.2498%
+- **Current Time**: 11/14/2024 11:50:23
 ![SMBK Chart](./2024-11-13/SMBK.jpg)
 
 #### SNEX
@@ -1936,8 +2092,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 95.56
-- **Current Time**: 11/14/2024 11:15:52
+- **Current Price**: 95.54
+- **Price Change**: -0.4429%
+- **Current Time**: 11/14/2024 11:50:30
 ![SNEX Chart](./2024-11-13/SNEX.jpg)
 
 #### SPE
@@ -1948,7 +2105,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 14.9785
-- **Current Time**: 11/14/2024 11:15:59
+- **Price Change**: 0.0234%
+- **Current Time**: 11/14/2024 11:50:38
 ![SPE Chart](./2024-11-13/SPE.jpg)
 
 #### SPFI
@@ -1958,8 +2116,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 38.62
-- **Current Time**: 11/14/2024 11:16:07
+- **Current Price**: 39.02
+- **Price Change**: -1.2152%
+- **Current Time**: 11/14/2024 11:50:46
 ![SPFI Chart](./2024-11-13/SPFI.jpg)
 
 #### SSBK
@@ -1969,8 +2128,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 36.195
-- **Current Time**: 11/14/2024 11:16:16
+- **Current Price**: 36.29
+- **Price Change**: 0.7216%
+- **Current Time**: 11/14/2024 11:50:54
 ![SSBK Chart](./2024-11-13/SSBK.jpg)
 
 #### SSSS
@@ -1981,8 +2141,8 @@ this is a boom!!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 5.0
-- **Current Time**: 11/14/2024 11:16:23
-- **Current Price is 3% higher than in data**
+- **Price Change**: 4.1168%
+- **Current Time**: 11/14/2024 11:51:01
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![SSSS Chart](./2024-11-13/SSSS.jpg)
@@ -1994,8 +2154,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 65.345
-- **Current Time**: 11/14/2024 11:16:31
+- **Current Price**: 65.6
+- **Price Change**: 1.8792%
+- **Current Time**: 11/14/2024 11:51:11
 ![STEP Chart](./2024-11-13/STEP.jpg)
 
 #### TCBI
@@ -2005,8 +2166,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 89.25
-- **Current Time**: 11/14/2024 11:16:40
+- **Current Price**: 89.43
+- **Price Change**: 0.5199%
+- **Current Time**: 11/14/2024 11:51:18
 ![TCBI Chart](./2024-11-13/TCBI.jpg)
 
 #### TRMK
@@ -2016,8 +2178,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 38.46
-- **Current Time**: 11/14/2024 11:16:47
+- **Current Price**: 38.4
+- **Price Change**: -1.4627%
+- **Current Time**: 11/14/2024 11:51:26
 ![TRMK Chart](./2024-11-13/TRMK.jpg)
 
 #### TWFG
@@ -2027,8 +2190,9 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 30.46
-- **Current Time**: 11/14/2024 11:16:55
+- **Current Price**: 30.67
+- **Price Change**: -3.7653%
+- **Current Time**: 11/14/2024 11:51:35
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![TWFG Chart](./2024-11-13/TWFG.jpg)
@@ -2040,8 +2204,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 9.38
-- **Current Time**: 11/14/2024 11:17:03
+- **Current Price**: 9.39
+- **Price Change**: -1.2618%
+- **Current Time**: 11/14/2024 11:51:41
 ![UBFO Chart](./2024-11-13/UBFO.jpg)
 
 #### UMBF
@@ -2052,7 +2217,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 122.81
-- **Current Time**: 11/14/2024 11:17:11
+- **Price Change**: -0.8397%
+- **Current Time**: 11/14/2024 11:51:49
 ![UMBF Chart](./2024-11-13/UMBF.jpg)
 
 #### USCB
@@ -2063,7 +2229,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 20.26
-- **Current Time**: 11/14/2024 11:17:19
+- **Price Change**: -0.7349%
+- **Current Time**: 11/14/2024 11:51:58
 ![USCB Chart](./2024-11-13/USCB.jpg)
 
 #### VALU
@@ -2074,7 +2241,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 55.04
-- **Current Time**: 11/14/2024 11:17:28
+- **Price Change**: -1.7143%
+- **Current Time**: 11/14/2024 11:52:06
 ![VALU Chart](./2024-11-13/VALU.jpg)
 
 #### VLY
@@ -2084,8 +2252,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 10.125
-- **Current Time**: 11/14/2024 11:17:35
+- **Current Price**: 10.17
+- **Price Change**: -0.4405%
+- **Current Time**: 11/14/2024 11:52:14
 ![VLY Chart](./2024-11-13/VLY.jpg)
 
 #### VTN
@@ -2095,8 +2264,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 11.31
-- **Current Time**: 11/14/2024 11:17:42
+- **Current Price**: 11.325
+- **Price Change**: -0.0441%
+- **Current Time**: 11/14/2024 11:52:22
 ![VTN Chart](./2024-11-13/VTN.jpg)
 
 #### WSBC
@@ -2106,8 +2276,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 35.797
-- **Current Time**: 11/14/2024 11:17:52
+- **Current Price**: 35.87
+- **Price Change**: -0.3057%
+- **Current Time**: 11/14/2024 11:52:30
 ![WSBC Chart](./2024-11-13/WSBC.jpg)
 
 #### WSFS
@@ -2117,8 +2288,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 57.185
-- **Current Time**: 11/14/2024 11:17:59
+- **Current Price**: 57.5
+- **Price Change**: -0.9219%
+- **Current Time**: 11/14/2024 11:52:37
 ![WSFS Chart](./2024-11-13/WSFS.jpg)
 
 #### WT
@@ -2128,8 +2300,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 11.48
-- **Current Time**: 11/14/2024 11:18:07
+- **Current Price**: 11.465
+- **Price Change**: 0.9234%
+- **Current Time**: 11/14/2024 11:52:45
 ![WT Chart](./2024-11-13/WT.jpg)
 
 #### WTM
@@ -2140,7 +2313,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 1907.0
-- **Current Time**: 11/14/2024 11:18:16
+- **Price Change**: -0.2495%
+- **Current Time**: 11/14/2024 11:52:54
 ![WTM Chart](./2024-11-13/WTM.jpg)
 
 #### WTW
@@ -2150,8 +2324,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 316.3
-- **Current Time**: 11/14/2024 11:18:23
+- **Current Price**: 316.075
+- **Price Change**: -0.3484%
+- **Current Time**: 11/14/2024 11:53:01
 ![WTW Chart](./2024-11-13/WTW.jpg)
 
 #### BKV
@@ -2161,8 +2336,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 20.91
-- **Current Time**: 11/14/2024 11:18:31
+- **Current Price**: 21.0
+- **Price Change**: 1.3514%
+- **Current Time**: 11/14/2024 11:53:09
 ![BKV Chart](./2024-11-13/BKV.jpg)
 
 #### CLMT
@@ -2173,7 +2349,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 20.08
-- **Current Time**: 11/14/2024 11:18:39
+- **Price Change**: 0.7274%
+- **Current Time**: 11/14/2024 11:53:18
 ![CLMT Chart](./2024-11-13/CLMT.jpg)
 
 #### HNRG
@@ -2183,8 +2360,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 13.49
-- **Current Time**: 11/14/2024 11:18:47
+- **Current Price**: 13.46
+- **Price Change**: 0.7485%
+- **Current Time**: 11/14/2024 11:53:26
 ![HNRG Chart](./2024-11-13/HNRG.jpg)
 
 #### LB
@@ -2194,8 +2372,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 67.8079
-- **Current Time**: 11/14/2024 11:18:55
+- **Current Price**: 68.545
+- **Price Change**: 1.1585%
+- **Current Time**: 11/14/2024 11:53:34
 ![LB Chart](./2024-11-13/LB.jpg)
 
 #### RNGR
@@ -2206,7 +2385,8 @@ this is a bust!!!!!!!!
 - **Deep Correction**: False
 - **Demand Dry**: True
 - **Current Price**: 15.2775
-- **Current Time**: 11/14/2024 11:19:04
+- **Price Change**: 0.9082%
+- **Current Time**: 11/14/2024 11:53:42
 ![RNGR Chart](./2024-11-13/RNGR.jpg)
 
 #### SOC
@@ -2216,8 +2396,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 22.62
-- **Current Time**: 11/14/2024 11:19:10
+- **Current Price**: 22.52
+- **Price Change**: -3.7195%
+- **Current Time**: 11/14/2024 11:53:49
 - **Current Price is 3% lower than in data**
 this is a bust!!!!!!!!
 ![SOC Chart](./2024-11-13/SOC.jpg)
@@ -2229,9 +2410,9 @@ this is a bust!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 1.5889
-- **Current Time**: 11/14/2024 11:19:19
-- **Current Price is 3% higher than in data**
+- **Current Price**: 1.5808
+- **Price Change**: 6.0940%
+- **Current Time**: 11/14/2024 11:53:58
 - **Current Price is 3% higher than in data**
 this is a boom!!!!!!!!!
 ![USEG Chart](./2024-11-13/USEG.jpg)
@@ -2243,7 +2424,8 @@ this is a boom!!!!!!!!!
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price**: 13.485
-- **Current Time**: 11/14/2024 11:19:27
+- **Current Price**: 13.525
+- **Price Change**: -1.1330%
+- **Current Time**: 11/14/2024 11:54:06
 ![WTTR Chart](./2024-11-13/WTTR.jpg)
 

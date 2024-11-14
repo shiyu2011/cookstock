@@ -33,9 +33,6 @@ We also run the selection daily and post here:
 
 If you enjoy this project and even gain profits from it, consider supporting through a donation via PayPa
 
-| Paypal|
-| ------ |
-| [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/JJandSean/10/?locale.x=en_US&currency_code=USD) 
-
-In order to fund the development of this, since version 1.0.36 when downloaded from Google Play store the app will show ads on some screens and will also allow for donation through Google Play in-app purchase. There is no difference on the features available from Google Play version and F-Droid releases.
-
+| **Paypal** |
+|------------|
+| [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/JJandSean/10/?locale.x=en_US&currency_code=USD) |

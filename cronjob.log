@@ -252,3 +252,219 @@ To github.com:shiyu2011/cookstock.git
  ! [remote rejected] main -> main (pre-receive hook declined)
 error: failed to push some refs to 'git@github.com:shiyu2011/cookstock.git'
 Results updated for 2024-11-14.
+Removing deleted files...
+fatal: not a git repository (or any of the parent directories): .git
+/home/rxm/cookstock/update_results.sh: line 16: conda: command not found
+python: can't open file '/home/rxm/cookstock/batch/auto.py': [Errno 2] No such file or directory
+python: can't open file '/home/rxm/cookstock/batch/batch/cookStockPipeline.py': [Errno 2] No such file or directory
+python: can't open file '/home/rxm/cookstock/batch/auto.py': [Errno 2] No such file or directory
+/home/rxm/cookstock/update_results.sh: line 34: conda: command not found
+Tracking large files with Git LFS...
+Not in a Git repository.
+fatal: not a git repository (or any of the parent directories): .git
+Optimizing images in /home/rxm/cookstock/results...
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+Staging changes...
+fatal: not a git repository (or any of the parent directories): .git
+Committing changes...
+fatal: not a git repository (or any of the parent directories): .git
+Cleaning up repository...
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Pushing to GitHub on branch main...
+fatal: not a git repository (or any of the parent directories): .git
+Update completed successfully.

@@ -1,0 +1,12 @@
+[main c7aca7a] Update results for 2024-11-14
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cronjob.log
+Warning: Permanently added the ECDSA host key for IP address '140.82.113.4' to the list of known hosts.
+remote: error: Trace: 2102bb9f8445d38b27947e1e45847675b7f4fd514073917f28114104ce313516        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File Miniconda3-latest-Linux-x86_64.sh is 141.47 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:shiyu2011/cookstock.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'git@github.com:shiyu2011/cookstock.git'
+Results updated for 2024-11-14.

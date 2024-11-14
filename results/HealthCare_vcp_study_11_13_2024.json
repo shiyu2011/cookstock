@@ -1,0 +1,918 @@
+{
+    "data": [
+        {
+            "ACLX": {
+                "current price": "100.14",
+                "support price": "100.13999938964844",
+                "pressure price": "106.52999877929688",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ACLX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "ACRS": {
+                "current price": "2.44",
+                "support price": "2.440000057220459",
+                "pressure price": "2.640000104904175",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "ACTU": {
+                "current price": "8.56",
+                "support price": "8.5600004196167",
+                "pressure price": "9.020000457763672",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "ADMA": {
+                "current price": "21.47",
+                "support price": "21.469999313354492",
+                "pressure price": "22.6200008392334",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ADMA.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AGIO": {
+                "current price": "58.6",
+                "support price": "58.599998474121094",
+                "pressure price": "60.459999084472656",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/AGIO.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AIRS": {
+                "current price": "7.41",
+                "support price": "7.409999847412109",
+                "pressure price": "8.680000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/AIRS.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AORT": {
+                "current price": "27.21",
+                "support price": "27.209999084472656",
+                "pressure price": "29.440000534057617",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/AORT.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "APLT": {
+                "current price": "8.92",
+                "support price": "8.920000076293945",
+                "pressure price": "10.239999771118164",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "ATYR": {
+                "current price": "3.52",
+                "support price": "3.0399999618530273",
+                "pressure price": "3.3499999046325684",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ATYR.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AVAH": {
+                "current price": "5.74",
+                "support price": "5.739999771118164",
+                "pressure price": "5.945000171661377",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/AVAH.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AVXL": {
+                "current price": "8.89",
+                "support price": "8.890000343322754",
+                "pressure price": "9.239999771118164",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "AXGN": {
+                "current price": "12.54",
+                "support price": "12.539999961853027",
+                "pressure price": "14.710000038146973",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/AXGN.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "AXSM": {
+                "current price": "97.83",
+                "support price": "97.83000183105469",
+                "pressure price": "99.48999786376953",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "BFLY": {
+                "current price": "2.66",
+                "support price": "2.6600000858306885",
+                "pressure price": "2.7300000190734863",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "BLFS": {
+                "current price": "24.11",
+                "support price": "24.110000610351562",
+                "pressure price": "26.600000381469727",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "BLTE": {
+                "current price": "82.23",
+                "support price": "78.63999938964844",
+                "pressure price": "82.38999938964844",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/BLTE.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "BNTX": {
+                "current price": "111.48",
+                "support price": "106.63999938964844",
+                "pressure price": "122.68000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/BNTX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "BWAY": {
+                "current price": "9.04",
+                "support price": "9.039999961853027",
+                "pressure price": "10.859999656677246",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "CBLL": {
+                "current price": "27.88",
+                "support price": "27.8799991607666",
+                "pressure price": "28.950000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "CDMO": {
+                "current price": "12.2",
+                "support price": "12.199999809265137",
+                "pressure price": "12.260000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/CDMO.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "CKPT": {
+                "current price": "3.62",
+                "support price": "3.299999952316284",
+                "pressure price": "3.8399999141693115",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/CKPT.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "CLOV": {
+                "current price": "3.16",
+                "support price": "3.1600000858306885",
+                "pressure price": "4.349999904632568",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "CLPT": {
+                "current price": "10.95",
+                "support price": "10.949999809265137",
+                "pressure price": "13.460000038146973",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/CLPT.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "CNTA": {
+                "current price": "18.08",
+                "support price": "15.149999618530273",
+                "pressure price": "17.200000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/CNTA.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "CPRX": {
+                "current price": "22.8",
+                "support price": "22.799999237060547",
+                "pressure price": "23.93000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/CPRX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "CRMD": {
+                "current price": "11.35",
+                "support price": "11.350000381469727",
+                "pressure price": "12.039999961853027",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "CRVS": {
+                "current price": "8.87",
+                "support price": "8.6899995803833",
+                "pressure price": "9.5600004196167",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "DCTH": {
+                "current price": "9.41",
+                "support price": "9.40999984741211",
+                "pressure price": "11.369999885559082",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/DCTH.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "ECOR": {
+                "current price": "13.4",
+                "support price": "12.430000305175781",
+                "pressure price": "13.489999771118164",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "ELDN": {
+                "current price": "4.27",
+                "support price": "4.269999980926514",
+                "pressure price": "5.300000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ELDN.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "ELMD": {
+                "current price": "27.79",
+                "support price": "22.3799991607666",
+                "pressure price": "23.290000915527344",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "ETON": {
+                "current price": "10.6",
+                "support price": "8.350000381469727",
+                "pressure price": "8.699999809265137",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ETON.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "EUDA": {
+                "current price": "4.25",
+                "support price": "3.990000009536743",
+                "pressure price": "4.389999866485596",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "FTLF": {
+                "current price": "34.88",
+                "support price": "31.25",
+                "pressure price": "32.560001373291016",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/FTLF.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "GMED": {
+                "current price": "82.54",
+                "support price": "82.54000091552734",
+                "pressure price": "83.41999816894531",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "HIMS": {
+                "current price": "27.6",
+                "support price": "26.690000534057617",
+                "pressure price": "27.8799991607666",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/HIMS.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "ICAD": {
+                "current price": "2.34",
+                "support price": "2.3399999141693115",
+                "pressure price": "2.4000000953674316",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ICAD.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "IKT": {
+                "current price": "2.42",
+                "support price": "2.4200000762939453",
+                "pressure price": "2.890000104904175",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "INGN": {
+                "current price": "10.33",
+                "support price": "10.329999923706055",
+                "pressure price": "11.09000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/INGN.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "INVA": {
+                "current price": "20.1",
+                "support price": "20.100000381469727",
+                "pressure price": "20.31999969482422",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "LFVN": {
+                "current price": "14.19",
+                "support price": "13.65999984741211",
+                "pressure price": "14.4399995803833",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/LFVN.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "LGND": {
+                "current price": "122.08",
+                "support price": "120.73999786376953",
+                "pressure price": "129.89999389648438",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/LGND.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "LNSR": {
+                "current price": "7.39",
+                "support price": "5.300000190734863",
+                "pressure price": "5.789999961853027",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/LNSR.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "LUMO": {
+                "current price": "4.3",
+                "support price": "4.300000190734863",
+                "pressure price": "4.449999809265137",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "MGTX": {
+                "current price": "7.04",
+                "support price": "6.659999847412109",
+                "pressure price": "7.099999904632568",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/MGTX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "MMSI": {
+                "current price": "101.68",
+                "support price": "101.68000030517578",
+                "pressure price": "104.23999786376953",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "MNKD": {
+                "current price": "6.96",
+                "support price": "6.960000038146973",
+                "pressure price": "7.440000057220459",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "MNOV": {
+                "current price": "2.0",
+                "support price": "2.0",
+                "pressure price": "2.2799999713897705",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "NTRA": {
+                "current price": "160.97",
+                "support price": "120.95999908447266",
+                "pressure price": "126.7300033569336",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "NVCT": {
+                "current price": "10.67",
+                "support price": "10.670000076293945",
+                "pressure price": "10.979999542236328",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "NXGL": {
+                "current price": "3.29",
+                "support price": "3.1500000953674316",
+                "pressure price": "3.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/NXGL.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "OFIX": {
+                "current price": "18.64",
+                "support price": "18.639999389648438",
+                "pressure price": "20.020000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/OFIX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "PAHC": {
+                "current price": "25.27",
+                "support price": "25.059999465942383",
+                "pressure price": "25.549999237060547",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/PAHC.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "PBH": {
+                "current price": "82.32",
+                "support price": "71.30000305175781",
+                "pressure price": "72.55000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "PCVX": {
+                "current price": "96.63",
+                "support price": "96.62999725341797",
+                "pressure price": "117.93000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "PDEX": {
+                "current price": "46.96",
+                "support price": "46.959999084472656",
+                "pressure price": "49.54999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/PDEX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "PODD": {
+                "current price": "269.06",
+                "support price": "269.05999755859375",
+                "pressure price": "275.70001220703125",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/PODD.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "PRAX": {
+                "current price": "81.72",
+                "support price": "81.72000122070312",
+                "pressure price": "84.83000183105469",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "PRCT": {
+                "current price": "92.25",
+                "support price": "92.25",
+                "pressure price": "99.06999969482422",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "PRQR": {
+                "current price": "3.96",
+                "support price": "3.9600000381469727",
+                "pressure price": "3.9800000190734863",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "PSNL": {
+                "current price": "4.75",
+                "support price": "4.75",
+                "pressure price": "5.230000019073486",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "QTTB": {
+                "current price": "39.73",
+                "support price": "39.72999954223633",
+                "pressure price": "50.59000015258789",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "RDNT": {
+                "current price": "82.56",
+                "support price": "82.55999755859375",
+                "pressure price": "86.37999725341797",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/RDNT.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "RIGL": {
+                "current price": "27.41",
+                "support price": "13.630000114440918",
+                "pressure price": "16.59000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/RIGL.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "RYTM": {
+                "current price": "60.07",
+                "support price": "60.06999969482422",
+                "pressure price": "67.33000183105469",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/RYTM.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "SGMO": {
+                "current price": "2.44",
+                "support price": "2.440000057220459",
+                "pressure price": "2.869999885559082",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "SPRY": {
+                "current price": "14.08",
+                "support price": "14.079999923706055",
+                "pressure price": "17.489999771118164",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/SPRY.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "TECX": {
+                "current price": "46.74",
+                "support price": "46.7400016784668",
+                "pressure price": "47.75",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "TGTX": {
+                "current price": "34.9",
+                "support price": "23.1299991607666",
+                "pressure price": "24.56999969482422",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/TGTX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "TKNO": {
+                "current price": "6.25",
+                "support price": "6.25",
+                "pressure price": "7.559999942779541",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "TRDA": {
+                "current price": "19.96",
+                "support price": "16.84000015258789",
+                "pressure price": "17.829999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/TRDA.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "TRUP": {
+                "current price": "52.52",
+                "support price": "52.52000045776367",
+                "pressure price": "53.75",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "TVTX": {
+                "current price": "18.56",
+                "support price": "18.559999465942383",
+                "pressure price": "19.850000381469727",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/TVTX.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "UFPT": {
+                "current price": "314.88",
+                "support price": "314.8800048828125",
+                "pressure price": "346.2900085449219",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "UPB": {
+                "current price": "25.91",
+                "support price": "25.90999984741211",
+                "pressure price": "27.389999389648438",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/UPB.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "VMD": {
+                "current price": "9.15",
+                "support price": "9.149999618530273",
+                "pressure price": "9.510000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/VMD.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "VRDN": {
+                "current price": "22.48",
+                "support price": "22.43000030517578",
+                "pressure price": "25.709999084472656",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "VRNA": {
+                "current price": "36.93",
+                "support price": "36.93000030517578",
+                "pressure price": "39.869998931884766",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "WRBY": {
+                "current price": "21.12",
+                "support price": "21.1200008392334",
+                "pressure price": "21.229999542236328",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "WVE": {
+                "current price": "15.69",
+                "support price": "15.6899995803833",
+                "pressure price": "16.440000534057617",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/WVE.jpg",
+                "boomFlag": true
+            }
+        },
+        {
+            "XERS": {
+                "current price": "3.15",
+                "support price": "3.1500000953674316",
+                "pressure price": "3.4700000286102295",
+                "is_good_pivot": "False",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True"
+            }
+        },
+        {
+            "XOMA": {
+                "current price": "29.71",
+                "support price": "29.709999084472656",
+                "pressure price": "32.459999084472656",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "ZLAB": {
+                "current price": "29.95",
+                "support price": "28.959999084472656",
+                "pressure price": "33.18000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/picture_11_13_2024/HealthCare/ZLAB.jpg",
+                "boomFlag": true
+            }
+        }
+    ]
+}

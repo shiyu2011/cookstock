@@ -1,0 +1,2159 @@
+{
+    "data": [
+        {
+            "AAOI": {
+                "current price": "27.26",
+                "support price": "15.619999885559082",
+                "pressure price": "19.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AAOI.jpg"
+            }
+        },
+        {
+            "AIRG": {
+                "current price": "9.35",
+                "support price": "9.1899995803833",
+                "pressure price": "9.670000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AIRG.jpg"
+            }
+        },
+        {
+            "ALKT": {
+                "current price": "37.79",
+                "support price": "37.599998474121094",
+                "pressure price": "39.86000061035156",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ALKT.jpg"
+            }
+        },
+        {
+            "ALTR": {
+                "current price": "103.82",
+                "support price": "103.6500015258789",
+                "pressure price": "110.66999816894531",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ALTR.jpg"
+            }
+        },
+        {
+            "AVPT": {
+                "current price": "16.03",
+                "support price": "12.140000343322754",
+                "pressure price": "12.4399995803833",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AVPT.jpg"
+            }
+        },
+        {
+            "BCOV": {
+                "current price": "2.98",
+                "support price": "2.069999933242798",
+                "pressure price": "2.4200000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BCOV.jpg"
+            }
+        },
+        {
+            "CARG": {
+                "current price": "36.57",
+                "support price": "31.020000457763672",
+                "pressure price": "32.150001525878906",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CARG.jpg"
+            }
+        },
+        {
+            "CCLDO": {
+                "current price": "17.5525",
+                "support price": "12.300000190734863",
+                "pressure price": "12.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CCLDO.jpg"
+            }
+        },
+        {
+            "CCLDP": {
+                "current price": "17.36",
+                "support price": "11.920000076293945",
+                "pressure price": "12.300000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CCLDP.jpg"
+            }
+        },
+        {
+            "CLMB": {
+                "current price": "121.57",
+                "support price": "118.27999877929688",
+                "pressure price": "122.41999816894531",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CLMB.jpg"
+            }
+        },
+        {
+            "CYBR": {
+                "current price": "291.61",
+                "support price": "274.1000061035156",
+                "pressure price": "300.05999755859375",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CYBR.jpg"
+            }
+        },
+        {
+            "EXFY": {
+                "current price": "2.81",
+                "support price": "1.840000033378601",
+                "pressure price": "1.9600000381469727",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/EXFY.jpg"
+            }
+        },
+        {
+            "FTNT": {
+                "current price": "97.88",
+                "support price": "77.91999816894531",
+                "pressure price": "82.87000274658203",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FTNT.jpg"
+            }
+        },
+        {
+            "GAN": {
+                "current price": "1.82",
+                "support price": "1.7300000190734863",
+                "pressure price": "1.7400000095367432",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/GAN.jpg"
+            }
+        },
+        {
+            "IBEX": {
+                "current price": "19.94",
+                "support price": "19.479999542236328",
+                "pressure price": "20.18000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/IBEX.jpg"
+            }
+        },
+        {
+            "INOD": {
+                "current price": "39.33",
+                "support price": "20.110000610351562",
+                "pressure price": "21.68000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/INOD.jpg"
+            }
+        },
+        {
+            "IONQ": {
+                "current price": "26.76",
+                "support price": "23.010000228881836",
+                "pressure price": "24.790000915527344",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/IONQ.jpg"
+            }
+        },
+        {
+            "ISSC": {
+                "current price": "7.73",
+                "support price": "7.190000057220459",
+                "pressure price": "7.340000152587891",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ISSC.jpg"
+            }
+        },
+        {
+            "KD": {
+                "current price": "28.7",
+                "support price": "22.889999389648438",
+                "pressure price": "25.15999984741211",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/KD.jpg"
+            }
+        },
+        {
+            "KLTR": {
+                "current price": "2.06",
+                "support price": "1.309999942779541",
+                "pressure price": "1.3899999856948853",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/KLTR.jpg"
+            }
+        },
+        {
+            "KVYO": {
+                "current price": "36.67",
+                "support price": "33.349998474121094",
+                "pressure price": "40.36000061035156",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/KVYO.jpg"
+            }
+        },
+        {
+            "MGNI": {
+                "current price": "16.8",
+                "support price": "12.199999809265137",
+                "pressure price": "12.800000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MGNI.jpg"
+            }
+        },
+        {
+            "MTLS": {
+                "current price": "7.34",
+                "support price": "5.909999847412109",
+                "pressure price": "6.389999866485596",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MTLS.jpg"
+            }
+        },
+        {
+            "NYAX": {
+                "current price": "28.0",
+                "support price": "26.229999542236328",
+                "pressure price": "29.450000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NYAX.jpg"
+            }
+        },
+        {
+            "OS": {
+                "current price": "34.45",
+                "support price": "29.100000381469727",
+                "pressure price": "32.65999984741211",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/OS.jpg"
+            }
+        },
+        {
+            "PLTR": {
+                "current price": "60.7",
+                "support price": "41.40999984741211",
+                "pressure price": "44.970001220703125",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PLTR.jpg"
+            }
+        },
+        {
+            "QUBT": {
+                "current price": "2.66",
+                "support price": "1.0499999523162842",
+                "pressure price": "1.2799999713897705",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/QUBT.jpg"
+            }
+        },
+        {
+            "RBLX": {
+                "current price": "53.14",
+                "support price": "53.13999938964844",
+                "pressure price": "54.560001373291016",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RBLX.jpg"
+            }
+        },
+        {
+            "RDCM": {
+                "current price": "11.99",
+                "support price": "10.449999809265137",
+                "pressure price": "10.670000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RDCM.jpg"
+            }
+        },
+        {
+            "RDVT": {
+                "current price": "34.42",
+                "support price": "34.41999816894531",
+                "pressure price": "35.29999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RDVT.jpg"
+            }
+        },
+        {
+            "RNG": {
+                "current price": "37.94",
+                "support price": "36.209999084472656",
+                "pressure price": "38.79999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RNG.jpg"
+            }
+        },
+        {
+            "SCKT": {
+                "current price": "1.39",
+                "support price": "1.1399999856948853",
+                "pressure price": "1.1799999475479126",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SCKT.jpg"
+            }
+        },
+        {
+            "SHOP": {
+                "current price": "115.09",
+                "support price": "78.20999908447266",
+                "pressure price": "83.68000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SHOP.jpg"
+            }
+        },
+        {
+            "SRAD": {
+                "current price": "17.17",
+                "support price": "12.3100004196167",
+                "pressure price": "12.774999618530273",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SRAD.jpg"
+            }
+        },
+        {
+            "SWI": {
+                "current price": "13.65",
+                "support price": "13.470000267028809",
+                "pressure price": "13.989999771118164",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SWI.jpg"
+            }
+        },
+        {
+            "TEM": {
+                "current price": "68.08",
+                "support price": "68.04000091552734",
+                "pressure price": "77.62000274658203",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TEM.jpg"
+            }
+        },
+        {
+            "TOST": {
+                "current price": "39.92",
+                "support price": "29.25",
+                "pressure price": "30.31999969482422",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TOST.jpg"
+            }
+        },
+        {
+            "TRT": {
+                "current price": "6.7682",
+                "support price": "6.599999904632568",
+                "pressure price": "7.179999828338623",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TRT.jpg"
+            }
+        },
+        {
+            "TSEM": {
+                "current price": "48.42",
+                "support price": "41.029998779296875",
+                "pressure price": "46.029998779296875",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TSEM.jpg"
+            }
+        },
+        {
+            "VERX": {
+                "current price": "50.58",
+                "support price": "49.290000915527344",
+                "pressure price": "51.9900016784668",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VERX.jpg"
+            }
+        },
+        {
+            "VICR": {
+                "current price": "57.07",
+                "support price": "57.06999969482422",
+                "pressure price": "60.939998626708984",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VICR.jpg"
+            }
+        },
+        {
+            "WGS": {
+                "current price": "78.48",
+                "support price": "74.86000061035156",
+                "pressure price": "84.0199966430664",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WGS.jpg"
+            }
+        },
+        {
+            "WIT": {
+                "current price": "6.87",
+                "support price": "6.869999885559082",
+                "pressure price": "7.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WIT.jpg"
+            }
+        },
+        {
+            "XNET": {
+                "current price": "2.11",
+                "support price": "2.0999999046325684",
+                "pressure price": "2.200000047683716",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/XNET.jpg"
+            }
+        },
+        {
+            "ZUO": {
+                "current price": "9.9",
+                "support price": "9.890000343322754",
+                "pressure price": "9.899999618530273",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ZUO.jpg"
+            }
+        },
+        {
+            "AGIO": {
+                "current price": "58.6",
+                "support price": "58.599998474121094",
+                "pressure price": "60.459999084472656",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AGIO.jpg"
+            }
+        },
+        {
+            "AIRS": {
+                "current price": "7.41",
+                "support price": "7.409999847412109",
+                "pressure price": "8.680000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AIRS.jpg"
+            }
+        },
+        {
+            "AORT": {
+                "current price": "27.21",
+                "support price": "27.209999084472656",
+                "pressure price": "29.440000534057617",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AORT.jpg"
+            }
+        },
+        {
+            "ATYR": {
+                "current price": "3.52",
+                "support price": "3.0399999618530273",
+                "pressure price": "3.3499999046325684",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ATYR.jpg"
+            }
+        },
+        {
+            "AVAH": {
+                "current price": "5.74",
+                "support price": "5.739999771118164",
+                "pressure price": "5.945000171661377",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AVAH.jpg"
+            }
+        },
+        {
+            "BLTE": {
+                "current price": "82.23",
+                "support price": "78.63999938964844",
+                "pressure price": "82.38999938964844",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BLTE.jpg"
+            }
+        },
+        {
+            "BNTX": {
+                "current price": "111.48",
+                "support price": "106.63999938964844",
+                "pressure price": "122.68000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BNTX.jpg"
+            }
+        },
+        {
+            "CAH": {
+                "current price": "125.33",
+                "support price": "107.88999938964844",
+                "pressure price": "114.54000091552734",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CAH.jpg"
+            }
+        },
+        {
+            "CDMO": {
+                "current price": "12.2",
+                "support price": "12.199999809265137",
+                "pressure price": "12.260000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CDMO.jpg"
+            }
+        },
+        {
+            "CKPT": {
+                "current price": "3.62",
+                "support price": "3.299999952316284",
+                "pressure price": "3.8399999141693115",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CKPT.jpg"
+            }
+        },
+        {
+            "CLPT": {
+                "current price": "10.95",
+                "support price": "10.949999809265137",
+                "pressure price": "13.460000038146973",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CLPT.jpg"
+            }
+        },
+        {
+            "CNTA": {
+                "current price": "18.08",
+                "support price": "15.149999618530273",
+                "pressure price": "17.200000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CNTA.jpg"
+            }
+        },
+        {
+            "DCTH": {
+                "current price": "9.41",
+                "support price": "9.40999984741211",
+                "pressure price": "11.369999885559082",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/DCTH.jpg"
+            }
+        },
+        {
+            "ELDN": {
+                "current price": "4.27",
+                "support price": "4.269999980926514",
+                "pressure price": "5.300000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ELDN.jpg"
+            }
+        },
+        {
+            "ETON": {
+                "current price": "10.6",
+                "support price": "8.350000381469727",
+                "pressure price": "8.699999809265137",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ETON.jpg"
+            }
+        },
+        {
+            "FTLF": {
+                "current price": "34.88",
+                "support price": "31.25",
+                "pressure price": "32.560001373291016",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FTLF.jpg"
+            }
+        },
+        {
+            "GILD": {
+                "current price": "92.63",
+                "support price": "92.62999725341797",
+                "pressure price": "97.9000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/GILD.jpg"
+            }
+        },
+        {
+            "HIMS": {
+                "current price": "27.6",
+                "support price": "26.690000534057617",
+                "pressure price": "27.8799991607666",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HIMS.jpg"
+            }
+        },
+        {
+            "ICAD": {
+                "current price": "2.34",
+                "support price": "2.3399999141693115",
+                "pressure price": "2.4000000953674316",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ICAD.jpg"
+            }
+        },
+        {
+            "LGND": {
+                "current price": "122.08",
+                "support price": "120.73999786376953",
+                "pressure price": "129.89999389648438",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/LGND.jpg"
+            }
+        },
+        {
+            "LNSR": {
+                "current price": "7.39",
+                "support price": "5.300000190734863",
+                "pressure price": "5.789999961853027",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/LNSR.jpg"
+            }
+        },
+        {
+            "MGTX": {
+                "current price": "7.04",
+                "support price": "6.659999847412109",
+                "pressure price": "7.099999904632568",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MGTX.jpg"
+            }
+        },
+        {
+            "NXGL": {
+                "current price": "3.29",
+                "support price": "3.1500000953674316",
+                "pressure price": "3.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NXGL.jpg"
+            }
+        },
+        {
+            "OFIX": {
+                "current price": "18.64",
+                "support price": "18.639999389648438",
+                "pressure price": "20.020000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/OFIX.jpg"
+            }
+        },
+        {
+            "ORGO": {
+                "current price": "4.43",
+                "support price": "2.799999952316284",
+                "pressure price": "3.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ORGO.jpg"
+            }
+        },
+        {
+            "PAHC": {
+                "current price": "25.27",
+                "support price": "25.059999465942383",
+                "pressure price": "25.549999237060547",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PAHC.jpg"
+            }
+        },
+        {
+            "PDEX": {
+                "current price": "46.96",
+                "support price": "46.959999084472656",
+                "pressure price": "49.54999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PDEX.jpg"
+            }
+        },
+        {
+            "RDNT": {
+                "current price": "82.56",
+                "support price": "82.55999755859375",
+                "pressure price": "86.37999725341797",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RDNT.jpg"
+            }
+        },
+        {
+            "RIGL": {
+                "current price": "27.41",
+                "support price": "13.630000114440918",
+                "pressure price": "16.59000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RIGL.jpg"
+            }
+        },
+        {
+            "RYTM": {
+                "current price": "60.07",
+                "support price": "60.06999969482422",
+                "pressure price": "67.33000183105469",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RYTM.jpg"
+            }
+        },
+        {
+            "SPRY": {
+                "current price": "14.08",
+                "support price": "14.079999923706055",
+                "pressure price": "17.489999771118164",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SPRY.jpg"
+            }
+        },
+        {
+            "TGTX": {
+                "current price": "34.9",
+                "support price": "23.1299991607666",
+                "pressure price": "24.56999969482422",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TGTX.jpg"
+            }
+        },
+        {
+            "TRDA": {
+                "current price": "19.96",
+                "support price": "16.84000015258789",
+                "pressure price": "17.829999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TRDA.jpg"
+            }
+        },
+        {
+            "UPB": {
+                "current price": "25.91",
+                "support price": "25.90999984741211",
+                "pressure price": "27.389999389648438",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/UPB.jpg"
+            }
+        },
+        {
+            "VMD": {
+                "current price": "9.15",
+                "support price": "9.149999618530273",
+                "pressure price": "9.510000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VMD.jpg"
+            }
+        },
+        {
+            "WVE": {
+                "current price": "15.69",
+                "support price": "15.6899995803833",
+                "pressure price": "16.440000534057617",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WVE.jpg"
+            }
+        },
+        {
+            "ZLAB": {
+                "current price": "29.95",
+                "support price": "28.959999084472656",
+                "pressure price": "33.18000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ZLAB.jpg"
+            }
+        },
+        {
+            "ABLLL": {
+                "current price": "27.02",
+                "support price": "26.399999618530273",
+                "pressure price": "27.299999237060547",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ABLLL.jpg"
+            }
+        },
+        {
+            "ACT": {
+                "current price": "34.3",
+                "support price": "34.29999923706055",
+                "pressure price": "34.619998931884766",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ACT.jpg"
+            }
+        },
+        {
+            "AFGD": {
+                "current price": "25.24",
+                "support price": "24.225000381469727",
+                "pressure price": "25.579999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AFGD.jpg"
+            }
+        },
+        {
+            "AFRM": {
+                "current price": "54.82",
+                "support price": "54.81999969482422",
+                "pressure price": "57.59000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AFRM.jpg"
+            }
+        },
+        {
+            "AGO": {
+                "current price": "88.95",
+                "support price": "88.94999694824219",
+                "pressure price": "91.41000366210938",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/AGO.jpg"
+            }
+        },
+        {
+            "ATLC": {
+                "current price": "46.18",
+                "support price": "36.439998626708984",
+                "pressure price": "37.40999984741211",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ATLC.jpg"
+            }
+        },
+        {
+            "BAFN": {
+                "current price": "13.7",
+                "support price": "13.430000305175781",
+                "pressure price": "13.869999885559082",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BAFN.jpg"
+            }
+        },
+        {
+            "BANF": {
+                "current price": "122.57",
+                "support price": "122.56999969482422",
+                "pressure price": "126.5199966430664",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BANF.jpg"
+            }
+        },
+        {
+            "BGH": {
+                "current price": "15.41",
+                "support price": "15.390000343322754",
+                "pressure price": "16.15999984741211",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BGH.jpg"
+            }
+        },
+        {
+            "BHB": {
+                "current price": "35.44",
+                "support price": "35.439998626708984",
+                "pressure price": "38.22999954223633",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BHB.jpg"
+            }
+        },
+        {
+            "BOW": {
+                "current price": "33.12",
+                "support price": "33.119998931884766",
+                "pressure price": "34.099998474121094",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BOW.jpg"
+            }
+        },
+        {
+            "BRBS": {
+                "current price": "3.6",
+                "support price": "2.75",
+                "pressure price": "2.9600000381469727",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BRBS.jpg"
+            }
+        },
+        {
+            "BSRR": {
+                "current price": "32.17",
+                "support price": "32.16999816894531",
+                "pressure price": "32.900001525878906",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BSRR.jpg"
+            }
+        },
+        {
+            "BTT": {
+                "current price": "21.26",
+                "support price": "21.100000381469727",
+                "pressure price": "21.260000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BTT.jpg"
+            }
+        },
+        {
+            "BWB": {
+                "current price": "15.04",
+                "support price": "15.039999961853027",
+                "pressure price": "15.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BWB.jpg"
+            }
+        },
+        {
+            "CBNK": {
+                "current price": "28.15",
+                "support price": "28.149999618530273",
+                "pressure price": "28.84000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CBNK.jpg"
+            }
+        },
+        {
+            "CCB": {
+                "current price": "73.66",
+                "support price": "62.81999969482422",
+                "pressure price": "66.56999969482422",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CCB.jpg"
+            }
+        },
+        {
+            "CEP": {
+                "current price": "10.17",
+                "support price": "10.0600004196167",
+                "pressure price": "10.100000381469727",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CEP.jpg"
+            }
+        },
+        {
+            "CFBK": {
+                "current price": "28.25",
+                "support price": "28.0",
+                "pressure price": "29.549999237060547",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CFBK.jpg"
+            }
+        },
+        {
+            "CFFS": {
+                "current price": "11.16",
+                "support price": "11.029999732971191",
+                "pressure price": "11.039999961853027",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CFFS.jpg"
+            }
+        },
+        {
+            "CIFR": {
+                "current price": "6.62",
+                "support price": "6.619999885559082",
+                "pressure price": "7.429999828338623",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CIFR.jpg"
+            }
+        },
+        {
+            "COF": {
+                "current price": "185.53",
+                "support price": "185.52999877929688",
+                "pressure price": "190.2100067138672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/COF.jpg"
+            }
+        },
+        {
+            "COFS": {
+                "current price": "35.87",
+                "support price": "35.869998931884766",
+                "pressure price": "36.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/COFS.jpg"
+            }
+        },
+        {
+            "CORZ": {
+                "current price": "16.13",
+                "support price": "16.1299991607666",
+                "pressure price": "17.469999313354492",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CORZ.jpg"
+            }
+        },
+        {
+            "CPBI": {
+                "current price": "14.54",
+                "support price": "14.539999961853027",
+                "pressure price": "14.795000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CPBI.jpg"
+            }
+        },
+        {
+            "CPSS": {
+                "current price": "10.17",
+                "support price": "9.9399995803833",
+                "pressure price": "11.1899995803833",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CPSS.jpg"
+            }
+        },
+        {
+            "CRBG": {
+                "current price": "30.76",
+                "support price": "30.68000030517578",
+                "pressure price": "33.369998931884766",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CRBG.jpg"
+            }
+        },
+        {
+            "CRF": {
+                "current price": "9.17",
+                "support price": "8.380000114440918",
+                "pressure price": "8.4399995803833",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CRF.jpg"
+            }
+        },
+        {
+            "CURB": {
+                "current price": "24.15",
+                "support price": "24.149999618530273",
+                "pressure price": "24.59000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CURB.jpg"
+            }
+        },
+        {
+            "CWBC": {
+                "current price": "20.44",
+                "support price": "18.530000686645508",
+                "pressure price": "19.209999084472656",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CWBC.jpg"
+            }
+        },
+        {
+            "CZWI": {
+                "current price": "14.8",
+                "support price": "14.0",
+                "pressure price": "14.180000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CZWI.jpg"
+            }
+        },
+        {
+            "ECCC": {
+                "current price": "23.6",
+                "support price": "23.530000686645508",
+                "pressure price": "23.719999313354492",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/ECCC.jpg"
+            }
+        },
+        {
+            "EMO": {
+                "current price": "46.64",
+                "support price": "46.63999938964844",
+                "pressure price": "46.810001373291016",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/EMO.jpg"
+            }
+        },
+        {
+            "FBIZ": {
+                "current price": "50.51",
+                "support price": "50.5099983215332",
+                "pressure price": "51.029998779296875",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FBIZ.jpg"
+            }
+        },
+        {
+            "FBLA": {
+                "current price": "12.37",
+                "support price": "12.369999885559082",
+                "pressure price": "12.430000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FBLA.jpg"
+            }
+        },
+        {
+            "FCT": {
+                "current price": "10.33",
+                "support price": "10.239999771118164",
+                "pressure price": "10.329999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FCT.jpg"
+            }
+        },
+        {
+            "FDBC": {
+                "current price": "55.53",
+                "support price": "55.529998779296875",
+                "pressure price": "58.630001068115234",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FDBC.jpg"
+            }
+        },
+        {
+            "FDSB": {
+                "current price": "12.51",
+                "support price": "10.899999618530273",
+                "pressure price": "11.779999732971191",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FDSB.jpg"
+            }
+        },
+        {
+            "FINS": {
+                "current price": "12.79",
+                "support price": "12.789999961853027",
+                "pressure price": "13.289999961853027",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FINS.jpg"
+            }
+        },
+        {
+            "FLD": {
+                "current price": "10.94",
+                "support price": "10.9399995803833",
+                "pressure price": "10.949999809265137",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FLD.jpg"
+            }
+        },
+        {
+            "FNLC": {
+                "current price": "28.82",
+                "support price": "28.81999969482422",
+                "pressure price": "31.020000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FNLC.jpg"
+            }
+        },
+        {
+            "FOA": {
+                "current price": "18.82",
+                "support price": "18.81999969482422",
+                "pressure price": "20.950000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FOA.jpg"
+            }
+        },
+        {
+            "FRHC": {
+                "current price": "114.61",
+                "support price": "114.48999786376953",
+                "pressure price": "115.86000061035156",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FRHC.jpg"
+            }
+        },
+        {
+            "FRME": {
+                "current price": "43.57",
+                "support price": "43.56999969482422",
+                "pressure price": "44.540000915527344",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FRME.jpg"
+            }
+        },
+        {
+            "FSFG": {
+                "current price": "28.78",
+                "support price": "24.309999465942383",
+                "pressure price": "24.600000381469727",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FSFG.jpg"
+            }
+        },
+        {
+            "FXNC": {
+                "current price": "23.85",
+                "support price": "20.719999313354492",
+                "pressure price": "21.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/FXNC.jpg"
+            }
+        },
+        {
+            "GCMG": {
+                "current price": "11.62",
+                "support price": "11.479999542236328",
+                "pressure price": "12.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/GCMG.jpg"
+            }
+        },
+        {
+            "GIG": {
+                "current price": "9.95",
+                "support price": "9.890000343322754",
+                "pressure price": "9.930000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/GIG.jpg"
+            }
+        },
+        {
+            "GSBC": {
+                "current price": "63.59",
+                "support price": "63.400001525878906",
+                "pressure price": "66.91999816894531",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/GSBC.jpg"
+            }
+        },
+        {
+            "HIFS": {
+                "current price": "285.02",
+                "support price": "285.0199890136719",
+                "pressure price": "298.7699890136719",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HIFS.jpg"
+            }
+        },
+        {
+            "HNVR": {
+                "current price": "21.31",
+                "support price": "17.139999389648438",
+                "pressure price": "17.645000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "False"
+            }
+        },
+        {
+            "HNW": {
+                "current price": "12.29",
+                "support price": "12.270000457763672",
+                "pressure price": "12.390000343322754",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HNW.jpg"
+            }
+        },
+        {
+            "HOMB": {
+                "current price": "30.8",
+                "support price": "30.799999237060547",
+                "pressure price": "31.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HOMB.jpg"
+            }
+        },
+        {
+            "HOOD": {
+                "current price": "31.91",
+                "support price": "31.90999984741211",
+                "pressure price": "33.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HOOD.jpg"
+            }
+        },
+        {
+            "HUT": {
+                "current price": "24.78",
+                "support price": "15.5600004196167",
+                "pressure price": "18.155000686645508",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HUT.jpg"
+            }
+        },
+        {
+            "HWBK": {
+                "current price": "28.12",
+                "support price": "27.56999969482422",
+                "pressure price": "28.440000534057617",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HWBK.jpg"
+            }
+        },
+        {
+            "HYB": {
+                "current price": "8.14",
+                "support price": "8.130000114440918",
+                "pressure price": "8.1899995803833",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HYB.jpg"
+            }
+        },
+        {
+            "IBKR": {
+                "current price": "178.65",
+                "support price": "178.64999389648438",
+                "pressure price": "179.5500030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/IBKR.jpg"
+            }
+        },
+        {
+            "IPXX": {
+                "current price": "10.79",
+                "support price": "10.789999961853027",
+                "pressure price": "10.805000305175781",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/IPXX.jpg"
+            }
+        },
+        {
+            "JEF": {
+                "current price": "74.58",
+                "support price": "63.83000183105469",
+                "pressure price": "67.26000213623047",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/JEF.jpg"
+            }
+        },
+        {
+            "LMND": {
+                "current price": "31.99",
+                "support price": "31.989999771118164",
+                "pressure price": "34.2400016784668",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/LMND.jpg"
+            }
+        },
+        {
+            "LSAK": {
+                "current price": "5.12",
+                "support price": "5.119999885559082",
+                "pressure price": "5.550000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/LSAK.jpg"
+            }
+        },
+        {
+            "MBINN": {
+                "current price": "22.68",
+                "support price": "22.475000381469727",
+                "pressure price": "24.270000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MBINN.jpg"
+            }
+        },
+        {
+            "MOFG": {
+                "current price": "32.92",
+                "support price": "32.91999816894531",
+                "pressure price": "33.4900016784668",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MOFG.jpg"
+            }
+        },
+        {
+            "MPB": {
+                "current price": "32.48",
+                "support price": "32.47999954223633",
+                "pressure price": "33.02000045776367",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MPB.jpg"
+            }
+        },
+        {
+            "MRBK": {
+                "current price": "13.98",
+                "support price": "13.789999961853027",
+                "pressure price": "14.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MRBK.jpg"
+            }
+        },
+        {
+            "MRX": {
+                "current price": "28.46",
+                "support price": "28.459999084472656",
+                "pressure price": "29.0",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MRX.jpg"
+            }
+        },
+        {
+            "MUE": {
+                "current price": "10.52",
+                "support price": "10.4399995803833",
+                "pressure price": "10.520000457763672",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/MUE.jpg"
+            }
+        },
+        {
+            "NAZ": {
+                "current price": "12.21",
+                "support price": "11.5600004196167",
+                "pressure price": "11.920000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NAZ.jpg"
+            }
+        },
+        {
+            "NBHC": {
+                "current price": "48.57",
+                "support price": "48.56999969482422",
+                "pressure price": "51.2400016784668",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NBHC.jpg"
+            }
+        },
+        {
+            "NBN": {
+                "current price": "102.24",
+                "support price": "102.23999786376953",
+                "pressure price": "103.33000183105469",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NBN.jpg"
+            }
+        },
+        {
+            "NCTY": {
+                "current price": "10.09",
+                "support price": "8.180000305175781",
+                "pressure price": "8.979999542236328",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NCTY.jpg"
+            }
+        },
+        {
+            "NCV": {
+                "current price": "3.51",
+                "support price": "3.509999990463257",
+                "pressure price": "3.559999942779541",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NCV.jpg"
+            }
+        },
+        {
+            "NEWT": {
+                "current price": "14.48",
+                "support price": "14.479999542236328",
+                "pressure price": "15.460000038146973",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NEWT.jpg"
+            }
+        },
+        {
+            "NRIM": {
+                "current price": "81.73",
+                "support price": "73.77999877929688",
+                "pressure price": "77.77999877929688",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/NRIM.jpg"
+            }
+        },
+        {
+            "OBT": {
+                "current price": "62.55",
+                "support price": "62.54999923706055",
+                "pressure price": "63.79999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/OBT.jpg"
+            }
+        },
+        {
+            "OPOF": {
+                "current price": "20.8",
+                "support price": "20.799999237060547",
+                "pressure price": "20.93000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/OPOF.jpg"
+            }
+        },
+        {
+            "PFIS": {
+                "current price": "52.28",
+                "support price": "52.279998779296875",
+                "pressure price": "52.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PFIS.jpg"
+            }
+        },
+        {
+            "PFXNZ": {
+                "current price": "22.8",
+                "support price": "22.530000686645508",
+                "pressure price": "22.899999618530273",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PFXNZ.jpg"
+            }
+        },
+        {
+            "PHK": {
+                "current price": "4.99",
+                "support price": "4.989999771118164",
+                "pressure price": "5.099999904632568",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PHK.jpg"
+            }
+        },
+        {
+            "PLBC": {
+                "current price": "45.9",
+                "support price": "41.150001525878906",
+                "pressure price": "42.650001525878906",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/PLBC.jpg"
+            }
+        },
+        {
+            "RVT": {
+                "current price": "16.415",
+                "support price": "16.350000381469727",
+                "pressure price": "16.899999618530273",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RVT.jpg"
+            }
+        },
+        {
+            "SASR": {
+                "current price": "37.94",
+                "support price": "37.279998779296875",
+                "pressure price": "38.5099983215332",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SASR.jpg"
+            }
+        },
+        {
+            "SCHW": {
+                "current price": "80.64",
+                "support price": "70.83000183105469",
+                "pressure price": "72.58999633789062",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SCHW.jpg"
+            }
+        },
+        {
+            "SIEB": {
+                "current price": "2.66",
+                "support price": "2.440000057220459",
+                "pressure price": "2.7300000190734863",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SIEB.jpg"
+            }
+        },
+        {
+            "SMBK": {
+                "current price": "36.03",
+                "support price": "36.029998779296875",
+                "pressure price": "36.54999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SMBK.jpg"
+            }
+        },
+        {
+            "SNEX": {
+                "current price": "95.965",
+                "support price": "95.66999816894531",
+                "pressure price": "98.76000213623047",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SNEX.jpg"
+            }
+        },
+        {
+            "SPE": {
+                "current price": "14.975",
+                "support price": "14.9399995803833",
+                "pressure price": "15.220000267028809",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SPE.jpg"
+            }
+        },
+        {
+            "SPFI": {
+                "current price": "39.5",
+                "support price": "39.189998626708984",
+                "pressure price": "40.5099983215332",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SPFI.jpg"
+            }
+        },
+        {
+            "SSBK": {
+                "current price": "36.03",
+                "support price": "36.029998779296875",
+                "pressure price": "36.4900016784668",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SSBK.jpg"
+            }
+        },
+        {
+            "SSSS": {
+                "current price": "4.8023",
+                "support price": "4.75",
+                "pressure price": "5.400000095367432",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SSSS.jpg"
+            }
+        },
+        {
+            "STEP": {
+                "current price": "64.39",
+                "support price": "64.12000274658203",
+                "pressure price": "69.31999969482422",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/STEP.jpg"
+            }
+        },
+        {
+            "TCBI": {
+                "current price": "88.9675",
+                "support price": "75.95999908447266",
+                "pressure price": "80.54000091552734",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TCBI.jpg"
+            }
+        },
+        {
+            "TRMK": {
+                "current price": "38.97",
+                "support price": "38.7599983215332",
+                "pressure price": "39.86000061035156",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TRMK.jpg"
+            }
+        },
+        {
+            "TWFG": {
+                "current price": "31.87",
+                "support price": "31.610000610351562",
+                "pressure price": "33.70000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/TWFG.jpg"
+            }
+        },
+        {
+            "UBFO": {
+                "current price": "9.51",
+                "support price": "8.619999885559082",
+                "pressure price": "8.920000076293945",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/UBFO.jpg"
+            }
+        },
+        {
+            "UMBF": {
+                "current price": "123.85",
+                "support price": "123.80000305175781",
+                "pressure price": "126.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/UMBF.jpg"
+            }
+        },
+        {
+            "USCB": {
+                "current price": "20.41",
+                "support price": "14.520000457763672",
+                "pressure price": "14.949999809265137",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/USCB.jpg"
+            }
+        },
+        {
+            "VALU": {
+                "current price": "56.0",
+                "support price": "48.18000030517578",
+                "pressure price": "53.650001525878906",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VALU.jpg"
+            }
+        },
+        {
+            "VLY": {
+                "current price": "10.215",
+                "support price": "10.140000343322754",
+                "pressure price": "10.239999771118164",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VLY.jpg"
+            }
+        },
+        {
+            "VTN": {
+                "current price": "11.33",
+                "support price": "11.140000343322754",
+                "pressure price": "11.619999885559082",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/VTN.jpg"
+            }
+        },
+        {
+            "WSBC": {
+                "current price": "35.98",
+                "support price": "35.880001068115234",
+                "pressure price": "36.2599983215332",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WSBC.jpg"
+            }
+        },
+        {
+            "WSFS": {
+                "current price": "58.035",
+                "support price": "55.959999084472656",
+                "pressure price": "58.68000030517578",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WSFS.jpg"
+            }
+        },
+        {
+            "WT": {
+                "current price": "11.3601",
+                "support price": "11.329999923706055",
+                "pressure price": "11.630000114440918",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WT.jpg"
+            }
+        },
+        {
+            "WTM": {
+                "current price": "1911.77",
+                "support price": "1774.0699462890625",
+                "pressure price": "1884.6099853515625",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WTM.jpg"
+            }
+        },
+        {
+            "WTW": {
+                "current price": "317.18",
+                "support price": "315.17999267578125",
+                "pressure price": "317.30999755859375",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WTW.jpg"
+            }
+        },
+        {
+            "BKV": {
+                "current price": "20.72",
+                "support price": "20.489999771118164",
+                "pressure price": "20.700000762939453",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/BKV.jpg"
+            }
+        },
+        {
+            "CLMT": {
+                "current price": "19.935",
+                "support price": "19.899999618530273",
+                "pressure price": "22.25",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/CLMT.jpg"
+            }
+        },
+        {
+            "HNRG": {
+                "current price": "13.36",
+                "support price": "8.895000457763672",
+                "pressure price": "10.59000015258789",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/HNRG.jpg"
+            }
+        },
+        {
+            "LB": {
+                "current price": "67.76",
+                "support price": "67.18000030517578",
+                "pressure price": "75.5",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/LB.jpg"
+            }
+        },
+        {
+            "RNGR": {
+                "current price": "15.14",
+                "support price": "12.279999732971191",
+                "pressure price": "12.529999732971191",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/RNGR.jpg"
+            }
+        },
+        {
+            "SOC": {
+                "current price": "23.39",
+                "support price": "22.790000915527344",
+                "pressure price": "24.079999923706055",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/SOC.jpg"
+            }
+        },
+        {
+            "USEG": {
+                "current price": "1.49",
+                "support price": "1.3200000524520874",
+                "pressure price": "1.559999942779541",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/USEG.jpg"
+            }
+        },
+        {
+            "WTTR": {
+                "current price": "13.68",
+                "support price": "13.640000343322754",
+                "pressure price": "14.260000228881836",
+                "is_good_pivot": "True",
+                "is_deep_correction": "False",
+                "is_demand_dry": "True",
+                "fig": "/home/rxm/cookstock/results/2024-11-13/WTTR.jpg"
+            }
+        }
+    ]
+}

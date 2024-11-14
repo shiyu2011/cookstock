@@ -1,21 +1,41 @@
 # cookStock
+CookStock is a comprehensive stock screening tool implementing several advanced strategies to assist with stock analysis and selection. This tool can run in batch mode, automating the screening and analysis process using data from the YahooFinance API.
 
-Implemente a handful of stock screening tools
-1. Mark Minervini's stage 2 template searching (including moving average strategy, volume strategy and price position strategy)
-2. Mark Minervini's volatility contraction pattern detection (including identifing patterns, if there is good pivot, if there is a deep correction and if selling pressure is dry)
-3. Tool to calculate stock value based on RULE one principle (focus on value of each stock and compare it to sticker price)
-4. Tool to extract news from YahooFinance
+# Key Features
+Mark Minervini's Stage 2 Template Search:
 
+1. Filters stocks according to Mark Minervini's stage 2 criteria, including moving average, volume, and price position strategies.
+Volatility Contraction Pattern Detection:
+
+2. Detects volatility contraction patterns, including identifying potential pivots, assessing for deep corrections, and evaluating selling pressure to determine if it has dried up.
+Rule #1 Stock Valuation Tool:
+
+3. Calculates each stock's intrinsic value based on the Rule #1 investing principles, allowing comparison to the stock's market price.
+News Extraction from YahooFinance:
+
+4. Retrieves the latest news on stocks to stay updated with relevant events that might affect stock performance.
 Use YahooFinance API to pull stock data for screening, 
 all the tools can run under a batch mode, which allows you to screen and analyze stocks automatically
+
+# Data Source and Automation
+Using the YahooFinance API, cookStock pulls stock data automatically for analysis. All tools are designed to run in batch mode, enabling automatic daily screening of stocks based on the selected criteria.
 
 Here is an example of TSLA's volatility contraction pattern
 ![Figure_1](https://user-images.githubusercontent.com/25359807/114505746-b0be2700-9be5-11eb-9347-dbcc2351158f.png)
 
-USAGE:
-1. run cookStockPipeline.py to run both stage2 template selection and apply contraction pattern detection on selected stock
-1. run runBatch_cookStock_stage2template.py to select stage2 stocks from all using template
-2. run runBatch_volatility_contraction_pattern.py to select stocks with defined contraction pattern
+Usage Instructions
+1. Run cookStockPipeline.py to perform both stage 2 template screening and apply contraction pattern detection on the selected stocks.
+2. Run runBatch_cookStock_stage2template.py to filter stocks meeting stage 2 template criteria.
+3. Run runBatch_volatility_contraction_pattern.py to identify stocks with a defined contraction pattern.
 
 We also run the selection daily and post here:
 [View Daily Selection Results](./results/README.md)
+
+If you enjoy this project and even gain profits from it, consider supporting through a donation via PayPa
+
+| Paypal|
+| ------ |
+| [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4) 
+
+In order to fund the development of this, since version 1.0.36 when downloaded from Google Play store the app will show ads on some screens and will also allow for donation through Google Play in-app purchase. There is no difference on the features available from Google Play version and F-Droid releases.
+

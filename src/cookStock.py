@@ -12,6 +12,8 @@ import os.path
 from time import sleep
 import sys
 
+import matplotlib.pyplot as plt
+
 def find_path():
     home_dir = os.path.expanduser("~")  # Get the home directory
     for root, dirs, files in os.walk(home_dir):  # Walk through the directory structure
@@ -29,6 +31,8 @@ class algoParas:
     VOLUME_DROP_THRESHOLD_HIGH = 0.8
     VOLUME_DROP_THRESHOLD_LOW = 0.4
     REGRESSION_DAYS = 100
+    PEAK_VOL_RATIO = 1.3
+    PRICE_POSITION_LOW = 0.66
     
     
 
@@ -340,7 +344,6 @@ class cookFinancials(YahooFinancials):
         price200 = self.get_ma_200(dt.date.today())
         #print(currentPrice, price50, price150, price200, self.get_30day_trend_ma200())
         if currentPrice > price200 and self.get_30day_trend_ma200() == 1:
-            print("Moving average strategy met with current price above 50-day and 200-day moving averages and positive 30-day trend.")
             return 1
         return -1  
         
@@ -368,8 +371,7 @@ class cookFinancials(YahooFinancials):
         vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 200)
 
         # Check if 3-day average volume is at least 1.5x the 50-day average volume
-        if avgVol3day >= 1.3 * avgVol50day:
-            print("Volume spike detected with 3-day average volume at least 1.3x 200-day average volume.")
+        if avgVol3day >= algoParas.PEAK_VOL_RATIO* avgVol50day:
             return 1  # Volume condition met based on recent surge
         
         # # Check if 50-day average volume is above a minimum threshold (e.g., 800,000 shares)
@@ -399,8 +401,7 @@ class cookFinancials(YahooFinancials):
         range_position = (currentPrice - lowestPrice) / (highestPrice - lowestPrice)
 
         # Conditions: within the upper third but below 90% of the 1-year high
-        if 0.66 <= range_position: #if it is larger than 1, it means it break out
-            print("Price strategy met with current price within the upper third of the 1-year range.")
+        if algoParas.PRICE_POSITION_LOW <= range_position: #if it is larger than 1, it means it break out
             return 1  # Passes price positioning criteria
         return -1  # Fails price strategy
         
@@ -679,12 +680,14 @@ class cookFinancials(YahooFinancials):
         
         #get past 4 days volume
         recentData = priceDataStruct[-4:]
+        recentStartDate = recentData[0]['formatted_date']
+        recentEndDate = recentData[-1]['formatted_date']
         recentVolume = [item['volume'] for item in recentData]
         slopeRecent, interceptRecent = self._calculate_volume_trend(recentVolume)
 
         # Determine if demand is dry based on slope and volume comparison
         isDry = (slope <= 0) or (slopeRecent <= 0)
-        return isDry, startDate, endDate, footprintVolume, slope, intercept
+        return isDry, startDate, endDate, footprintVolume, slope, intercept, recentStartDate, recentEndDate, recentVolume, slopeRecent, interceptRecent
 
     def _extract_volume_for_period(self, priceDataStruct, start_date, end_date):
         """Extracts volume data for a specified period from price data."""
@@ -731,7 +734,7 @@ class cookFinancials(YahooFinancials):
             s = s and False
         
         # Check if demand is drying up (selling pressure has decreased)
-        isDemandDry, startDate, endDate, volume_ls, slope, intercept = self.is_demand_dry()
+        isDemandDry, startDate, endDate, volume_ls, slope, intercept, _, _, _, _, _ = self.is_demand_dry()
         if not isDemandDry:
             s = s and False
         
@@ -741,13 +744,17 @@ class cookFinancials(YahooFinancials):
 
 
 class batch_process:
-    def __init__(self, tickers, section):
+    tickers = []
+    resultsPath = ''
+    result_file = ''
+    
+    def __init__(self, tickers, sessions):
         self.tickers = tickers
         basePath = find_path()
-        self.jsfile = os.path.join(basePath, 'results', section)
-        with open(self.jsfile, "w") as f:
-            s = {"data":[]}
-            js.dump(s, f, indent = 4)
+        current_date = dt.date.today().strftime('%Y-%m-%d')
+        self.resultsPath = os.path.join(basePath, 'results', current_date)
+        file = sessions + '.json'
+        self.result_file = setup_result_file(self.resultsPath, file)
             
     def batch_strategy(self):
         superStock=[]
@@ -771,20 +778,127 @@ class batch_process:
                 if s1==1 and s3==1 and s2:
                     print("congrats, this stock passes all strategys, run volatility contraction pattern")
                     superStock.append(self.tickers[i])    
-                #sleep(0.5)
+                append_to_json(self.result_file, self.tickers[i])
             except Exception:
                 print("error!")
                 pass
-        s = tuple(superStock)
-        print(s)
-        with open(self.jsfile, "r") as f:
-            data = js.load(f)
-            cont = data['data']
-            cont.append(s)
-        with open(self.jsfile, "w") as f:
-            js.dump(data, f, indent=4) 
-            print('=====================================')
         
+            
+    def batch_pipeline_full(self):
+        superStock=[]
+        date_from = (dt.date.today() - dt.timedelta(days=100))
+        date_to = (dt.date.today())
+        for i in range(np.size(self.tickers)):
+            try:
+                ticker = self.tickers[i]
+                print(ticker)
+                x = cookFinancials(ticker)
+                flag = x.combined_best_strategy()
+                if flag == True:
+                    print("congrats, this stock passes all strategys")
+                    superStock.append(ticker)
+                    sp = x.get_price(date_from, 100)
+                    tmpLen = len(sp)
+                    date = []
+                    price = []
+                    volume = []
+                    for i in range(tmpLen):
+                        date.append(sp[i]['formatted_date'])
+                        price.append(sp[i]['close'])
+                        volume.append(sp[i]['volume'])
+                    # create figure and axis objects with subplots()
+                    fig,ax = plt.subplots(2)
+                    fig.suptitle(x.ticker)
+                    # make a plot
+                    ax[0].plot(date, price, color="blue", marker="o")
+                    # set x-axis label
+                    ax[0].set_xlabel("date",fontsize=14)
+                    # set y-axis label
+                    ax[0].set_ylabel("stock price",color="blue",fontsize=14)
+                    
+                    # twin object for two different y-axis on the sample plot
+                    # make a plot with different y-axis using second axis object
+                    ax[1].bar(date, np.asarray(volume)/10**6 ,color="green")
+                    ax[1].set_ylabel("volume (m)",color="green",fontsize=14)
+                    #ax[1].set_ylim([0, 100])
+                    
+                    # Set x-ticks to display every 10th date and include the last date
+                    xticks = np.arange(0, len(date), 10).tolist()
+                    if len(date) - 1 not in xticks:  # Check if the last date is already included
+                        xticks.append(len(date) - 1)  # Add the last date index to x-ticks
+
+                    ax[0].set_xticks(xticks)
+                    ax[1].set_xticks(xticks)
+
+                    # Format date labels for readability
+                    fig.autofmt_xdate(rotation=45)
+                    
+                    print(x.get_highest_in5days(date_from))
+                    
+                    counter, record = x.find_volatility_contraction_pattern(date_from)
+                    
+                    if counter > 0:
+                        for i in range(counter):
+                            ax[0].plot([record[i][0], record[i][2]], [record[i][1], record[i][3]], 'r')
+                        
+                        # ax[0].set_xticks(np.arange(0, len(date)+1, 12))
+                        # ax[1].set_xticks(np.arange(0, len(date)+1, 12))
+                        
+                        print('footprint:')
+                        footprint = x.get_footPrint()
+                        print(footprint)
+                        print('is a good pivot?')
+                        isGoodPivot, currentPrice, supportPrice, pressurePrice = x.is_pivot_good()
+                        print(isGoodPivot)
+                        print('is a deep correction?')
+                        isDeepCor = x.is_correction_deep()
+                        print(isDeepCor)
+                        print('is demand dried?')
+                        isDemandDry, startDate, endDate, volume_ls, slope, interY, recentStart, recentEnd, volume_re, slopeRecet, interYRecent = x.is_demand_dry()
+                        print(isDemandDry)
+    
+                        ticker_data = {ticker:{'current price':str(currentPrice), 'support price':str(supportPrice), 'pressure price':str(pressurePrice), \
+                                    'is_good_pivot':str(isGoodPivot), 'is_deep_correction':str(isDeepCor), 'is_demand_dry': str(isDemandDry)}}    
+
+                        for ind, item in enumerate(date):
+                            if item == startDate:
+                                print(ind)
+                                break
+                        x_axis = []
+                        for i in range(len(volume_ls)):
+                            x_axis.append(ind+i)
+                        x_axis = np.array(x_axis)
+                        
+                        y = slope*x_axis-slope*ind + volume_ls[0]
+                        ax[1].plot(np.asarray(date)[x_axis], y/10**6, color="red",linewidth=4)
+                        
+                        for ind, item in enumerate(date):
+                            if item == recentStart:
+                                print(ind)
+                                break
+                        x_axis = []
+                        for i in range(len(volume_re)):
+                            x_axis.append(ind+i)
+                        x_axis = np.array(x_axis)
+                        yRecent = slopeRecet*x_axis-slopeRecet*ind + volume_re[0]
+                        ax[1].plot(np.asarray(date)[x_axis], yRecent/10**6, color="red",linewidth=4)
+                        fig.show()
+                        
+                        figName = os.path.join(self.resultsPath, ticker+'.jpg')
+                        #only save the ones passing all criterion
+                        if isGoodPivot and not(isDeepCor) and isDemandDry:
+                            fig.savefig(figName,
+                                        format='jpeg',
+                                        dpi=100,
+                                        bbox_inches='tight')
+                            #add link to the json file
+                            ticker_data[ticker]['fig'] = figName
+                            
+                        append_to_json(self.result_file, ticker_data)
+            except Exception:
+                print("error!")
+                pass
+
             
     def batch_financial(self):       
         for i in range(np.size(self.tickers)):
@@ -844,3 +958,24 @@ class batch_process:
             except Exception:
                 print("error!")
                 pass
+            
+def load_json(filepath):
+    with open(filepath, "r") as f:
+        return js.load(f)
+
+def save_json(filepath, data):
+    with open(filepath, "w") as f:
+        js.dump(data, f, indent=4)
+
+def append_to_json(filepath, ticker_data):
+    data = load_json(filepath)
+    data['data'].append(ticker_data)
+    save_json(filepath, data)
+
+def setup_result_file(basePath, file):
+    # check if each level directory exists
+    if not os.path.exists(basePath):
+        os.makedirs(basePath)
+    filepath = os.path.join(basePath, file)
+    save_json(filepath, {"data": []})
+    return filepath

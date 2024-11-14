@@ -1,9 +1,9 @@
 # cookStock
 
 Implemente a handful of stock screening tools
-1. Mark Minervini's stage 2 template searching
-2. Mark Minervini's volatility contraction pattern detection
-3. Tool to calculate stock value based on RULE one principle
+1. Mark Minervini's stage 2 template searching (including moving average strategy, volume strategy and price position strategy)
+2. Mark Minervini's volatility contraction pattern detection (including identifing patterns, if there is good pivot, if there is a deep correction and if selling pressure is dry)
+3. Tool to calculate stock value based on RULE one principle (focus on value of each stock and compare it to sticker price)
 4. Tool to extract news from YahooFinance
 
 Use YahooFinance API to pull stock data for screening, 

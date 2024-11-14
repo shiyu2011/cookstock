@@ -13,5 +13,9 @@ Here is an example of TSLA's volatility contraction pattern
 ![Figure_1](https://user-images.githubusercontent.com/25359807/114505746-b0be2700-9be5-11eb-9347-dbcc2351158f.png)
 
 USAGE:
+1. run cookStockPipeline.py to run both stage2 template selection and apply contraction pattern detection on selected stock
 1. run runBatch_cookStock_stage2template.py to select stage2 stocks from all using template
 2. run runBatch_volatility_contraction_pattern.py to select stocks with defined contraction pattern
+
+We also run the selection daily and post here:
+[View Daily Selection Results](./results/README.md)

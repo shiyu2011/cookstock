@@ -497,7 +497,7 @@ class cookFinancials(YahooFinancials):
         date = dt.date.today()
         tmp = date - startDate
         numOfDate = tmp.days
-        localHighestPrice = -100000
+        localHighestPrice = -float('inf')
         localHighestDate = -1
         counter = 0
         counterThr = 5
@@ -517,7 +517,7 @@ class cookFinancials(YahooFinancials):
                 counter = counter + 1
                 print('start lock the date')
                 print(priceDate)
-            if counter >= counterThr:
+            if counter >= counterThr or i == numOfDate-1:
                 #get local high
                 print('find the local highest price')
                 print(localHighestPrice)
@@ -536,7 +536,7 @@ class cookFinancials(YahooFinancials):
             tmp = date - localHighestDate_dt
             numOfDate2 = tmp.days
             startDate2 = localHighestDate_dt
-            localLowestPrice = 1000000
+            localLowestPrice = float('inf')
             localLowestDate = -1
             counter2 = 0
             for j in range(numOfDate2):
@@ -552,7 +552,7 @@ class cookFinancials(YahooFinancials):
                     counter2 = counter2 + 1
                     print('start lock the date')
                     print(priceDate)
-                if counter2 >= counterThr:
+                if counter2 >= counterThr or j == numOfDate2-1:
                     #get local high
                     print('find the local lowest price')
                     print(localLowestPrice)
@@ -566,57 +566,27 @@ class cookFinancials(YahooFinancials):
         return flag, localHighestDate, localHighestPrice, localLowestDate, localLowestPrice
                 
     def find_volatility_contraction_pattern(self, startDate):
+        """
+        Finds all contraction patterns starting from the given date.
+        Returns a tuple: (count, recordVCP).
+        """
+        MAX_ITERATIONS = 1000
         recordVCP = []
         self.m_recordVCP = []
         counterForVCP = 0
-        flagForOneContraction, hD, hP, lD, lP = self.find_one_contraction(startDate)
-        if flagForOneContraction == True:
-            recordVCP.append([hD, hP, lD, lP])
-        else:
-            print('not find any contraction pattern')
-            return counterForVCP, []
-        while(True):
-            counterForVCP = counterForVCP + 1
-            lD_tmp = dt.datetime.strptime(lD, "%Y-%m-%d")
-            startDate = lD_tmp.date()
+
+        while counterForVCP < MAX_ITERATIONS:
             flagForOneContraction, hD, hP, lD, lP = self.find_one_contraction(startDate)
-            if flagForOneContraction == False:
+
+            if not flagForOneContraction:
                 break
+
             recordVCP.append([hD, hP, lD, lP])
-        if counterForVCP == 1:
-            self.m_recordVCP = recordVCP
-            return counterForVCP, self.m_recordVCP
-        ind = 0    
-        icounter = 0
-        
-        while(True):
-            if ind >= counterForVCP:
-                return icounter, self.m_recordVCP
-            currentHightDate = recordVCP[ind][0]
-            currentHightPrice = recordVCP[ind][1]
-            currentLowDate = recordVCP[ind][2]
-            currentLowPrice = recordVCP[ind][3]
-            lastHP = currentHightPrice
-            lastLP = currentLowPrice
-            
-            if ind+1 >= counterForVCP:
-                self.m_recordVCP.append([currentHightDate, currentHightPrice, currentLowDate, currentLowPrice])
-                icounter = icounter + 1
-                return icounter, self.m_recordVCP
-            
-            
-            for i in range(ind+1, counterForVCP):
-                if recordVCP[i][1] < lastHP and recordVCP[i][3] < lastLP:
-                    lastHP = recordVCP[i][1]
-                    lastLP = recordVCP[i][3]
-                    currentLowPrice = recordVCP[i][3]
-                    currentLowDate = recordVCP[i][2]
-                    ind = i + 1
-                else:
-                    ind = i
-                    break
-            self.m_recordVCP.append([currentHightDate, currentHightPrice, currentLowDate, currentLowPrice])
-            icounter = icounter + 1
+            counterForVCP += 1
+            startDate = dt.datetime.strptime(lD, "%Y-%m-%d").date()
+
+        self.m_recordVCP = recordVCP
+        return counterForVCP, recordVCP
             
     
     def get_footPrint(self):
@@ -684,9 +654,13 @@ class cookFinancials(YahooFinancials):
         recentEndDate = recentData[-1]['formatted_date']
         recentVolume = [item['volume'] for item in recentData]
         slopeRecent, interceptRecent = self._calculate_volume_trend(recentVolume)
+        slopeRecentPrice, _ = self._calculate_volume_trend([item['close'] for item in recentData])
 
         # Determine if demand is dry based on slope and volume comparison
-        isDry = (slope <= 0) or (slopeRecent <= 0)
+        isDry = (slope <= 0) or slopeRecent <= 0
+        # exclude the case that the volume is going up slopeRecent is going up and price is going down, which means selling pressure is increasing
+        if slopeRecent > 0 and slopeRecentPrice < 0:
+            isDry = False
         return isDry, startDate, endDate, footprintVolume, slope, intercept, recentStartDate, recentEndDate, recentVolume, slopeRecent, interceptRecent
 
     def _extract_volume_for_period(self, priceDataStruct, start_date, end_date):
@@ -748,12 +722,12 @@ class batch_process:
     resultsPath = ''
     result_file = ''
     
-    def __init__(self, tickers, sessions):
+    def __init__(self, tickers, sectors):
         self.tickers = tickers
         basePath = find_path()
         current_date = dt.date.today().strftime('%Y-%m-%d')
         self.resultsPath = os.path.join(basePath, 'results', current_date)
-        file = sessions + '.json'
+        file = sectors + '.json'
         self.result_file = setup_result_file(self.resultsPath, file)
             
     def batch_strategy(self):

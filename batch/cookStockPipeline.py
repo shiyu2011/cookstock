@@ -43,7 +43,9 @@ from get_tickers import *
 current_date = dt.date.today().strftime("%m_%d_%Y")
 
 #set sector names to be run
-sectorCollection = [SectorConstants.TECH, SectorConstants.HEALTH_CARE, SectorConstants.BASICS, SectorConstants.SERVICES, SectorConstants.FINANCE, SectorConstants.ENERGY, SectorConstants.NON_DURABLE_GOODS, SectorConstants.DURABLE_GOODS]
+# sectorCollection = [SectorConstants.TECH, SectorConstants.HEALTH_CARE, SectorConstants.BASICS, SectorConstants.SERVICES, SectorConstants.FINANCE, SectorConstants.ENERGY, SectorConstants.NON_DURABLE_GOODS, SectorConstants.DURABLE_GOODS]
+
+sectorCollection = [SectorConstants.TECH, SectorConstants.HEALTH_CARE,SectorConstants.FINANCE, SectorConstants.ENERGY]
 
 # sectorCollection = [SectorConstants.TECH]
 
@@ -60,6 +62,8 @@ for sector in sectorCollection:
 
 #convert sectorCollection to a file name
 sectorNameStr = '_'.join(sectorName)
+
+# selected = ['VNRX', 'INFU']
 
 y = batch_process(selected, sectorNameStr)
 y.batch_pipeline_full()

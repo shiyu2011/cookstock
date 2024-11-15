@@ -6,10 +6,58 @@ RESULTS_DIR="/home/rxm/cookstock/results"
 TODAY=$(date +'%Y-%m-%d')
 BRANCH="main"
 
+# Change to the repository directory
+cd "$BASE_DIR" || { echo "Failed to navigate to cookstock directory"; exit 1; }
 
-## Step 0: remove folders older than 3 days
-echo "Removing deleted files..."
-find $RESULTS_DIR -type d -ctime +3 -exec rm -rf {} \;  
+
+# Load the user profile to ensure environment variables are loaded
+source ~/.bashrc
+
+# Initialize Conda
+eval "$(conda shell.bash hook)"
+
+# Set paths explicitly (replace `/path/to/conda` with the actual path if necessary)
+export PATH="/path/to/conda/bin:$PATH"
+export PATH="/usr/bin:$PATH"  # Include the system binaries for commands like `git`
+
+# step -1: pull changes from GitHub
+echo "Pulling changes from GitHub..."
+git pull origin "$BRANCH"
+
+
+## Step 0: remove folders older than 2 days
+# Get today's date in seconds since the epoch
+today=$(date +%s)
+
+# Loop through each folder in the RESULTS_DIR
+for dir in "$RESULTS_DIR"/*; do
+    # Check if it's a directory and if its name matches the YYYY-MM-DD format
+    if [ -d "$dir" ]; then
+        folder_name=$(basename "$dir")
+
+        # Validate the folder name as a date in the format YYYY-MM-DD
+        if [[ $folder_name =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+            # Convert the folder name (date) to seconds since the epoch
+            folder_date=$(date -d "$folder_name" +%s 2>/dev/null)
+
+            # Check if the conversion was successful (date was valid)
+            if [ $? -eq 0 ]; then
+                # Calculate the age in days
+                age=$(( (today - folder_date) / 86400 ))
+
+                # If the folder is older than 2 days, remove it
+                if [ $age -gt 2 ]; then
+                    echo "Removing folder: $dir (Age: $age days)"
+                    rm -rf "$dir"
+                fi
+            else
+                echo "Skipping invalid date folder: $folder_name"
+            fi
+        else
+            echo "Skipping folder with invalid format: $folder_name"
+        fi
+    fi
+done
 git add -u  
 
 ## Step 1: activate cookStock environment

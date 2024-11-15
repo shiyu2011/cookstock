@@ -97,12 +97,12 @@ for entry in combinedData["data"]:
         readme_content += f"- **Current Price at Check**: {details['current price at Check']}\n"
         readme_content += f"- **Price Change**: {details['price_change']:.4%}\n"
         readme_content += f"- **Date of the Selection**: {details['date of the selection']}\n"
-        readme_content += f"- **Time at Check**: {details['time at Check']}\n"
+        readme_content += f"- **Time at Check**: {details['time at Check']}\n\n"
         # Add image if it exists
         if 'fig' in details:
             # Extract the path starting from 'results'
             fig_path = details['fig']
-            img_path = os.path.relpath(fig_path, start='/home/rxm/cookstock')
+            img_path = os.path.relpath(fig_path, start='/home/rxm/cookstock/results')
             readme_content += f"![{ticker} Chart](./{img_path})\n"
         readme_content += "\n"  
 

@@ -2,19 +2,17 @@
 CookStock is a comprehensive stock screening tool implementing several advanced strategies to assist with stock analysis and selection. This tool can run in batch mode, automating the screening and analysis process using data from the YahooFinance API.
 
 # Key Features
-Mark Minervini's Stage 2 Template Search:
 
 1. Filters stocks according to Mark Minervini's stage 2 criteria, including moving average, volume, and price position strategies.
-Volatility Contraction Pattern Detection:
 
 2. Detects volatility contraction patterns, including identifying potential pivots, assessing for deep corrections, and evaluating selling pressure to determine if it has dried up.
 Rule #1 Stock Valuation Tool:
 
 3. Calculates each stock's intrinsic value based on the Rule #1 investing principles, allowing comparison to the stock's market price.
-News Extraction from YahooFinance:
 
 4. Retrieves the latest news on stocks to stay updated with relevant events that might affect stock performance.
-Use YahooFinance API to pull stock data for screening, 
+Use YahooFinance API to pull stock data for screening,
+
 all the tools can run under a batch mode, which allows you to screen and analyze stocks automatically
 
 # Data Source and Automation

@@ -17,8 +17,7 @@ source ~/.bashrc
 eval "$(conda shell.bash hook)"
 
 # Set paths explicitly (replace `/path/to/conda` with the actual path if necessary)
-export PATH="/path/to/conda/bin:$PATH"
-export PATH="/usr/bin:$PATH"  # Include the system binaries for commands like `git`
+export PATH="/home/rxm/miniconda3/bin:$PATH"
 
 # step -1: pull changes from GitHub
 echo "Pulling changes from GitHub..."

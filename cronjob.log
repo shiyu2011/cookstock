@@ -1,267 +1,23 @@
-[main c7aca7a] Update results for 2024-11-14
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 cronjob.log
-Warning: Permanently added the ECDSA host key for IP address '140.82.113.4' to the list of known hosts.
-remote: error: Trace: 2102bb9f8445d38b27947e1e45847675b7f4fd514073917f28114104ce313516        
-remote: error: See https://gh.io/lfs for more information.        
-remote: error: File Miniconda3-latest-Linux-x86_64.sh is 141.47 MB; this exceeds GitHub's file size limit of 100.00 MB        
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
-To github.com:shiyu2011/cookstock.git
- ! [remote rejected] main -> main (pre-receive hook declined)
-error: failed to push some refs to 'git@github.com:shiyu2011/cookstock.git'
-Results updated for 2024-11-14.
-[main 0f2dd98] Update results for 2024-11-14
- 233 files changed, 12 insertions(+), 5070 deletions(-)
- delete mode 100644 results/BasicIndustries_superStocks_11_13_2024.json
- delete mode 100644 results/BasicIndustries_vcp_study_11_13_2024.json
- delete mode 100644 results/ConsumerDurables_superStocks_11_13_2024.json
- delete mode 100644 results/ConsumerDurables_vcp_study_11_13_2024.json
- delete mode 100644 results/ConsumerNon-Durables_superStocks_11_13_2024.json
- delete mode 100644 results/ConsumerNon-Durables_vcp_study_11_13_2024.json
- delete mode 100644 results/ConsumerServices_superStocks_11_13_2024.json
- delete mode 100644 results/ConsumerServices_vcp_study_11_13_2024.json
- delete mode 100644 results/Energy_superStocks_11_13_2024.json
- delete mode 100644 results/Energy_vcp_study_11_13_2024.json
- delete mode 100644 results/Finance_superStocks_11_13_2024.json
- delete mode 100644 results/Finance_vcp_study_11_13_2024.json
- delete mode 100644 results/HealthCare_superStocks_11_13_2024.json
- delete mode 100644 results/HealthCare_vcp_study_11_13_2024.json
- delete mode 100644 results/Technology_superStocks_11_13_2024.json
- delete mode 100644 results/Technology_vcp_study_11_13_2024.json
- delete mode 100644 results/picture_11_13_2024/Energy/BKV.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/CLMT.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/GFR.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/HNRG.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/KRP.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/LB.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/RNGR.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/SOBO.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/USEG.jpg
- delete mode 100644 results/picture_11_13_2024/Energy/WTTR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/ACT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/AFG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/AFGD.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/AFRM.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/AGO.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/APO.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/ATLC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BAFN.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BANF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BANR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BANX.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BGH.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BHB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BHV.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BOW.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BRBS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BTT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/BWB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CBNK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CCB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CEP.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CFBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CFFS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CIFR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CII.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CLBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CMPO.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/COF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/COFS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/COOP.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CORZ.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CPBI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CPSS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CRBG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CRF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CURB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/CZWI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/DFS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/DTF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/ECBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/ECCC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FBIZ.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FBLA.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FCBC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FDBC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FDSB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FINS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FLD.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FNLC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FOA.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FRHC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FRME.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FSFG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/FXNC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/GCMG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/GNW.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/GSBC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HCI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HNW.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HOMB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HOOD.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HUT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HWBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/HYB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/IBKR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/INBKZ.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/IPXX.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/IQI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/JEF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/JRI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/LMND.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/LSAK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MBINN.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MCY.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MIY.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MOFG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MPB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MRCC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/MRX.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NAZ.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NBHC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NBN.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NCTY.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NCV.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NEWT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/NVG.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/OBT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/OPOF.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/OXLCN.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/OZK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PFIS.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PFO.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PFXNZ.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PHK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PLBC.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/PLMR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/QETA.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/RCFA.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/RNR.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SIEB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SMBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SNEX.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SPE.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SPFI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SRBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SSBK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SVII.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/SYBT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/TCBI.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/TRMK.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/UBFO.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/USCB.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/VALU.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/VLY.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/VTN.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/WT.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/WTBA.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/WTM.jpg
- delete mode 100644 results/picture_11_13_2024/Finance/ZIONL.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ACLX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ADMA.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/AGIO.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/AIRS.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/AORT.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ATYR.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/AVAH.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/AXGN.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/BLTE.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/BNTX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/CDMO.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/CKPT.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/CLPT.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/CNTA.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/CPRX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/DCTH.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ELDN.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ETON.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/FTLF.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/HIMS.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ICAD.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/INGN.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/LFVN.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/LGND.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/LNSR.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/MGTX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/NXGL.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/OFIX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/PAHC.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/PDEX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/PODD.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/RDNT.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/RIGL.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/RYTM.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/SPRY.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/TGTX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/TRDA.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/TVTX.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/UPB.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/VMD.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/WVE.jpg
- delete mode 100644 results/picture_11_13_2024/HealthCare/ZLAB.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/ACIW.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/ALKT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/ALTR.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/APP.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/AVPT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/CARG.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/CCLDO.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/CCLDP.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/CLBT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/CLMB.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/COHR.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/EXFY.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/FLUT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/FTNT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/GAN.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/IBEX.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/IONQ.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/ISSC.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/KARO.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/KD.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/KLTR.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/KVYO.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/MGNI.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/MTLS.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/OS.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/PLTR.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/POET.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/PTC.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/QUBT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/RBLX.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/RDVT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/RNG.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/SCKT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/SHOP.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/SRAD.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/SWI.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/TEM.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/TOST.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/TRT.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/TSEM.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/VERX.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/VICR.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/WGS.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/XNET.jpg
- delete mode 100644 results/picture_11_13_2024/Technology/ZUO.jpg
-remote: error: Trace: 796d1d7e3e88308f761840a579c0d4b2c54efbc55378826b3b8664092b0b6999        
-remote: error: See https://gh.io/lfs for more information.        
-remote: error: File Miniconda3-latest-Linux-x86_64.sh is 141.47 MB; this exceeds GitHub's file size limit of 100.00 MB        
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
-To github.com:shiyu2011/cookstock.git
- ! [remote rejected] main -> main (pre-receive hook declined)
-error: failed to push some refs to 'git@github.com:shiyu2011/cookstock.git'
-Results updated for 2024-11-14.
-Removing deleted files...
-fatal: not a git repository (or any of the parent directories): .git
-/home/rxm/cookstock/update_results.sh: line 16: conda: command not found
-python: can't open file '/home/rxm/cookstock/batch/auto.py': [Errno 2] No such file or directory
-python: can't open file '/home/rxm/cookstock/batch/batch/cookStockPipeline.py': [Errno 2] No such file or directory
-python: can't open file '/home/rxm/cookstock/batch/auto.py': [Errno 2] No such file or directory
-/home/rxm/cookstock/update_results.sh: line 34: conda: command not found
+/home/rxm/cookstock/update_results.sh: line 17: conda: command not found
+Pulling changes from GitHub...
+From github.com:shiyu2011/cookstock
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+/home/rxm/cookstock/update_results.sh: line 64: conda: command not found
+  File "/home/rxm/cookstock//batch/cookStockPipeline.py", line 86
+    filepath = os.path.join(basePath, 'results', f"{file_prefix}_vcp_study_{current_date}.json")
+                                                                                              ^
+SyntaxError: invalid syntax
+  File "/home/rxm/cookstock//auto.py", line 39
+    print(f"Skipping folder '{folder}' - not in 'YYYY-MM-DD' format.")
+                                                                    ^
+SyntaxError: invalid syntax
+/home/rxm/cookstock/update_results.sh: line 82: conda: command not found
 Tracking large files with Git LFS...
-Not in a Git repository.
-fatal: not a git repository (or any of the parent directories): .git
+"*.jpg" already supported
+"*.jpeg" already supported
+"*.png" already supported
+"*.json" already supported
 Optimizing images in /home/rxm/cookstock/results...
 find: ‘jpegoptim’: No such file or directory
 find: ‘jpegoptim’: No such file or directory
@@ -458,13 +214,152 @@ find: ‘jpegoptim’: No such file or directory
 find: ‘jpegoptim’: No such file or directory
 find: ‘jpegoptim’: No such file or directory
 find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
+find: ‘jpegoptim’: No such file or directory
 Staging changes...
-fatal: not a git repository (or any of the parent directories): .git
-Committing changes...
-fatal: not a git repository (or any of the parent directories): .git
-Cleaning up repository...
-fatal: not a git repository (or any of the parent directories): .git
-fatal: not a git repository (or any of the parent directories): .git
-Pushing to GitHub on branch main...
-fatal: not a git repository (or any of the parent directories): .git
-Update completed successfully.

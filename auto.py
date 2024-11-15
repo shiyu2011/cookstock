@@ -2,6 +2,7 @@ import json
 import os
 import datetime as dt
 import sys
+import glob
 
 
 def find_path():
@@ -46,8 +47,8 @@ folderList.sort(key=lambda x: x[1], reverse=True)
 # define a list to store the combined data
 combinedData = {"data": []}
 for folder, date in folderList:
-    jsonFile = os.path.join('results', folder, 'Technology_HealthCare_BasicIndustries_ConsumerServices_Finance_Energy_ConsumerNon-Durables_ConsumerDurables.json')
-    with open(jsonFile, 'r') as f:
+    jsonFile = glob.glob(os.path.join(basePath, 'results', folder, 'Technology*.json'))
+    with open(jsonFile[0], 'r') as f:
         data = json.load(f)
     for entry in data["data"]:
         for ticker, details in entry.items():
@@ -73,9 +74,12 @@ for folder, date in folderList:
 #sort the combinedData based on price change
 combinedData['data'] = sorted(combinedData['data'], key=lambda x: x[list(x.keys())[0]]['price_change'], reverse=True)
 #write the sorted data to a file
-with open('results/combinedData.json', 'w') as f:
+file = os.path.join(basePath, 'results', 'combinedData.json')
+#want to overwrite the file, delete it first
+if os.path.exists(file):
+    os.remove(file)
+with open(file, 'w') as f:
     json.dump(combinedData, f, indent=4)
-    print(f"Combined data written to 'results/combinedData.json'")
         
 # loop each folder and read the json file
 readme_content = "# Daily Stock Analysis\n\n"
@@ -83,7 +87,8 @@ readme_content += "This report provides an overview of selected stocks with vola
 readme_content += "## Stocks Overview\n\n"
 
 #load the cobminedData to generate the readme file
-with open('results/combinedData.json', 'r') as f:
+
+with open(file, 'r') as f:
     combinedData = json.load(f)
 for entry in combinedData["data"]:
     for ticker, details in entry.items():
@@ -108,7 +113,7 @@ for entry in combinedData["data"]:
 
 
 # write the readme file
-readme_file = os.path.join('results', 'README.md')
+readme_file = os.path.join(basePath, 'results', 'README.md')
 
 with open(readme_file, 'w') as f:
     f.write(readme_content)

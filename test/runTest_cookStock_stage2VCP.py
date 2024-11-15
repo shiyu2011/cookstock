@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 
 date_from = (dt.date.today() - dt.timedelta(days=100))
 date_to = (dt.date.today())
-x = cookFinancials('ALIT')
+x = cookFinancials('CBNK')
 
 print(x.get_ma(date_from, date_to))
 print(x.get_ma_ref(date_from, date_to))
@@ -96,7 +96,7 @@ if counter > 0:
     print('is a deep correction?')
     print(x.is_correction_deep())
     print('is demand dried?')
-    flag, startDate, endDate, volume_ls, slope, interY = x.is_demand_dry()
+    flag, startDate, endDate, volume_ls, slope, interY, _, _, _, _, _ = x.is_demand_dry()
     print(flag)
     for ind, item in enumerate(date):
         if item == startDate:
@@ -110,6 +110,11 @@ if counter > 0:
     y = slope*x_axis-slope*ind + volume_ls[0]
     ax[1].plot(np.asarray(date)[x_axis], y/10**6, color="red",linewidth=4)
     plt.show()
+    #save the plot as a file
+    fig.savefig('two_different_y_axis_for_single_python_plot_with_twinx.jpg',
+                format='jpeg',
+                dpi=100,
+                bbox_inches='tight')
 
     
 

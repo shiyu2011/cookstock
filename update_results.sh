@@ -16,7 +16,7 @@ git add -u
 conda activate cookStock
 
 ## Step 2: first run auto.py to update README.md based on previous results
-python $BASE_DIR/auto.py
+#python $BASE_DIR/auto.py
 
 ## Step 3: run cookStockPipeline.py to update results
 python $BASE_DIR/batch/cookStockPipeline.py

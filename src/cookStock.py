@@ -60,7 +60,8 @@ class cookFinancials(YahooFinancials):
         self._cache = {}
         date = dt.date.today()
         self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
-        self.current_stickerPrice = self.get_current_price()
+        #get current_stickerPrice from self.priceData
+        self.current_stickerPrice = self.priceData[self.ticker]['prices'][-1]['close']
         
     def get_balanceSheetHistory(self):
         self.bshData = self.get_financial_stmts('annual', 'balance')['balanceSheetHistory']

@@ -14,7 +14,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 12.6531
 - **Price Change**: 0.0245%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:33
+- **Time at Check**: 11/16/2024 23:51:09
 
 ![FUSB Chart](./2024-11-16/FUSB.jpg)
 
@@ -28,7 +28,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 49.4826
 - **Price Change**: 0.0053%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:21
+- **Time at Check**: 11/16/2024 23:55:57
 
 ![TTP Chart](./2024-11-16/TTP.jpg)
 
@@ -42,7 +42,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 14.6044
 - **Price Change**: 0.0027%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:57
+- **Time at Check**: 11/16/2024 23:49:33
 
 ![CPBI Chart](./2024-11-16/CPBI.jpg)
 
@@ -56,7 +56,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 12.4102
 - **Price Change**: 0.0016%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:52
+- **Time at Check**: 11/16/2024 23:50:30
 
 ![FDSB Chart](./2024-11-16/FDSB.jpg)
 
@@ -70,7 +70,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 16.21
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:26
+- **Time at Check**: 11/16/2024 23:45:02
 
 ![DSP Chart](./2024-11-16/DSP.jpg)
 
@@ -84,7 +84,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 17.3
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:08
+- **Time at Check**: 11/16/2024 23:52:45
 
 ![INSI Chart](./2024-11-16/INSI.jpg)
 
@@ -98,7 +98,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 8.11
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:12
+- **Time at Check**: 11/16/2024 23:49:50
 
 ![CXH Chart](./2024-11-16/CXH.jpg)
 
@@ -112,7 +112,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 74.2
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:17
+- **Time at Check**: 11/16/2024 23:52:54
 
 ![JEF Chart](./2024-11-16/JEF.jpg)
 
@@ -126,7 +126,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 21.38
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:20
+- **Time at Check**: 11/16/2024 23:51:58
 
 
 ### MGR
@@ -139,7 +139,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 23.96
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:25
+- **Time at Check**: 11/16/2024 23:53:02
 
 ![MGR Chart](./2024-11-16/MGR.jpg)
 
@@ -153,7 +153,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 40.6
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:37
+- **Time at Check**: 11/16/2024 23:46:13
 
 ![TOST Chart](./2024-11-16/TOST.jpg)
 
@@ -167,7 +167,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 305.27
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:08
+- **Time at Check**: 11/16/2024 23:44:45
 
 ![CYBR Chart](./2024-11-16/CYBR.jpg)
 
@@ -181,7 +181,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 97.27
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:32
+- **Time at Check**: 11/16/2024 23:55:09
 
 ![SNEX Chart](./2024-11-16/SNEX.jpg)
 
@@ -195,7 +195,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 390.08
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:21
+- **Time at Check**: 11/16/2024 23:47:58
 
 ![SYK Chart](./2024-11-16/SYK.jpg)
 
@@ -209,7 +209,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 14.23
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:40
+- **Time at Check**: 11/16/2024 23:53:18
 
 ![MRBK Chart](./2024-11-16/MRBK.jpg)
 
@@ -223,7 +223,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 16.81
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:32
+- **Time at Check**: 11/16/2024 23:53:10
 
 ![MPV Chart](./2024-11-16/MPV.jpg)
 
@@ -237,7 +237,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 12.4
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:44
+- **Time at Check**: 11/16/2024 23:50:22
 
 ![FBLA Chart](./2024-11-16/FBLA.jpg)
 
@@ -251,7 +251,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 80.06
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:21
+- **Time at Check**: 11/16/2024 23:49:58
 
 ![DAVE Chart](./2024-11-16/DAVE.jpg)
 
@@ -265,7 +265,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 30.21
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:29
+- **Time at Check**: 11/16/2024 23:48:05
 
 ![XOMA Chart](./2024-11-16/XOMA.jpg)
 
@@ -279,7 +279,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 20.64
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:37
+- **Time at Check**: 11/16/2024 23:54:13
 
 ![OPOF Chart](./2024-11-16/OPOF.jpg)
 
@@ -293,7 +293,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.61
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:05
+- **Time at Check**: 11/16/2024 23:45:42
 
 ![RDCM Chart](./2024-11-16/RDCM.jpg)
 
@@ -307,7 +307,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 82.81
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:08
+- **Time at Check**: 11/16/2024 23:46:46
 
 ![BLTE Chart](./2024-11-16/BLTE.jpg)
 
@@ -321,7 +321,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 126.09
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:17
+- **Time at Check**: 11/16/2024 23:44:54
 
 ![DDOG Chart](./2024-11-16/DDOG.jpg)
 
@@ -335,7 +335,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 28.3
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:00
+- **Time at Check**: 11/16/2024 23:52:37
 
 ![IFS Chart](./2024-11-16/IFS.jpg)
 
@@ -349,7 +349,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 5.14
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:28
+- **Time at Check**: 11/16/2024 23:54:05
 
 ![OPHC Chart](./2024-11-16/OPHC.jpg)
 
@@ -363,7 +363,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 1.67
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:41
+- **Time at Check**: 11/16/2024 23:57:17
 
 ![USEG Chart](./2024-11-16/USEG.jpg)
 
@@ -377,7 +377,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 13.61
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:25
+- **Time at Check**: 11/16/2024 23:55:01
 
 ![RMBI Chart](./2024-11-16/RMBI.jpg)
 
@@ -391,7 +391,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.53
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:52
+- **Time at Check**: 11/16/2024 23:54:29
 
 ![PBFS Chart](./2024-11-16/PBFS.jpg)
 
@@ -405,7 +405,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 5.89
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:37
+- **Time at Check**: 11/16/2024 23:56:13
 
 ![ZTR Chart](./2024-11-16/ZTR.jpg)
 
@@ -419,7 +419,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 40.71
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:01
+- **Time at Check**: 11/16/2024 23:48:37
 
 ![BKU Chart](./2024-11-16/BKU.jpg)
 
@@ -433,7 +433,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 12.03
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:21
+- **Time at Check**: 11/16/2024 23:45:58
 
 ![SLNHP Chart](./2024-11-16/SLNHP.jpg)
 
@@ -447,7 +447,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 29.14
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:32
+- **Time at Check**: 11/16/2024 23:45:09
 
 ![IONQ Chart](./2024-11-16/IONQ.jpg)
 
@@ -461,7 +461,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 52.37
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:09
+- **Time at Check**: 11/16/2024 23:54:45
 
 ![PFIS Chart](./2024-11-16/PFIS.jpg)
 
@@ -475,7 +475,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 9.95
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:56
+- **Time at Check**: 11/16/2024 23:51:34
 
 ![GIG Chart](./2024-11-16/GIG.jpg)
 
@@ -489,7 +489,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 23.98
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:24
+- **Time at Check**: 11/16/2024 23:49:01
 
 ![CBNA Chart](./2024-11-16/CBNA.jpg)
 
@@ -503,7 +503,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 32.39
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:49
+- **Time at Check**: 11/16/2024 23:57:26
 
 ![YPF Chart](./2024-11-16/YPF.jpg)
 
@@ -517,7 +517,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 340.65
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:41
+- **Time at Check**: 11/16/2024 23:45:17
 
 ![MSTR Chart](./2024-11-16/MSTR.jpg)
 
@@ -531,7 +531,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 4.33
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:48
+- **Time at Check**: 11/16/2024 23:47:26
 
 ![LUMO Chart](./2024-11-16/LUMO.jpg)
 
@@ -545,7 +545,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 7.64
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:05
+- **Time at Check**: 11/16/2024 23:47:42
 
 ![SRTS Chart](./2024-11-16/SRTS.jpg)
 
@@ -559,7 +559,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 1.78
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:57
+- **Time at Check**: 11/16/2024 23:47:34
 
 ![QNCX Chart](./2024-11-16/QNCX.jpg)
 
@@ -573,7 +573,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.56
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:49
+- **Time at Check**: 11/16/2024 23:49:25
 
 ![CMU Chart](./2024-11-16/CMU.jpg)
 
@@ -587,7 +587,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 201.7
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:25
+- **Time at Check**: 11/16/2024 23:57:01
 
 ![PNRG Chart](./2024-11-16/PNRG.jpg)
 
@@ -601,7 +601,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 15.74
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:21
+- **Time at Check**: 11/16/2024 23:53:57
 
 ![NODK Chart](./2024-11-16/NODK.jpg)
 
@@ -615,7 +615,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.04
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:22:36
+- **Time at Check**: 11/16/2024 23:44:14
 
 ![BCOV Chart](./2024-11-16/BCOV.jpg)
 
@@ -629,7 +629,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 30.4
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:44
+- **Time at Check**: 11/16/2024 23:52:21
 
 ![HWBK Chart](./2024-11-16/HWBK.jpg)
 
@@ -643,7 +643,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 9.12
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:16
+- **Time at Check**: 11/16/2024 23:46:54
 
 ![BWAY Chart](./2024-11-16/BWAY.jpg)
 
@@ -657,7 +657,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 15.95
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:17
+- **Time at Check**: 11/16/2024 23:48:53
 
 ![BVFL Chart](./2024-11-16/BVFL.jpg)
 
@@ -671,7 +671,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 25.57
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:01
+- **Time at Check**: 11/16/2024 23:54:37
 
 ![PDX Chart](./2024-11-16/PDX.jpg)
 
@@ -685,7 +685,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 40.48
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:33
+- **Time at Check**: 11/16/2024 23:57:10
 
 ![SU Chart](./2024-11-16/SU.jpg)
 
@@ -699,7 +699,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 6.81
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:46
+- **Time at Check**: 11/16/2024 23:46:21
 
 ![TRT Chart](./2024-11-16/TRT.jpg)
 
@@ -713,7 +713,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 30.49
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:00
+- **Time at Check**: 11/16/2024 23:44:37
 
 ![CWAN Chart](./2024-11-16/CWAN.jpg)
 
@@ -727,7 +727,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 21.41
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:10
+- **Time at Check**: 11/16/2024 23:50:46
 
 ![FOA Chart](./2024-11-16/FOA.jpg)
 
@@ -741,7 +741,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 15.33
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:49
+- **Time at Check**: 11/16/2024 23:55:26
 
 ![SPE Chart](./2024-11-16/SPE.jpg)
 
@@ -755,7 +755,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.76
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:22:45
+- **Time at Check**: 11/16/2024 23:44:22
 
 ![CANG Chart](./2024-11-16/CANG.jpg)
 
@@ -769,7 +769,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 28.81
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:57
+- **Time at Check**: 11/16/2024 23:45:33
 
 ![ELMD Chart](./2024-11-16/ELMD.jpg)
 
@@ -783,7 +783,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 4.19
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:29
+- **Time at Check**: 11/16/2024 23:46:06
 
 ![EUDA Chart](./2024-11-16/EUDA.jpg)
 
@@ -797,7 +797,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 18.9
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:40
+- **Time at Check**: 11/16/2024 23:47:17
 
 ![INVA Chart](./2024-11-16/INVA.jpg)
 
@@ -811,7 +811,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 4.33
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:11
+- **Time at Check**: 11/16/2024 23:47:48
 
 ![LUMO Chart](./2024-11-16/LUMO.jpg)
 
@@ -825,7 +825,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 10.25
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:33
+- **Time at Check**: 11/16/2024 23:49:10
 
 ![CEP Chart](./2024-11-16/CEP.jpg)
 
@@ -839,7 +839,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 146.06
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:41
+- **Time at Check**: 11/16/2024 23:49:18
 
 ![NTRA Chart](./2024-11-16/NTRA.jpg)
 
@@ -853,7 +853,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 21.0
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:04
+- **Time at Check**: 11/16/2024 23:49:41
 
 ![CUBB Chart](./2024-11-16/CUBB.jpg)
 
@@ -867,7 +867,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.06
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:37
+- **Time at Check**: 11/16/2024 23:50:14
 
 ![NXGL Chart](./2024-11-16/NXGL.jpg)
 
@@ -881,7 +881,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.86
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:25
+- **Time at Check**: 11/16/2024 23:51:02
 
 ![ORGO Chart](./2024-11-16/ORGO.jpg)
 
@@ -895,7 +895,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 22.75
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:04
+- **Time at Check**: 11/16/2024 23:51:42
 
 ![GJT Chart](./2024-11-16/GJT.jpg)
 
@@ -909,7 +909,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 16.64
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:52
+- **Time at Check**: 11/16/2024 23:52:29
 
 ![PLSE Chart](./2024-11-16/PLSE.jpg)
 
@@ -923,7 +923,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 1.78
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:49
+- **Time at Check**: 11/16/2024 23:53:26
 
 ![QNCX Chart](./2024-11-16/QNCX.jpg)
 
@@ -937,7 +937,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 47.0
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:16
+- **Time at Check**: 11/16/2024 23:54:53
 
 ![PLBC Chart](./2024-11-16/PLBC.jpg)
 
@@ -951,7 +951,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 44.48
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:05
+- **Time at Check**: 11/16/2024 23:55:42
 
 ![SMLR Chart](./2024-11-16/SMLR.jpg)
 
@@ -965,7 +965,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 22.25
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:12
+- **Time at Check**: 11/16/2024 23:55:50
 
 ![TIPT Chart](./2024-11-16/TIPT.jpg)
 
@@ -979,7 +979,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 7.64
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:29
+- **Time at Check**: 11/16/2024 23:56:05
 
 ![SRTS Chart](./2024-11-16/SRTS.jpg)
 
@@ -993,9 +993,1030 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 390.08
 - **Price Change**: 0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:01
+- **Time at Check**: 11/16/2024 23:56:37
 
 ![SYK Chart](./2024-11-16/SYK.jpg)
+
+### XOMA
+- **Current Price during run time**: 30.21
+- **Support Price**: 29.709999084472656
+- **Pressure Price**: 32.459999084472656
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 30.21
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:57:34
+
+![XOMA Chart](./2024-11-16/XOMA.jpg)
+
+### AFRM
+- **Current Price during run time**: 56.15
+- **Support Price**: 53.209999084472656
+- **Pressure Price**: 57.59000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 56.15
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:57:42
+
+![AFRM Chart](./2024-11-16/AFRM.jpg)
+
+### AIZ
+- **Current Price during run time**: 218.82
+- **Support Price**: 191.19000244140625
+- **Pressure Price**: 195.07000732421875
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 218.82
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:57:49
+
+![AIZ Chart](./2024-11-16/AIZ.jpg)
+
+### AROW
+- **Current Price during run time**: 33.65
+- **Support Price**: 33.54999923706055
+- **Pressure Price**: 34.20000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 33.65
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:57:58
+
+![AROW Chart](./2024-11-16/AROW.jpg)
+
+### BANF
+- **Current Price during run time**: 121.78
+- **Support Price**: 121.77999877929688
+- **Pressure Price**: 126.5199966430664
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 121.78
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:06
+
+![BANF Chart](./2024-11-16/BANF.jpg)
+
+### BGH
+- **Current Price during run time**: 15.23
+- **Support Price**: 15.229999542236328
+- **Pressure Price**: 16.15999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 15.23
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:14
+
+![BGH Chart](./2024-11-16/BGH.jpg)
+
+### BKU
+- **Current Price during run time**: 40.71
+- **Support Price**: 34.65999984741211
+- **Pressure Price**: 35.83000183105469
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 40.71
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:22
+
+![BKU Chart](./2024-11-16/BKU.jpg)
+
+### BSVN
+- **Current Price during run time**: 46.51
+- **Support Price**: 46.5099983215332
+- **Pressure Price**: 47.27000045776367
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 46.51
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:30
+
+![BSVN Chart](./2024-11-16/BSVN.jpg)
+
+### BTDR
+- **Current Price during run time**: 11.09
+- **Support Price**: 10.600000381469727
+- **Pressure Price**: 11.34000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 11.09
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:38
+
+![BTDR Chart](./2024-11-16/BTDR.jpg)
+
+### BVFL
+- **Current Price during run time**: 15.95
+- **Support Price**: 15.520000457763672
+- **Pressure Price**: 15.600000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 15.95
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:45
+
+![BVFL Chart](./2024-11-16/BVFL.jpg)
+
+### CBNA
+- **Current Price during run time**: 23.98
+- **Support Price**: 23.3799991607666
+- **Pressure Price**: 24.780000686645508
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 23.98
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:58:53
+
+![CBNA Chart](./2024-11-16/CBNA.jpg)
+
+### CEP
+- **Current Price during run time**: 10.25
+- **Support Price**: 10.0600004196167
+- **Pressure Price**: 10.100000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 10.25
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:02
+
+![CEP Chart](./2024-11-16/CEP.jpg)
+
+### CMU
+- **Current Price during run time**: 3.56
+- **Support Price**: 3.5199999809265137
+- **Pressure Price**: 3.5899999141693115
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 3.56
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:10
+
+![CMU Chart](./2024-11-16/CMU.jpg)
+
+### CPBI
+- **Current Price during run time**: 14.6044
+- **Support Price**: 14.539999961853027
+- **Pressure Price**: 14.795000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 14.6044
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:18
+
+![CPBI Chart](./2024-11-16/CPBI.jpg)
+
+### CUBB
+- **Current Price during run time**: 21.0
+- **Support Price**: 20.59000015258789
+- **Pressure Price**: 21.350000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 21.0
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:25
+
+![CUBB Chart](./2024-11-16/CUBB.jpg)
+
+### CXH
+- **Current Price during run time**: 8.11
+- **Support Price**: 8.020000457763672
+- **Pressure Price**: 8.149999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 8.11
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:34
+
+![CXH Chart](./2024-11-16/CXH.jpg)
+
+### DAVE
+- **Current Price during run time**: 80.06
+- **Support Price**: 79.95999908447266
+- **Pressure Price**: 90.43000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 80.06
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:42
+
+![DAVE Chart](./2024-11-16/DAVE.jpg)
+
+### DCOM
+- **Current Price during run time**: 33.7
+- **Support Price**: 33.54999923706055
+- **Pressure Price**: 34.43000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 33.7
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:49
+
+![DCOM Chart](./2024-11-16/DCOM.jpg)
+
+### DGICA
+- **Current Price during run time**: 15.79
+- **Support Price**: 15.789999961853027
+- **Pressure Price**: 15.899999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 15.79
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/16/2024 23:59:58
+
+![DGICA Chart](./2024-11-16/DGICA.jpg)
+
+### FBIZ
+- **Current Price during run time**: 49.82
+- **Support Price**: 49.81999969482422
+- **Pressure Price**: 51.029998779296875
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 49.82
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:06
+
+![FBIZ Chart](./2024-11-16/FBIZ.jpg)
+
+### FBLA
+- **Current Price during run time**: 12.4
+- **Support Price**: 12.3100004196167
+- **Pressure Price**: 12.430000305175781
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 12.4
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:13
+
+![FBLA Chart](./2024-11-16/FBLA.jpg)
+
+### FDSB
+- **Current Price during run time**: 12.4102
+- **Support Price**: 12.395000457763672
+- **Pressure Price**: 12.510000228881836
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 12.4102
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:22
+
+![FDSB Chart](./2024-11-16/FDSB.jpg)
+
+### FMBH
+- **Current Price during run time**: 41.99
+- **Support Price**: 41.540000915527344
+- **Pressure Price**: 43.20000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 41.99
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:29
+
+![FMBH Chart](./2024-11-16/FMBH.jpg)
+
+### FOA
+- **Current Price during run time**: 21.41
+- **Support Price**: 11.619999885559082
+- **Pressure Price**: 13.449999809265137
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 21.41
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:38
+
+![FOA Chart](./2024-11-16/FOA.jpg)
+
+### FSFG
+- **Current Price during run time**: 28.93
+- **Support Price**: 24.309999465942383
+- **Pressure Price**: 24.600000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 28.93
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:46
+
+![FSFG Chart](./2024-11-16/FSFG.jpg)
+
+### FUSB
+- **Current Price during run time**: 12.6531
+- **Support Price**: 11.550000190734863
+- **Pressure Price**: 11.84000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 12.6531
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:00:55
+
+![FUSB Chart](./2024-11-16/FUSB.jpg)
+
+### GCMG
+- **Current Price during run time**: 11.68
+- **Support Price**: 11.479999542236328
+- **Pressure Price**: 12.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 11.68
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:03
+
+![GCMG Chart](./2024-11-16/GCMG.jpg)
+
+### GGAL
+- **Current Price during run time**: 56.29
+- **Support Price**: 51.75
+- **Pressure Price**: 54.11000061035156
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 56.29
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:11
+
+![GGAL Chart](./2024-11-16/GGAL.jpg)
+
+### GIG
+- **Current Price during run time**: 9.95
+- **Support Price**: 9.890000343322754
+- **Pressure Price**: 9.930000305175781
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 9.95
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:19
+
+![GIG Chart](./2024-11-16/GIG.jpg)
+
+### GJT
+- **Current Price during run time**: 22.75
+- **Support Price**: 22.420000076293945
+- **Pressure Price**: 22.760000228881836
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 22.75
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:26
+
+![GJT Chart](./2024-11-16/GJT.jpg)
+
+### HGTY
+- **Current Price during run time**: 11.09
+- **Support Price**: 10.880000114440918
+- **Pressure Price**: 11.949999809265137
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 11.09
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:35
+
+![HGTY Chart](./2024-11-16/HGTY.jpg)
+
+### HNVR
+- **Current Price during run time**: 21.38
+- **Support Price**: 17.139999389648438
+- **Pressure Price**: 17.645000457763672
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: False
+- **Current Price at Check**: 21.38
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:43
+
+
+### HNW
+- **Current Price during run time**: 12.08
+- **Support Price**: 12.079999923706055
+- **Pressure Price**: 12.390000343322754
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 12.08
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:51
+
+![HNW Chart](./2024-11-16/HNW.jpg)
+
+### HTBI
+- **Current Price during run time**: 37.34
+- **Support Price**: 37.119998931884766
+- **Pressure Price**: 37.97999954223633
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 37.34
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:01:59
+
+![HTBI Chart](./2024-11-16/HTBI.jpg)
+
+### HUT
+- **Current Price during run time**: 25.26
+- **Support Price**: 15.5600004196167
+- **Pressure Price**: 18.155000686645508
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 25.26
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:06
+
+![HUT Chart](./2024-11-16/HUT.jpg)
+
+### HWBK
+- **Current Price during run time**: 30.4
+- **Support Price**: 27.56999969482422
+- **Pressure Price**: 28.440000534057617
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 30.4
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:15
+
+![HWBK Chart](./2024-11-16/HWBK.jpg)
+
+### IFS
+- **Current Price during run time**: 28.3
+- **Support Price**: 26.700000762939453
+- **Pressure Price**: 27.3799991607666
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 28.3
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:23
+
+![IFS Chart](./2024-11-16/IFS.jpg)
+
+### IGIC
+- **Current Price during run time**: 24.73
+- **Support Price**: 24.729999542236328
+- **Pressure Price**: 25.030000686645508
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 24.73
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:30
+
+![IGIC Chart](./2024-11-16/IGIC.jpg)
+
+### INSI
+- **Current Price during run time**: 17.3
+- **Support Price**: 17.290000915527344
+- **Pressure Price**: 17.34000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 17.3
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:39
+
+![INSI Chart](./2024-11-16/INSI.jpg)
+
+### JEF
+- **Current Price during run time**: 74.2
+- **Support Price**: 73.5
+- **Pressure Price**: 74.58000183105469
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 74.2
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:47
+
+![JEF Chart](./2024-11-16/JEF.jpg)
+
+### LOB
+- **Current Price during run time**: 47.89
+- **Support Price**: 47.88999938964844
+- **Pressure Price**: 48.54999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 47.89
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:02:55
+
+![LOB Chart](./2024-11-16/LOB.jpg)
+
+### MGR
+- **Current Price during run time**: 23.96
+- **Support Price**: 23.81999969482422
+- **Pressure Price**: 24.989999771118164
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 23.96
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:03
+
+![MGR Chart](./2024-11-16/MGR.jpg)
+
+### MPV
+- **Current Price during run time**: 16.81
+- **Support Price**: 16.299999237060547
+- **Pressure Price**: 17.34000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 16.81
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:11
+
+![MPV Chart](./2024-11-16/MPV.jpg)
+
+### MRBK
+- **Current Price during run time**: 14.23
+- **Support Price**: 13.789999961853027
+- **Pressure Price**: 14.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 14.23
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:19
+
+![MRBK Chart](./2024-11-16/MRBK.jpg)
+
+### MYFW
+- **Current Price during run time**: 20.44
+- **Support Price**: 20.3700008392334
+- **Pressure Price**: 20.5
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 20.44
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:27
+
+![MYFW Chart](./2024-11-16/MYFW.jpg)
+
+### NEWTI
+- **Current Price during run time**: 26.1615
+- **Support Price**: 25.441999435424805
+- **Pressure Price**: 25.670000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 26.1615
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:35
+
+![NEWTI Chart](./2024-11-16/NEWTI.jpg)
+
+### NMT
+- **Current Price during run time**: 11.67
+- **Support Price**: 11.579999923706055
+- **Pressure Price**: 11.90999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 11.67
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:42
+
+![NMT Chart](./2024-11-16/NMT.jpg)
+
+### NODK
+- **Current Price during run time**: 15.74
+- **Support Price**: 15.5
+- **Pressure Price**: 15.899999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 15.74
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:52
+
+![NODK Chart](./2024-11-16/NODK.jpg)
+
+### NRIM
+- **Current Price during run time**: 82.85
+- **Support Price**: 82.8499984741211
+- **Pressure Price**: 84.69999694824219
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 82.85
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:03:59
+
+![NRIM Chart](./2024-11-16/NRIM.jpg)
+
+### ONIT
+- **Current Price during run time**: 30.07
+- **Support Price**: 30.06999969482422
+- **Pressure Price**: 31.209999084472656
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 30.07
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:07
+
+![ONIT Chart](./2024-11-16/ONIT.jpg)
+
+### OPHC
+- **Current Price during run time**: 5.14
+- **Support Price**: 5.050000190734863
+- **Pressure Price**: 5.480000019073486
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 5.14
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:15
+
+![OPHC Chart](./2024-11-16/OPHC.jpg)
+
+### OPOF
+- **Current Price during run time**: 20.64
+- **Support Price**: 20.6200008392334
+- **Pressure Price**: 20.93000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 20.64
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:23
+
+![OPOF Chart](./2024-11-16/OPOF.jpg)
+
+### OVLY
+- **Current Price during run time**: 29.85
+- **Support Price**: 28.719999313354492
+- **Pressure Price**: 30.270000457763672
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 29.85
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:31
+
+![OVLY Chart](./2024-11-16/OVLY.jpg)
+
+### PBFS
+- **Current Price during run time**: 11.53
+- **Support Price**: 11.130000114440918
+- **Pressure Price**: 11.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 11.53
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:38
+
+![PBFS Chart](./2024-11-16/PBFS.jpg)
+
+### PDX
+- **Current Price during run time**: 25.57
+- **Support Price**: 24.420000076293945
+- **Pressure Price**: 24.860000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 25.57
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:47
+
+![PDX Chart](./2024-11-16/PDX.jpg)
+
+### PFIS
+- **Current Price during run time**: 52.37
+- **Support Price**: 52.279998779296875
+- **Pressure Price**: 52.5
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 52.37
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:04:55
+
+![PFIS Chart](./2024-11-16/PFIS.jpg)
+
+### PLBC
+- **Current Price during run time**: 47.0
+- **Support Price**: 41.150001525878906
+- **Pressure Price**: 42.650001525878906
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 47.0
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:03
+
+![PLBC Chart](./2024-11-16/PLBC.jpg)
+
+### RMBI
+- **Current Price during run time**: 13.61
+- **Support Price**: 12.850000381469727
+- **Pressure Price**: 13.0
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 13.61
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:11
+
+![RMBI Chart](./2024-11-16/RMBI.jpg)
+
+### SNEX
+- **Current Price during run time**: 97.27
+- **Support Price**: 95.66999816894531
+- **Pressure Price**: 98.76000213623047
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 97.27
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:19
+
+![SNEX Chart](./2024-11-16/SNEX.jpg)
+
+### SNFCA
+- **Current Price during run time**: 10.56
+- **Support Price**: 10.069999694824219
+- **Pressure Price**: 10.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 10.56
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:27
+
+![SNFCA Chart](./2024-11-16/SNFCA.jpg)
+
+### SPE
+- **Current Price during run time**: 15.33
+- **Support Price**: 14.649999618530273
+- **Pressure Price**: 14.760000228881836
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 15.33
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:34
+
+![SPE Chart](./2024-11-16/SPE.jpg)
+
+### SRV
+- **Current Price during run time**: 43.47
+- **Support Price**: 42.83000183105469
+- **Pressure Price**: 45.119998931884766
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 43.47
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:43
+
+![SRV Chart](./2024-11-16/SRV.jpg)
+
+### TIPT
+- **Current Price during run time**: 22.25
+- **Support Price**: 19.399999618530273
+- **Pressure Price**: 20.950000762939453
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 22.25
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:51
+
+![TIPT Chart](./2024-11-16/TIPT.jpg)
+
+### TTP
+- **Current Price during run time**: 49.4826
+- **Support Price**: 44.43000030517578
+- **Pressure Price**: 44.95000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 49.4826
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:05:59
+
+![TTP Chart](./2024-11-16/TTP.jpg)
+
+### ZTR
+- **Current Price during run time**: 5.89
+- **Support Price**: 5.829999923706055
+- **Pressure Price**: 6.010000228881836
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 5.89
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:06
+
+![ZTR Chart](./2024-11-16/ZTR.jpg)
+
+### ARLP
+- **Current Price during run time**: 26.79
+- **Support Price**: 25.639999389648438
+- **Pressure Price**: 27.59000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 26.79
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:14
+
+![ARLP Chart](./2024-11-16/ARLP.jpg)
+
+### CLMT
+- **Current Price during run time**: 20.92
+- **Support Price**: 19.899999618530273
+- **Pressure Price**: 22.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 20.92
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:22
+
+![CLMT Chart](./2024-11-16/CLMT.jpg)
+
+### MMLP
+- **Current Price during run time**: 3.97
+- **Support Price**: 3.9600000381469727
+- **Pressure Price**: 3.990000009536743
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 3.97
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:31
+
+![MMLP Chart](./2024-11-16/MMLP.jpg)
+
+### MPLX
+- **Current Price during run time**: 47.02
+- **Support Price**: 45.630001068115234
+- **Pressure Price**: 47.04999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 47.02
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:39
+
+![MPLX Chart](./2024-11-16/MPLX.jpg)
+
+### PNRG
+- **Current Price during run time**: 201.7
+- **Support Price**: 175.38999938964844
+- **Pressure Price**: 184.9199981689453
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 201.7
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:46
+
+![PNRG Chart](./2024-11-16/PNRG.jpg)
+
+### SU
+- **Current Price during run time**: 40.48
+- **Support Price**: 38.11000061035156
+- **Pressure Price**: 39.599998474121094
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 40.48
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:06:54
+
+![SU Chart](./2024-11-16/SU.jpg)
+
+### USEG
+- **Current Price during run time**: 1.67
+- **Support Price**: 1.3200000524520874
+- **Pressure Price**: 1.559999942779541
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 1.67
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:07:05
+
+![USEG Chart](./2024-11-16/USEG.jpg)
+
+### YPF
+- **Current Price during run time**: 32.39
+- **Support Price**: 24.510000228881836
+- **Pressure Price**: 25.649999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+- **Current Price at Check**: 32.39
+- **Price Change**: 0.0000%
+- **Date of the Selection**: 11/16/2024
+- **Time at Check**: 11/17/2024 00:07:11
+
+![YPF Chart](./2024-11-16/YPF.jpg)
 
 ### CLMT
 - **Current Price during run time**: 20.920000076293945
@@ -1007,7 +2028,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 20.92
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:53
+- **Time at Check**: 11/16/2024 23:56:29
 
 ![CLMT Chart](./2024-11-16/CLMT.jpg)
 
@@ -1021,7 +2042,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 37.34
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:28
+- **Time at Check**: 11/16/2024 23:52:06
 
 ![HTBI Chart](./2024-11-16/HTBI.jpg)
 
@@ -1035,7 +2056,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.67
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:12
+- **Time at Check**: 11/16/2024 23:53:49
 
 ![NMT Chart](./2024-11-16/NMT.jpg)
 
@@ -1049,7 +2070,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 3.97
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:09
+- **Time at Check**: 11/16/2024 23:56:46
 
 ![MMLP Chart](./2024-11-16/MMLP.jpg)
 
@@ -1063,7 +2084,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 25.26
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:36
+- **Time at Check**: 11/16/2024 23:52:14
 
 ![HUT Chart](./2024-11-16/HUT.jpg)
 
@@ -1077,7 +2098,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 47.02
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:35:16
+- **Time at Check**: 11/16/2024 23:56:53
 
 ![MPLX Chart](./2024-11-16/MPLX.jpg)
 
@@ -1091,7 +2112,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 28.93
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:16
+- **Time at Check**: 11/16/2024 23:50:54
 
 ![FSFG Chart](./2024-11-16/FSFG.jpg)
 
@@ -1105,7 +2126,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 29.85
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:45
+- **Time at Check**: 11/16/2024 23:54:21
 
 ![OVLY Chart](./2024-11-16/OVLY.jpg)
 
@@ -1119,7 +2140,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 4.19
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:31
+- **Time at Check**: 11/16/2024 23:47:08
 
 ![EUDA Chart](./2024-11-16/EUDA.jpg)
 
@@ -1133,7 +2154,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.09
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:27:09
+- **Time at Check**: 11/16/2024 23:48:46
 
 ![BTDR Chart](./2024-11-16/BTDR.jpg)
 
@@ -1147,7 +2168,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.09
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:30:12
+- **Time at Check**: 11/16/2024 23:51:50
 
 ![HGTY Chart](./2024-11-16/HGTY.jpg)
 
@@ -1161,7 +2182,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 28.52
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:23:49
+- **Time at Check**: 11/16/2024 23:45:25
 
 ![NYAX Chart](./2024-11-16/NYAX.jpg)
 
@@ -1175,7 +2196,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 56.29
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:48
+- **Time at Check**: 11/16/2024 23:51:26
 
 ![GGAL Chart](./2024-11-16/GGAL.jpg)
 
@@ -1189,7 +2210,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 1.35
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:13
+- **Time at Check**: 11/16/2024 23:45:50
 
 ![SCKT Chart](./2024-11-16/SCKT.jpg)
 
@@ -1203,7 +2224,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 246.88
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:22:28
+- **Time at Check**: 11/16/2024 23:44:07
 
 ![AZPN Chart](./2024-11-16/AZPN.jpg)
 
@@ -1217,7 +2238,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 121.19
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:22:20
+- **Time at Check**: 11/16/2024 23:43:58
 
 ![AGYS Chart](./2024-11-16/AGYS.jpg)
 
@@ -1231,7 +2252,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 18.1
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:22:53
+- **Time at Check**: 11/16/2024 23:44:29
 
 ![CCRD Chart](./2024-11-16/CCRD.jpg)
 
@@ -1245,7 +2266,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 33.7
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:28:29
+- **Time at Check**: 11/16/2024 23:50:05
 
 ![DCOM Chart](./2024-11-16/DCOM.jpg)
 
@@ -1259,7 +2280,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 20.44
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:31:57
+- **Time at Check**: 11/16/2024 23:53:34
 
 ![MYFW Chart](./2024-11-16/MYFW.jpg)
 
@@ -1273,7 +2294,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 11.68
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:41
+- **Time at Check**: 11/16/2024 23:51:18
 
 ![GCMG Chart](./2024-11-16/GCMG.jpg)
 
@@ -1287,7 +2308,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 56.15
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:36
+- **Time at Check**: 11/16/2024 23:48:13
 
 ![AFRM Chart](./2024-11-16/AFRM.jpg)
 
@@ -1301,7 +2322,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 43.47
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:56
+- **Time at Check**: 11/16/2024 23:55:34
 
 ![SRV Chart](./2024-11-16/SRV.jpg)
 
@@ -1315,7 +2336,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 12.14
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:24
+- **Time at Check**: 11/16/2024 23:47:02
 
 ![CDMO Chart](./2024-11-16/CDMO.jpg)
 
@@ -1329,7 +2350,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 5.57
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:25:01
+- **Time at Check**: 11/16/2024 23:46:37
 
 ![AVAH Chart](./2024-11-16/AVAH.jpg)
 
@@ -1343,7 +2364,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 218.82
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:45
+- **Time at Check**: 11/16/2024 23:48:21
 
 ![AIZ Chart](./2024-11-16/AIZ.jpg)
 
@@ -1357,7 +2378,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 26.79
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:34:45
+- **Time at Check**: 11/16/2024 23:56:22
 
 ![ARLP Chart](./2024-11-16/ARLP.jpg)
 
@@ -1371,7 +2392,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 8.68
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:24:53
+- **Time at Check**: 11/16/2024 23:46:29
 
 ![ACTU Chart](./2024-11-16/ACTU.jpg)
 
@@ -1385,7 +2406,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 10.56
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:33:41
+- **Time at Check**: 11/16/2024 23:55:18
 
 ![SNFCA Chart](./2024-11-16/SNFCA.jpg)
 
@@ -1399,7 +2420,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 41.99
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:29:01
+- **Time at Check**: 11/16/2024 23:50:38
 
 ![FMBH Chart](./2024-11-16/FMBH.jpg)
 
@@ -1413,7 +2434,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 33.65
 - **Price Change**: -0.0000%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:26:54
+- **Time at Check**: 11/16/2024 23:48:29
 
 ![AROW Chart](./2024-11-16/AROW.jpg)
 
@@ -1427,7 +2448,7 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Current Price at Check**: 26.1615
 - **Price Change**: -0.0019%
 - **Date of the Selection**: 11/16/2024
-- **Time at Check**: 11/16/2024 19:32:05
+- **Time at Check**: 11/16/2024 23:53:41
 
 ![NEWTI Chart](./2024-11-16/NEWTI.jpg)
 

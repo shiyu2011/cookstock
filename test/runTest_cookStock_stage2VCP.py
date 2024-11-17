@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 
 date_from = (dt.date.today() - dt.timedelta(days=100))
 date_to = (dt.date.today())
-x = cookFinancials('CBNK')
+x = cookFinancials('NVDA')
 
 print(x.get_ma(date_from, date_to))
 print(x.get_ma_ref(date_from, date_to))

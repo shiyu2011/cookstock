@@ -20,8 +20,8 @@ export PATH="/home/rxm/miniconda3/bin:$PATH"
 eval "$(conda shell.bash hook)"
 
 # step -1: pull changes from GitHub
-echo "Pulling changes from GitHub..."
-git pull origin "$BRANCH"
+#echo "Pulling changes from GitHub..."
+#git pull origin "$BRANCH"
 
 
 ## Step 0: remove folders older than 2 days

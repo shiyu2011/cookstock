@@ -2,12 +2,18 @@ import os
 import re
 import json as js
 import datetime as dt
+import time
 import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
 
+
 import random
+
+#define some constants
+class algoParas:   
+    RETREIVE_DAYS = 1
 
 def find_path():
     home_dir = os.path.expanduser("~")
@@ -28,15 +34,19 @@ def get_random_proxy():
         "https": f"http://{proxy_parts[2]}:{proxy_parts[3]}@{proxy_parts[0]}:{proxy_parts[1]}"
     }
 
-def fetch_with_proxy(url):
+
+def fetch_with_proxy(url, headers):
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-        }
         proxy = get_random_proxy()
-        print(f"Using proxy: {proxy}")
-        response = requests.get(url, headers=headers, proxies=proxy, timeout=10)
-        return BeautifulSoup(response.text, "lxml")
+        # print(f"Using proxy: {proxy}")
+        response = requests.get(url, headers=headers, proxies=proxy, timeout=10, verify=False)
+        # Check if the response was successful
+        if response.status_code == 200:
+            print("Request successful!")
+            return BeautifulSoup(response.text, "lxml")
+        else:
+            print(f"Request failed with status code: {response.status_code}")
+            return None
     except Exception as e:
         print(f"Proxy error: {e}")
         return None
@@ -47,18 +57,16 @@ class CookStockAskGPT:
         self.cost_per_token_prompt = 0.15 / 1000000
         self.cost_per_token_answer = 0.60 / 1000000
         self.text_cost = 0
-        self.base_path = base_path or self._find_path()
+        self.base_path = base_path or find_path()
         self.soup = None
-        self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-        }
+        self.headers_list = [
+                {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'},
+                {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'},
+                {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36'},
+                {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0'},
+                {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15'}
+        ]
 
-    def _find_path(self):
-        home_dir = os.path.expanduser("~")
-        for root, dirs, files in os.walk(home_dir):
-            if 'cookstock' in dirs:
-                return os.path.join(root, 'cookstock')
-        return None
 
     def _ask_gpt(self, ticker, prompt):
         try:
@@ -83,10 +91,10 @@ class CookStockAskGPT:
         except Exception as e:
             print(f"Error: {e}")
             return None
-    
-    def _get_website(self, ticker, use_proxy=False):
+        
+    def _get_website(self, url, use_proxy=False):
         """Fetch website content with optional proxy."""
-        url = f'https://finance.yahoo.com/quote/{ticker}'
+        header = random.choice(self.headers_list)
         try:
             if use_proxy == 1:
                 #get api from env
@@ -96,10 +104,10 @@ class CookStockAskGPT:
                 payload = {'api_key': api_key, 'url': url}
                 response = requests.get('https://api.scraperapi.com/', params=payload)
             elif use_proxy == 2:
-                self.soup = fetch_with_proxy(url)
+                self.soup = fetch_with_proxy(url, header)
                 return
             else:
-                response = requests.get(url, headers=self.headers)
+                response = requests.get(url, headers=header)
             self.soup = BeautifulSoup(response.text, 'lxml')
         except requests.RequestException as e:
             print(f"Error fetching website: {e}")
@@ -108,8 +116,11 @@ class CookStockAskGPT:
 
     def _get_business_summary(self, ticker):
         if self.soup is None:
-            self._get_website(ticker, use_proxy=2)
+            url = f'https://finance.yahoo.com/quote/{ticker}'
+            self._get_website(url, use_proxy=2)
         soup = self.soup
+        if not soup:
+            return None
         summary = soup.find('section', attrs={'data-testid': 'company-overview-card'})
         if not summary:
             return None
@@ -120,8 +131,11 @@ class CookStockAskGPT:
 
     def _extract_news(self, ticker):
         if self.soup is None:
-            self._get_website(ticker)
+            url = f'https://finance.yahoo.com/quote/{ticker}'
+            self._get_website(url, use_proxy=2)
         soup = self.soup
+        if not soup:
+            return None
         news_section = soup.find('section', attrs={'data-testid': 'recent-news'})
         if not news_section:
             return []
@@ -149,19 +163,29 @@ class CookStockAskGPT:
             today = dt.date.today()
             if days_match:
                 days_ago = int(days_match.group(1))
-            elif today_match:
-                days_ago = 0
             else:
-                continue
+                days_ago = 0 ##for all situation, go into the page for check
+
             
             past_date = today - dt.timedelta(days=days_ago)
-            if past_date < dt.date.today() - dt.timedelta(days=3):
-                continue
+            if past_date < dt.date.today() - dt.timedelta(days=algoParas.RETREIVE_DAYS):
+                break
 
             # Fetch news article content
-            article_response = requests.get(url_news, headers=self.headers)
-            article_soup = BeautifulSoup(article_response.text, 'lxml')
-            article_div = article_soup.find('div', attrs={'class': 'article-wrap'})
+            self._get_website(url_news, use_proxy=2)
+            #check the time again, sometimes the news above fool you
+            if not self.soup:
+                continue
+            date_text = self.soup.find('div', attrs={'class': 'byline-attr-time-style'}).text.strip()
+            if not date_text:
+                continue
+            #'Tue, Nov 12, 2024, 9:40 AM 2 min read'
+            clean_date_text = re.sub(r'\s\d+\s(?:seconds?|mins?|minutes?|hours?)\sread$', '', date_text, flags=re.IGNORECASE)  
+            struct_time = time.strptime(clean_date_text, "%a, %b %d, %Y, %I:%M %p")
+            formatted_date = dt.datetime(*struct_time[:6])
+            if formatted_date.date() < dt.date.today() - dt.timedelta(days=algoParas.RETREIVE_DAYS):
+                break
+            article_div = self.soup.find('div', attrs={'class': 'article-wrap'})
             if not article_div:
                 continue
 
@@ -172,7 +196,7 @@ class CookStockAskGPT:
             news_list.append({
                 "title": title_news,
                 "url": url_news,
-                "date": str(past_date),
+                "date": str(formatted_date.date()),
                 "review": review
             })
 
@@ -199,15 +223,8 @@ class CookStockAskGPTBatch:
         self.text_cost = 0
         if base_path:
             self.base_path = base_path
-        self.base_path = self._find_path()
+        self.base_path = find_path()
         self.output_json = setup_result_file(output_json)
-    @staticmethod
-    def _find_path():
-        home_dir = os.path.expanduser("~")
-        for root, dirs, files in os.walk(home_dir):
-            if 'cookstock' in dirs:
-                return os.path.join(root, 'cookstock')
-        return None
     
     def analyze_batch(self):
         with open(self.input_json, 'r') as f:
@@ -215,15 +232,19 @@ class CookStockAskGPTBatch:
         results = tickers_data.copy()
         for entry in results['data']:
             for ticker, details in entry.items():
-                x = CookStockAskGPT()
-                analysis = x.analyze_single_ticker(ticker)
-                self.text_cost += x.text_cost
-                print(f"Total text cost so far: {self.text_cost}")
-                if analysis:
-                    details['åbusiness_summary'] = analysis['business_summary']
-                    details['news'] = analysis['news']
-                    results['data'].append({ticker: details})
-                    append_to_json(self.output_json, {ticker: details})
+                try:
+                    x = CookStockAskGPT()
+                    analysis = x.analyze_single_ticker(ticker)
+                    self.text_cost += x.text_cost
+                    print(f"Total text cost so far: {self.text_cost}")
+                    if analysis:
+                        details['åbusiness_summary'] = analysis['business_summary']
+                        details['news'] = analysis['news']
+                        results['data'].append({ticker: details})
+                        append_to_json(self.output_json, {ticker: details})
+                except Exception as e:
+                    print(f"Error: {e}")
+                    continue
             
 def load_json(filepath):
     with open(filepath, "r") as f:
@@ -248,10 +269,10 @@ if __name__ == "__main__":
     analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    single_result = analyzer.analyze_single_ticker("DSP")
-    print(single_result)
+    # single_result = analyzer.analyze_single_ticker("CCRD")
+    # print(single_result)
 
-    # Batch analysis
+    # # Batch analysis
     input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
     output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
     analyzerBatch = CookStockAskGPTBatch(input_json, output_json)

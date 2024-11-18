@@ -56,7 +56,7 @@ class CookStockAskGPT:
         # print(r.text)
         # response = requests.get(url, headers=self.headers)
         self.soup = BeautifulSoup(response.text, 'lxml')
-    def _get_website_old(self, ticker):
+    def _get_website_direct(self, ticker):
         url = f'https://finance.yahoo.com/quote/{ticker}' 
         response = requests.get(url, headers=self.headers)
         # print(r.text)
@@ -66,7 +66,7 @@ class CookStockAskGPT:
 
     def _get_business_summary(self, ticker):
         if self.soup is None:
-            self._get_website(ticker)
+            self._get_website_direct(ticker)
         soup = self.soup
         summary = soup.find('section', attrs={'data-testid': 'company-overview-card'})
         if not summary:
@@ -78,7 +78,7 @@ class CookStockAskGPT:
 
     def _extract_news(self, ticker):
         if self.soup is None:
-            _get_website(ticker)
+            self._get_website_direct(ticker)
         soup = self.soup
         news_section = soup.find('section', attrs={'data-testid': 'recent-news'})
         if not news_section:
@@ -207,11 +207,11 @@ if __name__ == "__main__":
     analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    # single_result = analyzer.analyze_single_ticker("FUSB")
-    # print(single_result)
+    single_result = analyzer.analyze_single_ticker("DSP")
+    print(single_result)
 
     # Batch analysis
-    input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
-    output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
-    analyzerBatch = CookStockAskGPTBatch(input_json, output_json)
-    analyzerBatch.analyze_batch()
+    # input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
+    # output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
+    # analyzerBatch = CookStockAskGPTBatch(input_json, output_json)
+    # analyzerBatch.analyze_batch()

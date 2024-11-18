@@ -6,12 +6,15 @@ CookStock is a comprehensive stock screening tool implementing several advanced 
 1. Filters stocks according to Mark Minervini's stage 2 criteria, including moving average, volume, and price position strategies.
 
 2. Detects volatility contraction patterns, including identifying potential pivots, assessing for deep corrections, and evaluating selling pressure to determine if it has dried up.
-Rule #1 Stock Valuation Tool:
+Rule #1 Stock Valuation Tool
 
-3. Calculates each stock's intrinsic value based on the Rule #1 investing principles, allowing comparison to the stock's market price.
+3. extracts news from yahoo finance and feed news into chatgpt api to collect feed back
 
-4. Retrieves the latest news on stocks to stay updated with relevant events that might affect stock performance.
-Use YahooFinance API to pull stock data for screening,
+4. ranks selections based on technical factors and impact of news
+
+4. Calculates each stock's intrinsic value based on the Rule #1 investing principles, allowing comparison to the stock's market price.
+
+
 
 all the tools can run under a batch mode, which allows you to screen and analyze stocks automatically
 
@@ -22,9 +25,13 @@ Here is an example of TSLA's volatility contraction pattern
 ![Figure_1](https://user-images.githubusercontent.com/25359807/114505746-b0be2700-9be5-11eb-9347-dbcc2351158f.png)
 
 Usage Instructions
+batch mode:
 1. Run cookStockPipeline.py to perform both stage 2 template screening and apply contraction pattern detection on the selected stocks.
-2. Run runBatch_cookStock_stage2template.py to filter stocks meeting stage 2 template criteria.
-3. Run runBatch_volatility_contraction_pattern.py to identify stocks with a defined contraction pattern.
+
+test function:
+1. run runTest_cookStock_basic.py to run RULE ONE
+2. run runTest_cookStock_stage2templte.py to run stage2 template and test contraction pattern
+
 
 We also run the selection daily and post here:
 [View Daily Selection Results](./results/README.md)

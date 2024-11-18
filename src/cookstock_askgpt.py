@@ -6,6 +6,41 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
+
+import random
+
+def find_path():
+    home_dir = os.path.expanduser("~")
+    for root, dirs, files in os.walk(home_dir):
+        if 'cookstock' in dirs:
+            return os.path.join(root, 'cookstock')
+    return None
+
+def get_random_proxy():
+    proxiesPath = os.path.join(find_path(), "proxy.txt")
+    with open(proxiesPath, 'r') as f:
+        proxies = [line.strip() for line in f.readlines()]  # Remove trailing whitespace or newlines
+    
+    proxy = random.choice(proxies)
+    proxy_parts = proxy.split(':')
+    return {
+        "http": f"http://{proxy_parts[2]}:{proxy_parts[3]}@{proxy_parts[0]}:{proxy_parts[1]}",
+        "https": f"http://{proxy_parts[2]}:{proxy_parts[3]}@{proxy_parts[0]}:{proxy_parts[1]}"
+    }
+
+def fetch_with_proxy(url):
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+        }
+        proxy = get_random_proxy()
+        print(f"Using proxy: {proxy}")
+        response = requests.get(url, headers=headers, proxies=proxy, timeout=10)
+        return BeautifulSoup(response.text, "lxml")
+    except Exception as e:
+        print(f"Proxy error: {e}")
+        return None
+
 class CookStockAskGPT:
     def __init__(self, base_path=None):
         self.client = OpenAI()
@@ -53,13 +88,16 @@ class CookStockAskGPT:
         """Fetch website content with optional proxy."""
         url = f'https://finance.yahoo.com/quote/{ticker}'
         try:
-            if use_proxy:
+            if use_proxy == 1:
                 #get api from env
                 api_key = os.getenv('SCRAPER_API_KEY')
                 if not api_key:
                     raise ValueError("SCRAPER_API_KEY not set in environment variables.")
                 payload = {'api_key': api_key, 'url': url}
                 response = requests.get('https://api.scraperapi.com/', params=payload)
+            elif use_proxy == 2:
+                self.soup = fetch_with_proxy(url)
+                return
             else:
                 response = requests.get(url, headers=self.headers)
             self.soup = BeautifulSoup(response.text, 'lxml')
@@ -70,7 +108,7 @@ class CookStockAskGPT:
 
     def _get_business_summary(self, ticker):
         if self.soup is None:
-            self._get_website(ticker)
+            self._get_website(ticker, use_proxy=2)
         soup = self.soup
         summary = soup.find('section', attrs={'data-testid': 'company-overview-card'})
         if not summary:

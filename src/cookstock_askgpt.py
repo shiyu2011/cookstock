@@ -49,24 +49,28 @@ class CookStockAskGPT:
             print(f"Error: {e}")
             return None
     
-    def _get_website(self, ticker):
-        url = f'https://finance.yahoo.com/quote/{ticker}' 
-        payload = { 'api_key': 'a412dc4ac7a62582dd0265201876c588', 'url': url }
-        response = requests.get('https://api.scraperapi.com/', params=payload)
-        # print(r.text)
-        # response = requests.get(url, headers=self.headers)
-        self.soup = BeautifulSoup(response.text, 'lxml')
-    def _get_website_direct(self, ticker):
-        url = f'https://finance.yahoo.com/quote/{ticker}' 
-        response = requests.get(url, headers=self.headers)
-        # print(r.text)
-        # response = requests.get(url, headers=self.headers)
-        self.soup = BeautifulSoup(response.text, 'lxml')
+    def _get_website(self, ticker, use_proxy=False):
+        """Fetch website content with optional proxy."""
+        url = f'https://finance.yahoo.com/quote/{ticker}'
+        try:
+            if use_proxy:
+                #get api from env
+                api_key = os.getenv('SCRAPER_API_KEY')
+                if not api_key:
+                    raise ValueError("SCRAPER_API_KEY not set in environment variables.")
+                payload = {'api_key': api_key, 'url': url}
+                response = requests.get('https://api.scraperapi.com/', params=payload)
+            else:
+                response = requests.get(url, headers=self.headers)
+            self.soup = BeautifulSoup(response.text, 'lxml')
+        except requests.RequestException as e:
+            print(f"Error fetching website: {e}")
+            self.soup = None
 
 
     def _get_business_summary(self, ticker):
         if self.soup is None:
-            self._get_website_direct(ticker)
+            self._get_website(ticker)
         soup = self.soup
         summary = soup.find('section', attrs={'data-testid': 'company-overview-card'})
         if not summary:
@@ -78,7 +82,7 @@ class CookStockAskGPT:
 
     def _extract_news(self, ticker):
         if self.soup is None:
-            self._get_website_direct(ticker)
+            self._get_website(ticker)
         soup = self.soup
         news_section = soup.find('section', attrs={'data-testid': 'recent-news'})
         if not news_section:
@@ -159,8 +163,8 @@ class CookStockAskGPTBatch:
             self.base_path = base_path
         self.base_path = self._find_path()
         self.output_json = setup_result_file(output_json)
-    
-    def _find_path(self):
+    @staticmethod
+    def _find_path():
         home_dir = os.path.expanduser("~")
         for root, dirs, files in os.walk(home_dir):
             if 'cookstock' in dirs:
@@ -197,7 +201,6 @@ def append_to_json(filepath, ticker_data):
     save_json(filepath, data)
 
 def setup_result_file(filePath):
-    # check if each level directory exists
     save_json(filePath, {"data": []})
     return filePath
 
@@ -211,7 +214,7 @@ if __name__ == "__main__":
     print(single_result)
 
     # Batch analysis
-    # input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
-    # output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
-    # analyzerBatch = CookStockAskGPTBatch(input_json, output_json)
-    # analyzerBatch.analyze_batch()
+    input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
+    output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
+    analyzerBatch = CookStockAskGPTBatch(input_json, output_json)
+    analyzerBatch.analyze_batch()

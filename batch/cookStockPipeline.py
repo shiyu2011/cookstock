@@ -63,7 +63,7 @@ for sector in sectorCollection:
 #convert sectorCollection to a file name
 sectorNameStr = '_'.join(sectorName)
 
-# selected = ['VNRX', 'INFU']
+# selected = ['DSP']
 
 y = batch_process(selected, sectorNameStr)
 y.batch_pipeline_full()

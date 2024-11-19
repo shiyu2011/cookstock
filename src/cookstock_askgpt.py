@@ -47,6 +47,7 @@ def fetch_with_proxy(url, headers):
         else:
             print(f"Request failed with status code: {response.status_code}")
             return None
+
     except Exception as e:
         print(f"Proxy error: {e}")
         return None

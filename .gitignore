@@ -1,3 +1,5 @@
 Miniconda3-latest-Linux-x86_64.sh
 proxy.txt
 update_results.sh
+cronjob.log
+crontab.log

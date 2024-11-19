@@ -2,7 +2,6 @@ import json
 import os
 import sys
 import datetime as dt
-from cookStock import *
 
 
 class CookStockUtils:
@@ -115,6 +114,67 @@ class CookStockUtils:
             f.write(readme_content)
         print(f"README file written to '{readme_file}'")
 
+    def count_tickers(self, json_file):
+        """Count the total number of entries in a JSON file."""
+        data = self.read_json(json_file)
+        #get all keys for each entry
+        tickers = [list(entry.keys())[0] for entry in data["data"]]
+        print(f'Total tickers: {len(tickers)}')
+        unique_tickers = list(set(tickers))
+        print(f'Unique tickers: {len(unique_tickers)}')
+        return len(tickers)
+    
+    def count_ticker_with_review(self, json_file):
+        """Count the total number of entries with news reviews in a JSON file."""
+        data = self.read_json(json_file)
+        count = 0
+        for entry in data["data"]:  # Iterate through the list of entries
+            for ticker, details in entry.items():  # Each ticker (e.g., "MRBK") is a key
+                news = details.get("news", [])  # Get the "news" field (default to an empty list)
+                if isinstance(news, list):  # Ensure "news" is a list
+                    # Check if any news item contains a "review"
+                    for news_item in news:
+                        if "review" in news_item:
+                            print(f'Ticker: {ticker}, Review: {news_item["review"]}')
+                            count += 1
+                            break  # Count the ticker once, even if it has multiple reviews
+        return count
+    
+    def check_if_duplicates(self, json_file):
+        """Check if there are any duplicate entries in a JSON file."""
+        data = self.read_json(json_file)
+        tickers = [list(entry.keys())[0] for entry in data["data"]]
+        unique_tickers = list(set(tickers))
+        return len(tickers) != len(unique_tickers)
+    
+    
+    def check_and_remove_duplicates(self, json_file):
+        print(f"is duplicate: {self.check_if_duplicates(json_file)}")
+        print(f"total tickers: {self.count_tickers(json_file)}")
+        print(f"start removing duplicates")
+        
+        # Read data from the JSON file
+        data = self.read_json(json_file)
+
+        # Keep track of seen tickers
+        seen_tickers = set()
+        unique_data = []
+
+        # Iterate over entries and add only unique tickers to the new list
+        for entry in data["data"]:
+            for ticker, _ in entry.items():
+                if ticker not in seen_tickers:
+                    unique_data.append(entry)
+                    seen_tickers.add(ticker)
+
+        # Replace the original data with the unique entries
+        data["data"] = unique_data
+
+        # Save the updated data back to the JSON file
+        self.save_json(data, json_file)
+        print(f"end removing duplicates")
+        print(f"total tickers after removing duplicates: {self.count_tickers(json_file)}")
+        print(f"is duplicate after removing duplicates: {self.check_if_duplicates(json_file)}")
 
     def convert_json_to_html(self, json_file, output_html_file):
         """
@@ -211,10 +271,16 @@ if __name__ == "__main__":
     util = CookStockUtils()
 
    # Check current price from raw selections
-    util.check_current_price_from_raw_selections('2024-11-14', 'Technology_HealthCare_BasicIndustries_ConsumerServices_Finance_Energy_ConsumerNon-Durables_ConsumerDurables.json', 'updated_data.json')
+    # util.check_current_price_from_raw_selections('2024-11-14', 'Technology_HealthCare_BasicIndustries_ConsumerServices_Finance_Energy_ConsumerNon-Durables_ConsumerDurables.json', 'updated_data.json')
 
     # Order tickers by change percentage
-    util.order_tickes_by_change_only('/home/user/cookstock/results', 'combinedData.json', 'ordered_data.json')
+    # util.order_tickes_by_change_only('/home/user/cookstock/results', 'combinedData.json', 'ordered_data.json')
 
     # Remove duplicates and generate README
-    util.remove_duplicates_and_generate_readme('combinedData.json', 'README.md')
+    # util.remove_duplicates_and_generate_readme('combinedData.json', 'README.md')
+    file = os.path.join(util.basePath, 'results', 'combinedData_gpt.json')
+    print(util.count_tickers(file))
+    print(util.check_if_duplicates(file))
+    util.check_and_remove_duplicates(file)
+    
+    print(util.count_ticker_with_review(file))

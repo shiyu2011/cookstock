@@ -68,7 +68,7 @@ class CookStockAskGPT:
         ]
 
 
-    def _ask_gpt(self, ticker, prompt):
+    def _ask_gpt(self, prompt):
         try:
             response = self.client.chat.completions.create(
                 model="gpt-4o-mini",
@@ -76,7 +76,7 @@ class CookStockAskGPT:
                     {"role": "system", "content": "You are an insightful and knowledgeable stock analytics."},
                     {
                         "role": "user",
-                        "content": f"Write a summary for the news within 30 words and clearly write a note within 20 words which tells me if this news is related to the stock ticker {ticker} and if it is so positive that it could drive this stock soar. {prompt}",
+                        "content": prompt
                     },
                 ]
             )
@@ -191,7 +191,12 @@ class CookStockAskGPT:
 
             paragraphs = article_div.find_all('p')
             combined_content = " ".join(p.get_text(strip=True) for p in paragraphs)
-            review = self._ask_gpt(ticker, combined_content)
+            prompt =(
+                    f"Write a summary for the news within 30 words and clearly write a note within 20 words "
+                    f"which tells me if this news is related to the stock ticker {ticker} and if it is so positive "
+                    f"that it could drive this stock soar. {combined_content}"
+                )
+            review = self._ask_gpt(prompt=prompt)
 
             news_list.append({
                 "title": title_news,
@@ -238,13 +243,46 @@ class CookStockAskGPTBatch:
                     self.text_cost += x.text_cost
                     print(f"Total text cost so far: {self.text_cost}")
                     if analysis:
-                        details['åbusiness_summary'] = analysis['business_summary']
+                        details['business_summary'] = analysis['business_summary']
                         details['news'] = analysis['news']
-                        results['data'].append({ticker: details})
                         append_to_json(self.output_json, {ticker: details})
                 except Exception as e:
                     print(f"Error: {e}")
                     continue
+                
+
+        
+def only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_json):
+    # Load data from JSON file
+    with open(input_json, 'r') as f:
+        data = js.load(f)
+
+    # Filter out entries without news reviews
+    filtered_data = []
+    for entry in data['data']:
+        for _, details in entry.items():
+            news = details.get('news', [])
+            if news:  # Only keep entries with news reviews
+                filtered_data.append(entry)
+                break  # Avoid processing the same entry multiple times
+    
+    
+    userMessageContent = (
+        f"look at the list of stocks, which is a structured data,"
+        f"it contains stock ticker, technical analysis and review of company news"
+        f"recommend me 5 stocks from the list and tell me why.{filtered_data}"
+    )
+    # Ask GPT for stock recommendations
+    x = CookStockAskGPT()
+    recommendations = x._ask_gpt(prompt=userMessageContent)
+    print(f"Recommendations: {recommendations}")
+    # Save filtered data to a new JSON file
+    
+    save_json(output_json, {"data": filtered_data})
+    
+    save_json(out_review_json, {"data": recommendations})
+
+    print(f"Filtered data saved to {output_json}")
             
 def load_json(filepath):
     with open(filepath, "r") as f:
@@ -256,24 +294,61 @@ def save_json(filepath, data):
 
 def append_to_json(filepath, ticker_data):
     data = load_json(filepath)
-    data['data'].append(ticker_data)
+    ticker = list(ticker_data.keys())[0]  # Get the ticker name
+    updated = False
+
+    # Check if the ticker already exists in the data
+    for entry in data['data']:
+        if ticker in entry:  # If ticker exists, update it
+            entry[ticker] = ticker_data[ticker]
+            updated = True
+            break
+
+    if not updated:  # If ticker does not exist, append it
+        data['data'].append(ticker_data)
+
     save_json(filepath, data)
 
 def setup_result_file(filePath):
+    """
+    Set up a result file.
+    If the file exists, rename it with a timestamp and create a new file.
+    """
+    if os.path.exists(filePath):
+        # Generate a timestamped backup filename
+        timestamp = dt.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        base_name, ext = os.path.splitext(filePath)  # Safely split filename and extension
+        new_file = f"{base_name}_{timestamp}{ext}"
+
+        # Rename the existing file
+        os.rename(filePath, new_file)
+        print(f"Existing file renamed to: {new_file}")
+
+    # Save a fresh JSON file
     save_json(filePath, {"data": []})
+    print(f"New result file created at: {filePath}")
     return filePath
 
 
 # Example usage:
 if __name__ == "__main__":
-    analyzer = CookStockAskGPT()
+    # analyzer = CookStockAskGPT()
 
     # Single ticker analysis
     # single_result = analyzer.analyze_single_ticker("CCRD")
     # print(single_result)
 
     # # Batch analysis
-    input_json = os.path.join(analyzer.base_path, "results/2024-11-17", "Technology_HealthCare_Finance_Energy.json")
-    output_json = os.path.join(analyzer.base_path, "results", "combinedData_gpt.json")
+    #get folder under results
+    current_date = dt.date.today().strftime('%Y-%m-%d')
+    resultsPath = os.path.join(find_path(), 'results', current_date)
+    input_json = os.path.join(resultsPath, "Technology_HealthCare_Finance_Energy.json")
+    output_json = os.path.join(find_path(), "results", "combinedData_gpt.json")
     analyzerBatch = CookStockAskGPTBatch(input_json, output_json)
     analyzerBatch.analyze_batch()
+    # analyzerBatch.only_select_entries_with_news_review_askGPT()
+    input_json = os.path.join(find_path(), "results", "combinedData_gpt.json")
+    output_json = os.path.join(find_path(), "results", "filteredData_gpt.json")
+    out_review_json = os.path.join(find_path(), "results", "recommendations.json")
+    only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_json)
+    

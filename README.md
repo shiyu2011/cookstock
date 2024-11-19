@@ -6,7 +6,6 @@ CookStock is a comprehensive stock screening tool implementing several advanced 
 1. Filters stocks according to Mark Minervini's stage 2 criteria, including moving average, volume, and price position strategies.
 
 2. Detects volatility contraction patterns, including identifying potential pivots, assessing for deep corrections, and evaluating selling pressure to determine if it has dried up.
-Rule #1 Stock Valuation Tool
 
 3. extracts news from yahoo finance and feed news into chatgpt api to collect feed back
 

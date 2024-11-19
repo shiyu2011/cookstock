@@ -278,7 +278,7 @@ if __name__ == "__main__":
 
     # Remove duplicates and generate README
     # util.remove_duplicates_and_generate_readme('combinedData.json', 'README.md')
-    file = os.path.join(util.basePath, 'results', 'combinedData_gpt.json')
+    file = os.path.join(util.basePath, 'results/2024-11-19/', 'Technology_HealthCare_Finance_Energy.json')
     print(util.count_tickers(file))
     print(util.check_if_duplicates(file))
     util.check_and_remove_duplicates(file)

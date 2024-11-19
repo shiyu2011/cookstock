@@ -93,9 +93,12 @@ class CookStockAskGPT:
             print(f"Error: {e}")
             return None
         
-    def _get_website(self, url, use_proxy=False):
+    def _get_website(self, url, use_proxy=1):
         """Fetch website content with optional proxy."""
-        header = random.choice(self.headers_list)
+        header = {
+            **random.choice(self.headers_list),  # Select a random User-Agent
+            "Cache-Control": "no-cache"         # Add "Cache-Control" to the headers
+        }
         try:
             if use_proxy == 1:
                 #get api from env
@@ -113,12 +116,59 @@ class CookStockAskGPT:
         except requests.RequestException as e:
             print(f"Error fetching website: {e}")
             self.soup = None
+            
+    def _get_website_new(self, url, use_proxy=1):
+        """Fetch website content with optional proxy using Selenium."""
+        # Choose a random user agent
+        header = random.choice(self.headers_list)
+        proxy_list = os.getenv("PROXY_LIST", "").split(",")  # List of proxies from environment variable
+        chrome_options = Options()
+        chrome_options.add_argument(f"user-agent={header['User-Agent']}")
+        chrome_options.add_argument("--headless")  # Optional: run in headless mode
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        chrome_options.add_argument("--disable-extensions")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--no-sandbox")
+
+        # Add proxy if required
+        if use_proxy and proxy_list:
+            proxy = random.choice(proxy_list)
+            print(f"Using proxy: {proxy}")
+            chrome_options.add_argument(f"--proxy-server={proxy}")
+
+        # Setup WebDriver
+        service = Service(executable_path="path/to/chromedriver")  # Specify your chromedriver path
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+
+        try:
+            # Load the URL
+            driver.get(url)
+
+            # Handle potential CAPTCHA manually
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, "captcha_selector"))
+                )
+                print("CAPTCHA detected. Solve it manually...")
+                input("Press Enter after solving the CAPTCHA.")
+            except Exception:
+                print("No CAPTCHA detected.")
+
+            # Extract page source
+            html = driver.page_source
+            self.soup = BeautifulSoup(html, 'lxml')
+        except Exception as e:
+            print(f"Error fetching website: {e}")
+            self.soup = None
+        finally:
+            driver.quit()
 
 
     def _get_business_summary(self, ticker):
         if self.soup is None:
             url = f'https://finance.yahoo.com/quote/{ticker}'
-            self._get_website(url, use_proxy=2)
+            self._get_website(url, use_proxy=1)
         soup = self.soup
         if not soup:
             return None
@@ -333,10 +383,10 @@ def setup_result_file(filePath):
 
 # Example usage:
 if __name__ == "__main__":
-    # analyzer = CookStockAskGPT()
+    analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    # single_result = analyzer.analyze_single_ticker("CCRD")
+    single_result = analyzer.analyze_single_ticker("AAPL")
     # print(single_result)
 
     # # Batch analysis

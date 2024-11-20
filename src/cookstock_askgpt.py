@@ -6,6 +6,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
+import finnhub
 
 
 
@@ -53,8 +54,20 @@ def fetch_with_proxy(url, headers):
         return None
 
 class CookStockAskGPT:
-    def __init__(self, base_path=None):
-        self.client = OpenAI()
+    def __init__(self, base_path=None, client=None, finnhub_client=None):
+        if client:
+            self.client = client
+        else:
+            self.client = OpenAI()
+        if finnhub_client:
+            self.finnhub_client = finnhub_client
+        else:
+            api_key = os.getenv('FINHUB_API_KEY')
+            if not api_key:
+                raise ValueError("FINHUB_API_KEY not set in environment variables.")
+            self.finnhub_client = finnhub.Client(api_key=api_key)
+
+        
         self.cost_per_token_prompt = 0.15 / 1000000
         self.cost_per_token_answer = 0.60 / 1000000
         self.text_cost = 0
@@ -168,7 +181,7 @@ class CookStockAskGPT:
     def _get_business_summary(self, ticker):
         if self.soup is None:
             url = f'https://finance.yahoo.com/quote/{ticker}'
-            self._get_website(url, use_proxy=1)
+            self._get_website(url, use_proxy=2)
         soup = self.soup
         if not soup:
             return None
@@ -257,11 +270,63 @@ class CookStockAskGPT:
             })
 
         return news_list
+    
+    def _read_news_from_finHub(self, ticker):
+        # Setup client
+        # Calculate start time and end time
+        startTime = dt.datetime.now() - dt.timedelta(days=algoParas.RETREIVE_DAYS)
+        startTimeStr = startTime.strftime("%Y-%m-%d")  # Format as "Y-M-D"
+
+        endTime = dt.datetime.now()
+        endTimeStr = endTime.strftime("%Y-%m-%d")  # Format as "Y-M-D"
+        news = self.finnhub_client.company_news(ticker, _from=startTimeStr, to=endTimeStr)
+        news_list = []
+        for news_item in news:
+            #convert time to datetime
+            #calculat time ago
+            current_time = dt.datetime.now(dt.timezone.utc)
+            news_time = dt.datetime.utcfromtimestamp(news_item['datetime']).replace(tzinfo=dt.timezone.utc)
+            diff = current_time - news_time
+            #convert the diff to seconds, minutes, hours or days
+            # Convert to seconds, minutes, hours, and days
+            total_seconds = diff.total_seconds()
+            seconds = int(total_seconds % 60)
+            minutes = int((total_seconds // 60) % 60)
+            hours = int((total_seconds // 3600) % 24)
+            days = int(total_seconds // 86400)
+            timeStr = f"{days} days ago" if days > 0 else f"{hours} hours ago" if hours > 0 else f"{minutes} minutes ago" if minutes > 0 else f"{seconds} seconds ago"
+            # print(diff)
+            # print(news_item['headline'])
+            # print(news_item['summary'])
+            
+            combined_content = {"ticker": ticker, 
+                                "headline": news_item['headline'], 
+                                "summary": news_item['summary'],
+                                "time": timeStr,
+                                "url": news_item['url']}
+            prompt =(
+                    f"read the structured content, clearly write a note within 20 words "
+                    f"which tells me if this news is timely and related to the stock {ticker} and if it is so positive "
+                    f"that it could drive this stock soar. {combined_content}"
+                )
+            review = self._ask_gpt(prompt=prompt)
+            news_list.append({
+                "title": news_item['headline'],
+                "summary": news_item['summary'],
+                "url": news_item['url'],
+                "date": timeStr,
+                "source": news_item['source'],
+                "review": review
+            })
+        #wait 2 seconds
+        time.sleep(2)
+        return news_list
 
     def analyze_single_ticker(self, ticker):
         print(f"Analyzing {ticker}...")
         business_summary = self._get_business_summary(ticker)
-        news = self._extract_news(ticker)
+        # news = self._extract_news(ticker)
+        news = self._read_news_from_finHub(ticker)
         return {
             "ticker": ticker,
             "business_summary": business_summary,
@@ -274,6 +339,10 @@ class CookStockAskGPTBatch:
         self.input_json = input_json
         self.output_json = output_json
         self.client = OpenAI()
+        api_key = os.getenv('FINHUB_API_KEY')
+        if not api_key:
+            raise ValueError("FINHUB_API_KEY not set in environment variables.")
+        self.finnhub_client = finnhub.Client(api_key=api_key)
         self.cost_per_token_prompt = 0.15 / 1000000
         self.cost_per_token_answer = 0.60 / 1000000
         self.text_cost = 0
@@ -289,7 +358,7 @@ class CookStockAskGPTBatch:
         for entry in results['data']:
             for ticker, details in entry.items():
                 try:
-                    x = CookStockAskGPT()
+                    x = CookStockAskGPT(client=self.client, finnhub_client=self.finnhub_client)
                     analysis = x.analyze_single_ticker(ticker)
                     self.text_cost += x.text_cost
                     print(f"Total text cost so far: {self.text_cost}")
@@ -383,10 +452,10 @@ def setup_result_file(filePath):
 
 # Example usage:
 if __name__ == "__main__":
-    analyzer = CookStockAskGPT()
+    # analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    single_result = analyzer.analyze_single_ticker("AAPL")
+    # single_result = analyzer.analyze_single_ticker("AAPL")
     # print(single_result)
 
     # # Batch analysis

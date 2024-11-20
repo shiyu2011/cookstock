@@ -304,11 +304,12 @@ class CookStockAskGPT:
                                 "summary": news_item['summary'],
                                 "time": timeStr,
                                 "url": news_item['url']}
-            prompt =(
-                    f"read the structured content, clearly write a note within 20 words "
-                    f"which tells me if this news is timely and related to the stock {ticker} and if it is so positive "
-                    f"that it could drive this stock soar. {combined_content}"
-                )
+            prompt = (
+                f"Analyze the structured content below and write a concise note (within 20 words). "
+                f"First, state if the news is timely and related to the stock {ticker}. "
+                f"Second, specify if it has a strong positive, positive, neutral, or negative impact on the stock price. "
+                f"Content: {combined_content}"
+            )
             review = self._ask_gpt(prompt=prompt)
             news_list.append({
                 "title": news_item['headline'],
@@ -324,7 +325,8 @@ class CookStockAskGPT:
 
     def analyze_single_ticker(self, ticker):
         print(f"Analyzing {ticker}...")
-        business_summary = self._get_business_summary(ticker)
+        # business_summary = self._get_business_summary(ticker)
+        business_summary = None
         # news = self._extract_news(ticker)
         news = self._read_news_from_finHub(ticker)
         return {
@@ -452,10 +454,10 @@ def setup_result_file(filePath):
 
 # Example usage:
 if __name__ == "__main__":
-    # analyzer = CookStockAskGPT()
+    analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    # single_result = analyzer.analyze_single_ticker("AAPL")
+    single_result = analyzer.analyze_single_ticker("AAPL")
     # print(single_result)
 
     # # Batch analysis

@@ -137,6 +137,8 @@ The news is timely and potentially positive for MSTR, as BlackRock's bitcoin ent
 - **Time at Check**: 11/19/2024 14:44:55
 
 #### News
+No news available
+
 ![VCYT Chart](.//2024-11-19/VCYT.jpg)
 
 ### CLMB
@@ -170,6 +172,8 @@ The news is timely and suggests strong institutional support, which could positi
 - **Time at Check**: 11/19/2024 14:39:40
 
 #### News
+No news available
+
 ![SCKT Chart](.//2024-11-19/SCKT.jpg)
 
 ### NTRA
@@ -185,6 +189,8 @@ The news is timely and suggests strong institutional support, which could positi
 - **Time at Check**: 11/19/2024 14:43:32
 
 #### News
+No news available
+
 ![NTRA Chart](.//2024-11-19/NTRA.jpg)
 
 ### NXGL
@@ -200,6 +206,8 @@ The news is timely and suggests strong institutional support, which could positi
 - **Time at Check**: 11/19/2024 14:43:42
 
 #### News
+No news available
+
 ![NXGL Chart](.//2024-11-19/NXGL.jpg)
 
 ### ETON
@@ -215,6 +223,8 @@ The news is timely and suggests strong institutional support, which could positi
 - **Time at Check**: 11/19/2024 14:42:24
 
 #### News
+No news available
+
 ![ETON Chart](.//2024-11-19/ETON.jpg)
 
 ### CNTA
@@ -230,6 +240,8 @@ The news is timely and suggests strong institutional support, which could positi
 - **Time at Check**: 11/19/2024 14:41:29
 
 #### News
+No news available
+
 ![CNTA Chart](.//2024-11-19/CNTA.jpg)
 
 ### PL
@@ -311,6 +323,8 @@ The news is timely and could positively impact ALKT by driving the stock price h
 - **Time at Check**: 11/19/2024 14:43:55
 
 #### News
+No news available
+
 ![ORGO Chart](.//2024-11-19/ORGO.jpg)
 
 ### OPFI
@@ -422,6 +436,8 @@ The news is timely and positive for VCTR, potentially driving the stock higher d
 - **Time at Check**: 11/19/2024 14:42:37
 
 #### News
+No news available
+
 ![EUDA Chart](.//2024-11-19/EUDA.jpg)
 
 ### SRV
@@ -479,6 +495,8 @@ The news is timely and positive, likely to drive TSEM stock higher due to advanc
 - **Time at Check**: 11/19/2024 14:44:40
 
 #### News
+No news available
+
 ![TGTX Chart](.//2024-11-19/TGTX.jpg)
 
 ### ATLC
@@ -512,6 +530,8 @@ The news is timely and relevant to ATLC, but not specifically positive enough to
 - **Time at Check**: 11/19/2024 14:40:42
 
 #### News
+No news available
+
 ![VICR Chart](.//2024-11-19/VICR.jpg)
 
 ### KARO
@@ -584,6 +604,8 @@ The news is timely and positive for DCTH, likely to drive the stock higher due t
 - **Time at Check**: 11/19/2024 14:52:13
 
 #### News
+No news available
+
 ![RNGR Chart](.//2024-11-19/RNGR.jpg)
 
 ### IGTA
@@ -599,6 +621,8 @@ The news is timely and positive for DCTH, likely to drive the stock higher due t
 - **Time at Check**: 11/19/2024 14:49:11
 
 #### News
+No news available
+
 ![IGTA Chart](.//2024-11-19/IGTA.jpg)
 
 ### AUR
@@ -614,6 +638,8 @@ The news is timely and positive for DCTH, likely to drive the stock higher due t
 - **Time at Check**: 11/19/2024 14:36:29
 
 #### News
+No news available
+
 ![AUR Chart](.//2024-11-19/AUR.jpg)
 
 ### RDCM
@@ -629,6 +655,8 @@ The news is timely and positive for DCTH, likely to drive the stock higher due t
 - **Time at Check**: 11/19/2024 14:39:26
 
 #### News
+No news available
+
 ![RDCM Chart](.//2024-11-19/RDCM.jpg)
 
 ### RNR
@@ -662,6 +690,8 @@ The news is timely and positive for RNR, potentially driving the stock higher du
 - **Time at Check**: 11/19/2024 14:49:58
 
 #### News
+No news available
+
 ![ONIT Chart](.//2024-11-19/ONIT.jpg)
 
 ### TTP
@@ -677,6 +707,8 @@ The news is timely and positive for RNR, potentially driving the stock higher du
 - **Time at Check**: 11/19/2024 14:51:41
 
 #### News
+No news available
+
 ![TTP Chart](.//2024-11-19/TTP.jpg)
 
 ### IBEX
@@ -767,6 +799,8 @@ This timely news about ATYR0101 presentation is positive and could potentially d
 - **Time at Check**: 11/19/2024 14:40:05
 
 #### News
+No news available
+
 ![SRAD Chart](.//2024-11-19/SRAD.jpg)
 
 ### DSGX
@@ -803,6 +837,8 @@ The news is timely and positive for DSGX, potentially driving the stock higher d
 - **Time at Check**: 11/19/2024 14:46:44
 
 #### News
+No news available
+
 ![CBFV Chart](.//2024-11-19/CBFV.jpg)
 
 ### FRAF
@@ -818,6 +854,8 @@ The news is timely and positive for DSGX, potentially driving the stock higher d
 - **Time at Check**: 11/19/2024 14:48:06
 
 #### News
+No news available
+
 ![FRAF Chart](.//2024-11-19/FRAF.jpg)
 
 ### CBNA
@@ -833,6 +871,8 @@ The news is timely and positive for DSGX, potentially driving the stock higher d
 - **Time at Check**: 11/19/2024 14:46:55
 
 #### News
+No news available
+
 ![CBNA Chart](.//2024-11-19/CBNA.jpg)
 
 ### INVA
@@ -866,6 +906,8 @@ The news is timely but suggests overvaluation in healthcare; unlikely to drive I
 - **Time at Check**: 11/19/2024 14:41:41
 
 #### News
+No news available
+
 ![CRVS Chart](.//2024-11-19/CRVS.jpg)
 
 ### BGH
@@ -881,6 +923,8 @@ The news is timely but suggests overvaluation in healthcare; unlikely to drive I
 - **Time at Check**: 11/19/2024 14:46:12
 
 #### News
+No news available
+
 ![BGH Chart](.//2024-11-19/BGH.jpg)
 
 ### HOOD
@@ -962,6 +1006,8 @@ The news is timely and relevant to HOOD, but its positivity's impact on stock mo
 - **Time at Check**: 11/19/2024 14:49:42
 
 #### News
+No news available
+
 ![NPFD Chart](.//2024-11-19/NPFD.jpg)
 
 ### PDX
@@ -977,6 +1023,8 @@ The news is timely and relevant to HOOD, but its positivity's impact on stock mo
 - **Time at Check**: 11/19/2024 14:50:16
 
 #### News
+No news available
+
 ![PDX Chart](.//2024-11-19/PDX.jpg)
 
 ### EOI
@@ -992,6 +1040,8 @@ The news is timely and relevant to HOOD, but its positivity's impact on stock mo
 - **Time at Check**: 11/19/2024 14:47:42
 
 #### News
+No news available
+
 ![EOI Chart](.//2024-11-19/EOI.jpg)
 
 ### SU
@@ -1070,6 +1120,8 @@ This timely news is positive for ALTR, likely boosting its stock due to enhanced
 - **Time at Check**: 11/19/2024 14:49:50
 
 #### News
+No news available
+
 ![OBT Chart](.//2024-11-19/OBT.jpg)
 
 ### CDMO
@@ -1103,6 +1155,8 @@ The news is timely but not directly related to CDMO; unlikely to significantly d
 - **Time at Check**: 11/19/2024 14:47:57
 
 #### News
+No news available
+
 ![FINW Chart](.//2024-11-19/FINW.jpg)
 
 ### NODK
@@ -1118,6 +1172,8 @@ The news is timely but not directly related to CDMO; unlikely to significantly d
 - **Time at Check**: 11/19/2024 14:49:34
 
 #### News
+No news available
+
 ![NODK Chart](.//2024-11-19/NODK.jpg)
 
 ### FSFG
@@ -1151,6 +1207,8 @@ The news is timely for FSFG; it is positive but may not significantly drive the 
 - **Time at Check**: 11/19/2024 14:51:09
 
 #### News
+No news available
+
 ![SLRC Chart](.//2024-11-19/SLRC.jpg)
 
 ### SMWB
@@ -1190,6 +1248,8 @@ The news is timely for SMWB but lacks sufficient positive impact to drive the st
 - **Time at Check**: 11/19/2024 14:46:32
 
 #### News
+No news available
+
 ![BUJA Chart](.//2024-11-19/BUJA.jpg)
 
 ### GIG
@@ -1205,6 +1265,8 @@ The news is timely for SMWB but lacks sufficient positive impact to drive the st
 - **Time at Check**: 11/19/2024 14:48:39
 
 #### News
+No news available
+
 ![GIG Chart](.//2024-11-19/GIG.jpg)
 
 ### SNFCA
@@ -1238,6 +1300,8 @@ The news is timely and highly positive, likely to drive SNFCA stock higher due t
 - **Time at Check**: 11/19/2024 14:45:46
 
 #### News
+No news available
+
 ![ASGI Chart](.//2024-11-19/ASGI.jpg)
 
 ### VEL
@@ -1253,6 +1317,8 @@ The news is timely and highly positive, likely to drive SNFCA stock higher due t
 - **Time at Check**: 11/19/2024 14:51:57
 
 #### News
+No news available
+
 ![VEL Chart](.//2024-11-19/VEL.jpg)
 
 ### IGIC
@@ -1286,6 +1352,8 @@ The news is timely but not inherently positive enough to drive IGIC stock to soa
 - **Time at Check**: 11/19/2024 14:47:22
 
 #### News
+No news available
+
 ![CEP Chart](.//2024-11-19/CEP.jpg)
 
 ### CCLDO
@@ -1301,6 +1369,8 @@ The news is timely but not inherently positive enough to drive IGIC stock to soa
 - **Time at Check**: 11/19/2024 14:36:45
 
 #### News
+No news available
+
 ![CCLDO Chart](.//2024-11-19/CCLDO.jpg)
 
 ### CZFS
@@ -1316,6 +1386,8 @@ The news is timely but not inherently positive enough to drive IGIC stock to soa
 - **Time at Check**: 11/19/2024 14:47:28
 
 #### News
+No news available
+
 ![CZFS Chart](.//2024-11-19/CZFS.jpg)
 
 ### PWP
@@ -1349,6 +1421,8 @@ This timely news about Erik Maris joining PWP is positive and could boost invest
 - **Time at Check**: 11/19/2024 14:48:46
 
 #### News
+No news available
+
 ![HGTY Chart](.//2024-11-19/HGTY.jpg)
 
 ### PHD
@@ -1364,6 +1438,8 @@ This timely news about Erik Maris joining PWP is positive and could boost invest
 - **Time at Check**: 11/19/2024 14:50:22
 
 #### News
+No news available
+
 ![PHD Chart](.//2024-11-19/PHD.jpg)
 
 ### PLBC
@@ -1379,6 +1455,8 @@ This timely news about Erik Maris joining PWP is positive and could boost invest
 - **Time at Check**: 11/19/2024 14:50:29
 
 #### News
+No news available
+
 ![PLBC Chart](.//2024-11-19/PLBC.jpg)
 
 ### RCG
@@ -1394,6 +1472,8 @@ This timely news about Erik Maris joining PWP is positive and could boost invest
 - **Time at Check**: 11/19/2024 14:50:45
 
 #### News
+No news available
+
 ![RCG Chart](.//2024-11-19/RCG.jpg)
 
 ### RMBI
@@ -1409,6 +1489,8 @@ This timely news about Erik Maris joining PWP is positive and could boost invest
 - **Time at Check**: 11/19/2024 14:50:54
 
 #### News
+No news available
+
 ![RMBI Chart](.//2024-11-19/RMBI.jpg)
 
 ### SRTS
@@ -1448,6 +1530,8 @@ The news is timely and positive, potentially driving SRTS stock upwards due to s
 - **Time at Check**: 11/19/2024 14:47:50
 
 #### News
+No news available
+
 ![FBLA Chart](.//2024-11-19/FBLA.jpg)
 
 ### DGX
@@ -1481,6 +1565,8 @@ The news about DGX is timely and positive, potentially driving the stock price h
 - **Time at Check**: 11/19/2024 14:40:55
 
 #### News
+No news available
+
 ![ACTU Chart](.//2024-11-19/ACTU.jpg)
 
 ### KMDA
@@ -1496,6 +1582,8 @@ The news about DGX is timely and positive, potentially driving the stock price h
 - **Time at Check**: 11/19/2024 14:43:17
 
 #### News
+No news available
+
 ![KMDA Chart](.//2024-11-19/KMDA.jpg)
 
 ### GILD
@@ -1571,6 +1659,8 @@ The news is timely, but lacks direct relevance to SSNC's stock performance or po
 - **Time at Check**: 11/19/2024 14:38:34
 
 #### News
+No news available
+
 ![ISSC Chart](.//2024-11-19/ISSC.jpg)
 
 ### AIZ
@@ -1607,6 +1697,8 @@ The news is not directly related to AIZ and unlikely to drive its stock up.
 - **Time at Check**: 11/19/2024 14:47:09
 
 #### News
+No news available
+
 ![CCNEP Chart](.//2024-11-19/CCNEP.jpg)
 
 ### DOCS
@@ -1682,6 +1774,8 @@ The news is timely, related to DCOM, but lacks strong positivity to significantl
 - **Time at Check**: 11/19/2024 14:51:33
 
 #### News
+No news available
+
 ![SSSS Chart](.//2024-11-19/SSSS.jpg)
 
 ### WTW
@@ -1766,6 +1860,8 @@ The news is timely and relevant to BTDR, but its positive impact on the stock is
 - **Time at Check**: 11/19/2024 14:36:37
 
 #### News
+No news available
+
 ![BCOV Chart](.//2024-11-19/BCOV.jpg)
 
 ### GGAL
@@ -1781,6 +1877,8 @@ The news is timely and relevant to BTDR, but its positive impact on the stock is
 - **Time at Check**: 11/19/2024 14:48:22
 
 #### News
+No news available
+
 ![GGAL Chart](.//2024-11-19/GGAL.jpg)
 
 ### USEG
@@ -1796,6 +1894,8 @@ The news is timely and relevant to BTDR, but its positive impact on the stock is
 - **Time at Check**: 11/19/2024 14:52:29
 
 #### News
+No news available
+
 ![USEG Chart](.//2024-11-19/USEG.jpg)
 
 ### PULM
@@ -1811,5 +1911,7 @@ The news is timely and relevant to BTDR, but its positive impact on the stock is
 - **Time at Check**: 11/19/2024 14:44:07
 
 #### News
+No news available
+
 ![PULM Chart](.//2024-11-19/PULM.jpg)
 

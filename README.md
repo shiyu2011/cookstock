@@ -26,6 +26,10 @@ Here is an example of TSLA's volatility contraction pattern
 Usage Instructions
 batch mode:
 1. Run cookStockPipeline.py to perform both stage 2 template screening and apply contraction pattern detection on the selected stocks.
+2. Run cookstock_askgpt.py to perfrorm news extraction and gpt review.
+   I have 2 ways to get news
+   a. use scraper to scrapt news from yahoo finance
+   b. use [finnhub](https://github.com/Finnhub-Stock-API/finnhub-python) to request news
 
 test function:
 1. run runTest_cookStock_basic.py to run RULE ONE
@@ -35,7 +39,7 @@ test function:
 We also run the selection daily and post here:
 [View Daily Selection Results](./results/README.md)
 
-If you enjoy this project and even gain profits from it, consider supporting through a donation via PayPa
+If you enjoy this project and even gain profits from it, consider supporting through a donation via PayPal
 
 | **Paypal** |
 |------------|

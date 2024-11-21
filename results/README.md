@@ -1,1353 +1,701 @@
-# Daily Stock Analysis: 11_20_2024
+# Daily Stock Analysis: 11_21_2024
 
 This report provides an overview of selected stocks with volatility contraction patterns and analysis details.
 
 ## Stocks Overview
 
-### SMLR
-- **Current Price during run time**: 46.34000015258789
-- **Support Price**: 44.47999954223633
-- **Pressure Price**: 52.709999084472656
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 59.27
-- **Price Change**: 27.9025%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:28
-#### News
-No news available
-
-![SMLR Chart](.//2024-11-20/SMLR.jpg)
-
-### CANG
-- **Current Price during run time**: 3.5
-- **Support Price**: 3.4100000858306885
-- **Pressure Price**: 4.159999847412109
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 4.14
-- **Price Change**: 18.2857%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:16:13
-#### News
-##### Cango : Completes Cash Settled Acquisitions of Crypto Mining Assets Form 6 K (1 days ago)
-Timely and related to CANG; likely strong positive impact on stock price due to strategic asset acquisition.
-
-![CANG Chart](.//2024-11-20/CANG.jpg)
-
-### LMND
-- **Current Price during run time**: 40.13999938964844
-- **Support Price**: 31.709999084472656
-- **Pressure Price**: 34.2400016784668
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 46.58
-- **Price Change**: 16.0438%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:16
-#### News
-##### Lemonade : to Present at FT Partners FinTech Conference (18 hours ago)
-The news is timely and related to LMND, with a neutral impact on the stock price.
-
-![LMND Chart](.//2024-11-20/LMND.jpg)
-
-### MSTR
-- **Current Price during run time**: 430.5400085449219
-- **Support Price**: 327.6700134277344
-- **Pressure Price**: 356.5899963378906
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 473.83
-- **Price Change**: 10.0548%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:19:48
-#### News
-##### Why Cryptocurrencies and Crypto Stocks Were Bouncing Higher on Tuesday (11 hours ago)
-The news is timely and related to MSTR. It has a strong positive impact on the stock price.
-
-##### These Stocks Moved the Most Today: Super Micro, Walmart, Nvidia, Lowe’s, Symbotic, MicroStrategy, Incyte, and More (13 hours ago)
-The news is timely and related to MSTR, likely having a neutral impact on the stock price.
-
-##### MicroStrategy Market Value Tops $100 Billion as Bitcoin Hits New High (14 hours ago)
-Timely news for MSTR; it has a strong positive impact on the stock price.
-
-##### MicroStrategy: A Smarter Bet Than Bitcoin Itself? (20 hours ago)
-The news is timely and related to MSTR, with a neutral impact on the stock price.
-
-##### MicroStrategy Announces $42B Capital Raise to Expand Bitcoin Holdings (20 hours ago)
-Timely and related to MSTR; strong positive impact on stock price.
-
-##### Billionaire Michael Saylor's Company Just Bought This Popular Cryptocurrency (20 hours ago)
-The news is timely and related to MSTR. It has a strong positive impact on the stock price.
-
-##### 5 Things to Know Before the Stock Market Opens (21 hours ago)
-The news is timely and related to MSTR. It has a neutral impact on the stock price.
-
-##### Nvidia Is Set Up for Disappointment. How It Could Break Markets After Earnings, and 5 Other Things to Know Today. (23 hours ago)
-The news is timely but not directly related to MSTR. It has a neutral impact on the stock price.
-
-##### These Stocks Are Moving the Most Today: Super Micro, Nvidia, MicroStrategy, Tesla, Symbotic, Walmart, and More (1 days ago)
-The news is timely and related to MSTR. It has a neutral impact on the stock price.
-
-##### MicroStrategy Goes All In on Bitcoin: Purchases $4.6B in BTC, Plans $1.75B Fundraise To Expand Holdings (1 days ago)
-Timely news for MSTR; it has a strong positive impact on the stock price.
-
-##### MicroStrategy Could Be A Multi-Trillion Dollar Company (1 days ago)
-Timely news related to MSTR; it has a strong positive impact on the stock price. 
-
-##### Watch These MicroStrategy Levels as Stock Soars to Record High After Bitcoin Purchase (1 days ago)
-The news is timely and related to MSTR. It has a strong positive impact on the stock price.
-
-![MSTR Chart](.//2024-11-20/MSTR.jpg)
-
-### BFLY
-- **Current Price during run time**: 3.049999952316284
-- **Support Price**: 2.3499999046325684
-- **Pressure Price**: 2.7300000190734863
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 3.32
-- **Price Change**: 8.8525%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:23:55
-#### News
-No news available
-
-![BFLY Chart](.//2024-11-20/BFLY.jpg)
-
-### TECX
-- **Current Price during run time**: 40.86000061035156
-- **Support Price**: 38.880001068115234
-- **Pressure Price**: 47.75
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 44.03
-- **Price Change**: 7.7582%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:43
-#### News
-No news available
-
-![TECX Chart](.//2024-11-20/TECX.jpg)
-
-### NCTY
-- **Current Price during run time**: 10.289999961853027
-- **Support Price**: 9.949999809265137
-- **Pressure Price**: 11.300000190734863
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 10.98
-- **Price Change**: 6.7055%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:32
-#### News
-No news available
-
-![NCTY Chart](.//2024-11-20/NCTY.jpg)
-
-### IFRX
-- **Current Price during run time**: 1.9199999570846558
-- **Support Price**: 1.7400000095367432
-- **Pressure Price**: 2.0299999713897705
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 2.04
-- **Price Change**: 6.2500%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:26:50
-#### News
-No news available
-
-![IFRX Chart](.//2024-11-20/IFRX.jpg)
-
-### MTLS
-- **Current Price during run time**: 6.755000114440918
-- **Support Price**: 6.730000019073486
-- **Pressure Price**: 7.340000152587891
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 7.12
-- **Price Change**: 5.4034%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:19:58
-#### News
-No news available
-
-![MTLS Chart](.//2024-11-20/MTLS.jpg)
-
-### PDEX
-- **Current Price during run time**: 45.209999084472656
-- **Support Price**: 41.959999084472656
-- **Pressure Price**: 49.54999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 47.63
-- **Price Change**: 5.3528%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:55
-#### News
-No news available
-
-![PDEX Chart](.//2024-11-20/PDEX.jpg)
-
-### FGBI
-- **Current Price during run time**: 12.25
-- **Support Price**: 10.119999885559082
-- **Pressure Price**: 10.720000267028809
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 12.9
-- **Price Change**: 5.3061%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:01
-#### News
-No news available
-
-![FGBI Chart](.//2024-11-20/FGBI.jpg)
-
-### RNGR
-- **Current Price during run time**: 15.8100004196167
-- **Support Price**: 12.279999732971191
-- **Pressure Price**: 12.529999732971191
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 16.57
-- **Price Change**: 4.8071%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:44
-#### News
-No news available
-
-![RNGR Chart](.//2024-11-20/RNGR.jpg)
-
-### YPF
-- **Current Price during run time**: 35.54999923706055
-- **Support Price**: 24.510000228881836
-- **Pressure Price**: 25.649999618530273
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 37.17
-- **Price Change**: 4.5570%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:52
-#### News
-##### Vista Energy: Attractive Valuation, Superior Growth Profile For This LATAM Oil Stock (13 hours ago)
-Timely news related to YPF; has a neutral impact on the stock price.
-
-![YPF Chart](.//2024-11-20/YPF.jpg)
-
-### QNCX
-- **Current Price during run time**: 1.7699999809265137
-- **Support Price**: 0.6959999799728394
-- **Pressure Price**: 0.699999988079071
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 1.84
-- **Price Change**: 3.9548%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:04
-#### News
-No news available
-
-![QNCX Chart](.//2024-11-20/QNCX.jpg)
-
-### NTRA
-- **Current Price during run time**: 162.10000610351562
-- **Support Price**: 146.05999755859375
-- **Pressure Price**: 160.97000122070312
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 167.88
-- **Price Change**: 3.5657%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:32
-#### News
-No news available
-
-![NTRA Chart](.//2024-11-20/NTRA.jpg)
-
-### MRX
-- **Current Price during run time**: 27.959999084472656
-- **Support Price**: 27.889999389648438
-- **Pressure Price**: 29.0
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 28.91
-- **Price Change**: 3.3977%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:24
-#### News
-No news available
-
-![MRX Chart](.//2024-11-20/MRX.jpg)
-
-### GCMG
-- **Current Price during run time**: 12.0600004196167
-- **Support Price**: 11.479999542236328
-- **Pressure Price**: 12.25
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 12.43
-- **Price Change**: 3.0680%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:41
-#### News
-No news available
-
-![GCMG Chart](.//2024-11-20/GCMG.jpg)
-
-### ARGX
-- **Current Price during run time**: 574.5399780273438
-- **Support Price**: 564.2249755859375
-- **Pressure Price**: 602.469970703125
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 591.82
-- **Price Change**: 3.0076%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:23:17
-#### News
-##### Fidelity Select Health Care Portfolio Q3 2024 Fund Review (1 days ago)
-The news is timely and related to ARGX. It has a positive impact on the stock price.
-
-![ARGX Chart](.//2024-11-20/ARGX.jpg)
-
-### PNRG
-- **Current Price during run time**: 193.39999389648438
-- **Support Price**: 192.52000427246094
-- **Pressure Price**: 201.6999969482422
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 199.19
-- **Price Change**: 2.9938%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:37
-#### News
-No news available
-
-![PNRG Chart](.//2024-11-20/PNRG.jpg)
-
-### AVXL
-- **Current Price during run time**: 8.239999771118164
-- **Support Price**: 7.445000171661377
-- **Pressure Price**: 9.239999771118164
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 8.475
-- **Price Change**: 2.8519%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:23:43
-#### News
-No news available
-
-![AVXL Chart](.//2024-11-20/AVXL.jpg)
-
-### SMWB
-- **Current Price during run time**: 11.899999618530273
-- **Support Price**: 8.569999694824219
-- **Pressure Price**: 9.079999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 12.23
-- **Price Change**: 2.7731%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:21:39
-#### News
-##### Bluesky tops 20M users, narrowing gap with Instagram Threads (18 hours ago)
-The news is timely and related to SMWB. It has a positive impact on the stock price.
-
-![SMWB Chart](.//2024-11-20/SMWB.jpg)
-
-### HOOD
-- **Current Price during run time**: 35.2400016784668
-- **Support Price**: 31.90999984741211
-- **Pressure Price**: 33.0
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 36.08
-- **Price Change**: 2.3837%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:36
-#### News
-##### How Robinhood's TradePMR acquisition changes the industry (13 hours ago)
-Timely news for HOOD; positive impact on stock price due to anticipated industry changes from the TradePMR acquisition.
-
-##### Bitcoin hits record high above $93,800 as Trump rally resumes (15 hours ago)
-The news is timely and related to HOOD, with a positive impact on the stock price.
-
-##### Robinhood to acquire TradePMR for $300 million to boost advisory business (21 hours ago)
-The news is timely and related to HOOD. It has a strong positive impact on the stock price.
-
-##### Robinhood Dives Into Wealth Management With Acquisition of TradePMR (23 hours ago)
-Timely news related to HOOD; has a strong positive impact on the stock price.
-
-##### Robinhood to Buy TradePMR for $300 Million in Wealth Client Push (23 hours ago)
-Timely and relevant news for HOOD; strong positive impact on stock price due to expansion into wealth management.
-
-##### Robinhood upgraded to Buy at Needham after Trump’s election win (23 hours ago)
-Timely news for HOOD; strong positive impact on stock price due to upgrade and favorable regulatory outlook.
-
-##### Robinhood Markets : To Acquire TradePMR (1 days ago)
-The news is timely and related to HOOD, having a strong positive impact on its stock price.
-
-![HOOD Chart](.//2024-11-20/HOOD.jpg)
-
 ### ALAB
-- **Current Price during run time**: 95.18000030517578
+- **Current Price during run time**: 97.41999816894531
 - **Support Price**: 86.44999694824219
 - **Pressure Price**: 99.30000305175781
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 97.42
-- **Price Change**: 2.3534%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:14:25
 #### News
-No news available
+##### US Growth Companies With High Insider Ownership (23 hours ago)
+The news is timely and related to ALAB. It has a positive impact on the stock price.
 
-![ALAB Chart](.//2024-11-20/ALAB.jpg)
+##### Credo Technology: Q2 Earnings Could Be Impressive, But The Stock Has Already Run Up (1 days ago)
+The news is timely but not directly related to ALAB. It suggests a neutral impact on ALAB's stock price.
 
-### SBFG
-- **Current Price during run time**: 20.59000015258789
-- **Support Price**: 18.100000381469727
-- **Pressure Price**: 19.690000534057617
+![ALAB Chart](.//2024-11-21/ALAB.jpg)
+
+### ALTR
+- **Current Price during run time**: 104.37000274658203
+- **Support Price**: 103.6500015258789
+- **Pressure Price**: 110.66999816894531
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 20.99
-- **Price Change**: 1.9427%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:00
 #### News
-No news available
+##### Altair Engineering : How to Select the Right AI Solutions, Providers, and Projects for Engineering (1 days ago)
+The news is timely and related to ALTR. It has a neutral impact on the stock price.
 
-![SBFG Chart](.//2024-11-20/SBFG.jpg)
-
-### KD
-- **Current Price during run time**: 28.040000915527344
-- **Support Price**: 27.920000076293945
-- **Pressure Price**: 28.700000762939453
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 28.53
-- **Price Change**: 1.7475%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:19:07
-#### News
-##### Kyndryl : How Kyndryl and Microsoft plan to unleash new levels of business and IT innovation (1 days ago)
-Timely news related to KD; has a strong positive impact on the stock price.
-
-##### Kyndryl : selected to support Nuuday's legacy IT infrastructure (1 days ago)
-Timely news for KD; it has a strong positive impact on stock price due to new partnership with Nuuday.
-
-![KD Chart](.//2024-11-20/KD.jpg)
-
-### RIGL
-- **Current Price during run time**: 23.90999984741211
-- **Support Price**: 22.739999771118164
-- **Pressure Price**: 27.459999084472656
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 24.31
-- **Price Change**: 1.6729%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:11
-#### News
-##### How Much Upside is Left in Rigel (RIGL)? Wall Street Analysts Think 28.28% (20 hours ago)
-The news is timely and related to RIGL, indicating a strong positive impact on the stock price.
-
-##### Zacks.com featured highlights Rigel, Synchrony Financial, SkyWest, Allient and Rush Street Interactive (1 days ago)
-The news is timely and related to RIGL. It has a neutral impact on the stock price.
-
-![RIGL Chart](.//2024-11-20/RIGL.jpg)
-
-### EOI
-- **Current Price during run time**: 21.260000228881836
-- **Support Price**: 20.31999969482422
-- **Pressure Price**: 20.719999313354492
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 21.61
-- **Price Change**: 1.6463%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:44
-#### News
-No news available
-
-![EOI Chart](.//2024-11-20/EOI.jpg)
-
-### VNET
-- **Current Price during run time**: 3.700000047683716
-- **Support Price**: 3.4100000858306885
-- **Pressure Price**: 3.8399999141693115
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 3.76
-- **Price Change**: 1.6216%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:22:23
-#### News
-No news available
-
-![VNET Chart](.//2024-11-20/VNET.jpg)
-
-### ATLC
-- **Current Price during run time**: 50.70000076293945
-- **Support Price**: 36.439998626708984
-- **Pressure Price**: 37.40999984741211
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 51.47
-- **Price Change**: 1.5187%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:21
-#### News
-##### US Value Stocks Trading Below Estimated Worth In November 2024 (1 days ago)
-The news is timely and related to ATLC. It has a strong positive impact on the stock price.
-
-![ATLC Chart](.//2024-11-20/ATLC.jpg)
-
-### SCKT
-- **Current Price during run time**: 1.4299999475479126
-- **Support Price**: 1.340000033378601
-- **Pressure Price**: 1.3899999856948853
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 1.45
-- **Price Change**: 1.3986%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:21:24
-#### News
-No news available
-
-![SCKT Chart](.//2024-11-20/SCKT.jpg)
-
-### PDX
-- **Current Price during run time**: 25.979999542236328
-- **Support Price**: 24.420000076293945
-- **Pressure Price**: 24.860000610351562
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 26.34
-- **Price Change**: 1.3857%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:28
-#### News
-No news available
-
-![PDX Chart](.//2024-11-20/PDX.jpg)
-
-### SNFCA
-- **Current Price during run time**: 11.800000190734863
-- **Support Price**: 10.069999694824219
-- **Pressure Price**: 10.329999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 11.96
-- **Price Change**: 1.3559%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:16
-#### News
-No news available
-
-![SNFCA Chart](.//2024-11-20/SNFCA.jpg)
-
-### HNVR
-- **Current Price during run time**: 22.399999618530273
-- **Support Price**: 17.139999389648438
-- **Pressure Price**: 17.645000457763672
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 22.7
-- **Price Change**: 1.3393%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:28
-#### News
-No news available
-
-![HNVR Chart](.//2024-11-20/HNVR.jpg)
-
-### GDYN
-- **Current Price during run time**: 16.600000381469727
-- **Support Price**: 15.880000114440918
-- **Pressure Price**: 19.610000610351562
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 16.81
-- **Price Change**: 1.2651%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:18:11
-#### News
-No news available
-
-![GDYN Chart](.//2024-11-20/GDYN.jpg)
+![ALTR Chart](.//2024-11-21/ALTR.jpg)
 
 ### APP
-- **Current Price during run time**: 321.19000244140625
+- **Current Price during run time**: 325.2200012207031
 - **Support Price**: 159.11000061035156
 - **Pressure Price**: 172.24000549316406
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 325.22
-- **Price Change**: 1.2547%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:15:02
 #### News
-##### AppLovin Stock Is Worth $100 Billion. How Did We Miss It? (13 hours ago)
-Timely news related to stock APP, with a strong positive impact on the price.
+##### AppLovin Corporation Prices $3.55 Billion Offering of Senior Notes (12 hours ago)
+Timely news related to APP; it has a neutral impact on the stock price.
 
-##### Do AppLovin's (NASDAQ:APP) Earnings Warrant Your Attention? (23 hours ago)
+##### Citi Boosts AppLovin Corporation (APP) Price Target to $335 on Strong AI-Driven Q3 Performance and Raised 2026 Forecasts (12 hours ago)
+Timely news for APP; strong positive impact on stock price due to raised price target and AI-driven performance.
+
+##### AppLovin Sells $3.5 Billion in its Debut Blue-Chip Bond Deal (13 hours ago)
+Timely news related to stock APP; strong positive impact on stock price due to significant bond demand.
+
+##### APPLOVIN : ANNOUNCES PROPOSED PUBLIC OFFERING OF SENIOR NOTES Form 8 K (17 hours ago)
 The news is timely and related to APP. It has a neutral impact on the stock price.
 
-##### AppLovin: Has The Potential To Grow The Industry As A Whole (1 days ago)
-Timely news related to APP stock; has a strong positive impact on the stock price.
+##### Applovin Corporation (APP) Surged On Better Than Expected Results (20 hours ago)
+Timely news related to stock APP; has a strong positive impact on the stock price due to better than expected results.
 
-##### Analyst Raises Price Target on AppLovin (APP) After Strong Earnings, Says Company’s AI Offerings Improving (1 days ago)
-The news is timely and related to APP. It has a strong positive impact on the stock price.
+##### AppLovin Corporation Announces Proposed Public Offering of Senior Notes (21 hours ago)
+Timely news related to stock APP; likely neutral impact on stock price due to nature of debt offering.
 
-![APP Chart](.//2024-11-20/APP.jpg)
+##### BFOR: GARP ETF With Attractive Fundamentals And Average Return (1 days ago)
+The news is timely but unrelated to stock APP. It has a neutral impact on the stock price.
 
-### NXGL
-- **Current Price during run time**: 3.259999990463257
-- **Support Price**: 3.059999942779541
-- **Pressure Price**: 3.5
+![APP Chart](.//2024-11-21/APP.jpg)
+
+### AVPT
+- **Current Price during run time**: 17.5
+- **Support Price**: 15.729999542236328
+- **Pressure Price**: 16.030000686645508
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 3.3
-- **Price Change**: 1.2270%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:39
 #### News
 No news available
 
-![NXGL Chart](.//2024-11-20/NXGL.jpg)
+![AVPT Chart](.//2024-11-21/AVPT.jpg)
 
-### GHY
-- **Current Price during run time**: 12.399999618530273
-- **Support Price**: 12.34000015258789
-- **Pressure Price**: 12.970000267028809
+### BCOV
+- **Current Price during run time**: 2.990000009536743
+- **Support Price**: 2.950000047683716
+- **Pressure Price**: 3.049999952316284
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 12.55
-- **Price Change**: 1.2097%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:49
-#### News
-##### AWF: The Fund Is Positioned For A Strong U.S. Dollar In Advance Of Trump (19 hours ago)
-Timely news related to GHY; has a positive impact on the stock price.
-
-![GHY Chart](.//2024-11-20/GHY.jpg)
-
-### SRV
-- **Current Price during run time**: 44.65999984741211
-- **Support Price**: 42.83000183105469
-- **Pressure Price**: 45.119998931884766
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 45.14
-- **Price Change**: 1.0748%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:24
 #### News
 No news available
 
-![SRV Chart](.//2024-11-20/SRV.jpg)
+![BCOV Chart](.//2024-11-21/BCOV.jpg)
 
-### MDGL
-- **Current Price during run time**: 314.1700134277344
-- **Support Price**: 288.5799865722656
-- **Pressure Price**: 354.8500061035156
+### CANG
+- **Current Price during run time**: 4.139999866485596
+- **Support Price**: 3.4100000858306885
+- **Pressure Price**: 4.159999847412109
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 317.09
-- **Price Change**: 0.9294%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:23
+#### News
+##### Cango : Announces Change of Independent Registered Public Accounting Firm Form 6 K (1 days ago)
+Timely news related to CANG. Neutral impact on stock price due to accounting firm change.
+
+![CANG Chart](.//2024-11-21/CANG.jpg)
+
+### CCRD
+- **Current Price during run time**: 18.59000015258789
+- **Support Price**: 17.889999389648438
+- **Pressure Price**: 18.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![MDGL Chart](.//2024-11-20/MDGL.jpg)
+![CCRD Chart](.//2024-11-21/CCRD.jpg)
 
-### EUDA
-- **Current Price during run time**: 4.340000152587891
-- **Support Price**: 3.990000009536743
-- **Pressure Price**: 4.389999866485596
+### CLBT
+- **Current Price during run time**: 19.0
+- **Support Price**: 17.469999313354492
+- **Pressure Price**: 19.149999618530273
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 4.38
-- **Price Change**: 0.9217%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:26:37
 #### News
-No news available
+##### Cellebrite and Relativity Deliver Solutions to Transform the Mobile Data Collection Landscape (1 days ago)
+The news is timely and related to CLBT; it has a positive impact on the stock price.
 
-![EUDA Chart](.//2024-11-20/EUDA.jpg)
-
-### TTP
-- **Current Price during run time**: 50.41999816894531
-- **Support Price**: 44.43000030517578
-- **Pressure Price**: 44.95000076293945
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 50.88
-- **Price Change**: 0.9123%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:57
-#### News
-No news available
-
-![TTP Chart](.//2024-11-20/TTP.jpg)
-
-### WRBY
-- **Current Price during run time**: 23.059999465942383
-- **Support Price**: 16.920000076293945
-- **Pressure Price**: 18.200000762939453
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 23.27
-- **Price Change**: 0.9107%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:07
-#### News
-##### National Vision Holdings: Downgrade To Hold As Initiatives Take Time To Work (1 days ago)
-The news is timely but unrelated to WRBY. It has a negative impact on the stock price.
-
-![WRBY Chart](.//2024-11-20/WRBY.jpg)
-
-### GFR
-- **Current Price during run time**: 6.96999979019165
-- **Support Price**: 6.940000057220459
-- **Pressure Price**: 7.829999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 7.03
-- **Price Change**: 0.8608%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:20
-#### News
-No news available
-
-![GFR Chart](.//2024-11-20/GFR.jpg)
-
-### NODK
-- **Current Price during run time**: 15.890000343322754
-- **Support Price**: 15.5
-- **Pressure Price**: 15.899999618530273
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 16.02
-- **Price Change**: 0.8181%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:41
-#### News
-No news available
-
-![NODK Chart](.//2024-11-20/NODK.jpg)
-
-### CMPO
-- **Current Price during run time**: 15.279999732971191
-- **Support Price**: 13.729999542236328
-- **Pressure Price**: 15.630000114440918
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 15.4
-- **Price Change**: 0.7853%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:24
-#### News
-No news available
-
-![CMPO Chart](.//2024-11-20/CMPO.jpg)
-
-### ASGI
-- **Current Price during run time**: 19.6200008392334
-- **Support Price**: 19.110000610351562
-- **Pressure Price**: 19.420000076293945
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 19.77
-- **Price Change**: 0.7645%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:12
-#### News
-No news available
-
-![ASGI Chart](.//2024-11-20/ASGI.jpg)
-
-### IBEX
-- **Current Price during run time**: 19.8700008392334
-- **Support Price**: 19.350000381469727
-- **Pressure Price**: 20.18000030517578
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 20.02
-- **Price Change**: 0.7549%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:18:54
-#### News
-##### IBEX Limited Announces $70 Million Repurchase from The Resource Group International, Exiting Controlled Company Status (19 hours ago)
-The news is timely and related to IBEX. It has a strong positive impact on the stock price.
-
-![IBEX Chart](.//2024-11-20/IBEX.jpg)
-
-### PAXS
-- **Current Price during run time**: 16.3700008392334
-- **Support Price**: 15.920000076293945
-- **Pressure Price**: 16.350000381469727
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 16.49
-- **Price Change**: 0.7330%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:21
-#### News
-No news available
-
-![PAXS Chart](.//2024-11-20/PAXS.jpg)
-
-### IGTA
-- **Current Price during run time**: 11.600000381469727
-- **Support Price**: 11.300000190734863
-- **Pressure Price**: 11.350000381469727
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 11.68
-- **Price Change**: 0.6897%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:08
-#### News
-No news available
-
-![IGTA Chart](.//2024-11-20/IGTA.jpg)
-
-### LH
-- **Current Price during run time**: 236.22999572753906
-- **Support Price**: 235.2100067138672
-- **Pressure Price**: 246.22000122070312
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 237.85
-- **Price Change**: 0.6858%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:07
-#### News
-##### Cinven secures Italian nod to sell minority stake in Synlab to Labcorp (6 hours ago)
-Timely news related to LH; has a positive impact on the stock price.
-
-##### Labcorp CFO Glenn Eisenberg Announces Plans to Retire (23 hours ago)
-The news is timely and related to stock LH. It has a neutral impact on the stock price.
-
-##### Labcorp : CFO Glenn Eisenberg Announces Plans to Retire Form 8 K (1 days ago)
-The news is timely and related to LH stock. It has a neutral impact on the stock price.
-
-![LH Chart](.//2024-11-20/LH.jpg)
-
-### SRAD
-- **Current Price during run time**: 17.3799991607666
-- **Support Price**: 12.3100004196167
-- **Pressure Price**: 12.774999618530273
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 17.495
-- **Price Change**: 0.6617%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:21:56
-#### News
-No news available
-
-![SRAD Chart](.//2024-11-20/SRAD.jpg)
-
-### CBNK
-- **Current Price during run time**: 27.610000610351562
-- **Support Price**: 27.3700008392334
-- **Pressure Price**: 29.389999389648438
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 27.79
-- **Price Change**: 0.6519%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:08
-#### News
-No news available
-
-![CBNK Chart](.//2024-11-20/CBNK.jpg)
-
-### WEAV
-- **Current Price during run time**: 13.729999542236328
-- **Support Price**: 13.069999694824219
-- **Pressure Price**: 14.180000305175781
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 13.81
-- **Price Change**: 0.5827%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:22:50
-#### News
-No news available
-
-![WEAV Chart](.//2024-11-20/WEAV.jpg)
-
-### EMO
-- **Current Price during run time**: 48.4900016784668
-- **Support Price**: 42.52000045776367
-- **Pressure Price**: 44.529998779296875
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 48.76
-- **Price Change**: 0.5568%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:36
-#### News
-##### Franklin Templeton Fund Adviser, LLC Announces Distributions for the Months of December 2024, January and February 2025 (22 hours ago)
-The news is timely and related to EMO. It has a neutral impact on the stock price.
-
-![EMO Chart](.//2024-11-20/EMO.jpg)
-
-### HNRG
-- **Current Price during run time**: 12.890000343322754
-- **Support Price**: 12.75
-- **Pressure Price**: 13.380000114440918
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 12.95
-- **Price Change**: 0.4655%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:28
-#### News
-No news available
-
-![HNRG Chart](.//2024-11-20/HNRG.jpg)
-
-### FORL
-- **Current Price during run time**: 11.050000190734863
-- **Support Price**: 11.0
-- **Pressure Price**: 11.010000228881836
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: False
-- **Current Price at Check**: 11.1
-- **Price Change**: 0.4525%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:16
-#### News
-No news available
-
-
-### CRESY
-- **Current Price during run time**: 11.430000305175781
-- **Support Price**: 9.010000228881836
-- **Pressure Price**: 9.710000038146973
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 11.48
-- **Price Change**: 0.4374%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:56
-#### News
-No news available
-
-![CRESY Chart](.//2024-11-20/CRESY.jpg)
-
-### XNCR
-- **Current Price during run time**: 23.6299991607666
-- **Support Price**: 23.06999969482422
-- **Pressure Price**: 23.709999084472656
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 23.72
-- **Price Change**: 0.3809%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:15
-#### News
-No news available
-
-![XNCR Chart](.//2024-11-20/XNCR.jpg)
+![CLBT Chart](.//2024-11-21/CLBT.jpg)
 
 ### CLMB
-- **Current Price during run time**: 133.69000244140625
+- **Current Price during run time**: 134.17999267578125
 - **Support Price**: 118.27999877929688
 - **Pressure Price**: 122.41999816894531
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 134.18
-- **Price Change**: 0.3665%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:16:41
-#### News
-##### Climb Global Solutions, Inc. (NASDAQ:CLMB) is favoured by institutional owners who hold 61% of the company (23 hours ago)
-The news is timely and related to CLMB. It has a positive impact on the stock price.
-
-![CLMB Chart](.//2024-11-20/CLMB.jpg)
-
-### FSFG
-- **Current Price during run time**: 29.010000228881836
-- **Support Price**: 24.309999465942383
-- **Pressure Price**: 24.600000381469727
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 29.11
-- **Price Change**: 0.3447%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:32
 #### News
 No news available
 
-![FSFG Chart](.//2024-11-20/FSFG.jpg)
+![CLMB Chart](.//2024-11-21/CLMB.jpg)
 
-### CWBC
-- **Current Price during run time**: 20.709999084472656
-- **Support Price**: 18.530000686645508
-- **Pressure Price**: 18.940000534057617
+### CW
+- **Current Price during run time**: 361.45001220703125
+- **Support Price**: 353.1099853515625
+- **Pressure Price**: 389.489990234375
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 20.77
-- **Price Change**: 0.2897%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:12
 #### News
-No news available
+##### Unpacking Q3 Earnings: Curtiss-Wright (NYSE:CW) In The Context Of Other Aerospace Stocks (1 days ago)
+The news is timely and related to CW, with a neutral impact on the stock price.
 
-![CWBC Chart](.//2024-11-20/CWBC.jpg)
+![CW Chart](.//2024-11-21/CW.jpg)
 
 ### CWAN
-- **Current Price during run time**: 30.81999969482422
+- **Current Price during run time**: 30.899999618530273
 - **Support Price**: 29.790000915527344
 - **Pressure Price**: 32.790000915527344
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 30.9
-- **Price Change**: 0.2596%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:17:11
 #### News
-##### Industrial Alliance Portfolio Management Sharpens its Risk and Performance Reporting with Clearwater Analytics (21 hours ago)
-Timely news for CWAN with strong positive impact on stock price due to partnership enhancing risk and performance reporting.
+##### Clearwater Analytics Holdings (CWAN) Surged After Reporting Record Results (18 hours ago)
+Timely news related to CWAN. Likely strong positive impact on stock price due to record results reported.
 
-##### Clearwater Analytics : Industrial Alliance Portfolio Management Sharpens its Risk and Performance Reporting with Clearwater Analytics (1 days ago)
-The news is timely and related to CWAN, likely having a positive impact on the stock price.
+##### 3 US Stocks Estimated To Be Trading Below Their Intrinsic Value In November 2024 (1 days ago)
+The news is timely and related to CWAN. It has a positive impact on the stock price.
 
-![CWAN Chart](.//2024-11-20/CWAN.jpg)
+![CWAN Chart](.//2024-11-21/CWAN.jpg)
 
-### CDMO
-- **Current Price during run time**: 12.1899995803833
-- **Support Price**: 11.930000305175781
-- **Pressure Price**: 12.260000228881836
+### DDOG
+- **Current Price during run time**: 135.4499969482422
+- **Support Price**: 122.36000061035156
+- **Pressure Price**: 129.7899932861328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 12.22
-- **Price Change**: 0.2461%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:24:48
 #### News
-##### Healthcare & Life Sciences Private Equity Deal Tracker: Ampersand And GHO Acquire Avid Bioservices For $1.1 Billion (1 days ago)
-The news is timely and related to CDMO. It has a neutral impact on the stock price.
+##### TD Cowen Names Datadog, Inc. (DDOG) as ‘Best Idea for 2025’ with $165 Price Target, Highlighting AI and Cloud Growth (12 hours ago)
+Timely news for DDOG with a strong positive impact due to a $165 price target and focus on AI growth.
 
-![CDMO Chart](.//2024-11-20/CDMO.jpg)
+##### Surging Earnings Estimates Signal Upside for Datadog (DDOG) Stock (17 hours ago)
+Timely news on DDOG suggests strong positive impact due to surging earnings estimates signaling potential upside.
 
-### SLRC
-- **Current Price during run time**: 16.389999389648438
-- **Support Price**: 15.930000305175781
-- **Pressure Price**: 16.170000076293945
+##### Datadog (DDOG) Just Flashed Golden Cross Signal: Do You Buy? (20 hours ago)
+The news is timely and related to DDOG. It has a strong positive impact on the stock price.
+
+![DDOG Chart](.//2024-11-21/DDOG.jpg)
+
+### FLEX
+- **Current Price during run time**: 39.83000183105469
+- **Support Price**: 37.06999969482422
+- **Pressure Price**: 40.09000015258789
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 16.43
-- **Price Change**: 0.2441%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:09
+#### News
+##### Flex Completes Acquisition of Crown Technical Systems (20 hours ago)
+Timely news related to FLEX; strong positive impact on stock price due to acquisition of Crown Technical Systems.
+
+##### Flex Ltd. (FLEX) Acquires JetCool Technologies to Enhance Data Center Solutions for AI Growth (1 days ago)
+Timely news for FLEX; strong positive impact on stock price due to acquisition enhancing AI-related solutions.
+
+![FLEX Chart](.//2024-11-21/FLEX.jpg)
+
+### GDYN
+- **Current Price during run time**: 16.809999465942383
+- **Support Price**: 15.880000114440918
+- **Pressure Price**: 19.610000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![SLRC Chart](.//2024-11-20/SLRC.jpg)
+![GDYN Chart](.//2024-11-21/GDYN.jpg)
 
-### FGB
-- **Current Price during run time**: 4.230000019073486
-- **Support Price**: 4.21999979019165
-- **Pressure Price**: 4.25
+### GLBE
+- **Current Price during run time**: 47.86000061035156
+- **Support Price**: 40.29999923706055
+- **Pressure Price**: 42.529998779296875
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 4.24
-- **Price Change**: 0.2364%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:53
+#### News
+##### Why Shares of Global-e Online Are Skyrocketing Today (15 hours ago)
+The news is timely and positively related to GLBE, indicating a strong positive impact on the stock price.
+
+##### Global-e Stock Skyrockets 11% After Crushing Q3 Estimates--Is This Just the Beginning? (16 hours ago)
+The news is timely and related to GLBE. It has a strong positive impact on the stock price.
+
+##### Global-e Online (GLBE) Q3 2024 Earnings Call Transcript (17 hours ago)
+The news is timely and related to GLBE. It likely has a neutral impact on the stock price.
+
+##### Globale Online (GLBE) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates (20 hours ago)
+The news is timely and related to GLBE. It has a neutral impact on the stock price.
+
+##### Global-e Reports Third Quarter 2024 Results (23 hours ago)
+Timely and related to GLBE; has a strong positive impact on the stock price due to strong Q3 growth.
+
+##### Global-E Online Ltd. (GLBE) Q3 2024 Earnings Call Transcript (23 hours ago)
+The news is timely and related to GLBE. It likely has a positive impact on the stock price.
+
+##### Global E Online : Reports Third Quarter 2024 Results Form 6 K (1 days ago)
+Timely news related to GLBE; likely has a positive impact on stock price due to earnings report.
+
+![GLBE Chart](.//2024-11-21/GLBE.jpg)
+
+### IBEX
+- **Current Price during run time**: 20.020000457763672
+- **Support Price**: 19.350000381469727
+- **Pressure Price**: 20.18000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### ibex CTO Andreas Wilkens to Join Distinguished Panel on AI Ethics and Business Innovation (21 hours ago)
+The news is timely and relevant to IBEX, with a positive impact on stock price due to leadership in AI discussions.
+
+##### IBEX : Announces $70 Million Repurchase from The Resource Group International, Exiting Controlled Company Status Form 8 K (1 days ago)
+Timely news for IBEX; strong positive impact on stock price due to major repurchase and exiting controlled status.
+
+![IBEX Chart](.//2024-11-21/IBEX.jpg)
+
+### IONQ
+- **Current Price during run time**: 28.860000610351562
+- **Support Price**: 25.229999542236328
+- **Pressure Price**: 29.139999389648438
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### IonQ (IONQ) Price Target Increased by 69.22% to 18.95 (4 hours ago)
+The news is timely and related to IONQ. It has a strong positive impact on the stock price.
+
+![IONQ Chart](.//2024-11-21/IONQ.jpg)
+
+### KC
+- **Current Price during run time**: 6.53000020980835
+- **Support Price**: 2.75
+- **Pressure Price**: 2.930000066757202
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Kingsoft Cloud Holdings Limited (KC) Reports 16% YoY Revenue Growth in FQ3 2024, Fueled by AI Demand and Ecosystem Services (10 hours ago)
+Timely news for KC; strong positive impact on stock price due to promising revenue growth and AI demand.
+
+##### Kingsoft Cloud Holdings Ltd (KC) Q3 2024 Earnings Call Highlights: Strong AI Revenue Growth and ... (1 days ago)
+Timely and related to stock KC; has a strong positive impact on the stock price.
+
+##### Q3 2024 Kingsoft Cloud Holdings Ltd Earnings Call (1 days ago)
+The news is timely and related to stock KC. It has a neutral impact on the stock price.
+
+![KC Chart](.//2024-11-21/KC.jpg)
+
+### KD
+- **Current Price during run time**: 28.530000686645508
+- **Support Price**: 27.920000076293945
+- **Pressure Price**: 28.700000762939453
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![FGB Chart](.//2024-11-20/FGB.jpg)
+![KD Chart](.//2024-11-21/KD.jpg)
 
-### IFS
-- **Current Price during run time**: 28.8799991607666
-- **Support Price**: 26.700000762939453
-- **Pressure Price**: 27.3799991607666
+### KTCC
+- **Current Price during run time**: 5.809999942779541
+- **Support Price**: 5.650000095367432
+- **Pressure Price**: 5.96999979019165
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 28.94
-- **Price Change**: 0.2078%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:00
 #### News
 No news available
 
-![IFS Chart](.//2024-11-20/IFS.jpg)
+![KTCC Chart](.//2024-11-21/KTCC.jpg)
 
-### VCYT
-- **Current Price during run time**: 39.150001525878906
-- **Support Price**: 35.939998626708984
-- **Pressure Price**: 39.529998779296875
+### MSTR
+- **Current Price during run time**: 473.8299865722656
+- **Support Price**: 327.6700134277344
+- **Pressure Price**: 356.5899963378906
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 39.2
-- **Price Change**: 0.1277%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:59
+#### News
+##### MicroStrategy buys Bitcoin by the skin of its teeth again and wants Microsoft to do the same (5 hours ago)
+The news is timely and related to MSTR, with a strong positive impact on the stock price.
+
+##### MicroStrategy Stock Surges Further as Big Bitcoin Buys Pay Off (16 hours ago)
+The news is timely and related to MSTR. It has a strong positive impact on the stock price.
+
+##### MicroStrategy to raise $2.6 billion to double down on Bitcoin bet (18 hours ago)
+Timely news for MSTR; has a strong positive impact on stock price.
+
+##### Billionaire Michael Saylor of MicroStrategy Is Buying Bitcoin Hand Over Fist (18 hours ago)
+Timely news for MSTR; strong positive impact on stock price due to Saylor's aggressive Bitcoin investments.
+
+##### MicroStrategy Keeps Fueling Bitcoin Buying With New $2.6 Billion Debt Deal (20 hours ago)
+Timely news for MSTR; likely a strong positive impact on stock price due to increased Bitcoin acquisitions.
+
+##### MicroStrategy Sells $2.6 Billion of Zero-Coupon Convertible Bonds (20 hours ago)
+Timely and related to MSTR; has a strong positive impact on the stock price due to increased investor confidence.
+
+##### Experts predict Bitcoin will reach $100,000 (21 hours ago)
+Timely news for MSTR; strong positive impact on stock price due to predicted Bitcoin growth.
+
+##### MicroStrategy Raises Convertible Note Offering to $2.6 Billion (21 hours ago)
+The news is timely and related to MSTR. It likely has a positive impact on the stock price.
+
+##### Target misses estimates, Nvidia on deck: Yahoo Finance (22 hours ago)
+Timely news related to MSTR; impact is neutral due to focus on other stocks.
+
+##### MicroStrategy Incorporated : Announces Proposed Private Offering of $1.75 Billion of Convertible Senior Notes Form 8 K (1 days ago)
+The news is timely and related to MSTR. It has a neutral impact on the stock price.
+
+##### MicroStrategy Announces Pricing of Offering of 0% Convertible Senior Notes (1 days ago)
+Timely news related to MSTR; likely negative impact on stock price due to high debt offering.
+
+![MSTR Chart](.//2024-11-21/MSTR.jpg)
+
+### MTLS
+- **Current Price during run time**: 7.119999885559082
+- **Support Price**: 6.730000019073486
+- **Pressure Price**: 7.340000152587891
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![VCYT Chart](.//2024-11-20/VCYT.jpg)
+![MTLS Chart](.//2024-11-21/MTLS.jpg)
 
-### GOF
-- **Current Price during run time**: 15.699999809265137
-- **Support Price**: 15.670000076293945
-- **Pressure Price**: 16.030000686645508
+### NEXN
+- **Current Price during run time**: 9.699999809265137
+- **Support Price**: 7.480000019073486
+- **Pressure Price**: 8.239999771118164
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 15.72
-- **Price Change**: 0.1274%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:05
 #### News
 No news available
 
-![GOF Chart](.//2024-11-20/GOF.jpg)
+![NEXN Chart](.//2024-11-21/NEXN.jpg)
 
-### CLMT
-- **Current Price during run time**: 20.790000915527344
-- **Support Price**: 20.56999969482422
-- **Pressure Price**: 20.920000076293945
+### PLTR
+- **Current Price during run time**: 62.119998931884766
+- **Support Price**: 61.2599983215332
+- **Pressure Price**: 65.7699966430664
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 20.81
-- **Price Change**: 0.0962%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:12
+#### News
+##### Palantir Technologies Inc. stock falls Wednesday, underperforms market (18 hours ago)
+The news is timely and negatively impacts PLTR's stock price as it underperforms the market.
+
+##### Palantir: Cash Out Now, You Won't Get A Better Price Than This (21 hours ago)
+The news is timely and related to PLTR. It has a strong positive impact on the stock price.
+
+##### Palantir Stock: Buy, Sell, or Hold? (23 hours ago)
+Timely news on PLTR; positive impact due to AI growth potential.
+
+##### Nvidia's stock has been one of the best in the S&P 500 this year (1 days ago)
+The news is timely but not directly related to PLTR. It has a neutral impact on PLTR's stock price.
+
+##### 1 Magnificent AI Stock Smart Investors Are Adding to Their Portfolios (Hint: It's Not Palantir) (1 days ago)
+The news is timely and related to PLTR, with a neutral impact on the stock price.
+
+##### SoFi Stock vs. Palantir Stock: Wall Street Expects Earnings to Soar 48% for One and 115% for the Other in 2025 (1 days ago)
+The news is timely and related to PLTR. It has a strong positive impact on the stock price.
+
+##### Billionaires Are Selling This Year's 2 Top Performing Artificial Intelligence Stocks. Is This a Warning for Investors? (1 days ago)
+The news is timely and related to PLTR. It has a neutral impact on the stock price.
+
+##### Sompo Holdings Inc (NHOLF) Q2 2025 Earnings Call Highlights: Strong Overseas Growth and ... (1 days ago)
+The news is timely but unrelated to PLTR. It has a neutral impact on the stock price.
+
+##### Palantir Is One Of 10 Stocks To Get Huge Price Target Hikes (1 days ago)
+The news is timely and related to PLTR. It has a strong positive impact on the stock price.
+
+##### BFOR: GARP ETF With Attractive Fundamentals And Average Return (1 days ago)
+The news is timely and related to PLTR; it has a neutral impact on the stock price.
+
+##### Palantir Technologies Inc. (PLTR): Hataf Capital and Monness Analysts Issue Sell Ratings, Citing Overvaluation and Execution Concerns (1 days ago)
+The news is timely and related to PLTR; it has a negative impact on the stock price.
+
+##### Snowflake Earnings Are Coming. Can the Stock Stage a Comeback? (1 days ago)
+The news is timely but not directly related to PLTR. It has a neutral impact on the stock price.
+
+![PLTR Chart](.//2024-11-21/PLTR.jpg)
+
+### SCKT
+- **Current Price during run time**: 1.4500000476837158
+- **Support Price**: 1.340000033378601
+- **Pressure Price**: 1.3899999856948853
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![CLMT Chart](.//2024-11-20/CLMT.jpg)
+![SCKT Chart](.//2024-11-21/SCKT.jpg)
 
-### VCTR
-- **Current Price during run time**: 66.22000122070312
-- **Support Price**: 63.20000076293945
-- **Pressure Price**: 70.20999908447266
+### SMWB
+- **Current Price during run time**: 12.229999542236328
+- **Support Price**: 8.569999694824219
+- **Pressure Price**: 9.079999923706055
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 66.27
-- **Price Change**: 0.0755%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:38:04
 #### News
-##### Victory Capital (VCTR) Upgraded to Strong Buy: Here's Why (18 hours ago)
-Timely news for VCTR. It has a strong positive impact on the stock price.
+##### Similarweb (SMWB) Price Target Increased by 22.80% to 14.72 (6 hours ago)
+Timely news related to SMWB; strong positive impact on stock price due to price target increase.
 
-##### Best Value Stocks to Buy for November 19th (1 days ago)
-The news is timely and relates to VCTR. It has a strong positive impact on the stock price.
+![SMWB Chart](.//2024-11-21/SMWB.jpg)
 
-![VCTR Chart](.//2024-11-20/VCTR.jpg)
-
-### DGICA
-- **Current Price during run time**: 15.890000343322754
-- **Support Price**: 15.680000305175781
-- **Pressure Price**: 15.899999618530273
+### SRAD
+- **Current Price during run time**: 17.4950008392334
+- **Support Price**: 12.3100004196167
+- **Pressure Price**: 12.774999618530273
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 15.9
-- **Price Change**: 0.0629%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:28
 #### News
 No news available
 
-![DGICA Chart](.//2024-11-20/DGICA.jpg)
+![SRAD Chart](.//2024-11-21/SRAD.jpg)
 
-### FRAF
-- **Current Price during run time**: 33.58000183105469
-- **Support Price**: 32.58000183105469
-- **Pressure Price**: 33.33000183105469
+### TOST
+- **Current Price during run time**: 42.5
+- **Support Price**: 29.25
+- **Pressure Price**: 30.31999969482422
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 33.6
-- **Price Change**: 0.0596%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:25
 #### News
-No news available
+##### Toast Announces Participation at the UBS Global Technology Conference (14 hours ago)
+The news is timely and related to TOST. It has a neutral impact on the stock price.
 
-![FRAF Chart](.//2024-11-20/FRAF.jpg)
+##### Exane BNP Paribas Downgrades Toast (TOST) (22 hours ago)
+The news is timely and related to TOST. It has a negative impact on the stock price.
 
-### BUJA
-- **Current Price during run time**: 11.029999732971191
-- **Support Price**: 10.819999694824219
-- **Pressure Price**: 10.84000015258789
+##### Compass Point Initiates Coverage of Toast (TOST) with Buy Recommendation (22 hours ago)
+The news is timely and related to TOST. It has a strong positive impact on the stock price.
+
+##### 3 Internet Software Stocks to Buy for Growth & Momentum: FIVN, FTNT, TOST (1 days ago)
+The news is timely and related to TOST. It has a positive impact on the stock price.
+
+![TOST Chart](.//2024-11-21/TOST.jpg)
+
+### VNET
+- **Current Price during run time**: 3.759999990463257
+- **Support Price**: 3.4100000858306885
+- **Pressure Price**: 3.8399999141693115
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 11.03
-- **Price Change**: 0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:53
 #### News
-No news available
+##### 21Vianet: Q3 Earnings Snapshot (13 hours ago)
+Timely news for VNET; has a strong positive impact on stock price due to reported profits.
 
-![BUJA Chart](.//2024-11-20/BUJA.jpg)
+##### VNET Reports Unaudited Third Quarter 2024 Financial Results (13 hours ago)
+Timely news related to VNET; likely positive impact on stock price due to financial results.
 
-### GIG
-- **Current Price during run time**: 9.949999809265137
-- **Support Price**: 9.890000343322754
-- **Pressure Price**: 9.930000305175781
+##### Exploring High Growth Tech Stocks In November 2024 (17 hours ago)
+The news is timely and related to VNET. It has a positive impact on the stock price.
+
+##### VNET : Investor Presentation - English (18 hours ago)
+This timely news for VNET is neutral, providing insights without indicating significant impact on stock price.
+
+##### VNET : Reports Unaudited Third Quarter 2024 Financial Results Form 6 K (18 hours ago)
+The news is timely and related to VNET; it has a neutral impact on the stock price.
+
+![VNET Chart](.//2024-11-21/VNET.jpg)
+
+### WEAV
+- **Current Price during run time**: 13.8100004196167
+- **Support Price**: 13.069999694824219
+- **Pressure Price**: 14.180000305175781
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 9.95
-- **Price Change**: 0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:56
 #### News
 No news available
 
-![GIG Chart](.//2024-11-20/GIG.jpg)
+![WEAV Chart](.//2024-11-21/WEAV.jpg)
 
-### CMU
-- **Current Price during run time**: 3.569999933242798
-- **Support Price**: 3.559999942779541
-- **Pressure Price**: 3.569999933242798
+### WIX
+- **Current Price during run time**: 210.27000427246094
+- **Support Price**: 180.00999450683594
+- **Pressure Price**: 188.94000244140625
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 3.57
-- **Price Change**: 0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:32
 #### News
-No news available
+##### Why Is Wix (WIX) Stock Soaring Today (15 hours ago)
+Timely news for WIX; has a strong positive impact on stock price due to impressive quarterly results and revenue growth.
 
-![CMU Chart](.//2024-11-20/CMU.jpg)
+##### Why Are Wix (WIX) Shares Soaring Today (15 hours ago)
+Timely news related to WIX; strong positive impact on stock price due to impressive earnings report and revenue growth.
 
-### CRF
-- **Current Price during run time**: 8.789999961853027
-- **Support Price**: 8.729999542236328
+##### Why Wix.com Stock Jumped to a 3-Year High Today (16 hours ago)
+Timely news for WIX; it has a strong positive impact on stock price due to increased revenue growth expectations.
+
+##### Wix Soars 13% After Crushing Earnings: Is This Just the Beginning? (17 hours ago)
+The news is timely and related to WIX. It has a strong positive impact on the stock price.
+
+##### Wix.com (WIX) Q3 2024 Earnings Call Transcript (17 hours ago)
+Timely news related to WIX; has a neutral impact on the stock price.
+
+##### Wix.com Ltd. (WIX): A Bull Case Theory (19 hours ago)
+The news is timely and related to WIX. It has a strong positive impact on the stock price.
+
+##### Wix.com (WIX) Reports Q3 Earnings: What Key Metrics Have to Say (20 hours ago)
+Timely news related to WIX; neutral impact on stock price as it discusses earnings metrics without expressing direction.
+
+##### Wix.com (WIX) Tops Q3 Earnings and Revenue Estimates (23 hours ago)
+Timely news related to WIX; it has a strong positive impact on the stock price.
+
+##### Wix.com Ltd. (WIX) Q3 2024 Earnings Call Transcript (23 hours ago)
+Timely news related to WIX; likely neutral impact on stock price following earnings call announcement.
+
+##### Wix (NASDAQ:WIX) Reports Q3 In Line With Expectations, Stock Jumps 12.1% (1 days ago)
+The news is timely and related to WIX. It has a strong positive impact on the stock price.
+
+##### Wix Q3 Earnings: Revenue Surge, Margin Expansion, AI Momentum, Raised FY24 Guidance & More (1 days ago)
+Timely news for WIX; strong positive impact on stock price due to revenue growth and raised guidance.
+
+##### Wix.com: Q3 Earnings Snapshot (1 days ago)
+Timely news related to WIX; has a strong positive impact on stock price due to higher-than-expected earnings.
+
+##### Wix com : Reports Third Quarter 2024 Results Form 6 K (1 days ago)
+The news is timely and related to WIX. It has a strong positive impact on the stock price.
+
+##### Wix Reports Third Quarter 2024 Results (1 days ago)
+Timely news related to WIX; it has a strong positive impact on the stock price.
+
+![WIX Chart](.//2024-11-21/WIX.jpg)
+
+### YMM
+- **Current Price during run time**: 9.84000015258789
+- **Support Price**: 8.25
 - **Pressure Price**: 9.170000076293945
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 8.79
-- **Price Change**: 0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:04
 #### News
-No news available
+##### Full Truck Alliance Co Ltd (YMM) Q3 2024 Earnings Call Highlights: Surging Revenues and ... (4 hours ago)
+Timely and related to YMM. Strong positive impact on stock price.
 
-![CRF Chart](.//2024-11-20/CRF.jpg)
+##### Full Truck Alliance's Stock Soars 14% After Stunning Q3 Earnings (17 hours ago)
+The news is timely and relates to YMM. It has a strong positive impact on the stock price.
 
-### ZVRA
-- **Current Price during run time**: 8.970000267028809
-- **Support Price**: 8.600000381469727
-- **Pressure Price**: 9.029999732971191
+##### Full Truck Alliance (YMM) Q3 2024 Earnings Call Transcript (18 hours ago)
+The news is timely and related to YMM. It likely has a positive impact on the stock price.
+
+##### Full Truck Alliance : Announces Third Quarter 2024 Unaudited Financial Results Form 6 K (19 hours ago)
+The news is timely for YMM and has a neutral impact on the stock price.
+
+##### Full Truck Alliance ADRs Rise 15% After Revenue Beats Estimates (20 hours ago)
+The news is timely and related to YMM, having a strong positive impact on the stock price.
+
+##### Full Truck Alliance Co. Ltd. Sponsored ADR (YMM) Q3 Earnings and Revenues Beat Estimates (23 hours ago)
+Timely news related to YMM; strong positive impact on stock price due to earnings and revenue beats.
+
+##### US Growth Companies With High Insider Ownership (1 days ago)
+Timely news for YMM; has a positive impact on stock price due to insider ownership confidence amid market recovery.
+
+##### Full Truck Alliance Co. Ltd. Announces Third Quarter 2024 Unaudited Financial Results (1 days ago)
+Timely news related to YMM; likely has a positive impact on stock price.
+
+![YMM Chart](.//2024-11-21/YMM.jpg)
+
+### BFLY
+- **Current Price during run time**: 3.319999933242798
+- **Support Price**: 2.3499999046325684
+- **Pressure Price**: 2.7300000190734863
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 8.97
-- **Price Change**: -0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:42
 #### News
 No news available
 
-![ZVRA Chart](.//2024-11-20/ZVRA.jpg)
+![BFLY Chart](.//2024-11-21/BFLY.jpg)
 
-### CKPT
-- **Current Price during run time**: 3.380000114440918
-- **Support Price**: 3.299999952316284
-- **Pressure Price**: 3.7799999713897705
+### EPRX
+- **Current Price during run time**: 3.5999999046325684
+- **Support Price**: 2.8399999141693115
+- **Pressure Price**: 3.4749999046325684
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 3.38
-- **Price Change**: -0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:25:19
+#### News
+##### Eupraxia's DiffuSphere™ Technology Demonstrates Targeted Drug Release while Minimizing Systemic Exposure for a Period of More Than Six Months (23 hours ago)
+Timely news related to EPRX; has a strong positive impact on the stock price.
+
+![EPRX Chart](.//2024-11-21/EPRX.jpg)
+
+### FTLF
+- **Current Price during run time**: 31.829999923706055
+- **Support Price**: 30.260000228881836
+- **Pressure Price**: 34.880001068115234
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
 #### News
 No news available
 
-![CKPT Chart](.//2024-11-20/CKPT.jpg)
+![FTLF Chart](.//2024-11-21/FTLF.jpg)
+
+### IFRX
+- **Current Price during run time**: 2.0399999618530273
+- **Support Price**: 1.7400000095367432
+- **Pressure Price**: 2.0299999713897705
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![IFRX Chart](.//2024-11-21/IFRX.jpg)
+
+### INVA
+- **Current Price during run time**: 19.149999618530273
+- **Support Price**: 18.899999618530273
+- **Pressure Price**: 20.31999969482422
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![INVA Chart](.//2024-11-21/INVA.jpg)
+
+### NTRA
+- **Current Price during run time**: 167.8800048828125
+- **Support Price**: 146.05999755859375
+- **Pressure Price**: 160.97000122070312
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NTRA Chart](.//2024-11-21/NTRA.jpg)
+
+### NXGL
+- **Current Price during run time**: 3.299999952316284
+- **Support Price**: 3.059999942779541
+- **Pressure Price**: 3.5
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NXGL Chart](.//2024-11-21/NXGL.jpg)
 
 ### OMER
 - **Current Price during run time**: 6.03000020980835
@@ -1356,1062 +704,947 @@ No news available
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 6.03
-- **Price Change**: -0.0000%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:48
 #### News
 No news available
 
-![OMER Chart](.//2024-11-20/OMER.jpg)
+![OMER Chart](.//2024-11-21/OMER.jpg)
 
-### DSP
-- **Current Price during run time**: 18.219999313354492
-- **Support Price**: 11.109999656677246
-- **Pressure Price**: 11.899999618530273
+### PDEX
+- **Current Price during run time**: 47.630001068115234
+- **Support Price**: 41.959999084472656
+- **Pressure Price**: 49.54999923706055
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 18.21
-- **Price Change**: -0.0549%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:17:48
-#### News
-##### Viant Launches Certified Partner Program (20 hours ago)
-The news is timely and related to DSP, with a positive impact on the stock price.
-
-##### Viant Technology (DSP)’s AI Suite: The Secret Weapon Behind Soaring Stock Ratings (1 days ago)
-The news is timely and related to DSP, with a strong positive impact on the stock price.
-
-![DSP Chart](.//2024-11-20/DSP.jpg)
-
-### NSTS
-- **Current Price during run time**: 11.199999809265137
-- **Support Price**: 10.920000076293945
-- **Pressure Price**: 11.1899995803833
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 11.19
-- **Price Change**: -0.0893%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:48
 #### News
 No news available
 
-![NSTS Chart](.//2024-11-20/NSTS.jpg)
+![PDEX Chart](.//2024-11-21/PDEX.jpg)
 
-### CW
-- **Current Price during run time**: 361.8399963378906
-- **Support Price**: 353.1099853515625
-- **Pressure Price**: 389.489990234375
+### PULM
+- **Current Price during run time**: 5.619999885559082
+- **Support Price**: 5.429999828338623
+- **Pressure Price**: 6.71999979019165
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 361.45
-- **Price Change**: -0.1078%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:16:57
-#### News
-##### Stifel Downgrades Curtiss-Wright (CW) (1 days ago)
-The news is timely and related to stock CW, indicating a negative impact on the stock price.
-
-![CW Chart](.//2024-11-20/CW.jpg)
-
-### RNR
-- **Current Price during run time**: 264.6099853515625
-- **Support Price**: 256.9599914550781
-- **Pressure Price**: 277.8999938964844
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 264.3
-- **Price Change**: -0.1171%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:44
-#### News
-##### Here's Why RenaissanceRe (RNR) is a Strong Value Stock (20 hours ago)
-The news is timely and related to RNR. It has a strong positive impact on the stock price.
-
-![RNR Chart](.//2024-11-20/RNR.jpg)
-
-### BGH
-- **Current Price during run time**: 15.449999809265137
-- **Support Price**: 15.229999542236328
-- **Pressure Price**: 16.15999984741211
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 15.43
-- **Price Change**: -0.1294%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:28
 #### News
 No news available
 
-![BGH Chart](.//2024-11-20/BGH.jpg)
+![PULM Chart](.//2024-11-21/PULM.jpg)
 
-### COFS
-- **Current Price during run time**: 35.880001068115234
-- **Support Price**: 35.43000030517578
-- **Pressure Price**: 36.0
+### SMLR
+- **Current Price during run time**: 59.27000045776367
+- **Support Price**: 44.47999954223633
+- **Pressure Price**: 52.709999084472656
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 35.83
-- **Price Change**: -0.1394%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:40
 #### News
 No news available
 
-![COFS Chart](.//2024-11-20/COFS.jpg)
+![SMLR Chart](.//2024-11-21/SMLR.jpg)
 
-### ALKT
-- **Current Price during run time**: 37.810001373291016
-- **Support Price**: 35.93000030517578
-- **Pressure Price**: 39.86000061035156
+### SRTS
+- **Current Price during run time**: 8.9399995803833
+- **Support Price**: 6.360000133514404
+- **Pressure Price**: 6.949999809265137
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 37.75
-- **Price Change**: -0.1587%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:14:48
 #### News
 No news available
 
-![ALKT Chart](.//2024-11-20/ALKT.jpg)
+![SRTS Chart](.//2024-11-21/SRTS.jpg)
 
-### PHK
-- **Current Price during run time**: 4.980000019073486
-- **Support Price**: 4.880000114440918
-- **Pressure Price**: 5.099999904632568
+### TECX
+- **Current Price during run time**: 44.029998779296875
+- **Support Price**: 38.880001068115234
+- **Pressure Price**: 47.75
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 4.97
-- **Price Change**: -0.2008%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:37
 #### News
 No news available
 
-![PHK Chart](.//2024-11-20/PHK.jpg)
+![TECX Chart](.//2024-11-21/TECX.jpg)
 
-### CET
-- **Current Price during run time**: 46.33000183105469
-- **Support Price**: 46.22999954223633
-- **Pressure Price**: 49.099998474121094
+### VRNA
+- **Current Price during run time**: 38.849998474121094
+- **Support Price**: 34.939998626708984
+- **Pressure Price**: 39.869998931884766
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 46.23
-- **Price Change**: -0.2158%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:16
 #### News
 No news available
 
-![CET Chart](.//2024-11-20/CET.jpg)
+![VRNA Chart](.//2024-11-21/VRNA.jpg)
 
-### TSEM
-- **Current Price during run time**: 46.7599983215332
-- **Support Price**: 44.54999923706055
-- **Pressure Price**: 48.41999816894531
+### AFG
+- **Current Price during run time**: 140.75999450683594
+- **Support Price**: 137.82000732421875
+- **Pressure Price**: 143.7899932861328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 46.65
-- **Price Change**: -0.2352%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:22:12
 #### News
-##### Tower Semiconductor Begins Production of 1.6Tbps Optical Transceivers on its Latest Silicon Photonics Platform (1 days ago)
-Timely news for TSEM; strong positive impact as it aligns with demand for advanced technology solutions.
+##### Assurant Boosts Shareholders' Value Via Dividend Hike of 11% (17 hours ago)
+The news is timely and related to AFG. It has a strong positive impact on the stock price.
 
-##### Tower Semiconductor : Begins Production of 1.6Tbps Optical Transceivers on its Latest Silicon Photonics Platform (1 days ago)
-Timely news for TSEM; strong positive impact on stock price due to production of high-demand optical transceivers.
+![AFG Chart](.//2024-11-21/AFG.jpg)
 
-##### Tower Semiconductor : Begins Production of 1.6Tbps Optical Transceivers on its Latest Silicon Photonics Platform Form 6 K (1 days ago)
-The news is timely and related to TSEM, with a strong positive impact on its stock price.
-
-![TSEM Chart](.//2024-11-20/TSEM.jpg)
-
-### HIO
-- **Current Price during run time**: 3.9700000286102295
-- **Support Price**: 3.859999895095825
-- **Pressure Price**: 4.019999980926514
+### AIZ
+- **Current Price during run time**: 220.85000610351562
+- **Support Price**: 219.1699981689453
+- **Pressure Price**: 221.60000610351562
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 3.96
-- **Price Change**: -0.2519%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:20
 #### News
-##### Franklin Templeton Fund Adviser, LLC Announces Distributions for the Months of December 2024, January and February 2025 (22 hours ago)
-The news is timely and related to HIO. It has a neutral impact on the stock price.
+##### Assurant Appoints Kevin Warren to Board of Directors (13 hours ago)
+Timely news for AIZ; positive impact on stock price due to board appointment enhancing leadership and strategic direction.
 
-![HIO Chart](.//2024-11-20/HIO.jpg)
+##### Assurant Boosts Shareholders' Value Via Dividend Hike of 11% (17 hours ago)
+Timely news for AIZ; strong positive impact on stock price due to significant dividend hike.
 
-### XOMA
-- **Current Price during run time**: 30.100000381469727
-- **Support Price**: 30.010000228881836
-- **Pressure Price**: 30.209999084472656
+##### Assurant : Appoints Kevin Warren to Board of Directors Form 8 K (18 hours ago)
+Timely news related to AIZ; likely has a positive impact on stock price due to strengthened leadership.
+
+![AIZ Chart](.//2024-11-21/AIZ.jpg)
+
+### ASB
+- **Current Price during run time**: 26.549999237060547
+- **Support Price**: 26.110000610351562
+- **Pressure Price**: 28.139999389648438
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 30.02
-- **Price Change**: -0.2658%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:32
 #### News
 No news available
 
-![XOMA Chart](.//2024-11-20/XOMA.jpg)
+![ASB Chart](.//2024-11-21/ASB.jpg)
 
-### CDXC
-- **Current Price during run time**: 7.519999980926514
-- **Support Price**: 6.820000171661377
-- **Pressure Price**: 7.25
+### ASGI
+- **Current Price during run time**: 19.770000457763672
+- **Support Price**: 19.110000610351562
+- **Pressure Price**: 19.420000076293945
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 7.5
-- **Price Change**: -0.2660%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:25:03
-#### News
-##### 3 US Stocks Estimated To Be Trading At Discounts Ranging From 13% To 41% (21 hours ago)
-The news is timely and relates to CDXC. It has a neutral impact on the stock price.
-
-![CDXC Chart](.//2024-11-20/CDXC.jpg)
-
-### TRU
-- **Current Price during run time**: 97.04000091552734
-- **Support Price**: 95.66000366210938
-- **Pressure Price**: 106.7699966430664
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 96.74
-- **Price Change**: -0.3092%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:48
 #### News
 No news available
 
-![TRU Chart](.//2024-11-20/TRU.jpg)
+![ASGI Chart](.//2024-11-21/ASGI.jpg)
 
-### AACT
-- **Current Price during run time**: 10.926799774169922
-- **Support Price**: 10.861000061035156
-- **Pressure Price**: 10.895000457763672
+### ATLC
+- **Current Price during run time**: 51.470001220703125
+- **Support Price**: 36.439998626708984
+- **Pressure Price**: 37.40999984741211
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 10.89
-- **Price Change**: -0.3368%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:48
 #### News
 No news available
 
-![AACT Chart](.//2024-11-20/AACT.jpg)
+![ATLC Chart](.//2024-11-21/ATLC.jpg)
 
-### OPFI
-- **Current Price during run time**: 7.130000114440918
-- **Support Price**: 6.53000020980835
-- **Pressure Price**: 7.139999866485596
+### BACQU
+- **Current Price during run time**: 10.010000228881836
+- **Support Price**: 9.978400230407715
+- **Pressure Price**: 9.989999771118164
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 7.1
-- **Price Change**: -0.4208%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:12
 #### News
 No news available
 
-![OPFI Chart](.//2024-11-20/OPFI.jpg)
+![BACQU Chart](.//2024-11-21/BACQU.jpg)
 
-### HYT
-- **Current Price during run time**: 9.880000114440918
-- **Support Price**: 9.770000457763672
-- **Pressure Price**: 10.0
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 9.83
-- **Price Change**: -0.5061%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:52
-#### News
-##### AWF: The Fund Is Positioned For A Strong U.S. Dollar In Advance Of Trump (19 hours ago)
-Timely news related to HYT; has a positive impact on the stock price.
-
-![HYT Chart](.//2024-11-20/HYT.jpg)
-
-### CNTA
-- **Current Price during run time**: 16.829999923706055
-- **Support Price**: 16.0
-- **Pressure Price**: 18.079999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 16.74
-- **Price Change**: -0.5348%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:25:34
-#### News
-No news available
-
-![CNTA Chart](.//2024-11-20/CNTA.jpg)
-
-### BRBS
-- **Current Price during run time**: 3.5799999237060547
-- **Support Price**: 3.450000047683716
-- **Pressure Price**: 3.5999999046325684
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 3.56
-- **Price Change**: -0.5587%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:44
-#### News
-No news available
-
-![BRBS Chart](.//2024-11-20/BRBS.jpg)
-
-### FINW
-- **Current Price during run time**: 17.770000457763672
+### BCV
+- **Current Price during run time**: 18.290000915527344
 - **Support Price**: 17.68000030517578
-- **Pressure Price**: 17.790000915527344
+- **Pressure Price**: 18.049999237060547
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 17.67
-- **Price Change**: -0.5627%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:33:08
 #### News
 No news available
 
-![FINW Chart](.//2024-11-20/FINW.jpg)
+![BCV Chart](.//2024-11-21/BCV.jpg)
 
-### SSSS
-- **Current Price during run time**: 4.909999847412109
-- **Support Price**: 4.820000171661377
-- **Pressure Price**: 5.03000020980835
+### CBNK
+- **Current Price during run time**: 27.790000915527344
+- **Support Price**: 27.3700008392334
+- **Pressure Price**: 29.389999389648438
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 4.88
-- **Price Change**: -0.6110%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:32
 #### News
 No news available
 
-![SSSS Chart](.//2024-11-20/SSSS.jpg)
+![CBNK Chart](.//2024-11-21/CBNK.jpg)
 
-### STK
-- **Current Price during run time**: 33.36000061035156
-- **Support Price**: 33.13999938964844
-- **Pressure Price**: 33.81999969482422
+### CBOE
+- **Current Price during run time**: 208.5
+- **Support Price**: 196.86000061035156
+- **Pressure Price**: 214.99000549316406
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 33.14
-- **Price Change**: -0.6595%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:37:41
 #### News
 No news available
 
-![STK Chart](.//2024-11-20/STK.jpg)
+![CBOE Chart](.//2024-11-21/CBOE.jpg)
 
-### TARS
-- **Current Price during run time**: 46.88999938964844
-- **Support Price**: 44.630001068115234
-- **Pressure Price**: 49.41999816894531
+### CEP
+- **Current Price during run time**: 10.300000190734863
+- **Support Price**: 10.0600004196167
+- **Pressure Price**: 10.100000381469727
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 46.58
-- **Price Change**: -0.6611%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:36
 #### News
 No news available
 
-![TARS Chart](.//2024-11-20/TARS.jpg)
+![CEP Chart](.//2024-11-21/CEP.jpg)
 
-### ETON
-- **Current Price during run time**: 10.5
-- **Support Price**: 10.020000457763672
-- **Pressure Price**: 10.600000381469727
+### CMPO
+- **Current Price during run time**: 15.399999618530273
+- **Support Price**: 13.729999542236328
+- **Pressure Price**: 15.630000114440918
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 10.43
-- **Price Change**: -0.6667%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:26:27
 #### News
 No news available
 
-![ETON Chart](.//2024-11-20/ETON.jpg)
+![CMPO Chart](.//2024-11-21/CMPO.jpg)
 
-### BNT
-- **Current Price during run time**: 56.81999969482422
-- **Support Price**: 56.130001068115234
-- **Pressure Price**: 58.95000076293945
+### CMU
+- **Current Price during run time**: 3.569999933242798
+- **Support Price**: 3.559999942779541
+- **Pressure Price**: 3.569999933242798
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 56.44
-- **Price Change**: -0.6688%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:36
 #### News
 No news available
 
-![BNT Chart](.//2024-11-20/BNT.jpg)
+![CMU Chart](.//2024-11-21/CMU.jpg)
 
-### PLXS
-- **Current Price during run time**: 157.8300018310547
-- **Support Price**: 153.1300048828125
-- **Pressure Price**: 166.77000427246094
+### CRESY
+- **Current Price during run time**: 11.479999542236328
+- **Support Price**: 9.010000228881836
+- **Pressure Price**: 9.710000038146973
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 156.65
-- **Price Change**: -0.7476%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:20:34
-#### News
-##### Plexus and Olin have been highlighted as Zacks Bull and Bear of the Day (21 hours ago)
-The news is timely and related to PLXS. It has a neutral impact on the stock price.
-
-##### Bull of the Day: Plexus (PLXS) (1 days ago)
-Timely news related to PLXS; it has a strong positive impact on the stock price.
-
-![PLXS Chart](.//2024-11-20/PLXS.jpg)
-
-### DDI
-- **Current Price during run time**: 14.739999771118164
-- **Support Price**: 14.699999809265137
-- **Pressure Price**: 17.0
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 14.625
-- **Price Change**: -0.7802%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:17:24
 #### News
 No news available
 
-![DDI Chart](.//2024-11-20/DDI.jpg)
+![CRESY Chart](.//2024-11-21/CRESY.jpg)
 
-### HGTY
-- **Current Price during run time**: 11.149999618530273
-- **Support Price**: 11.09000015258789
-- **Pressure Price**: 11.1899995803833
+### CURB
+- **Current Price during run time**: 23.8700008392334
+- **Support Price**: 23.579999923706055
+- **Pressure Price**: 24.59000015258789
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 11.06
-- **Price Change**: -0.8072%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:12
 #### News
 No news available
 
-![HGTY Chart](.//2024-11-20/HGTY.jpg)
+![CURB Chart](.//2024-11-21/CURB.jpg)
 
-### RY
-- **Current Price during run time**: 122.9000015258789
-- **Support Price**: 121.47000122070312
-- **Pressure Price**: 124.55000305175781
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 121.79
-- **Price Change**: -0.9032%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:52
-#### News
-##### Top TSX Dividend Stocks To Watch In November 2024 (22 hours ago)
-The news is timely and related to RY, with a positive impact on the stock price.
-
-![RY Chart](.//2024-11-20/RY.jpg)
-
-### WAY
-- **Current Price during run time**: 31.229999542236328
-- **Support Price**: 30.299999237060547
-- **Pressure Price**: 31.690000534057617
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 30.92
-- **Price Change**: -0.9926%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:22:37
-#### News
-No news available
-
-![WAY Chart](.//2024-11-20/WAY.jpg)
-
-### ONIT
-- **Current Price during run time**: 30.520000457763672
-- **Support Price**: 30.06999969482422
-- **Pressure Price**: 31.209999084472656
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 30.17
-- **Price Change**: -1.1468%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:36:04
-#### News
-No news available
-
-![ONIT Chart](.//2024-11-20/ONIT.jpg)
-
-### AFRM
-- **Current Price during run time**: 63.959999084472656
-- **Support Price**: 53.209999084472656
-- **Pressure Price**: 57.59000015258789
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 63.19
-- **Price Change**: -1.2039%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:29:56
-#### News
-##### Affirm & Priceline Expand Partnership to Offer Pay Over Time Solutions (19 hours ago)
-Timely news related to AFRM; it has a strong positive impact on the stock price.
-
-##### Are Business Services Stocks Lagging  Affirm (AFRM) This Year? (20 hours ago)
-The news is timely and related to AFRM. It has a neutral impact on the stock price.
-
-##### Affirm to serve as pay-over-time provider for Priceline Partner Solutions (22 hours ago)
-Timely news related to AFRM; has a strong positive impact on stock price.
-
-##### Affirm Holdings Could Be Set For A Breakout (1 days ago)
-Timely news for AFRM; likely positive impact on stock price due to growth and buy rating.
-
-![AFRM Chart](.//2024-11-20/AFRM.jpg)
-
-### CBNA
-- **Current Price during run time**: 24.200000762939453
-- **Support Price**: 23.3799991607666
-- **Pressure Price**: 24.780000686645508
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 23.9
-- **Price Change**: -1.2397%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:01
-#### News
-No news available
-
-![CBNA Chart](.//2024-11-20/CBNA.jpg)
-
-### PL
-- **Current Price during run time**: 3.180000066757202
-- **Support Price**: 2.2100000381469727
-- **Pressure Price**: 2.380000114440918
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 3.14
-- **Price Change**: -1.2579%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:20:09
-#### News
-##### Planet to Announce Fiscal Third Quarter 2025 Results on Monday, December 9, 2024 (13 hours ago)
-Timely and related to stock PL; neutral impact on stock price.
-
-##### BlackSky: Next-Gen Satellites Bring Opportunities And Risks (21 hours ago)
-The news is timely and related to stock PL. It has a neutral impact on the stock price.
-
-![PL Chart](.//2024-11-20/PL.jpg)
-
-### PLTR
-- **Current Price during run time**: 62.97999954223633
-- **Support Price**: 61.2599983215332
-- **Pressure Price**: 65.7699966430664
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 62.12
-- **Price Change**: -1.3655%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:20:21
-#### News
-##### PLTR, MNDY, or SOFI: Which Growth Stock Is the Most Attractive Pick? (15 hours ago)
-Timely news related to PLTR; has a strong positive impact on stock price due to favorable analyst comparisons and macro conditions.
-
-##### C3.ai Jumps On Microsoft Cloud Partnership Targeting Enterprise Market (16 hours ago)
-Timely news related to PLTR, with a neutral impact on stock price.
-
-##### Palantir Shares Face Pressure Amid CEO Share Sales, Jefferies Downgrade (17 hours ago)
-Timely news related to PLTR; negative impact on stock price due to CEO share sales and downgrade despite growth momentum.
-
-##### Jefferies Analyst Downgrades Palantir to 'Underperform,' Citing High Valuation and Slowing Growth (17 hours ago)
-The news is timely and related to PLTR. It has a strong negative impact on the stock price.
-
-##### Cathie Wood Is Selling Palantir Stock. Here's Why That Makes Sense. (19 hours ago)
-The news is timely and related to PLTR. It has a negative impact on the stock price.
-
-##### Jefferies sees nearly 60% downside risk for Palantir stock (21 hours ago)
-The news is timely and related to PLTR. It has a negative impact on the stock price.
-
-##### Palantir Technologies Inc. : Palantir, a $140 billion spell (23 hours ago)
-The news is timely and related to PLTR. It has a neutral impact on the stock price.
-
-##### Palantir, a $140 billion spell (23 hours ago)
-The news is timely and related to PLTR. It has a neutral impact on the stock price.
-
-##### Billionaire Israel Englander Dumped 90% of Millennium's Stake in Palantir in Favor of This Hypergrowth Electric-Vehicle (EV) Stock (1 days ago)
-Timely news related to PLTR; strong negative impact on stock price due to significant sell-off by a major investor.
-
-##### Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term (1 days ago)
-The news is timely and related to PLTR. It has a strong positive impact on the stock price.
-
-##### Palantir's Bull And Bear Case - Buying Momentum Is Bound To Wane (1 days ago)
-The news is timely and relevant to PLTR, with a strong negative impact on the stock price.
-
-##### Palantir Stock Is Up 250% in 2024 and May Be Headed to the Nasdaq-100. History Says This Could Happen Next. (1 days ago)
-The news is timely and related to PLTR. It has a strong positive impact on the stock price.
-
-##### Palantir: A Tale Of Two Cities (Technical Analysis, Rating Downgrade) (1 days ago)
-The news is timely and related to PLTR. It has a negative impact on the stock price.
-
-![PLTR Chart](.//2024-11-20/PLTR.jpg)
-
-### CCLDO
-- **Current Price during run time**: 17.280000686645508
-- **Support Price**: 17.09000015258789
-- **Pressure Price**: 17.55299949645996
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 17.044
-- **Price Change**: -1.3657%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:16:25
-#### News
-No news available
-
-![CCLDO Chart](.//2024-11-20/CCLDO.jpg)
-
-### CSTL
-- **Current Price during run time**: 28.8700008392334
-- **Support Price**: 27.899999618530273
-- **Pressure Price**: 33.779998779296875
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 28.45
-- **Price Change**: -1.4548%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:25:58
-#### News
-##### CHMP Endorses AstraZeneca's Tagrisso for Expanded Use in NSCLC (21 hours ago)
-The news is timely and related to CSTL. It likely has a positive impact on the stock price.
-
-##### Castle Biosciences Earns a Houston Chronicle Top Workplaces Award for the Fourth Consecutive Year (23 hours ago)
-The news is timely and related to CSTL, with a positive impact on the stock price.
-
-![CSTL Chart](.//2024-11-20/CSTL.jpg)
-
-### KMDA
-- **Current Price during run time**: 5.909999847412109
-- **Support Price**: 5.809999942779541
-- **Pressure Price**: 6.269999980926514
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 5.82
-- **Price Change**: -1.5228%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:03
-#### News
-No news available
-
-![KMDA Chart](.//2024-11-20/KMDA.jpg)
-
-### ATYR
-- **Current Price during run time**: 3.0399999618530273
-- **Support Price**: 2.9049999713897705
-- **Pressure Price**: 3.5199999809265137
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 2.99
-- **Price Change**: -1.6447%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:23:32
-#### News
-No news available
-
-![ATYR Chart](.//2024-11-20/ATYR.jpg)
-
-### OBT
-- **Current Price during run time**: 59.79999923706055
-- **Support Price**: 59.20000076293945
-- **Pressure Price**: 63.79999923706055
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 58.79
-- **Price Change**: -1.6890%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:35:56
-#### News
-No news available
-
-![OBT Chart](.//2024-11-20/OBT.jpg)
-
-### AI
-- **Current Price during run time**: 32.959999084472656
-- **Support Price**: 25.989999771118164
-- **Pressure Price**: 28.190000534057617
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 32.36
-- **Price Change**: -1.8204%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:14:08
-#### News
-##### C3.ai Jumps On Microsoft Cloud Partnership Targeting Enterprise Market (16 hours ago)
-The news is timely and related to stock AI. It has a strong positive impact on the stock price.
-
-##### C3.ai Stock Soars Over 24% on Microsoft Alliance News (17 hours ago)
-The news is timely and related to stock AI, with a strong positive impact on its price.
-
-##### XPeng, Viking Holdings, C3.ai stock soars: Market Movers (17 hours ago)
-The news is timely and related to stock AI. It has a strong positive impact on the stock price.
-
-##### C3 AI and Microsoft Expand Partnership to Drive Enterprise AI Adoption (17 hours ago)
-The news is timely and related to stock AI. It has a strong positive impact on the stock price.
-
-##### C3.ai (AI) Stock Trades Up, Here Is Why (18 hours ago)
-Timely and related to stock AI; it has a strong positive impact on the stock price.
-
-##### Why C3.ai Stock Popped a Lucky 13% Today (19 hours ago)
-The news is timely and related to stock AI. It has a positive impact on the stock price.
-
-##### C3 AI and Microsoft Forge Strategic Alliance to Accelerate Enterprise AI Adoption (21 hours ago)
-Timely news for C3 AI (AI); likely positive impact on stock price due to strategic alliance with Microsoft.
-
-![AI Chart](.//2024-11-20/AI.jpg)
-
-### CRVS
-- **Current Price during run time**: 8.399999618530273
-- **Support Price**: 8.1899995803833
-- **Pressure Price**: 9.5600004196167
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 8.24
-- **Price Change**: -1.9048%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:25:47
-#### News
-No news available
-
-![CRVS Chart](.//2024-11-20/CRVS.jpg)
-
-### LNSR
-- **Current Price during run time**: 7.46999979019165
-- **Support Price**: 7.079999923706055
-- **Pressure Price**: 7.389999866485596
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 7.28
-- **Price Change**: -2.5435%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:27:15
-#### News
-No news available
-
-![LNSR Chart](.//2024-11-20/LNSR.jpg)
-
-### DCTH
-- **Current Price during run time**: 9.90999984741211
+### DCF
+- **Current Price during run time**: 9.239999771118164
 - **Support Price**: 9.229999542236328
-- **Pressure Price**: 11.0600004196167
+- **Pressure Price**: 9.25
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 9.63
-- **Price Change**: -2.8254%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:26:13
 #### News
 No news available
 
-![DCTH Chart](.//2024-11-20/DCTH.jpg)
+![DCF Chart](.//2024-11-21/DCF.jpg)
 
-### HSTM
-- **Current Price during run time**: 32.2400016784668
-- **Support Price**: 31.309999465942383
-- **Pressure Price**: 32.599998474121094
+### DGHI
+- **Current Price during run time**: 2.0299999713897705
+- **Support Price**: 1.7400000095367432
+- **Pressure Price**: 2.1500000953674316
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 31.3
-- **Price Change**: -2.9156%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:18:24
 #### News
 No news available
 
-![HSTM Chart](.//2024-11-20/HSTM.jpg)
+![DGHI Chart](.//2024-11-21/DGHI.jpg)
 
-### DOCS
-- **Current Price during run time**: 51.529998779296875
-- **Support Price**: 49.400001525878906
-- **Pressure Price**: 61.25
+### EMD
+- **Current Price during run time**: 9.829999923706055
+- **Support Price**: 9.640000343322754
+- **Pressure Price**: 9.960000038146973
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 49.9
-- **Price Change**: -3.1632%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:17:35
 #### News
-##### 3 Momentum Anomaly Stocks to Buy as Election Rally Fizzles (21 hours ago)
-The news is timely and related to DOCS. It has a neutral impact on the stock price.
+##### Western Asset Emerging Markets Debt Fund : FOURTH AMENDED AND RESTATED BYLAWS OF WESTERN ASSET EMERGING MARKETS DEBT FUND INC Form 8 K (17 hours ago)
+Timely news related to EMD; likely neutral impact on stock price due to procedural update.
 
-##### Looking for Earnings Beat? Buy These 4 Top-Ranked Stocks (22 hours ago)
-The news is timely and related to DOCS. It has a strong positive impact on the stock price.
+![EMD Chart](.//2024-11-21/EMD.jpg)
 
-![DOCS Chart](.//2024-11-20/DOCS.jpg)
-
-### HUT
-- **Current Price during run time**: 25.31999969482422
-- **Support Price**: 15.5600004196167
-- **Pressure Price**: 18.155000686645508
+### EMO
+- **Current Price during run time**: 48.7599983215332
+- **Support Price**: 42.52000045776367
+- **Pressure Price**: 44.529998779296875
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 24.46
-- **Price Change**: -3.3965%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:34:45
 #### News
-No news available
+##### ClearBridge Energy Midstream Opportunity Fund : FIFTH AMENDED AND RESTATED BYLAWS OF CLEARBRIDGE ENERGY MIDSTREAM OPPORTUNITY FUND INC Form 8 K (17 hours ago)
+The news is timely and related to EMO. It has a neutral impact on the stock price.
 
-![HUT Chart](.//2024-11-20/HUT.jpg)
+##### Midstream/MLP Q3 2024 Buybacks: Familiar Names Lead (1 days ago)
+The news is timely and related to EMO. It has a positive impact on the stock price.
 
-### MPTI
-- **Current Price during run time**: 60.0
-- **Support Price**: 50.380001068115234
-- **Pressure Price**: 52.810001373291016
+![EMO Chart](.//2024-11-21/EMO.jpg)
+
+### EVG
+- **Current Price during run time**: 11.039999961853027
+- **Support Price**: 10.989999771118164
+- **Pressure Price**: 11.300000190734863
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 57.95
-- **Price Change**: -3.4167%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:19:35
 #### News
 No news available
 
-![MPTI Chart](.//2024-11-20/MPTI.jpg)
+![EVG Chart](.//2024-11-21/EVG.jpg)
 
-### POET
-- **Current Price during run time**: 4.070000171661377
-- **Support Price**: 3.640000104904175
-- **Pressure Price**: 4.230000019073486
+### FBIZ
+- **Current Price during run time**: 49.79999923706055
+- **Support Price**: 49.060001373291016
+- **Pressure Price**: 51.029998779296875
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 3.93
-- **Price Change**: -3.4398%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:20:45
 #### News
-##### POET Technologies: Writing The Future Of Optical Networking (1 days ago)
-The news is timely and related to POET. It has a negative impact on the stock price.
+No news available
 
-![POET Chart](.//2024-11-20/POET.jpg)
+![FBIZ Chart](.//2024-11-21/FBIZ.jpg)
 
-### RDCM
-- **Current Price during run time**: 11.680000305175781
+### FORL
+- **Current Price during run time**: 11.100000381469727
 - **Support Price**: 11.0
-- **Pressure Price**: 11.989999771118164
+- **Pressure Price**: 11.010000228881836
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 11.25
-- **Price Change**: -3.6815%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:20:57
 #### News
 No news available
 
-![RDCM Chart](.//2024-11-20/RDCM.jpg)
+![FORL Chart](.//2024-11-21/FORL.jpg)
 
-### AUR
-- **Current Price during run time**: 6.239999771118164
-- **Support Price**: 4.989999771118164
-- **Pressure Price**: 5.710000038146973
+### FRAF
+- **Current Price during run time**: 33.599998474121094
+- **Support Price**: 32.58000183105469
+- **Pressure Price**: 33.33000183105469
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 6.01
-- **Price Change**: -3.6859%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:15:14
 #### News
 No news available
 
-![AUR Chart](.//2024-11-20/AUR.jpg)
+![FRAF Chart](.//2024-11-21/FRAF.jpg)
 
-### HTCR
-- **Current Price during run time**: 1.2899999618530273
-- **Support Price**: 1.1299999952316284
-- **Pressure Price**: 1.25
+### FRHC
+- **Current Price during run time**: 122.70999908447266
+- **Support Price**: 104.58999633789062
+- **Pressure Price**: 111.37999725341797
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 1.24
-- **Price Change**: -3.8760%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:18:40
 #### News
 No news available
 
-![HTCR Chart](.//2024-11-20/HTCR.jpg)
+![FRHC Chart](.//2024-11-21/FRHC.jpg)
 
-### DAVE
-- **Current Price during run time**: 81.52999877929688
-- **Support Price**: 79.68000030517578
-- **Pressure Price**: 90.43000030517578
+### FSFG
+- **Current Price during run time**: 29.110000610351562
+- **Support Price**: 24.309999465942383
+- **Pressure Price**: 24.600000381469727
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 78.0
-- **Price Change**: -4.3297%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:32:20
-#### News
-##### Dave Appoints Kevin Frisch as Chief Marketing Officer (14 hours ago)
-Timely news for DAVE; strong positive impact due to leadership change in marketing strategy.
-
-##### FTC Alleges Fintech Dave, Inc. Deceived Consumers (1 days ago)
-The news is timely and related to DAVE, with a strong negative impact on the stock price.
-
-![DAVE Chart](.//2024-11-20/DAVE.jpg)
-
-### APLD
-- **Current Price during run time**: 9.15999984741211
-- **Support Price**: 6.860000133514404
-- **Pressure Price**: 7.789999961853027
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 8.76
-- **Price Change**: -4.3668%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:30:04
-#### News
-##### Applied Digital: Nvidia's Investment Doesn't Guarantee Success (1 days ago)
-Timely news related to stock APLD; has a strong positive impact on the stock price despite underlying uncertainties.
-
-![APLD Chart](.//2024-11-20/APLD.jpg)
-
-### BKTI
-- **Current Price during run time**: 36.20000076293945
-- **Support Price**: 26.200000762939453
-- **Pressure Price**: 27.989999771118164
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-- **Current Price at Check**: 34.11
-- **Price Change**: -5.7735%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:15:31
 #### News
 No news available
 
-![BKTI Chart](.//2024-11-20/BKTI.jpg)
+![FSFG Chart](.//2024-11-21/FSFG.jpg)
 
-### WYY
-- **Current Price during run time**: 5.050000190734863
-- **Support Price**: 3.7100000381469727
-- **Pressure Price**: 4.099999904632568
+### GCMG
+- **Current Price during run time**: 12.430000305175781
+- **Support Price**: 11.479999542236328
+- **Pressure Price**: 12.25
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 4.73
-- **Price Change**: -6.3366%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:23:04
 #### News
-##### WidePoint Is An Attractive Growth And Value Play (1 days ago)
-The news is timely and related to WYY, with a strong positive impact on its stock price.
+##### AGT Food and Ingredients Inc. Announces Sale of Shortline Rail and Bulk Handling Infrastructure; Partnership with GCM Grosvenor and Mobil Grain Ltd. (21 hours ago)
+Timely news related to GCMG; it has a strong positive impact on the stock price.
 
-![WYY Chart](.//2024-11-20/WYY.jpg)
+![GCMG Chart](.//2024-11-21/GCMG.jpg)
 
-### SEPN
-- **Current Price during run time**: 24.200000762939453
-- **Support Price**: 22.3799991607666
-- **Pressure Price**: 26.0
+### GCV
+- **Current Price during run time**: 4.0
+- **Support Price**: 3.799999952316284
+- **Pressure Price**: 3.890000104904175
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 22.5
-- **Price Change**: -7.0248%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:19
 #### News
 No news available
 
-![SEPN Chart](.//2024-11-20/SEPN.jpg)
+![GCV Chart](.//2024-11-21/GCV.jpg)
 
-### TRVI
-- **Current Price during run time**: 3.0
-- **Support Price**: 2.75
-- **Pressure Price**: 3.0999999046325684
+### GOF
+- **Current Price during run time**: 15.720000267028809
+- **Support Price**: 15.670000076293945
+- **Pressure Price**: 16.030000686645508
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 2.77
-- **Price Change**: -7.6667%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:28:52
 #### News
-No news available
+##### DLY: Bonds Continue To Face Headwinds (5 hours ago)
+The news is timely but not directly related to GOF. It has a neutral impact on the stock price.
 
-![TRVI Chart](.//2024-11-20/TRVI.jpg)
+![GOF Chart](.//2024-11-21/GOF.jpg)
 
-### COHN
-- **Current Price during run time**: 10.65999984741211
-- **Support Price**: 9.699999809265137
-- **Pressure Price**: 10.239999771118164
+### GRF
+- **Current Price during run time**: 10.5
+- **Support Price**: 9.850000381469727
+- **Pressure Price**: 10.229999542236328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
-- **Current Price at Check**: 9.58
-- **Price Change**: -10.1313%
-- **Date of the Selection**: 11/20/2024
-- **Time at Check**: 11/20/2024 14:31:48
 #### News
 No news available
 
-![COHN Chart](.//2024-11-20/COHN.jpg)
+![GRF Chart](.//2024-11-21/GRF.jpg)
+
+### HOOD
+- **Current Price during run time**: 36.08000183105469
+- **Support Price**: 31.90999984741211
+- **Pressure Price**: 33.0
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Robinhood Takes Aim At One Of Charles Schwab's Remaining Bastions (13 hours ago)
+Timely news related to HOOD; has a positive impact on the stock price.
+
+##### Robinhood Stock Enjoys Gains on Hopes of Trump Deregulation (15 hours ago)
+Timely news for HOOD; has a strong positive impact on stock price due to anticipated deregulation benefits.
+
+##### Robinhood Takes Aim At Charles Schwab Amid Huge Wealth Transfer (17 hours ago)
+The news is timely and related to HOOD. It has a strong positive impact on the stock price.
+
+##### Robinhood Named Top “Crypto Deregulation Trade” Following Election Results (20 hours ago)
+The news is timely and related to HOOD; it has a strong positive impact on the stock price.
+
+##### Robinhood's Acquisition of TradePMR to Transform Wealth Management (21 hours ago)
+Timely news for HOOD; it has a strong positive impact on the stock price.
+
+##### Robinhood buys wealth management platform TradePMR (23 hours ago)
+Timely and relevant news for HOOD. Strong positive impact on stock price due to expansion into wealth management.
+
+##### Robinhood to buy portfolio management platform TradePMR for $300m (1 days ago)
+The news is timely and related to HOOD. It has a strong positive impact on the stock price.
+
+![HOOD Chart](.//2024-11-21/HOOD.jpg)
+
+### IFS
+- **Current Price during run time**: 28.940000534057617
+- **Support Price**: 26.700000762939453
+- **Pressure Price**: 27.3799991607666
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![IFS Chart](.//2024-11-21/IFS.jpg)
+
+### IGTA
+- **Current Price during run time**: 11.680000305175781
+- **Support Price**: 11.300000190734863
+- **Pressure Price**: 11.350000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: False
+#### News
+No news available
+
+
+### IHTA
+- **Current Price during run time**: 7.534999847412109
+- **Support Price**: 7.53000020980835
+- **Pressure Price**: 7.695000171661377
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![IHTA Chart](.//2024-11-21/IHTA.jpg)
+
+### INBKZ
+- **Current Price during run time**: 25.350000381469727
+- **Support Price**: 25.079999923706055
+- **Pressure Price**: 25.577999114990234
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![INBKZ Chart](.//2024-11-21/INBKZ.jpg)
+
+### LMND
+- **Current Price during run time**: 46.58000183105469
+- **Support Price**: 31.709999084472656
+- **Pressure Price**: 34.2400016784668
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Lemonade upgraded to Equal Weight from Underweight at Morgan Stanley (1 hours ago)
+Timely news for LMND; it has a strong positive impact on the stock price due to the upgrade and optimistic projections.
+
+##### Lemonade (LMND) Price Target Increased by 27.39% to 25.50 (5 hours ago)
+The news is timely and related to LMND. It has a strong positive impact on the stock price.
+
+##### Morgan Stanley Upgrades Lemonade (LMND) (5 hours ago)
+Timely news related to LMND; it has a strong positive impact on the stock price.
+
+##### Morgan Stanley upgrades insurer Lemonade to 'equal-weight' (15 hours ago)
+The news is timely and relevant to LMND, indicating a positive impact on the stock price.
+
+##### Lemonade Eyes 'Ambitious' Goal of $10 Billion Premium Milestone, 2027 Profitability, Morgan Stanley Says (19 hours ago)
+The news is timely and related to LMND, indicating a strong positive impact on the stock price.
+
+##### Lemonade : Investor Day Deck (1 days ago)
+Timely news for LMND; it has a strong positive impact on the stock price.
+
+![LMND Chart](.//2024-11-21/LMND.jpg)
+
+### MBNKP
+- **Current Price during run time**: 26.361000061035156
+- **Support Price**: 25.902999877929688
+- **Pressure Price**: 26.43000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MBNKP Chart](.//2024-11-21/MBNKP.jpg)
+
+### MNTN
+- **Current Price during run time**: 11.40999984741211
+- **Support Price**: 11.359999656677246
+- **Pressure Price**: 11.449999809265137
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MNTN Chart](.//2024-11-21/MNTN.jpg)
+
+### MORN
+- **Current Price during run time**: 335.7699890136719
+- **Support Price**: 334.3699951171875
+- **Pressure Price**: 350.54998779296875
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Morningstar: AI To Redefine Investments For The Better (21 hours ago)
+Timely news related to MORN; has a strong positive impact on stock price.
+
+![MORN Chart](.//2024-11-21/MORN.jpg)
+
+### MRBK
+- **Current Price during run time**: 14.300000190734863
+- **Support Price**: 13.789999961853027
+- **Pressure Price**: 14.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MRBK Chart](.//2024-11-21/MRBK.jpg)
+
+### MRX
+- **Current Price during run time**: 28.90999984741211
+- **Support Price**: 27.889999389648438
+- **Pressure Price**: 29.0
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MRX Chart](.//2024-11-21/MRX.jpg)
+
+### MUI
+- **Current Price during run time**: 12.470000267028809
+- **Support Price**: 12.15999984741211
+- **Pressure Price**: 12.520000457763672
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MUI Chart](.//2024-11-21/MUI.jpg)
+
+### NCTY
+- **Current Price during run time**: 10.979999542236328
+- **Support Price**: 9.949999809265137
+- **Pressure Price**: 11.300000190734863
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### The9 : to Hold Annual General Meeting on December 27, 2024, and to Issue Class B Ordinary Shares to its Chief Executive Officer Form 6 K (1 days ago)
+The news is timely and related to NCTY. It has a neutral impact on the stock price.
+
+##### The9 Limited to Hold Annual General Meeting on December 27, 2024, and to Issue Class B Ordinary Shares to its Chief Executive Officer (1 days ago)
+The news is timely regarding NCTY. It has a neutral impact on the stock price.
+
+![NCTY Chart](.//2024-11-21/NCTY.jpg)
+
+### OPOF
+- **Current Price during run time**: 20.420000076293945
+- **Support Price**: 20.299999237060547
+- **Pressure Price**: 20.93000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Old Point Financial : Announces Quarterly Dividend Form 8 K (18 hours ago)
+The news is timely and related to OPOF. It has a positive impact on the stock price.
+
+##### Old Point Financial Corporation Announces Quarterly Dividend (18 hours ago)
+The news is timely and related to OPOF. It has a strong positive impact on the stock price.
+
+![OPOF Chart](.//2024-11-21/OPOF.jpg)
+
+### OXLCZ
+- **Current Price during run time**: 23.753000259399414
+- **Support Price**: 23.719999313354492
+- **Pressure Price**: 23.739999771118164
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![OXLCZ Chart](.//2024-11-21/OXLCZ.jpg)
+
+### PBFS
+- **Current Price during run time**: 11.680000305175781
+- **Support Price**: 11.130000114440918
+- **Pressure Price**: 11.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PBFS Chart](.//2024-11-21/PBFS.jpg)
+
+### PDX
+- **Current Price during run time**: 26.34000015258789
+- **Support Price**: 24.420000076293945
+- **Pressure Price**: 24.860000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PDX Chart](.//2024-11-21/PDX.jpg)
+
+### PFIS
+- **Current Price during run time**: 52.689998626708984
+- **Support Price**: 49.9900016784668
+- **Pressure Price**: 54.709999084472656
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PFIS Chart](.//2024-11-21/PFIS.jpg)
+
+### PX
+- **Current Price during run time**: 13.140000343322754
+- **Support Price**: 11.800000190734863
+- **Pressure Price**: 12.229999542236328
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### 3 US Growth Companies With 32% Insider Ownership (20 hours ago)
+The news is timely and related to stock PX. It has a strong positive impact on the stock price.
+
+![PX Chart](.//2024-11-21/PX.jpg)
+
+### RDACU
+- **Current Price during run time**: 10.079999923706055
+- **Support Price**: 10.041999816894531
+- **Pressure Price**: 10.050000190734863
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![RDACU Chart](.//2024-11-21/RDACU.jpg)
+
+### RGT
+- **Current Price during run time**: 11.479999542236328
+- **Support Price**: 11.34000015258789
+- **Pressure Price**: 11.84000015258789
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Royce Global Trust (NYSE: RGT) as of Oct 31, 2024 (18 hours ago)
+Timely news related to RGT, neutral impact on stock price.
+
+![RGT Chart](.//2024-11-21/RGT.jpg)
+
+### SBFG
+- **Current Price during run time**: 20.989999771118164
+- **Support Price**: 18.100000381469727
+- **Pressure Price**: 19.690000534057617
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SBFG Chart](.//2024-11-21/SBFG.jpg)
+
+### SII
+- **Current Price during run time**: 44.040000915527344
+- **Support Price**: 41.900001525878906
+- **Pressure Price**: 46.380001068115234
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SII Chart](.//2024-11-21/SII.jpg)
+
+### SLRC
+- **Current Price during run time**: 16.43000030517578
+- **Support Price**: 15.930000305175781
+- **Pressure Price**: 16.170000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SLRC Chart](.//2024-11-21/SLRC.jpg)
+
+### SNEX
+- **Current Price during run time**: 102.73999786376953
+- **Support Price**: 95.66999816894531
+- **Pressure Price**: 98.76000213623047
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### StoneX Group Inc. (SNEX) Q4 2024 Earnings Call Transcript (14 hours ago)
+Timely news related to SNEX; neutral impact on stock price.
+
+##### StoneX Group Inc (SNEX) Q4 2024 Earnings Call Highlights: Record Net Income and Strategic ... (18 hours ago)
+The news is timely and related to SNEX, indicating a strong positive impact on its stock price.
+
+![SNEX Chart](.//2024-11-21/SNEX.jpg)
+
+### SNFCA
+- **Current Price during run time**: 11.960000038146973
+- **Support Price**: 10.069999694824219
+- **Pressure Price**: 10.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SNFCA Chart](.//2024-11-21/SNFCA.jpg)
+
+### SRV
+- **Current Price during run time**: 45.13999938964844
+- **Support Price**: 42.83000183105469
+- **Pressure Price**: 45.119998931884766
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Midstream/MLP Q3 2024 Buybacks: Familiar Names Lead (1 days ago)
+The news is timely and relevant to SRV. It has a positive impact on the stock price.
+
+![SRV Chart](.//2024-11-21/SRV.jpg)
+
+### TCBX
+- **Current Price during run time**: 35.65999984741211
+- **Support Price**: 34.58000183105469
+- **Pressure Price**: 35.54999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![TCBX Chart](.//2024-11-21/TCBX.jpg)
+
+### TTP
+- **Current Price during run time**: 50.880001068115234
+- **Support Price**: 44.43000030517578
+- **Pressure Price**: 44.95000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Midstream/MLP Q3 2024 Buybacks: Familiar Names Lead (1 days ago)
+Timely news related to TTP; has a positive impact on stock price due to midstream buybacks.
+
+![TTP Chart](.//2024-11-21/TTP.jpg)
+
+### USCB
+- **Current Price during run time**: 19.899999618530273
+- **Support Price**: 19.329999923706055
+- **Pressure Price**: 20.579999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![USCB Chart](.//2024-11-21/USCB.jpg)
+
+### WTW
+- **Current Price during run time**: 308.6099853515625
+- **Support Price**: 307.5899963378906
+- **Pressure Price**: 317.30999755859375
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Willis Towers Watson Public : 80% of risk leaders concerned about their organizations’ emerging-risk resilience in the next decade, according to WTW survey (6 hours ago)
+The news is timely and related to WTW. It has a neutral impact on the stock price.
+
+##### WTW, Kayna partner with Vibrant to bolster cybersecurity oversight (19 hours ago)
+The news is timely and related to WTW. It has a positive impact on the stock price.
+
+##### BlackRock Sustainable U.S. Value Equity Fund Q3 2024 Commentary (1 days ago)
+The news is timely and related to WTW. It has a positive impact on the stock price.
+
+![WTW Chart](.//2024-11-21/WTW.jpg)
+
+### EQT
+- **Current Price during run time**: 46.540000915527344
+- **Support Price**: 42.709999084472656
+- **Pressure Price**: 43.97999954223633
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![EQT Chart](.//2024-11-21/EQT.jpg)
+
+### MMLP
+- **Current Price during run time**: 4.0
+- **Support Price**: 3.9800000190734863
+- **Pressure Price**: 4.0
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Midstream/MLP Q3 2024 Buybacks: Familiar Names Lead (1 days ago)
+Timely news related to MMLP. Positive impact on stock price due to elevated equity repurchases.
+
+![MMLP Chart](.//2024-11-21/MMLP.jpg)
+
+### PNRG
+- **Current Price during run time**: 199.19000244140625
+- **Support Price**: 192.52000427246094
+- **Pressure Price**: 201.6999969482422
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PNRG Chart](.//2024-11-21/PNRG.jpg)
+
+### RNGR
+- **Current Price during run time**: 16.56999969482422
+- **Support Price**: 12.279999732971191
+- **Pressure Price**: 12.529999732971191
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![RNGR Chart](.//2024-11-21/RNGR.jpg)
+
+### VIST
+- **Current Price during run time**: 51.040000915527344
+- **Support Price**: 47.31999969482422
+- **Pressure Price**: 50.380001068115234
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Vista Energy, S.A.B. de C.V. - Depositary Receipt () (VIST) Price Target Increased by 36.92% to 1,391.15 (5 hours ago)
+Timely news for VIST; strong positive impact on stock price due to significant price target increase.
+
+![VIST Chart](.//2024-11-21/VIST.jpg)
+
+### WWD
+- **Current Price during run time**: 172.1699981689453
+- **Support Price**: 169.5500030517578
+- **Pressure Price**: 178.4499969482422
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![WWD Chart](.//2024-11-21/WWD.jpg)
+
+### YPF
+- **Current Price during run time**: 37.16999816894531
+- **Support Price**: 24.510000228881836
+- **Pressure Price**: 25.649999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![YPF Chart](.//2024-11-21/YPF.jpg)
 

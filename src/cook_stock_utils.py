@@ -2,6 +2,8 @@ import json
 import os
 import datetime as dt
 import sys
+import glob
+
 def find_path():
     """Find the base path of the 'cookstock' directory."""
     home_dir = os.path.expanduser("~")
@@ -189,7 +191,7 @@ def count_tickers(json_file):
     print(f"Unique tickers: {len(set(tickers))}")
     return len(tickers)
 
-def create_combinedJson_fromAllFolders():
+def create_combinedJson_addCurrentPrice_fromAllFolders():
     # get all folders under results, access order from latest to oldest, in each folder read the json file and get the data
     folderList = []  # Initialize an empty list to store folder names and dates
     resultsPath = os.path.join(basePath, 'results')
@@ -258,10 +260,10 @@ if __name__ == "__main__":
     
     
     # 1:00 pm run
-    create_combinedJson_fromAllFolders()
-    # combinedData = os.path.join(basePath, 'results', 'combinedData.json')
-    # filteredData = os.path.join(basePath, 'results', 'filteredData_gpt.json')
-    # newCombinedData = merge_data(load_json(combinedData), load_json(filteredData))
-    # write_readme(basePath, newCombinedData)
+    create_combinedJson_addCurrentPrice_fromAllFolders()
+    combinedData = os.path.join(basePath, 'results', 'combinedData.json')
+    filteredData = os.path.join(basePath, 'results', 'filteredData_gpt.json')
+    newCombinedData = merge_data(load_json(combinedData), load_json(filteredData))
+    write_readme(basePath, newCombinedData)
     
     

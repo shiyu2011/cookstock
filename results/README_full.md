@@ -1,4 +1,4 @@
-# Daily Stock Analysis: 11_24_2024
+# Daily Stock Analysis: 11_25_2024
 
 This report provides an overview of selected stocks with volatility contraction patterns and analysis details.
 
@@ -12,10 +12,13 @@ This report provides an overview of selected stocks with volatility contraction 
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### C3.ai: Path To Profitability May Cannibalize Revenue Growth (8 hours ago)
-Timely AI news; impact level 0 (neutral) due to concerns over potential revenue cannibalization affecting growth outlook.
+##### C3.ai (AI) and Capgemini Partner to Revolutionize Enterprise AI Solutions (17 hours ago)
+Timely AI news; impact level 1 (positive). Partnership with Capgemini enhances innovation potential in enterprise AI solutions.
 
-![AI Chart](.//2024-11-24/AI.jpg)
+##### C3.ai: Path To Profitability May Cannibalize Revenue Growth (1 days ago)
+Timely AI-related news; impact level 0 (neutral). Profitability concerns may temper revenue growth expectations despite strong AI market potential.
+
+![AI Chart](.//2024-11-25/AI.jpg)
 
 ### ALKT
 - **Current Price during run time**: 40.689998626708984
@@ -27,7 +30,7 @@ Timely AI news; impact level 0 (neutral) due to concerns over potential revenue 
 #### News
 No news available
 
-![ALKT Chart](.//2024-11-24/ALKT.jpg)
+![ALKT Chart](.//2024-11-25/ALKT.jpg)
 
 ### AVPT
 - **Current Price during run time**: 18.56999969482422
@@ -39,7 +42,7 @@ No news available
 #### News
 No news available
 
-![AVPT Chart](.//2024-11-24/AVPT.jpg)
+![AVPT Chart](.//2024-11-25/AVPT.jpg)
 
 ### BCOV
 - **Current Price during run time**: 3.190000057220459
@@ -51,7 +54,7 @@ No news available
 #### News
 No news available
 
-![BCOV Chart](.//2024-11-24/BCOV.jpg)
+![BCOV Chart](.//2024-11-25/BCOV.jpg)
 
 ### BKSY
 - **Current Price during run time**: 11.029999732971191
@@ -63,7 +66,7 @@ No news available
 #### News
 No news available
 
-![BKSY Chart](.//2024-11-24/BKSY.jpg)
+![BKSY Chart](.//2024-11-25/BKSY.jpg)
 
 ### CFLT
 - **Current Price during run time**: 31.520000457763672
@@ -75,7 +78,7 @@ No news available
 #### News
 No news available
 
-![CFLT Chart](.//2024-11-24/CFLT.jpg)
+![CFLT Chart](.//2024-11-25/CFLT.jpg)
 
 ### CLBT
 - **Current Price during run time**: 19.719999313354492
@@ -87,7 +90,7 @@ No news available
 #### News
 No news available
 
-![CLBT Chart](.//2024-11-24/CLBT.jpg)
+![CLBT Chart](.//2024-11-25/CLBT.jpg)
 
 ### DDOG
 - **Current Price during run time**: 154.8300018310547
@@ -97,10 +100,13 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### The Five Factor Model: 2 Updates To The 4% Valuation Rule (1 days ago)
-Timely news for DDOG. Impact level: 0 (neutral). The content focuses on valuation methods, not directly influencing DDOG's stock price.
+##### Dynatrace: Short-Term Profits Mask Long-Term Risks - Sell (6 hours ago)
+Timely news related to DDOG. Impact level: -1 (negative). Reason: Concerns about competitor Dynatrace's weaknesses reflect poorly on market sentiment for DDOG.
 
-![DDOG Chart](.//2024-11-24/DDOG.jpg)
+##### Datadog (DDOG) Gets Price Target Boost: AI Adoption Driving Growth? (17 hours ago)
+Timely news for DDOG; impact level 1 (positive) due to AI adoption driving growth expectations.
+
+![DDOG Chart](.//2024-11-25/DDOG.jpg)
 
 ### EXFY
 - **Current Price during run time**: 3.4000000953674316
@@ -112,7 +118,7 @@ Timely news for DDOG. Impact level: 0 (neutral). The content focuses on valuatio
 #### News
 No news available
 
-![EXFY Chart](.//2024-11-24/EXFY.jpg)
+![EXFY Chart](.//2024-11-25/EXFY.jpg)
 
 ### FLEX
 - **Current Price during run time**: 41.29999923706055
@@ -122,9 +128,19 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Flex Ltd.(NasdaqGS: FLEX) added to S&P 1000 (19 hours ago)
+Timely news on FLEX; impact level: 1 (positive). Inclusion in S&P 1000 boosts visibility and credibility, likely attracting investors.
 
-![FLEX Chart](.//2024-11-24/FLEX.jpg)
+##### Flex Ltd.(NasdaqGS: FLEX) added to S&P 400 Information Technology (19 hours ago)
+FLEX added to S&P 400 IT; timely news, impact level 2: strong positive, likely boosts investor confidence and stock value.
+
+##### Flex Ltd.(NasdaqGS: FLEX) added to S&P 400 (19 hours ago)
+Timely news for FLEX. Impact: 2 (strong positive). Inclusion in S&P 400 enhances credibility and attracts investment.
+
+##### Flex Ltd.(NasdaqGS: FLEX) added to S&P Composite 1500 (19 hours ago)
+Timely news concerning FLEX; impact level 2: strong positive due to increased visibility and investor confidence from S&P Composite 1500 inclusion.
+
+![FLEX Chart](.//2024-11-25/FLEX.jpg)
 
 ### FLUT
 - **Current Price during run time**: 275.5199890136719
@@ -134,10 +150,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Goldman Sachs Initiates Coverage of Flutter Entertainment (FLUT) with Buy Recommendation (1 days ago)
-Timely news for FLUT; impact level: 1 (positive). Goldman Sachs' buy recommendation enhances investor confidence and potential stock growth.
+No news available
 
-![FLUT Chart](.//2024-11-24/FLUT.jpg)
+![FLUT Chart](.//2024-11-25/FLUT.jpg)
 
 ### GAN
 - **Current Price during run time**: 1.840000033378601
@@ -149,7 +164,7 @@ Timely news for FLUT; impact level: 1 (positive). Goldman Sachs' buy recommendat
 #### News
 No news available
 
-![GAN Chart](.//2024-11-24/GAN.jpg)
+![GAN Chart](.//2024-11-25/GAN.jpg)
 
 ### GDYN
 - **Current Price during run time**: 18.260000228881836
@@ -161,7 +176,7 @@ No news available
 #### News
 No news available
 
-![GDYN Chart](.//2024-11-24/GDYN.jpg)
+![GDYN Chart](.//2024-11-25/GDYN.jpg)
 
 ### GLBE
 - **Current Price during run time**: 49.88999938964844
@@ -171,12 +186,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Why Global-e Online Stock Zoomed Nearly 24% Higher This Week (1 days ago)
-1. Timely and related to GLBE: Yes  
-2. Impact level: 2 (strong positive)  
-3. Reason: Significant stock price increase due to strong performance exceeding analyst expectations.
+No news available
 
-![GLBE Chart](.//2024-11-24/GLBE.jpg)
+![GLBE Chart](.//2024-11-25/GLBE.jpg)
 
 ### KC
 - **Current Price during run time**: 7.210000038146973
@@ -188,7 +200,7 @@ No news available
 #### News
 No news available
 
-![KC Chart](.//2024-11-24/KC.jpg)
+![KC Chart](.//2024-11-25/KC.jpg)
 
 ### KLTR
 - **Current Price during run time**: 2.0999999046325684
@@ -200,7 +212,7 @@ No news available
 #### News
 No news available
 
-![KLTR Chart](.//2024-11-24/KLTR.jpg)
+![KLTR Chart](.//2024-11-25/KLTR.jpg)
 
 ### MAPS
 - **Current Price during run time**: 1.2000000476837158
@@ -210,10 +222,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Take Profits In WM Technology (Rating Downgrade) (21 hours ago)
-Timely news on MAPS, impact level: -1. Downgrade signals risk, shifts investment focus away from WM Technology.
+No news available
 
-![MAPS Chart](.//2024-11-24/MAPS.jpg)
+![MAPS Chart](.//2024-11-25/MAPS.jpg)
 
 ### MGNI
 - **Current Price during run time**: 17.1299991607666
@@ -225,7 +236,7 @@ Timely news on MAPS, impact level: -1. Downgrade signals risk, shifts investment
 #### News
 No news available
 
-![MGNI Chart](.//2024-11-24/MGNI.jpg)
+![MGNI Chart](.//2024-11-25/MGNI.jpg)
 
 ### MTLS
 - **Current Price during run time**: 7.360000133514404
@@ -237,7 +248,7 @@ No news available
 #### News
 No news available
 
-![MTLS Chart](.//2024-11-24/MTLS.jpg)
+![MTLS Chart](.//2024-11-25/MTLS.jpg)
 
 ### OLO
 - **Current Price during run time**: 7.170000076293945
@@ -249,7 +260,7 @@ No news available
 #### News
 No news available
 
-![OLO Chart](.//2024-11-24/OLO.jpg)
+![OLO Chart](.//2024-11-25/OLO.jpg)
 
 ### OOMA
 - **Current Price during run time**: 14.210000038146973
@@ -259,9 +270,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Ooma to Attend the Northland Capital Markets Growth Conference (Virtual) (5 hours ago)
+Timely news related to OOMA. Impact level: 0 (neutral). Reason: Conference attendance unlikely to significantly affect stock price short-term.
 
-![OOMA Chart](.//2024-11-24/OOMA.jpg)
+![OOMA Chart](.//2024-11-25/OOMA.jpg)
 
 ### PCOR
 - **Current Price during run time**: 76.68000030517578
@@ -271,16 +283,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Procore price target raised to $90 from $70 at Piper Sandler (1 days ago)
-Timely news for PCOR; impact level: 2. Strong positive due to raised price target and high free cash flow margin potential.
+No news available
 
-##### Procore price target raised to $80 from $70 at Jefferies (1 days ago)
-Timely news for PCOR; impact level 0 (neutral) due to mixed sentiment on innovation and upcoming market changes.
-
-##### Procore price target raised to $85 from $68 at KeyBanc (1 days ago)
-Timely news for PCOR; impact level 1 (positive) due to raised price target and optimistic outlook from KeyBanc.
-
-![PCOR Chart](.//2024-11-24/PCOR.jpg)
+![PCOR Chart](.//2024-11-25/PCOR.jpg)
 
 ### PLXS
 - **Current Price during run time**: 162.00999450683594
@@ -292,7 +297,7 @@ Timely news for PCOR; impact level 1 (positive) due to raised price target and o
 #### News
 No news available
 
-![PLXS Chart](.//2024-11-24/PLXS.jpg)
+![PLXS Chart](.//2024-11-25/PLXS.jpg)
 
 ### RBLX
 - **Current Price during run time**: 49.380001068115234
@@ -304,7 +309,7 @@ No news available
 #### News
 No news available
 
-![RBLX Chart](.//2024-11-24/RBLX.jpg)
+![RBLX Chart](.//2024-11-25/RBLX.jpg)
 
 ### SMWB
 - **Current Price during run time**: 12.569999694824219
@@ -316,7 +321,7 @@ No news available
 #### News
 No news available
 
-![SMWB Chart](.//2024-11-24/SMWB.jpg)
+![SMWB Chart](.//2024-11-25/SMWB.jpg)
 
 ### SRAD
 - **Current Price during run time**: 17.729999542236328
@@ -326,9 +331,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Sportradar Launches Gen AI Audio Advertising for Sportsbook and Casino Operators (9 hours ago)
+Timely news for SRAD; impact level: 1 (positive) due to innovation enhancing advertising capabilities in a growing market.
 
-![SRAD Chart](.//2024-11-24/SRAD.jpg)
+![SRAD Chart](.//2024-11-25/SRAD.jpg)
 
 ### TOST
 - **Current Price during run time**: 42.7400016784668
@@ -338,9 +344,13 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Tracking Al Gore's Generation Investment Management Portfolio - Q3 2024 Update (12 hours ago)
+Timely news related to TOST; impact level: 1 (positive), as Al Gore's investment may boost investor confidence.
 
-![TOST Chart](.//2024-11-24/TOST.jpg)
+##### Toast: Fantastic Performance, Terrible Price (Rating Downgrade) (21 hours ago)
+Timely news for TOST; impact level -1. Downgrade advice suggests overvaluation despite strong performance, likely pressuring stock price.
+
+![TOST Chart](.//2024-11-25/TOST.jpg)
 
 ### UMAC
 - **Current Price during run time**: 4.400000095367432
@@ -352,7 +362,7 @@ No news available
 #### News
 No news available
 
-![UMAC Chart](.//2024-11-24/UMAC.jpg)
+![UMAC Chart](.//2024-11-25/UMAC.jpg)
 
 ### WAY
 - **Current Price during run time**: 31.25
@@ -364,7 +374,7 @@ No news available
 #### News
 No news available
 
-![WAY Chart](.//2024-11-24/WAY.jpg)
+![WAY Chart](.//2024-11-25/WAY.jpg)
 
 ### WEAV
 - **Current Price during run time**: 13.90999984741211
@@ -376,7 +386,7 @@ No news available
 #### News
 No news available
 
-![WEAV Chart](.//2024-11-24/WEAV.jpg)
+![WEAV Chart](.//2024-11-25/WEAV.jpg)
 
 ### WIT
 - **Current Price during run time**: 6.980000019073486
@@ -388,7 +398,7 @@ No news available
 #### News
 No news available
 
-![WIT Chart](.//2024-11-24/WIT.jpg)
+![WIT Chart](.//2024-11-25/WIT.jpg)
 
 ### ZUO
 - **Current Price during run time**: 9.9399995803833
@@ -398,9 +408,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Wall Street Week Ahead (1 days ago)
+Timely news related to ZUO. Impact level: 0 (neutral). Reason: General market preview, not stock-specific.
 
-![ZUO Chart](.//2024-11-24/ZUO.jpg)
+![ZUO Chart](.//2024-11-25/ZUO.jpg)
 
 ### ARGX
 - **Current Price during run time**: 605.9199829101562
@@ -412,7 +423,7 @@ No news available
 #### News
 No news available
 
-![ARGX Chart](.//2024-11-24/ARGX.jpg)
+![ARGX Chart](.//2024-11-25/ARGX.jpg)
 
 ### AVXL
 - **Current Price during run time**: 9.109999656677246
@@ -422,9 +433,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Anavex Life Sciences Announces Acceptance of Peer-Reviewed Manuscript of Oral Blarcamesine Phase IIb/III Data in a Reference Alzheimer’s Disease Journal (5 hours ago)
+Timely news for AVXL; impact level 2. Acceptance of significant research boosts credibility and investor confidence in Alzheimer's treatment.
 
-![AVXL Chart](.//2024-11-24/AVXL.jpg)
+![AVXL Chart](.//2024-11-25/AVXL.jpg)
 
 ### CTLT
 - **Current Price during run time**: 60.97999954223633
@@ -436,7 +448,7 @@ No news available
 #### News
 No news available
 
-![CTLT Chart](.//2024-11-24/CTLT.jpg)
+![CTLT Chart](.//2024-11-25/CTLT.jpg)
 
 ### HSIC
 - **Current Price during run time**: 75.08000183105469
@@ -446,9 +458,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Tracking Al Gore's Generation Investment Management Portfolio - Q3 2024 Update (12 hours ago)
+Timely news related to HSIC; impact level: 0 (neutral). No direct relevance to HSIC's stock performance indicated.
 
-![HSIC Chart](.//2024-11-24/HSIC.jpg)
+![HSIC Chart](.//2024-11-25/HSIC.jpg)
 
 ### IFRX
 - **Current Price during run time**: 2.0799999237060547
@@ -460,7 +473,7 @@ No news available
 #### News
 No news available
 
-![IFRX Chart](.//2024-11-24/IFRX.jpg)
+![IFRX Chart](.//2024-11-25/IFRX.jpg)
 
 ### ITRM
 - **Current Price during run time**: 1.809999942779541
@@ -472,7 +485,7 @@ No news available
 #### News
 No news available
 
-![ITRM Chart](.//2024-11-24/ITRM.jpg)
+![ITRM Chart](.//2024-11-25/ITRM.jpg)
 
 ### LFCR
 - **Current Price during run time**: 7.309999942779541
@@ -484,7 +497,7 @@ No news available
 #### News
 No news available
 
-![LFCR Chart](.//2024-11-24/LFCR.jpg)
+![LFCR Chart](.//2024-11-25/LFCR.jpg)
 
 ### NAMS
 - **Current Price during run time**: 20.200000762939453
@@ -496,7 +509,7 @@ No news available
 #### News
 No news available
 
-![NAMS Chart](.//2024-11-24/NAMS.jpg)
+![NAMS Chart](.//2024-11-25/NAMS.jpg)
 
 ### PLX
 - **Current Price during run time**: 1.690000057220459
@@ -508,7 +521,7 @@ No news available
 #### News
 No news available
 
-![PLX Chart](.//2024-11-24/PLX.jpg)
+![PLX Chart](.//2024-11-25/PLX.jpg)
 
 ### PULM
 - **Current Price during run time**: 6.119999885559082
@@ -520,7 +533,7 @@ No news available
 #### News
 No news available
 
-![PULM Chart](.//2024-11-24/PULM.jpg)
+![PULM Chart](.//2024-11-25/PULM.jpg)
 
 ### SEM
 - **Current Price during run time**: 39.66999816894531
@@ -532,7 +545,7 @@ No news available
 #### News
 No news available
 
-![SEM Chart](.//2024-11-24/SEM.jpg)
+![SEM Chart](.//2024-11-25/SEM.jpg)
 
 ### SPAI
 - **Current Price during run time**: 4.570000171661377
@@ -544,7 +557,7 @@ No news available
 #### News
 No news available
 
-![SPAI Chart](.//2024-11-24/SPAI.jpg)
+![SPAI Chart](.//2024-11-25/SPAI.jpg)
 
 ### TCMD
 - **Current Price during run time**: 17.850000381469727
@@ -556,7 +569,7 @@ No news available
 #### News
 No news available
 
-![TCMD Chart](.//2024-11-24/TCMD.jpg)
+![TCMD Chart](.//2024-11-25/TCMD.jpg)
 
 ### XCUR
 - **Current Price during run time**: 18.3799991607666
@@ -568,7 +581,7 @@ No news available
 #### News
 No news available
 
-![XCUR Chart](.//2024-11-24/XCUR.jpg)
+![XCUR Chart](.//2024-11-25/XCUR.jpg)
 
 ### AMAL
 - **Current Price during run time**: 36.5099983215332
@@ -580,7 +593,7 @@ No news available
 #### News
 No news available
 
-![AMAL Chart](.//2024-11-24/AMAL.jpg)
+![AMAL Chart](.//2024-11-25/AMAL.jpg)
 
 ### AMTB
 - **Current Price during run time**: 25.690000534057617
@@ -592,7 +605,7 @@ No news available
 #### News
 No news available
 
-![AMTB Chart](.//2024-11-24/AMTB.jpg)
+![AMTB Chart](.//2024-11-25/AMTB.jpg)
 
 ### APLD
 - **Current Price during run time**: 9.850000381469727
@@ -604,7 +617,7 @@ No news available
 #### News
 No news available
 
-![APLD Chart](.//2024-11-24/APLD.jpg)
+![APLD Chart](.//2024-11-25/APLD.jpg)
 
 ### APO
 - **Current Price during run time**: 167.55999755859375
@@ -614,10 +627,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Trump picks Scott Bessent, the 'investor favorite,' for Treasury secretary (1 days ago)
-Timely news for APO; impact level: 1 (positive). Bessent’s selection may boost investor confidence and influence market sentiment positively.
+##### Possible Bearish Signals With Apollo Global Management Insiders Disposing Stock (1 days ago)
+Timely news for APO. Impact level: -1 (negative). Insiders selling shares often signals lack of confidence in future performance.
 
-![APO Chart](.//2024-11-24/APO.jpg)
+![APO Chart](.//2024-11-25/APO.jpg)
 
 ### ASB
 - **Current Price during run time**: 27.309999465942383
@@ -627,10 +640,9 @@ Timely news for APO; impact level: 1 (positive). Bessent’s selection may boost
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Dividend Champion, Contender, And Challenger Highlights: Week Of November 24 (1 days ago)
-Timely news for ASB indicates possible positive impact (1) due to heightened interest in dividends.
+No news available
 
-![ASB Chart](.//2024-11-24/ASB.jpg)
+![ASB Chart](.//2024-11-25/ASB.jpg)
 
 ### BPOP
 - **Current Price during run time**: 98.95999908447266
@@ -640,9 +652,10 @@ Timely news for ASB indicates possible positive impact (1) due to heightened int
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Herzfeld Caribbean Basin Fund Has A Timely Path To Trade At NAV Or Better (7 hours ago)
+News is timely and related to BPOP; impact level: 0 (neutral). The focus is on fund strategy, not BPOP's performance.
 
-![BPOP Chart](.//2024-11-24/BPOP.jpg)
+![BPOP Chart](.//2024-11-25/BPOP.jpg)
 
 ### COIN
 - **Current Price during run time**: 304.6400146484375
@@ -652,10 +665,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### 7 Stocks I'm Buying In Defiance Of Post-Election Euphoria (1 days ago)
-Timely news related to COIN, impact level 0: neutral; article suggests cautious investing amid post-election euphoria, not directly affecting COIN.
+##### Is This A Momentum Market? (13 hours ago)
+Timely news for COIN; impact level: 0, neutral. Market analysis may influence sentiment but lacks direct relevance to COIN's stock.
 
-![COIN Chart](.//2024-11-24/COIN.jpg)
+![COIN Chart](.//2024-11-25/COIN.jpg)
 
 ### CPF
 - **Current Price during run time**: 32.16999816894531
@@ -667,7 +680,7 @@ Timely news related to COIN, impact level 0: neutral; article suggests cautious 
 #### News
 No news available
 
-![CPF Chart](.//2024-11-24/CPF.jpg)
+![CPF Chart](.//2024-11-25/CPF.jpg)
 
 ### CSQ
 - **Current Price during run time**: 18.010000228881836
@@ -677,9 +690,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### 5 Best CEFs This Month For 8.5% Yield (November 2024) (1 days ago)
+Timely news for CSQ. Impact level: 1 (positive). Highlights income potential, attracting investors seeking high yield.
 
-![CSQ Chart](.//2024-11-24/CSQ.jpg)
+![CSQ Chart](.//2024-11-25/CSQ.jpg)
 
 ### DAVE
 - **Current Price during run time**: 86.26000213623047
@@ -691,7 +705,7 @@ No news available
 #### News
 No news available
 
-![DAVE Chart](.//2024-11-24/DAVE.jpg)
+![DAVE Chart](.//2024-11-25/DAVE.jpg)
 
 ### DCOM
 - **Current Price during run time**: 36.31999969482422
@@ -703,7 +717,7 @@ No news available
 #### News
 No news available
 
-![DCOM Chart](.//2024-11-24/DCOM.jpg)
+![DCOM Chart](.//2024-11-25/DCOM.jpg)
 
 ### DGHI
 - **Current Price during run time**: 2.059999942779541
@@ -713,9 +727,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Market Resilience Amidst The Brutal Rotations To The Next Rally (5 hours ago)
+Timely news for DGHI; impact level: 0 (neutral). Focus on market strategies may not directly influence DGHI's stock price.
 
-![DGHI Chart](.//2024-11-24/DGHI.jpg)
+![DGHI Chart](.//2024-11-25/DGHI.jpg)
 
 ### DOUG
 - **Current Price during run time**: 2.6500000953674316
@@ -727,7 +742,7 @@ No news available
 #### News
 No news available
 
-![DOUG Chart](.//2024-11-24/DOUG.jpg)
+![DOUG Chart](.//2024-11-25/DOUG.jpg)
 
 ### EFSC
 - **Current Price during run time**: 60.7400016784668
@@ -739,7 +754,7 @@ No news available
 #### News
 No news available
 
-![EFSC Chart](.//2024-11-24/EFSC.jpg)
+![EFSC Chart](.//2024-11-25/EFSC.jpg)
 
 ### FHB
 - **Current Price during run time**: 27.899999618530273
@@ -751,7 +766,7 @@ No news available
 #### News
 No news available
 
-![FHB Chart](.//2024-11-24/FHB.jpg)
+![FHB Chart](.//2024-11-25/FHB.jpg)
 
 ### GCMG
 - **Current Price during run time**: 12.329999923706055
@@ -763,7 +778,7 @@ No news available
 #### News
 No news available
 
-![GCMG Chart](.//2024-11-24/GCMG.jpg)
+![GCMG Chart](.//2024-11-25/GCMG.jpg)
 
 ### GDV
 - **Current Price during run time**: 25.010000228881836
@@ -775,7 +790,7 @@ No news available
 #### News
 No news available
 
-![GDV Chart](.//2024-11-24/GDV.jpg)
+![GDV Chart](.//2024-11-25/GDV.jpg)
 
 ### HIPO
 - **Current Price during run time**: 34.0099983215332
@@ -787,7 +802,7 @@ No news available
 #### News
 No news available
 
-![HIPO Chart](.//2024-11-24/HIPO.jpg)
+![HIPO Chart](.//2024-11-25/HIPO.jpg)
 
 ### HONE
 - **Current Price during run time**: 13.1899995803833
@@ -799,7 +814,7 @@ No news available
 #### News
 No news available
 
-![HONE Chart](.//2024-11-24/HONE.jpg)
+![HONE Chart](.//2024-11-25/HONE.jpg)
 
 ### HOOD
 - **Current Price during run time**: 36.650001525878906
@@ -809,13 +824,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Welcome to the World of 24-Hour Stock Trading (9 hours ago)
-Timely news on HOOD; impact level 1. Increased trading hours may boost user engagement and trading volume, positively affecting stock price.
+##### Welcome to the World of 24-Hour Stock Trading (1 days ago)
+Timely news for HOOD; impact level 1. Increased trading hours may attract more users, boosting engagement and trading volume.
 
-##### 4 Reasons XRP Can Go Parabolic in 2025 (22 hours ago)
-Timely news related to stock HOOD; impact level: 0 (neutral). XRP's performance doesn't directly affect HOOD's stock price.
-
-![HOOD Chart](.//2024-11-24/HOOD.jpg)
+![HOOD Chart](.//2024-11-25/HOOD.jpg)
 
 ### HUT
 - **Current Price during run time**: 25.920000076293945
@@ -827,7 +839,7 @@ Timely news related to stock HOOD; impact level: 0 (neutral). XRP's performance 
 #### News
 No news available
 
-![HUT Chart](.//2024-11-24/HUT.jpg)
+![HUT Chart](.//2024-11-25/HUT.jpg)
 
 ### MAIN
 - **Current Price during run time**: 53.970001220703125
@@ -837,10 +849,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Hard To Imagine A Retirement Portfolio Without These 5 High Yield Gems (1 days ago)
-Timely news related to stock MAIN; impact level: 1 (positive). Highlights MAIN as a strong option for income-driven investments.
+No news available
 
-![MAIN Chart](.//2024-11-24/MAIN.jpg)
+![MAIN Chart](.//2024-11-25/MAIN.jpg)
 
 ### MRX
 - **Current Price during run time**: 29.18000030517578
@@ -852,7 +863,7 @@ Timely news related to stock MAIN; impact level: 1 (positive). Highlights MAIN a
 #### News
 No news available
 
-![MRX Chart](.//2024-11-24/MRX.jpg)
+![MRX Chart](.//2024-11-25/MRX.jpg)
 
 ### NBHC
 - **Current Price during run time**: 48.869998931884766
@@ -862,10 +873,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Dividend Champion, Contender, And Challenger Highlights: Week Of November 24 (1 days ago)
-Timely news on NBHC; impact level 1. Highlights positive dividend activity, reinforcing investor confidence and potential stock appreciation.
+No news available
 
-![NBHC Chart](.//2024-11-24/NBHC.jpg)
+![NBHC Chart](.//2024-11-25/NBHC.jpg)
 
 ### OPFI
 - **Current Price during run time**: 7.610000133514404
@@ -875,9 +885,10 @@ Timely news on NBHC; impact level 1. Highlights positive dividend activity, rein
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Trump Bump And Rate Cuts: 5 Small-Caps Set To Surge (8 hours ago)
+Timely news on OPFI suggests potential gains, impact level: 1 (positive). Fed cuts and Trump’s agenda may boost stocks.
 
-![OPFI Chart](.//2024-11-24/OPFI.jpg)
+![OPFI Chart](.//2024-11-25/OPFI.jpg)
 
 ### OWL
 - **Current Price during run time**: 24.549999237060547
@@ -889,7 +900,7 @@ No news available
 #### News
 No news available
 
-![OWL Chart](.//2024-11-24/OWL.jpg)
+![OWL Chart](.//2024-11-25/OWL.jpg)
 
 ### PX
 - **Current Price during run time**: 13.789999961853027
@@ -901,7 +912,7 @@ No news available
 #### News
 No news available
 
-![PX Chart](.//2024-11-24/PX.jpg)
+![PX Chart](.//2024-11-25/PX.jpg)
 
 ### SNEX
 - **Current Price during run time**: 102.44999694824219
@@ -913,7 +924,7 @@ No news available
 #### News
 No news available
 
-![SNEX Chart](.//2024-11-24/SNEX.jpg)
+![SNEX Chart](.//2024-11-25/SNEX.jpg)
 
 ### TRMK
 - **Current Price during run time**: 39.279998779296875
@@ -925,7 +936,7 @@ No news available
 #### News
 No news available
 
-![TRMK Chart](.//2024-11-24/TRMK.jpg)
+![TRMK Chart](.//2024-11-25/TRMK.jpg)
 
 ### WTW
 - **Current Price during run time**: 314.3999938964844
@@ -937,7 +948,7 @@ No news available
 #### News
 No news available
 
-![WTW Chart](.//2024-11-24/WTW.jpg)
+![WTW Chart](.//2024-11-25/WTW.jpg)
 
 ### BE
 - **Current Price during run time**: 25.760000228881836
@@ -947,10 +958,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Bloom Energy Corporation (BE) Powers AI Data Centers: Analyst Insights and Market Outlook (22 hours ago)
-Timely news related to stock BE; impact level 1 (positive) due to potential growth from AI data center demand.
+No news available
 
-![BE Chart](.//2024-11-24/BE.jpg)
+![BE Chart](.//2024-11-25/BE.jpg)
 
 ### BKV
 - **Current Price during run time**: 21.93000030517578
@@ -962,7 +972,7 @@ Timely news related to stock BE; impact level 1 (positive) due to potential grow
 #### News
 No news available
 
-![BKV Chart](.//2024-11-24/BKV.jpg)
+![BKV Chart](.//2024-11-25/BKV.jpg)
 
 ### LB
 - **Current Price during run time**: 77.45999908447266
@@ -972,10 +982,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Oil, Gas, And Dividends: Why Permian Resources Remains Massively Undervalued (1 days ago)
-News is timely and related to stock LB. Impact level: 0 (neutral). Reason: Focus on Permian Resources, not LB specifically.
+##### Ultra High Conviction - If I Could Own Just 5 Dividend Stocks (5 hours ago)
+Timely news related to LB; impact level: 1 (positive). Highlights LB's resilience and income potential, boosting investor confidence.
 
-![LB Chart](.//2024-11-24/LB.jpg)
+![LB Chart](.//2024-11-25/LB.jpg)
 
 ### RNGR
 - **Current Price during run time**: 16.829999923706055
@@ -987,7 +997,7 @@ News is timely and related to stock LB. Impact level: 0 (neutral). Reason: Focus
 #### News
 No news available
 
-![RNGR Chart](.//2024-11-24/RNGR.jpg)
+![RNGR Chart](.//2024-11-25/RNGR.jpg)
 
 ### SOC
 - **Current Price during run time**: 24.079999923706055
@@ -999,7 +1009,7 @@ No news available
 #### News
 No news available
 
-![SOC Chart](.//2024-11-24/SOC.jpg)
+![SOC Chart](.//2024-11-25/SOC.jpg)
 
 ### THR
 - **Current Price during run time**: 31.969999313354492
@@ -1009,10 +1019,9 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Has Thermon Group Holdings, Inc.'s (NYSE:THR) Impressive Stock Performance Got Anything to Do With Its Fundamentals? (22 hours ago)
-Timely news for THR (1); impact level 1 (positive) due to notable 16% stock increase reflecting strong fundamentals.
+No news available
 
-![THR Chart](.//2024-11-24/THR.jpg)
+![THR Chart](.//2024-11-25/THR.jpg)
 
 ### TPL
 - **Current Price during run time**: 1730.0
@@ -1022,13 +1031,10 @@ Timely news for THR (1); impact level 1 (positive) due to notable 16% stock incr
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Oil, Gas, And Dividends: Why Permian Resources Remains Massively Undervalued (1 days ago)
-Timely news related to TPL; impact level: 1 (positive). Highlights undervaluation in Permian Resources, likely boosting investor interest.
+##### Is Texas Pacific Land Corporation's (NYSE:TPL) Recent Stock Performance Tethered To Its Strong Fundamentals? (1 days ago)
+Timely news for TPL; impact level 1. Strong fundamentals highlighted, contributing to recent 101% stock price increase.
 
-##### Dividend Champion, Contender, And Challenger Highlights: Week Of November 24 (1 days ago)
-TPL news is timely; impact level is 1 (positive) due to dividend activity drawing investor interest.
-
-![TPL Chart](.//2024-11-24/TPL.jpg)
+![TPL Chart](.//2024-11-25/TPL.jpg)
 
 ### VIST
 - **Current Price during run time**: 56.5099983215332
@@ -1040,7 +1046,7 @@ TPL news is timely; impact level is 1 (positive) due to dividend activity drawin
 #### News
 No news available
 
-![VIST Chart](.//2024-11-24/VIST.jpg)
+![VIST Chart](.//2024-11-25/VIST.jpg)
 
 ### WWD
 - **Current Price during run time**: 176.0500030517578
@@ -1050,10 +1056,10 @@ No news available
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Dell, Autodesk, And CrowdStrike Headline Earnings Reports In Holiday-Shortened Week (1 days ago)
-Timely news related to WWD, impact level 0: neutral; earnings reports do not directly affect WWD stock performance.
+##### Wall Street Week Ahead (1 days ago)
+Timely news related to WWD; impact level: 0 (neutral); provides general market overview without specific implications for WWD.
 
-![WWD Chart](.//2024-11-24/WWD.jpg)
+![WWD Chart](.//2024-11-25/WWD.jpg)
 
 ### YPF
 - **Current Price during run time**: 40.029998779296875
@@ -1065,5 +1071,5 @@ Timely news related to WWD, impact level 0: neutral; earnings reports do not dir
 #### News
 No news available
 
-![YPF Chart](.//2024-11-24/YPF.jpg)
+![YPF Chart](.//2024-11-25/YPF.jpg)
 

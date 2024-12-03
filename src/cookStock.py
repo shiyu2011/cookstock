@@ -33,6 +33,7 @@ class algoParas:
     REGRESSION_DAYS = 100
     PEAK_VOL_RATIO = 1.3
     PRICE_POSITION_LOW = 0.66
+    VOLUME_THRESHOLD = 100000
     
     
 
@@ -332,6 +333,18 @@ class cookFinancials(YahooFinancials):
         if current - mid > 0 and mid -last > 0:
             return 1
         return -1
+    def get_30day_trend(self):
+        if not(self.priceData):
+            date = dt.date.today()
+            self.priceData = self.get_historical_price_data(str(date -  dt.timedelta(days=365)), str(date), 'daily')
+        length = len(self.priceData[self.ticker]['prices'])
+        #get 30 days data
+        price30Structure = self.get_price_from_buffer(self.priceData[self.ticker]['prices'], dt.date.today()-dt.timedelta(days=30), 30)
+        price30 = [item['close'] for item in price30Structure]
+        #find the trend
+        trend, _ = self._calculate_volume_trend(price30)
+        flag = 1 if trend > 0 else -1
+        return flag
     
     def mv_strategy(self):
         if not(self.priceData):
@@ -344,7 +357,7 @@ class cookFinancials(YahooFinancials):
         price150 = self.get_ma_150(dt.date.today())
         price200 = self.get_ma_200(dt.date.today())
         #print(currentPrice, price50, price150, price200, self.get_30day_trend_ma200())
-        if currentPrice > price200 and self.get_30day_trend_ma200() == 1:
+        if currentPrice > price200 and self.get_30day_trend() == 1:
             return 1
         return -1  
         
@@ -372,7 +385,7 @@ class cookFinancials(YahooFinancials):
         vol3day, avgVol3day, vol50day, avgVol50day = self.get_vol(3, 200)
 
         # Check if 3-day average volume is at least 1.5x the 50-day average volume
-        if avgVol3day >= algoParas.PEAK_VOL_RATIO* avgVol50day:
+        if avgVol3day >= algoParas.PEAK_VOL_RATIO* avgVol50day and avgVol50day >= algoParas.VOLUME_THRESHOLD:
             return 1  # Volume condition met based on recent surge
         
         # # Check if 50-day average volume is above a minimum threshold (e.g., 800,000 shares)

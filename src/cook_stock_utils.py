@@ -57,6 +57,15 @@ def search_use_key(data, ticker):
             return entry[ticker]
     return None 
 
+def get_selected_tickers_details(data, tickers):
+    selectedTickers = []
+    for ticker in tickers:
+        details = search_use_key(data, ticker)
+        if details:
+            selectedTickers.append({ticker: details})
+    return selectedTickers
+
+
 def merge_data(combinedData, filteredData):
     for entry in filteredData['data']:
         for ticker, details in entry.items():
@@ -90,6 +99,123 @@ def merge_data(combinedData, filteredData):
     
     return combinedData
 
+from html import escape
+
+def write_html(basePath, newCombinedData):
+    data = newCombinedData['data']
+    current_date = dt.date.today().strftime("%m_%d_%Y")
+    
+    # HTML header
+    html_content = f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Daily Stock Analysis: {current_date}</title>
+        <style>
+            body {{
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }}
+            .container {{
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }}
+            h1 {{
+                font-size: 24px;
+                margin-bottom: 10px;
+            }}
+            h2 {{
+                font-size: 20px;
+                margin-bottom: 10px;
+            }}
+            h3 {{
+                font-size: 16px;
+                margin-bottom: 10px;
+            }}
+            p {{
+                margin-bottom: 10px;
+            }}
+            .stock {{
+                margin-bottom: 20px;
+                padding: 10px;
+                border: 1px solid #ccc;
+            }}
+            .news {{
+                margin-top: 10px;
+                padding-top: 10px;
+                border-top: 1px solid #ccc;
+            }}
+            img {{
+                max-width: 100%;
+                height: auto;
+            }}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Daily Stock Analysis: {current_date}</h1>
+            <p>This report provides an overview of selected stocks with volatility contraction patterns and analysis details.</p>
+            <h2>Stocks Overview</h2>
+    """
+
+    # Generate content for each stock
+    for entry in data:
+        for ticker, details in entry.items():
+            html_content += f"""
+            <div class="stock">
+                <h3>{escape(ticker)}</h3>
+                <p><strong>Current Price during run time:</strong> {escape(details.get('current price', 'N/A'))}</p>
+                <p><strong>Support Price:</strong> {escape(details.get('support price', 'N/A'))}</p>
+                <p><strong>Pressure Price:</strong> {escape(details.get('pressure price', 'N/A'))}</p>
+                <p><strong>Good Pivot:</strong> {escape(details.get('is_good_pivot', 'N/A'))}</p>
+                <p><strong>Deep Correction:</strong> {escape(details.get('is_deep_correction', 'N/A'))}</p>
+                <p><strong>Demand Dry:</strong> {escape(details.get('is_demand_dry', 'N/A'))}</p>
+                <p><strong>Current Price at Check:</strong> {escape(str(details.get('current price at Check', 'N/A')))}</p>                <p><strong>Price Change:</strong> {details.get('price_change', 0):.4%}</p>
+                <p><strong>Date of the Selection:</strong> {escape(details.get('date of the selection', 'N/A'))}</p>
+                <p><strong>Time at Check:</strong> {escape(details.get('time at Check', 'N/A'))}</p>
+            """
+            # Add news section
+            news = details.get('news', [])
+            if news:
+                html_content += """<div class="news"><h4>News</h4>"""
+                for article in news:
+                    html_content += f"""
+                    <p><strong>{escape(article.get('title', 'No Title'))}</strong><br>
+                    {escape(article.get('summary', 'No Summary'))}<br>
+                    <a href="{escape(article.get('url', '#'))}">Read more</a></p>
+                    """
+                html_content += "</div>"
+            else:
+                html_content += "<p>No news available</p>"
+
+            # Add image if available
+            fig_path = details.get('fig')
+            if fig_path:
+                prefix_to_remove = os.path.join(basePath, 'results')
+                img_path = fig_path.replace(prefix_to_remove, '').lstrip(os.sep)
+                html_content += f"""
+                <img src="./{escape(img_path)}" alt="{escape(ticker)} Chart">
+                """
+
+            html_content += "</div>"
+
+    # Close the container div and HTML
+    html_content += """
+        </div>
+    </body>
+    </html>
+    """
+
+    # Save the HTML content to a file
+    output_path = os.path.join(basePath, 'results', 'report.html')
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+   
+                    
+
 def write_readme(basePath, newCombinedData):
     data = newCombinedData['data']
     current_date = dt.date.today().strftime("%m_%d_%Y")
@@ -112,7 +238,8 @@ def write_readme(basePath, newCombinedData):
             if 'current price at Check' in details:
                 readme_content += f"- **Current Price at Check**: {details['current price at Check']}\n"
                 readme_content += f"- **Price Change**: {details['price_change']:.4%}\n"
-                readme_content += f"- **Date of the Selection**: {details['date of the selection']}\n"
+                if 'date of the selection' in details:
+                    readme_content += f"- **Date of the Selection**: {details['date of the selection']}\n"
                 readme_content += f"- **Time at Check**: {details['time at Check']}\n"
 
             readme_content += "#### News\n"
@@ -132,7 +259,7 @@ def write_readme(basePath, newCombinedData):
                 readme_content += f"![{ticker} Chart](./{img_path})\n"
             readme_content += "\n"  
 
-    with open(os.path.join(basePath, 'results', 'README.md'), 'w') as f:
+    with open(os.path.join(basePath, 'results', 'README_full.md'), 'w') as f:
         f.write(readme_content)
 
 def check_current_price_from_raw_selections(base_path, folder_name, json_file_name, output_file_name):
@@ -232,7 +359,7 @@ def create_combinedJson_addCurrentPrice_fromAllFolders():
                 details['current price at Check'] = s
                 #calculate the percentage of change
                 price_change = (s - current_price_in_data) / current_price_in_data    
-                #add/update the price change to the details
+                #add/update the price change to the sdetails
                 details['price_change'] = price_change
                 #add/update the date to the details
                 details['date of the selection'] = date.strftime('%m/%d/%Y')
@@ -247,23 +374,54 @@ def create_combinedJson_addCurrentPrice_fromAllFolders():
     file = os.path.join(basePath, 'results', 'combinedData.json')
     #want to overwrite the file, delete it first
     save_json(combinedData, file)
+    
+def add_current_price(file):
+    """Add the current price of the stocks to the combinedData_gpt.json file."""
+    data = read_json(file)
+    for entry in data['data']:
+        for ticker, details in entry.items():
+            print(f"Processing ticker: {ticker}")
+            x = cookFinancials(ticker)
+            current_price = x.get_current_price()
+            details['current price at Check'] = current_price
+            price_change = (current_price - float(details['current price'])) / float(details['current price'])
+            details['price_change'] = price_change
+            details['time at Check'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # Sort data based on price change
+    data['data'].sort(key=lambda x: list(x.values())[0]['price_change'], reverse=True)
+    save_json(data, file)
+    return data
 
 # Example usage
 if __name__ == "__main__":
     basePath = find_path()
 
-    # 2:00 am run
-    # combinedData = os.path.join(basePath, 'results', '2024-11-20/Technology_HealthCare_Finance_Energy.json')
-    # filteredData = os.path.join(basePath, 'results', 'filteredData_gpt.json')
-    # newCombinedData = merge_data(load_json(combinedData), load_json(filteredData))
-    # write_readme(basePath, newCombinedData)
-    
-    
-    # 1:00 pm run
-    create_combinedJson_addCurrentPrice_fromAllFolders()
-    combinedData = os.path.join(basePath, 'results', 'combinedData.json')
+    # # 2:00 am run
+    combinedData = os.path.join(basePath, 'results', '2024-12-03/Technology_HealthCare_Finance_Energy.json')
     filteredData = os.path.join(basePath, 'results', 'filteredData_gpt.json')
     newCombinedData = merge_data(load_json(combinedData), load_json(filteredData))
     write_readme(basePath, newCombinedData)
+    
+    ## moring before 6:30 am run to generate the report into readme markdown file
+    
+    
+    
+    # 1:00 pm run
+    # create_combinedJson_addCurrentPrice_fromAllFolders()
+    # combinedData = os.path.join(basePath, 'results', 'combinedData_gpt.json')
+    # filteredData = os.path.join(basePath, 'results', 'filteredData_gpt.json')
+    # newCombinedData = merge_data(load_json(combinedData), load_json(filteredData))
+    # write_readme(basePath, newCombinedData)
+    # write_html(basePath, newCombinedData)
+    
+    # add current price in combinedData_gpt.json
+    # combinedData_file = os.path.join(basePath, 'results', 'combinedData_gpt.json')
+    # data = add_current_price(combinedData_file)
+    # write_readme(basePath, data)
+    
+    
+    
+    
+    
     
     

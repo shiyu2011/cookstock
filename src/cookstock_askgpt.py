@@ -305,9 +305,10 @@ class CookStockAskGPT:
                                 "time": timeStr,
                                 "url": news_item['url']}
             prompt = (
-                f"Analyze the structured content below and write a concise note (within 20 words). "
-                f"First, state if the news is timely and related to the stock {ticker}. "
-                f"Second, specify if it has a strong positive, positive, neutral, or negative impact on the stock price. "
+                f"Analyze the structured data, including technical factors and news, to write a concise note (max 20 words): "
+                f"1. Indicate if the news is timely and related to stock {ticker}. "
+                f"2. Specify the impact level on the stock price (-1: negative, 0: neutral, 1: positive, 2: strong positive). "
+                f"3. Provide a brief reason for the impact. "
                 f"Content: {combined_content}"
             )
             review = self._ask_gpt(prompt=prompt)
@@ -374,7 +375,7 @@ class CookStockAskGPTBatch:
                 
 
         
-def only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_json):
+def only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_md):
     # Load data from JSON file
     with open(input_json, 'r') as f:
         data = js.load(f)
@@ -401,10 +402,7 @@ def only_select_entries_with_news_review_askGPT(input_json, output_json, out_rev
     # Save filtered data to a new JSON file
     
     save_json(output_json, {"data": filtered_data})
-    
-    save_json(out_review_json, {"data": recommendations})
-
-    print(f"Filtered data saved to {output_json}")
+    open(out_review_md, 'w').write(recommendations)
             
 def load_json(filepath):
     with open(filepath, "r") as f:
@@ -457,7 +455,7 @@ if __name__ == "__main__":
     analyzer = CookStockAskGPT()
 
     # Single ticker analysis
-    single_result = analyzer.analyze_single_ticker("AAPL")
+    # single_result = analyzer.analyze_single_ticker("AAPL")
     # print(single_result)
 
     # # Batch analysis
@@ -471,6 +469,6 @@ if __name__ == "__main__":
     # analyzerBatch.only_select_entries_with_news_review_askGPT()
     input_json = os.path.join(find_path(), "results", "combinedData_gpt.json")
     output_json = os.path.join(find_path(), "results", "filteredData_gpt.json")
-    out_review_json = os.path.join(find_path(), "results", "recommendations.json")
-    only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_json)
+    out_review_md = os.path.join(find_path(), "results", "recommendations.md")
+    only_select_entries_with_news_review_askGPT(input_json, output_json, out_review_md)
     

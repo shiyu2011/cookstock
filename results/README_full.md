@@ -1,376 +1,365 @@
-# Daily Stock Analysis: 12_10_2024
+# Daily Stock Analysis: 12_12_2024
 
 This report provides an overview of selected stocks with volatility contraction patterns and analysis details.
 
 ## Stocks Overview
 
-### AI
-- **Current Price during run time**: 41.68000030517578
-- **Support Price**: 36.189998626708984
-- **Pressure Price**: 37.86000061035156
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### C3.ai Earnings: Revenue Surges But Profitability Delayed (9 hours ago)
-Timely news on stock AI; impact level 0: neutral due to strong revenue but delayed profitability.
-
-##### C3.ai, Inc. (AI) Q2 2025 Earnings Call Transcript (18 hours ago)
-Timely AI news; impact level 1 (positive) due to anticipated growth insights from Q2 earnings call.
-
-##### C3.ai, Inc. 2025 Q2 - Results - Earnings Call Presentation (18 hours ago)
-Timely news related to stock AI; impact level 1 (positive) due to earnings call presentation suggesting growth potential.
-
-##### C3.ai lifts annual forecast on strong demand for enterprise AI software (21 hours ago)
-Timely AI-related news; impact level: 2. Strong demand led to a raised revenue forecast, boosting investor confidence.
-
-##### C3 AI : Announces Fiscal Second Quarter 2025 Financial Results Form 8 K (21 hours ago)
-Timely news related to stock AI; impact level 2 (strong positive) due to 29% revenue growth and raised guidance.
-
-##### C3 AI Announces Fiscal Second Quarter 2025 Financial Results (21 hours ago)
-Timely AI news; impact level: 2 (strong positive). Revenue up 29% YoY and raised guidance enhance growth outlook.
-
-##### Columbia Seligman Global Technology Fund Q3 2024 Commentary (1 days ago)
-Timely news on AI; impact level 0 (neutral). Commentary provides performance data, lacking direct relevance to stock price movement.
-
-![AI Chart](.//2024-12-10/AI.jpg)
-
-### AOSL
-- **Current Price during run time**: 48.689998626708984
-- **Support Price**: 47.22999954223633
-- **Pressure Price**: 49.15999984741211
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Alpha and Omega Semiconductor Unveils World’s First NVIDIA OVR4-22 Multiphase PWM Controller Powering AI Server and Graphic Cards (5 hours ago)
-Timely news for AOSL, impact level 2: strong positive. Innovative product announcement positions AOSL favorably in the growing AI market.
-
-![AOSL Chart](.//2024-12-10/AOSL.jpg)
-
-### ARQQ
-- **Current Price during run time**: 23.450000762939453
-- **Support Price**: 22.389999389648438
-- **Pressure Price**: 26.959999084472656
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Arqit Quantum : Notice and Proxy Materials for the 2024 Extraordinary General Meeting of Arqit Quantum Inc Form 6 K (22 hours ago)
-Timely news for ARQQ; impact level 0 (neutral). Proxy materials do not indicate immediate stock price changes.
-
-![ARQQ Chart](.//2024-12-10/ARQQ.jpg)
-
-### ASAN
-- **Current Price during run time**: 24.8700008392334
-- **Support Price**: 15.119999885559082
-- **Pressure Price**: 15.739999771118164
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Asana: Stickiness Of AI Studio Could Lead The Turnaround - Initiating With Buy (19 hours ago)
-Timely news on ASAN; impact level 1. AI Studio's potential boosts competitive position, attracting investor interest.
-
-##### Asana to Present at Upcoming Investor Event (21 hours ago)
-Timely news related to stock ASAN; impact level: 1. Positive investor engagement may boost stock interest.
-
-![ASAN Chart](.//2024-12-10/ASAN.jpg)
-
-### ATOM
-- **Current Price during run time**: 7.570000171661377
-- **Support Price**: 5.840000152587891
-- **Pressure Price**: 6.699999809265137
+### AIP
+- **Current Price during run time**: 9.989999771118164
+- **Support Price**: 8.8100004196167
+- **Pressure Price**: 9.220000267028809
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![ATOM Chart](.//2024-12-10/ATOM.jpg)
+![AIP Chart](.//2024-12-12/AIP.jpg)
+
+### ALKT
+- **Current Price during run time**: 39.7599983215332
+- **Support Price**: 37.880001068115234
+- **Pressure Price**: 40.400001525878906
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ALKT Chart](.//2024-12-12/ALKT.jpg)
+
+### AOSL
+- **Current Price during run time**: 48.880001068115234
+- **Support Price**: 46.7599983215332
+- **Pressure Price**: 49.15999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Alpha and Omega Semiconductor: AI Gains Meet Overheated Valuations (1 days ago)
+Timely news related to AOSL. Impact level: -1. Overheated valuations may lead to a price correction despite AI hype.
+
+![AOSL Chart](.//2024-12-12/AOSL.jpg)
+
+### ASAN
+- **Current Price during run time**: 24.31999969482422
+- **Support Price**: 23.420000076293945
+- **Pressure Price**: 24.8700008392334
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ASAN Chart](.//2024-12-12/ASAN.jpg)
+
+### ATOM
+- **Current Price during run time**: 7.340000152587891
+- **Support Price**: 7.170000076293945
+- **Pressure Price**: 7.570000171661377
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ATOM Chart](.//2024-12-12/ATOM.jpg)
 
 ### AZPN
-- **Current Price during run time**: 252.89999389648438
+- **Current Price during run time**: 253.16000366210938
 - **Support Price**: 248.33999633789062
 - **Pressure Price**: 250.94000244140625
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### AspenTech Helps Energy Transmission Company Deliver 99.99% Power Reliability to Customers | Press Release (1 days ago)
+Timely news positively impacts AZPN stock (1) due to AspenTech's successful implementation of solutions enhancing energy reliability.
 
-![AZPN Chart](.//2024-12-10/AZPN.jpg)
-
-### BBAI
-- **Current Price during run time**: 3.6600000858306885
-- **Support Price**: 2.119999885559082
-- **Pressure Price**: 2.450000047683716
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
-
-![BBAI Chart](.//2024-12-10/BBAI.jpg)
+![AZPN Chart](.//2024-12-12/AZPN.jpg)
 
 ### BKSY
-- **Current Price during run time**: 10.989999771118164
+- **Current Price during run time**: 11.109999656677246
 - **Support Price**: 10.270000457763672
 - **Pressure Price**: 11.710000038146973
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Wall Street Analysts Believe BlackSky Technology (BKSY) Could Rally 47.4%: Here's is How to Trade (23 hours ago)
-Timely news for BKSY; impact level 1 (positive) due to 47.4% upside potential from analysts’ price targets.
+No news available
 
-![BKSY Chart](.//2024-12-10/BKSY.jpg)
+![BKSY Chart](.//2024-12-12/BKSY.jpg)
 
-### CANG
-- **Current Price during run time**: 4.670000076293945
-- **Support Price**: 4.050000190734863
-- **Pressure Price**: 4.699999809265137
+### CAN
+- **Current Price during run time**: 2.6600000858306885
+- **Support Price**: 2.5299999713897705
+- **Pressure Price**: 3.0399999618530273
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![CANG Chart](.//2024-12-10/CANG.jpg)
+![CAN Chart](.//2024-12-12/CAN.jpg)
 
-### DSP
-- **Current Price during run time**: 20.639999389648438
-- **Support Price**: 18.239999771118164
-- **Pressure Price**: 19.020000457763672
+### CEVA
+- **Current Price during run time**: 32.38999938964844
+- **Support Price**: 29.149999618530273
+- **Pressure Price**: 30.440000534057617
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![DSP Chart](.//2024-12-10/DSP.jpg)
+![CEVA Chart](.//2024-12-12/CEVA.jpg)
 
-### GDYN
-- **Current Price during run time**: 19.170000076293945
-- **Support Price**: 18.299999237060547
-- **Pressure Price**: 19.219999313354492
+### CRDO
+- **Current Price during run time**: 69.45999908447266
+- **Support Price**: 66.26000213623047
+- **Pressure Price**: 74.2300033569336
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![GDYN Chart](.//2024-12-10/GDYN.jpg)
+![CRDO Chart](.//2024-12-12/CRDO.jpg)
 
-### GILT
-- **Current Price during run time**: 6.170000076293945
-- **Support Price**: 6.090000152587891
-- **Pressure Price**: 6.130000114440918
+### CW
+- **Current Price during run time**: 371.75
+- **Support Price**: 366.6000061035156
+- **Pressure Price**: 380.19000244140625
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![GILT Chart](.//2024-12-10/GILT.jpg)
+![CW Chart](.//2024-12-12/CW.jpg)
 
-### KLTR
-- **Current Price during run time**: 2.3399999141693115
-- **Support Price**: 2.240000009536743
-- **Pressure Price**: 2.380000114440918
+### KC
+- **Current Price during run time**: 9.260000228881836
+- **Support Price**: 5.96999979019165
+- **Pressure Price**: 7.210000038146973
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![KLTR Chart](.//2024-12-10/KLTR.jpg)
+![KC Chart](.//2024-12-12/KC.jpg)
 
-### NIXX
-- **Current Price during run time**: 4.710000038146973
-- **Support Price**: 2.4800000190734863
-- **Pressure Price**: 2.9100000858306885
+### KULR
+- **Current Price during run time**: 1.2200000286102295
+- **Support Price**: 1.1799999475479126
+- **Pressure Price**: 1.3200000524520874
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### The Marriage of Energy and Artificial Intelligence- It's a Win- Win (1 days ago)
+Timely news for KULR, impact level 1; highlights synergy between AI and energy, boosting investor interest.
+
+![KULR Chart](.//2024-12-12/KULR.jpg)
+
+### MOMO
+- **Current Price during run time**: 7.699999809265137
+- **Support Price**: 6.619999885559082
+- **Pressure Price**: 6.78000020980835
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Hello : Share Incentive Plan Form 6 K (1 days ago)
+Timely news for MOMO, impact level: 1 (positive); reason: Share incentive plans can enhance employee motivation and retention, potentially benefiting stock performance.
+
+![MOMO Chart](.//2024-12-12/MOMO.jpg)
+
+### MTLS
+- **Current Price during run time**: 8.130000114440918
+- **Support Price**: 8.0600004196167
+- **Pressure Price**: 8.300000190734863
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![NIXX Chart](.//2024-12-10/NIXX.jpg)
+![MTLS Chart](.//2024-12-12/MTLS.jpg)
+
+### NBIS
+- **Current Price during run time**: 32.779998779296875
+- **Support Price**: 31.959999084472656
+- **Pressure Price**: 36.77000045776367
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NBIS Chart](.//2024-12-12/NBIS.jpg)
 
 ### OB
-- **Current Price during run time**: 6.329999923706055
+- **Current Price during run time**: 6.945000171661377
 - **Support Price**: 6.190000057220459
 - **Pressure Price**: 6.329999923706055
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Fast-paced Momentum Stock Outbrain (OB) Is Still Trading at a Bargain (1 days ago)
-Timely news for OB, impact level 1 (positive) due to strong momentum and reasonable pricing attracting investors.
+No news available
 
-![OB Chart](.//2024-12-10/OB.jpg)
+![OB Chart](.//2024-12-12/OB.jpg)
 
-### POET
-- **Current Price during run time**: 5.190000057220459
-- **Support Price**: 4.809999942779541
-- **Pressure Price**: 5.409999847412109
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### POET Technologies Inc. (POET) Among the Best AI Stocks to Buy According to Reddit (23 hours ago)
-Timely news related to POET; impact level 1 (positive) due to Reddit endorsement boosting investor interest.
-
-##### POET Technologies: High Risk, High Reward In The AI Data Center Revolution (1 days ago)
-Timely news on POET; impact level: 1 (positive). Increased funding ensures operational continuity, attracting risk-tolerant investors.
-
-![POET Chart](.//2024-12-10/POET.jpg)
-
-### PRCH
-- **Current Price during run time**: 5.150000095367432
-- **Support Price**: 4.760000228881836
-- **Pressure Price**: 5.610000133514404
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Porch Group Reiterates $32m Q4’24 Adj EBITDA(1) Guidance and Shares Investor Day Highlights (1 days ago)
-Timely news positively impacts PRCH (+1); strong EBITDA guidance suggests growth potential and investor confidence.
-
-![PRCH Chart](.//2024-12-10/PRCH.jpg)
-
-### PSTG
-- **Current Price during run time**: 63.810001373291016
-- **Support Price**: 62.560001373291016
-- **Pressure Price**: 65.3499984741211
+### OLO
+- **Current Price during run time**: 7.710000038146973
+- **Support Price**: 6.420000076293945
+- **Pressure Price**: 6.900000095367432
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![PSTG Chart](.//2024-12-10/PSTG.jpg)
+![OLO Chart](.//2024-12-12/OLO.jpg)
+
+### OSIS
+- **Current Price during run time**: 186.99000549316406
+- **Support Price**: 150.6999969482422
+- **Pressure Price**: 153.75999450683594
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![OSIS Chart](.//2024-12-12/OSIS.jpg)
+
+### PLTR
+- **Current Price during run time**: 72.51000213623047
+- **Support Price**: 70.88999938964844
+- **Pressure Price**: 76.33999633789062
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Disney: Give Me Hope, Moana (19 hours ago)
+1. Timely news related to PLTR: Yes.  
+2. Impact level on stock price: 0 (neutral).  
+3. Reason: Disney's news is unrelated to PLTR's business or performance.
+
+##### Tesla is this analyst’s top 2025 call – thanks to Elon Musk (1 days ago)
+Timely news on PLTR; impact level 1 (positive) due to analyst optimism about AI sector growth benefiting Palantir.
+
+##### Palantir Eyeing Bigger Defense Role. But Software Powerhouse Faces Challenges. (1 days ago)
+Timely news on PLTR suggests a positive impact (1) due to growth potential in defense tech and AI advancements.
+
+##### Palantir’s Inaugural Warp Speed Cohort to Power Manufacturing and Production Capabilities Through Advanced AI & Technology (1 days ago)
+Timely news related to PLTR. Impact level: 1 (positive). Enhances Palantir's position in manufacturing AI, boosting investor sentiment.
+
+![PLTR Chart](.//2024-12-12/PLTR.jpg)
 
 ### RBRK
-- **Current Price during run time**: 69.79000091552734
+- **Current Price during run time**: 70.41999816894531
 - **Support Price**: 49.43000030517578
 - **Pressure Price**: 51.04999923706055
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Rubrik, Inc. (RBRK): A Bull Case Theory (14 hours ago)
-Timely news on RBRK; impact level 1 (positive) due to bullish sentiment from wallstreetbets, highlighting investment potential.
+No news available
 
-![RBRK Chart](.//2024-12-10/RBRK.jpg)
+![RBRK Chart](.//2024-12-12/RBRK.jpg)
 
 ### RDDT
-- **Current Price during run time**: 167.1699981689453
-- **Support Price**: 135.61000061035156
-- **Pressure Price**: 158.02000427246094
+- **Current Price during run time**: 165.9199981689453
+- **Support Price**: 155.92999267578125
+- **Pressure Price**: 167.1699981689453
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Reddit’s (RDDT) AI Strategy: Launching Chatbot and Securing $203 Million in Licensing Deals (16 hours ago)
-Timely news for RDDT; impact level 2 (strong positive) due to significant AI advancements and capital influx enhancing growth prospects.
+##### Wells Fargo Initiates Coverage of Reddit (RDDT) with Overweight Recommendation (13 hours ago)
+Timely news for RDDT; impact level: 1 (positive). Wells Fargo's overweight recommendation suggests strong growth potential for the stock.
 
-##### Stocks Finish Near Day's Lows Amid Nvidia's Bad Day; Amazon Streak Ends As Hershey Sweetens (Live Coverage) (16 hours ago)
-1. Timely and related to stock RDDT: Yes  
-2. Impact level on stock price: 0 (neutral)  
-3. Reason for impact: General market decline; no specific news affecting RDDT directly.
+![RDDT Chart](.//2024-12-12/RDDT.jpg)
 
-##### Stocks Near Day's Lows As Nvidia Has Bad Day; Amazon Streak Threatened, Drug Name Plummets (Live Coverage) (17 hours ago)
-1. The news is timely and somewhat related to stock RDDT.  
-2. Impact level: 0 (neutral).  
-3. Broader market decline affects sentiment, but no direct news on RDDT.
-
-##### Reddit Stock Hits Record High After Upgrade From Morgan Stanley on Its Growth Potential (17 hours ago)
-Timely news for RDDT. Impact level: 2. Strong upgrade boosts confidence in growth potential, driving record high share price.
-
-##### Reddit Stock Is on the Rise. Analysts Expect ‘Outsized Returns.’ (18 hours ago)
-Timely news for RDDT; impact level 2. Strong upgrade by Morgan Stanley predicts significant growth in user engagement and ad revenue.
-
-##### Reddit Launches AI-Powered Feature to Enhance Community Engagement; RDDT Rises (20 hours ago)
-Timely news for RDDT; impact level 1 (positive) due to enhanced community engagement potentially driving stock interest.
-
-##### Why Reddit (RDDT) Stock Is Trading Up Today (20 hours ago)
-Timely news on RDDT; impact level 2 (strong positive) due to upgrade and strong growth projections from Morgan Stanley.
-
-##### Reddit's Growth 'Still Early' After 200% Post-IPO Run, Analyst Says (20 hours ago)
-Timely news for RDDT, impact level 1 (positive); bullish analyst upgrade supports continued growth momentum post-IPO.
-
-##### Reddit Shares Skyrocket: AI-Powered Reddit Answers Revolutionizes User Experience (21 hours ago)
-Timely news for RDDT; impact level 2: strong positive. AI enhancement boosts user engagement and investor enthusiasm.
-
-##### Reddit Has 'Multiple Levers' to Drive Growth, Morgan Stanley Says (21 hours ago)
-Timely news about RDDT; impact level +1. Strong growth potential highlighted by Morgan Stanley boosts investor sentiment.
-
-##### Tesla, Reddit, eBay: Top analyst calls (21 hours ago)
-Timely news related to RDDT. Impact level: 2 (strong positive). Upgrade and price target nearly triple boost stock outlook significantly.
-
-##### Reddit tests AI-powered feature to answer user queries (22 hours ago)
-Timely news for RDDT indicates a 1 (positive) impact due to enhanced competitiveness with AI features.
-
-##### Tesla Fever Hits Reddit: Cybertruck and Tech Breakthroughs Ignite Investor Excitement (22 hours ago)
-Timely news related to RDDT; impact level 1: positive due to rising investor excitement and interest from social media.
-
-##### POET Technologies Inc. (POET) Among the Best AI Stocks to Buy According to Reddit (23 hours ago)
-Timely news related to RDDT; impact level: 0, neutral. Mention of POET does not directly affect RDDT's stock price.
-
-##### Morgan Stanley upgrades Reddit, forecasts strong revenue growth (1 days ago)
-Timely news positively impacts RDDT stock (+1) due to Morgan Stanley's upgrade forecasted strong revenue growth.
-
-##### Reddit to Launch AI-Powered Chatbot to Ward Off Search Engines (1 days ago)
-Timely news for RDDT. Impact level: 1 (positive). AI chatbot may boost user engagement and site traffic.
-
-##### Reddit tests a conversational AI search tool (1 days ago)
-Timely news for RDDT. Impact level: 1 (positive); enhances Reddit's competitive edge in AI, potentially boosting user engagement and revenue.
-
-##### Reddit Launches ‘Reddit Answers’ AI Overviews (1 days ago)
-Timely news for RDDT; impact level: 1 (positive). AI integration may attract more users and engagement on the platform.
-
-##### Beat the Market the Zacks Way: Oracle, Freshpet, Carvana in Focus (1 days ago)
-Timely news for RDDT; impact level 0 (neutral) due to general performance insights without specific mention or implication for RDDT.
-
-##### Morgan Stanley Upgrades Reddit (RDDT) (1 days ago)
-Timely news for RDDT; impact level 1 (positive) due to Morgan Stanley's upgrade likely boosting investor confidence.
-
-##### Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Super Micro Computer, Palantir Technologies to Advance (1 days ago)
-Timely news related to RDDT; impact level 1. Positive sentiment from Wallstreetbets may boost RDDT's attractiveness among investors.
-
-##### Late to Party, Morgan Stanley Analyst Jumps on Reddit Bandwagon (1 days ago)
-Timely news for RDDT, impact level 1 (positive); analyst's endorsement may attract investor interest and drive stock price up.
-
-![RDDT Chart](.//2024-12-10/RDDT.jpg)
-
-### UPLD
-- **Current Price during run time**: 4.889999866485596
-- **Support Price**: 3.6700000762939453
-- **Pressure Price**: 3.869999885559082
+### RNG
+- **Current Price during run time**: 41.81999969482422
+- **Support Price**: 37.04999923706055
+- **Pressure Price**: 38.9900016784668
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![UPLD Chart](.//2024-12-10/UPLD.jpg)
+![RNG Chart](.//2024-12-12/RNG.jpg)
 
-### VNET
-- **Current Price during run time**: 4.230000019073486
-- **Support Price**: 3.950000047683716
-- **Pressure Price**: 4.300000190734863
+### RUM
+- **Current Price during run time**: 8.135000228881836
+- **Support Price**: 8.130000114440918
+- **Pressure Price**: 8.40999984741211
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![VNET Chart](.//2024-12-10/VNET.jpg)
+![RUM Chart](.//2024-12-12/RUM.jpg)
+
+### SITM
+- **Current Price during run time**: 261.0299987792969
+- **Support Price**: 193.5800018310547
+- **Pressure Price**: 225.50999450683594
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SITM Chart](.//2024-12-12/SITM.jpg)
+
+### SMTC
+- **Current Price during run time**: 64.11000061035156
+- **Support Price**: 62.900001525878906
+- **Pressure Price**: 69.0999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SMTC Chart](.//2024-12-12/SMTC.jpg)
+
+### SMWB
+- **Current Price during run time**: 13.369999885559082
+- **Support Price**: 12.180000305175781
+- **Pressure Price**: 13.0600004196167
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Goldman Sachs Initiates Coverage of Similarweb (SMWB) with Buy Recommendation (1 days ago)
+Timely news for SMWB; impact level: 1 (positive) due to Goldman Sachs' buy recommendation boosting investor confidence.
+
+![SMWB Chart](.//2024-12-12/SMWB.jpg)
+
+### TRUE
+- **Current Price during run time**: 4.369999885559082
+- **Support Price**: 4.159999847412109
+- **Pressure Price**: 4.570000171661377
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![TRUE Chart](.//2024-12-12/TRUE.jpg)
 
 ### VUZI
-- **Current Price during run time**: 2.7300000190734863
+- **Current Price during run time**: 3.1600000858306885
 - **Support Price**: 2.4600000381469727
 - **Pressure Price**: 2.630000114440918
 - **Good Pivot**: True
@@ -379,294 +368,319 @@ No news available
 #### News
 No news available
 
-![VUZI Chart](.//2024-12-10/VUZI.jpg)
+![VUZI Chart](.//2024-12-12/VUZI.jpg)
+
+### WAY
+- **Current Price during run time**: 34.02000045776367
+- **Support Price**: 29.770000457763672
+- **Pressure Price**: 31.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![WAY Chart](.//2024-12-12/WAY.jpg)
 
 ### WEAV
-- **Current Price during run time**: 14.789999961853027
+- **Current Price during run time**: 15.399999618530273
 - **Support Price**: 13.670000076293945
 - **Pressure Price**: 14.09000015258789
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Weave Wins 2024 Top Workplaces Culture Excellence Awards (23 hours ago)
-Timely news for WEAV; impact level: 1 (positive). Recognition boosts company reputation, potentially attracting investors and enhancing employee morale.
-
-![WEAV Chart](.//2024-12-10/WEAV.jpg)
-
-### YMM
-- **Current Price during run time**: 12.279999732971191
-- **Support Price**: 9.369999885559082
-- **Pressure Price**: 9.84000015258789
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
 No news available
 
-![YMM Chart](.//2024-12-10/YMM.jpg)
+![WEAV Chart](.//2024-12-12/WEAV.jpg)
 
 ### ANGO
-- **Current Price during run time**: 8.630000114440918
+- **Current Price during run time**: 9.109999656677246
 - **Support Price**: 7.0
 - **Pressure Price**: 7.139999866485596
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### AngioDynamics Receives FDA Clearance for the NanoKnife System for Prostate Tissue Ablation (6 hours ago)
-Timely news for ANGO; impact level: 2 (strong positive). FDA clearance enhances product portfolio, potentially increasing revenue and market presence.
+No news available
 
-##### NanoKnife gains FDA clearance for prostate tissue ablation (20 hours ago)
-Timely news related to ANGO; impact level 1: positive due to FDA clearance boosting investor confidence and share price.
+![ANGO Chart](.//2024-12-12/ANGO.jpg)
 
-##### AngioDynamics Receives FDA Clearance for The NanoKnife® System for Prostate Tissue Ablation (1 days ago)
-Timely news for ANGO; impact level: 2 (strong positive); FDA clearance boosts product potential and market confidence.
-
-##### AngioDynamics Shares at 52-Week High After FDA Clears NanoKnife (1 days ago)
-Timely news related to ANGO. Impact level: 2 (strong positive). FDA clearance for NanoKnife boosts investor confidence, driving share price to 52-week high.
-
-![ANGO Chart](.//2024-12-10/ANGO.jpg)
-
-### ATYR
-- **Current Price during run time**: 3.5299999713897705
-- **Support Price**: 3.2699999809265137
-- **Pressure Price**: 3.559999942779541
+### CKPT
+- **Current Price during run time**: 3.9800000190734863
+- **Support Price**: 3.930000066757202
+- **Pressure Price**: 4.389999866485596
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### ATyr Pharma Announces Third Positive DSMB Review for Efzofitimod in Phase 3 EFZO-FIT™ Study in Pulmonary Sarcoidosis (6 hours ago)
-Timely news for ATYR; impact level 2: strong positive due to favorable DSMB review in Phase 3 study.
+No news available
 
-##### aTyr Pharma to Present Preclinical Research Demonstrating Anti-Fibrotic Effects of ATYR0101 in Lung and Kidney Fibrosis at Keystone Symposia on Fibrosis (1 days ago)
-Timely news for ATYR, impact level 2: strong positive; highlights promising anti-fibrotic research, enhancing investor confidence.
-
-![ATYR Chart](.//2024-12-10/ATYR.jpg)
-
-### AVXL
-- **Current Price during run time**: 8.300000190734863
-- **Support Price**: 7.599999904632568
-- **Pressure Price**: 9.460000038146973
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Anavex Life Sciences to Report New Long-Term Oral Blarcamesine Phase IIb/III Alzheimer’s Disease Data at J.P. Morgan 2025 Healthcare Conference (1 days ago)
-Timely news for AVXL; impact level 1 (positive) due to anticipated new data potentially boosting investor confidence.
-
-![AVXL Chart](.//2024-12-10/AVXL.jpg)
-
-### BGNE
-- **Current Price during run time**: 207.6199951171875
-- **Support Price**: 199.08999633789062
-- **Pressure Price**: 215.0
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### BeiGene Advances Leadership in CLL at ASH 2024 with New Data From Its Hematology Franchise Including BRUKINSA® and Novel Pipeline Assets (12 hours ago)
-Timely news on BGNE; impact level 1 (positive) due to favorable clinical data enhancing market position in CLL.
-
-![BGNE Chart](.//2024-12-10/BGNE.jpg)
-
-### BTI
-- **Current Price during run time**: 37.86000061035156
-- **Support Price**: 37.029998779296875
-- **Pressure Price**: 37.939998626708984
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Favourable Signals For British American Tobacco: Numerous Insiders Acquired Stock (1 days ago)
-Timely insider buying signals for BTI; impact: 1 (positive). Indicates insider confidence, suggesting potential stock price appreciation.
-
-##### Altria: For Dividend Investors Only (1 days ago)
-Timely news related to stock BTI; impact level 0: neutral. It's focused on Altria (MO), not BTI.
-
-![BTI Chart](.//2024-12-10/BTI.jpg)
+![CKPT Chart](.//2024-12-12/CKPT.jpg)
 
 ### CTLT
-- **Current Price during run time**: 62.369998931884766
+- **Current Price during run time**: 63.2400016784668
 - **Support Price**: 58.779998779296875
 - **Pressure Price**: 59.95000076293945
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Novo Nordisk Just Got One Step Closer to Resolving Wegovy Supply Issue (1 days ago)
-Timely news related to CTLT; impact level 0 (neutral) as it pertains more to Novo Nordisk than to Catalent.
+No news available
 
-##### Novo Holdings’ acquisition of Catalent gains EC approval (1 days ago)
-CTLT news is timely; impact level: 1. Acquisition approval boosts investor confidence in Catalent's future prospects.
+![CTLT Chart](.//2024-12-12/CTLT.jpg)
 
-##### Catalent and Novo Holdings Receive European Commission Unconditional Approval for Pending Transaction (1 days ago)
-Timely news for CTLT; impact level 2 (strong positive) due to approved transaction enhancing growth and strategic positioning.
-
-##### The European Commission approves the acquisition of Catalent by Novo Holdings and the related acquisition by Novo Nordisk of three manufacturing sites from Novo Holdings (1 days ago)
-Timely news for CTLT; impact level 1 (positive) due to acquisition approval likely enhancing growth prospects.
-
-![CTLT Chart](.//2024-12-10/CTLT.jpg)
-
-### ELDN
-- **Current Price during run time**: 4.849999904632568
-- **Support Price**: 4.360000133514404
-- **Pressure Price**: 4.760000228881836
+### IFRX
+- **Current Price during run time**: 2.509999990463257
+- **Support Price**: 2.5
+- **Pressure Price**: 2.619999885559082
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![ELDN Chart](.//2024-12-10/ELDN.jpg)
+![IFRX Chart](.//2024-12-12/IFRX.jpg)
 
-### GLUE
-- **Current Price during run time**: 10.199999809265137
-- **Support Price**: 8.829999923706055
-- **Pressure Price**: 10.359999656677246
+### KROS
+- **Current Price during run time**: 68.6500015258789
+- **Support Price**: 66.30999755859375
+- **Pressure Price**: 70.0
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Keros Therapeutics : Announces Update on the Phase 2 TROPOS Trial Form 8 K (7 hours ago)
+Timely news for KROS; impact level 1 (positive). Phase 2 trial update may boost investor confidence.
 
-![GLUE Chart](.//2024-12-10/GLUE.jpg)
+##### Keros Therapeutics Announces Update on the Phase 2 TROPOS Trial (7 hours ago)
+Timely news for KROS; impact level 1: positive. Trial updates often boost investor confidence.
 
-### GRAL
-- **Current Price during run time**: 21.81999969482422
-- **Support Price**: 21.6200008392334
-- **Pressure Price**: 22.40999984741211
+![KROS Chart](.//2024-12-12/KROS.jpg)
+
+### PDCO
+- **Current Price during run time**: 31.399999618530273
+- **Support Price**: 19.56999969482422
+- **Pressure Price**: 21.479999542236328
 - **Good Pivot**: True
 - **Deep Correction**: False
-- **Demand Dry**: True
+- **Demand Dry**: False
 #### News
-No news available
+##### Patterson Launches On $4.1 Billion Takeover. Can It Reinvigorate The Beleaguered Dental Space? (16 hours ago)
+Timely news related to PDCO; impact level 1 (positive) due to $4.1 billion takeover boosting investor confidence.
 
-![GRAL Chart](.//2024-12-10/GRAL.jpg)
+##### Patterson Companies Surges 34% as Patient Square Capital Plans $4.1B Private Buyout (18 hours ago)
+Timely news related to PDCO, impact level: 2 (strong positive). Acquisition offer represents significant premium, boosting investor confidence.
 
-### IKT
-- **Current Price during run time**: 3.2100000381469727
-- **Support Price**: 2.7300000190734863
-- **Pressure Price**: 2.9200000762939453
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
+##### $HAREHOLDER ALERT: The M&A Class Action Firm Investigates the Merger of Patterson Companies, Inc. - PDCO (20 hours ago)
+Timely news related to PDCO; impact level: -1 (negative). M&A investigation may raise concerns over management and shareholder value.
 
-![IKT Chart](.//2024-12-10/IKT.jpg)
+##### Patterson Companies Stock Soars Over 30% After $4.1 Billion Acquisition Deal (20 hours ago)
+Timely news for PDCO; impact level 2. Acquisition boosts shareholder value with significant premium, driving stock price up.
 
-### ITRM
-- **Current Price during run time**: 2.9100000858306885
-- **Support Price**: 1.3600000143051147
-- **Pressure Price**: 1.4800000190734863
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
+##### Patterson Companies Soars 35% on $4.1 Billion Buyout: A Game-Changer for Dental Stocks? (21 hours ago)
+Timely news for PDCO; impact level: 2 (strong positive) due to a significant buyout, boosting market confidence in dental stocks.
 
-![ITRM Chart](.//2024-12-10/ITRM.jpg)
+##### Dental Product Supplier Patterson Companies Goes Private In $4.1 Billion Deal (22 hours ago)
+Timely news related to PDCO; impact level 2. Acquisition offers 49% premium, boosting shareholder value significantly.
 
-### MYO
-- **Current Price during run time**: 6.309999942779541
-- **Support Price**: 5.349999904632568
-- **Pressure Price**: 5.619999885559082
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
+##### Patterson Cos. Stock Surges 34% on $4.1 Billion Acquisition by Patient Square (1 days ago)
+Timely news related to PDCO; impact level: 2 (strong positive) due to $4.1 billion acquisition by Patient Square.
 
-![MYO Chart](.//2024-12-10/MYO.jpg)
+##### Patterson Cos to Be Acquired by Patient Square in $4.1 Billion Deal (1 days ago)
+Timely news; impact level: 2 (strong positive). Acquisition by Patient Square indicates strong market confidence and potential for future growth.
+
+##### Update: Patterson Companies to Be Acquired by Patient Square Capital (1 days ago)
+Timely news for PDCO; impact level: 2 (strong positive). Acquisition suggests premium valuation and potential growth for shareholders.
+
+##### Dental products supplier Patterson to go private in $4.1 billion deal (1 days ago)
+Timely news related to stock PDCO indicates a strong positive impact (2) due to the lucrative buyout offer.
+
+##### Patterson Companies Announces Definitive Agreement to Be Acquired by Patient Square Capital for $31.35 Per Share in Cash (1 days ago)
+Timely news for PDCO; impact level 2 (strong positive) due to acquisition premium offering 49% above recent stock price.
+
+##### Patterson, a dental products distributor, agrees to $4.1B sale to healthcare investor (1 days ago)
+PDCO news is timely; impact level: 2. Sale enhances financial stability, attracting investor confidence amid profit decline.
+
+##### PDCO Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of Patterson Companies, Inc. Is Fair to Shareholders (1 days ago)
+Timely news for PDCO; impact level -1. Investigation raises concerns over fairness of sale, potentially unsettling investors.
+
+##### PATTERSON : ANNOUNCES DEFINITIVE AGREEMENT TO BE ACQUIRED BY PATIENT SQUARE CAPITAL FOR $31.35 PER SHARE IN CASH Form 8 K (1 days ago)
+Timely news for PDCO. Impact level: 2 (strong positive). Acquisition at $31.35 per share indicates significant value for shareholders.
+
+##### Shareholder Alert: Ademi LLP Investigates Whether Patterson Companies, Inc. Is Obtaining a Fair Price for Its Public Shareholders (1 days ago)
+Timely news, impact level -1; potential fiduciary duty breaches may harm investor confidence and stock price.
+
+##### Dental products maker Patterson to go private in $4.1 billion deal (1 days ago)
+Timely news related to PDCO; impact level: 2. Strong acquisition bid enhances value and market confidence.
+
+##### Patterson Companies to be acquired by Patient Square Capital in $4.1 billion deal (1 days ago)
+Timely news for PDCO. Impact: 2 (strong positive) due to $4.1 billion acquisition, enhancing shareholder value.
+
 
 ### PSTX
-- **Current Price during run time**: 9.4399995803833
+- **Current Price during run time**: 9.510000228881836
 - **Support Price**: 9.3100004196167
 - **Pressure Price**: 9.380000114440918
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Poseida Therapeutics Highlights Positive Interim Phase 1 Results for P-BCMA-ALLO1 and Preclinical Data for Dual CAR-T P-CD19CD20-ALLO1 at the 66th American Society of Hematology (ASH) Annual Meeting (21 hours ago)
-Timely news for PSTX, impact level 1: positive. Positive clinical results may boost investor confidence and stock price.
+No news available
 
-##### SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates PSTX, CCRN, PLL on Behalf of Shareholders (22 hours ago)
-Timely news for PSTX; impact level -1. Investigation may raise concerns about governance, potentially harming investor confidence and stock price.
+![PSTX Chart](.//2024-12-12/PSTX.jpg)
 
-![PSTX Chart](.//2024-12-10/PSTX.jpg)
-
-### SMLR
-- **Current Price during run time**: 62.119998931884766
-- **Support Price**: 58.54999923706055
-- **Pressure Price**: 63.630001068115234
+### QURE
+- **Current Price during run time**: 15.649999618530273
+- **Support Price**: 6.289999961853027
+- **Pressure Price**: 7.130000114440918
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Semler Scientific: Booking Some Profits After Bitcoin Strategy (8 hours ago)
-Timely news related to SMLR; impact level 1 (positive). The Bitcoin strategy suggests diversification and potential for capital appreciation.
+##### QURE Soars on FDA Alignment for Speedy Approval of Huntington's Drug (22 hours ago)
+QURE news is timely; impact level is 2. FDA alignment boosts stock prospects for Huntington's drug approval.
 
-![SMLR Chart](.//2024-12-10/SMLR.jpg)
+##### Biotech Stock Roundup: BIOA Down on Study Update, QURE, CRDF Gain on Study Data & More (22 hours ago)
+Timely news related to QURE; impact level 1 (positive) due to favorable study data boosting investor sentiment.
 
-### TARA
-- **Current Price during run time**: 6.670000076293945
-- **Support Price**: 2.5299999713897705
-- **Pressure Price**: 3.0399999618530273
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Protara Announces Pricing of $100 Million Public Offering (9 hours ago)
-Timely news for TARA; impact level: 0; neutral due to standard offering procedures, not indicative of immediate growth potential.
+![QURE Chart](.//2024-12-12/QURE.jpg)
 
-##### Protara Announces Proposed Public Offering (17 hours ago)
-TARA news is timely and neutral (0); public offering may dilute shares, impacting investor sentiment and stock price.
-
-![TARA Chart](.//2024-12-10/TARA.jpg)
-
-### ARCC
-- **Current Price during run time**: 22.270000457763672
-- **Support Price**: 22.0
-- **Pressure Price**: 22.020000457763672
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Ares Capital Corporation (ARCC) Is a Trending Stock: Facts to Know Before Betting on It (1 days ago)
-1. Timely and relevant news for ARCC.  
-2. Impact level: 1 (positive).  
-3. Increased attention from users suggests growing interest, potentially driving up stock price.
-
-![ARCC Chart](.//2024-12-10/ARCC.jpg)
-
-### CRESY
-- **Current Price during run time**: 13.680000305175781
-- **Support Price**: 9.010000228881836
-- **Pressure Price**: 9.710000038146973
+### RLX
+- **Current Price during run time**: 1.9900000095367432
+- **Support Price**: 1.809999942779541
+- **Pressure Price**: 1.9800000190734863
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![CRESY Chart](.//2024-12-10/CRESY.jpg)
+![RLX Chart](.//2024-12-12/RLX.jpg)
 
-### CURB
-- **Current Price during run time**: 24.34000015258789
-- **Support Price**: 23.799999237060547
-- **Pressure Price**: 24.43000030517578
+### APO
+- **Current Price during run time**: 178.61000061035156
+- **Support Price**: 172.33999633789062
+- **Pressure Price**: 175.63999938964844
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Is Apollo Global Management, Inc. (APO) Among the Best Aggressive Growth Stocks to Buy According to Hedge Funds? (1 days ago)
+Timely news related to APO; impact level: 1 (positive). Strong interest from hedge funds suggests growth potential for Apollo Global Management.
+
+![APO Chart](.//2024-12-12/APO.jpg)
+
+### BAP
+- **Current Price during run time**: 195.1699981689453
+- **Support Price**: 190.47999572753906
+- **Pressure Price**: 193.14999389648438
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![CURB Chart](.//2024-12-10/CURB.jpg)
+![BAP Chart](.//2024-12-12/BAP.jpg)
+
+### BLK
+- **Current Price during run time**: 1065.260009765625
+- **Support Price**: 1019.4500122070312
+- **Pressure Price**: 1036.4599609375
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### BlackRock: Moving Aggressively Into New Segments (21 hours ago)
+Timely news related to BLK; impact level: 1 (positive). Strategic acquisitions could enhance market position and growth potential.
+
+##### FS KKR Capital: Silences The Naysayers While Paying A 13% Yield (1 days ago)
+Timely news for BLK; impact level 0. Analysis of FSK stock does not directly influence BLK’s price.
+
+##### 2024 Midstream M&A Recap: Permian & Gas In Focus (1 days ago)
+News is timely and related to BLK. Impact level: 0 (neutral). M&A activity is relevant but not directly linked to BLK's core business.
+
+##### BlackRock's private markets push may not be over after 2024 buyout spree (1 days ago)
+Timely news for BLK. Impact level: 1 (positive). Continued expansion in private markets indicates growth potential and strong future prospects.
+
+![BLK Chart](.//2024-12-12/BLK.jpg)
+
+### BMTX
+- **Current Price during run time**: 4.800000190734863
+- **Support Price**: 4.71999979019165
+- **Pressure Price**: 4.789999961853027
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![BMTX Chart](.//2024-12-12/BMTX.jpg)
+
+### BTBT
+- **Current Price during run time**: 4.46999979019165
+- **Support Price**: 4.309999942779541
+- **Pressure Price**: 4.920000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![BTBT Chart](.//2024-12-12/BTBT.jpg)
+
+### BTDR
+- **Current Price during run time**: 19.93000030517578
+- **Support Price**: 18.899999618530273
+- **Pressure Price**: 21.010000228881836
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Bitdeer Technologies : At Market Issuance Sales Agreement Form 6 K (1 days ago)
+Timely news related to BTDR; impact level 0: neutral, as it discusses a sales agreement without immediate financial implications.
+
+![BTDR Chart](.//2024-12-12/BTDR.jpg)
+
+### CHY
+- **Current Price during run time**: 12.5600004196167
+- **Support Price**: 12.149999618530273
+- **Pressure Price**: 12.329999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![CHY Chart](.//2024-12-12/CHY.jpg)
+
+### DAVE
+- **Current Price during run time**: 88.66000366210938
+- **Support Price**: 84.02999877929688
+- **Pressure Price**: 98.68000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![DAVE Chart](.//2024-12-12/DAVE.jpg)
+
+### FSCO
+- **Current Price during run time**: 6.679999828338623
+- **Support Price**: 6.599999904632568
+- **Pressure Price**: 6.739999771118164
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![FSCO Chart](.//2024-12-12/FSCO.jpg)
 
 ### FTHY
-- **Current Price during run time**: 14.630000114440918
-- **Support Price**: 14.619999885559082
+- **Current Price during run time**: 14.710000038146973
+- **Support Price**: 14.59000015258789
 - **Pressure Price**: 14.890000343322754
 - **Good Pivot**: True
 - **Deep Correction**: False
@@ -674,58 +688,221 @@ No news available
 #### News
 No news available
 
-![FTHY Chart](.//2024-12-10/FTHY.jpg)
+![FTHY Chart](.//2024-12-12/FTHY.jpg)
 
-### STC
-- **Current Price during run time**: 77.18000030517578
-- **Support Price**: 74.87999725341797
-- **Pressure Price**: 76.37000274658203
+### HOOD
+- **Current Price during run time**: 37.84000015258789
+- **Support Price**: 37.36000061035156
+- **Pressure Price**: 41.66999816894531
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Robinhood's Meteoric Rise: Redefining Retail Investing (9 hours ago)
+Timely news on HOOD; impact level: 1 (positive). Expansion into crypto and new products elevate investor interest and engagement.
+
+##### Robinhood Markets, Inc. Reports November 2024 Operating Data (21 hours ago)
+Timely news for HOOD; impact level 1 (positive) due to increased funded customers indicating growth potential.
+
+![HOOD Chart](.//2024-12-12/HOOD.jpg)
+
+### IFS
+- **Current Price during run time**: 29.719999313354492
+- **Support Price**: 27.75
+- **Pressure Price**: 28.979999542236328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![STC Chart](.//2024-12-10/STC.jpg)
+![IFS Chart](.//2024-12-12/IFS.jpg)
+
+### KINS
+- **Current Price during run time**: 15.5600004196167
+- **Support Price**: 15.380000114440918
+- **Pressure Price**: 16.75
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![KINS Chart](.//2024-12-12/KINS.jpg)
+
+### KNSL
+- **Current Price during run time**: 511.8699951171875
+- **Support Price**: 503.0799865722656
+- **Pressure Price**: 524.219970703125
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![KNSL Chart](.//2024-12-12/KNSL.jpg)
+
+### ML
+- **Current Price during run time**: 87.18000030517578
+- **Support Price**: 77.01000213623047
+- **Pressure Price**: 91.69999694824219
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Needham Downgrades MoneyLion (ML) (13 hours ago)
+Timely downgrade news for ML; impact level -1 due to analyst's negative outlook affecting investor sentiment.
+
+##### Lake Street Downgrades MoneyLion (ML) (13 hours ago)
+Timely news for ML; impact level -1. Downgrade suggests reduced confidence, likely leading to a decrease in stock price.
+
+##### MoneyLion : Material Agreement Form 8 K (1 days ago)
+Timely news for ML, impact level 1; merger agreement indicates growth potential and investor confidence.
+
+![ML Chart](.//2024-12-12/ML.jpg)
+
+### MQY
+- **Current Price during run time**: 12.770000457763672
+- **Support Price**: 12.729999542236328
+- **Pressure Price**: 12.779999732971191
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MQY Chart](.//2024-12-12/MQY.jpg)
+
+### MUC
+- **Current Price during run time**: 11.399999618530273
+- **Support Price**: 11.260000228881836
+- **Pressure Price**: 11.350000381469727
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MUC Chart](.//2024-12-12/MUC.jpg)
+
+### OBK
+- **Current Price during run time**: 36.83000183105469
+- **Support Price**: 34.36000061035156
+- **Pressure Price**: 35.220001220703125
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![OBK Chart](.//2024-12-12/OBK.jpg)
+
+### PCN
+- **Current Price during run time**: 14.100000381469727
+- **Support Price**: 14.029999732971191
+- **Pressure Price**: 14.119999885559082
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PCN Chart](.//2024-12-12/PCN.jpg)
+
+### PRA
+- **Current Price during run time**: 16.760000228881836
+- **Support Price**: 16.68000030517578
+- **Pressure Price**: 17.229999542236328
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PRA Chart](.//2024-12-12/PRA.jpg)
+
+### QFIN
+- **Current Price during run time**: 38.18000030517578
+- **Support Price**: 38.06999969482422
+- **Pressure Price**: 38.939998626708984
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![QFIN Chart](.//2024-12-12/QFIN.jpg)
+
+### TPG
+- **Current Price during run time**: 70.45999908447266
+- **Support Price**: 67.66999816894531
+- **Pressure Price**: 71.29000091552734
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### TPG Co-Founder David Bonderman Dies at 82 (20 hours ago)
+Timely news impacts TPG stock -1; Bonderman's death may affect investor sentiment and leadership stability.
+
+##### TPG co-founder David Bonderman dies at age 82 (1 days ago)
+News is timely; Impact level: -1. Bonderman's death may create uncertainty and affect investor confidence.
+
+##### TPG : Remembering David Bonderman (1 days ago)
+Timely news for TPG; impact level 0: neutral due to a focus on remembrance, rather than business or financial implications.
+
+![TPG Chart](.//2024-12-12/TPG.jpg)
+
+### UCB
+- **Current Price during run time**: 34.0
+- **Support Price**: 33.540000915527344
+- **Pressure Price**: 34.68000030517578
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![UCB Chart](.//2024-12-12/UCB.jpg)
 
 ### VMO
 - **Current Price during run time**: 10.119999885559082
-- **Support Price**: 10.029999732971191
-- **Pressure Price**: 10.149999618530273
+- **Support Price**: 10.069999694824219
+- **Pressure Price**: 10.119999885559082
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![VMO Chart](.//2024-12-10/VMO.jpg)
+![VMO Chart](.//2024-12-12/VMO.jpg)
 
-### CRGY
-- **Current Price during run time**: 14.399999618530273
-- **Support Price**: 14.199999809265137
-- **Pressure Price**: 15.279999732971191
+### WTW
+- **Current Price during run time**: 309.8399963378906
+- **Support Price**: 307.6499938964844
+- **Pressure Price**: 332.5299987792969
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### Willis Towers Watson Public : U.S. commercial insurance rates show an aggregate increase of 6% (1 days ago)
+Timely news for WTW; impact level: 1 (positive). Increased insurance rates may boost revenue for WTW's services.
 
-![CRGY Chart](.//2024-12-10/CRGY.jpg)
+![WTW Chart](.//2024-12-12/WTW.jpg)
 
 ### GPRK
-- **Current Price during run time**: 11.239999771118164
-- **Support Price**: 10.850000381469727
-- **Pressure Price**: 11.220000267028809
+- **Current Price during run time**: 11.109999656677246
+- **Support Price**: 10.949999809265137
+- **Pressure Price**: 11.239999771118164
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![GPRK Chart](.//2024-12-10/GPRK.jpg)
+![GPRK Chart](.//2024-12-12/GPRK.jpg)
 
 ### PTLE
-- **Current Price during run time**: 7.619999885559082
+- **Current Price during run time**: 8.369999885559082
 - **Support Price**: 6.880000114440918
 - **Pressure Price**: 7.300000190734863
 - **Good Pivot**: True
@@ -734,10 +911,10 @@ No news available
 #### News
 No news available
 
-![PTLE Chart](.//2024-12-10/PTLE.jpg)
+![PTLE Chart](.//2024-12-12/PTLE.jpg)
 
 ### VIST
-- **Current Price during run time**: 57.439998626708984
+- **Current Price during run time**: 58.13999938964844
 - **Support Price**: 53.22999954223633
 - **Pressure Price**: 56.5099983215332
 - **Good Pivot**: True
@@ -746,5 +923,5 @@ No news available
 #### News
 No news available
 
-![VIST Chart](.//2024-12-10/VIST.jpg)
+![VIST Chart](.//2024-12-12/VIST.jpg)
 

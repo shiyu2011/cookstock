@@ -1,11 +1,11 @@
-# Daily Stock Analysis: 12_20_2024
+# Daily Stock Analysis: 12_23_2024
 
 This report provides an overview of selected stocks with volatility contraction patterns and analysis details.
 
 ## Stocks Overview
 
 ### AGYS
-- **Current Price during run time**: 134.86000061035156
+- **Current Price during run time**: 138.6699981689453
 - **Support Price**: 129.19000244140625
 - **Pressure Price**: 141.74000549316406
 - **Good Pivot**: True
@@ -14,22 +14,34 @@ This report provides an overview of selected stocks with volatility contraction 
 #### News
 No news available
 
-![AGYS Chart](.//2024-12-20/AGYS.jpg)
+![AGYS Chart](.//2024-12-23/AGYS.jpg)
 
-### BKSY
-- **Current Price during run time**: 10.5
-- **Support Price**: 10.460000038146973
-- **Pressure Price**: 12.180000305175781
+### ATOM
+- **Current Price during run time**: 8.989999771118164
+- **Support Price**: 7.099999904632568
+- **Pressure Price**: 7.570000171661377
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BKSY Chart](.//2024-12-20/BKSY.jpg)
+![ATOM Chart](.//2024-12-23/ATOM.jpg)
+
+### BB
+- **Current Price during run time**: 3.690000057220459
+- **Support Price**: 2.690000057220459
+- **Pressure Price**: 2.940000057220459
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![BB Chart](.//2024-12-23/BB.jpg)
 
 ### CLBT
-- **Current Price during run time**: 21.290000915527344
+- **Current Price during run time**: 22.520000457763672
 - **Support Price**: 19.8799991607666
 - **Pressure Price**: 21.350000381469727
 - **Good Pivot**: True
@@ -38,23 +50,34 @@ No news available
 #### News
 No news available
 
-![CLBT Chart](.//2024-12-20/CLBT.jpg)
+![CLBT Chart](.//2024-12-23/CLBT.jpg)
 
-### CRDO
-- **Current Price during run time**: 67.04000091552734
-- **Support Price**: 66.45999908447266
-- **Pressure Price**: 77.25
+### CRNT
+- **Current Price during run time**: 4.389999866485596
+- **Support Price**: 4.300000190734863
+- **Pressure Price**: 4.909999847412109
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Credo Technology Group Holding Ltd (CRDO) Gains Neutral Rating from Susquehanna Amid AI-Driven Data Center Growth and Valuation Concerns (23 hours ago)
-Timely news for CRDO, impact level: 0 (neutral); valuation concerns may hinder investor confidence despite AI-driven growth.
+No news available
 
-![CRDO Chart](.//2024-12-20/CRDO.jpg)
+![CRNT Chart](.//2024-12-23/CRNT.jpg)
+
+### CTV
+- **Current Price during run time**: 3.1700000762939453
+- **Support Price**: 3.0299999713897705
+- **Pressure Price**: 3.069999933242798
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![CTV Chart](.//2024-12-23/CTV.jpg)
 
 ### DOCS
-- **Current Price during run time**: 55.18000030517578
+- **Current Price during run time**: 57.83000183105469
 - **Support Price**: 52.13999938964844
 - **Pressure Price**: 55.529998779296875
 - **Good Pivot**: True
@@ -63,185 +86,34 @@ Timely news for CRDO, impact level: 0 (neutral); valuation concerns may hinder i
 #### News
 No news available
 
-![DOCS Chart](.//2024-12-20/DOCS.jpg)
-
-### DOCU
-- **Current Price during run time**: 94.1500015258789
-- **Support Price**: 92.70999908447266
-- **Pressure Price**: 106.98999786376953
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### FDLS: Biblical Values ETF With High Fees And Turnover (1 days ago)
-Timely news related to DOCU, impact level: 0 (neutral). Article discusses ETF unrelated to DOCU's core business.
-
-![DOCU Chart](.//2024-12-20/DOCU.jpg)
-
-### DSP
-- **Current Price during run time**: 20.1299991607666
-- **Support Price**: 19.469999313354492
-- **Pressure Price**: 21.3700008392334
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Viant Technology: Establishing Itself As A Dominant DSP For The CTV Market (Rating Upgrade) (1 days ago)
-Timely news related to DSP. Impact level: 1 (positive). Establishing dominance in the CTV market suggests strong growth potential.
-
-![DSP Chart](.//2024-12-20/DSP.jpg)
+![DOCS Chart](.//2024-12-23/DOCS.jpg)
 
 ### GDYN
-- **Current Price during run time**: 20.40999984741211
+- **Current Price during run time**: 20.5
 - **Support Price**: 19.1200008392334
 - **Pressure Price**: 20.0
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Looking for Outsized Gains in 2025? Buy 3 Breakout Stocks Now (1 days ago)
-Timely news related to GDYN; impact level: 1 (positive). Reason: GDYN identified as a breakout stock, indicating potential for significant gains.
+No news available
 
-![GDYN Chart](.//2024-12-20/GDYN.jpg)
-
-### GOOGL
-- **Current Price during run time**: 188.50999450683594
-- **Support Price**: 188.39999389648438
-- **Pressure Price**: 196.66000366210938
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Perplexity has reportedly closed a $500M funding round (7 hours ago)
-Timely news impacts GOOGL with a level of 0 due to increased competition in AI search.
-
-##### Is Alphabet Inc. (GOOGL) the Best Growth Stock to Invest in Now? (10 hours ago)
-Timely news regarding GOOGL; impact level: 1 (positive). It positions GOOGL as a leading growth stock, attracting investor interest.
-
-##### Why Rigetti (RGTI) and D-Wave Quantum Inc. (QBTS) Plunged Today (14 hours ago)
-Timely news related to GOOGL, impact level 1; reinforces GOOGL's position in quantum tech innovation amid competitors' decline.
-
-##### Alphabet (GOOGL) Rises As Market Takes a Dip: Key Facts (15 hours ago)
-Timely news for GOOGL; impact level 1 (positive) due to resilience in a declining market.
-
-##### Alphabet Inc. (GOOG) Falls More Steeply Than Broader Market: What Investors Need to Know (15 hours ago)
-Timely news on GOOGL, impact level -1, due to underperformance compared to the broader market.
-
-##### Google Releases AI Reasoning, Preps Chatbot in Search (16 hours ago)
-Timely news for GOOGL. Impact level: 1 (positive). Reason: AI advancements enhance product offerings, potentially driving user engagement and revenue.
-
-##### Jim Cramer Says Tesla, Inc. (TSLA) CEO Elon Musk ‘Has Been All In With The Winner Of The Presidential Election’ (16 hours ago)
-Timely news is neutral for GOOGL; impact level is 0. Cramer's comments focus on TSLA, not directly affecting GOOGL.
-
-##### You Can Learn A Lot From This Google-Assisted AI Stock (17 hours ago)
-Timely news related to GOOGL; impact level 1. Collaboration in AI healthcare enhances growth prospects, boosting investor confidence.
-
-##### We asked 5 AI chatbots to pick stocks for 2025. Here's what they said (18 hours ago)
-Timely news for GOOGL. Impact level: 0 (neutral). Investor curiosity may boost interest but lacks direct stock influence.
-
-##### With Neverless, former Revolut execs want to make meme coins easy to buy (1 days ago)
-Timely news related to GOOGL; impact level: 0 (neutral). Reason: Irrelevant to GOOGL's core business and operations.
-
-##### Google releases its own 'reasoning' AI model (20 hours ago)
-Timely news for GOOGL, impact level 0: neutral; while innovative, the model is still experimental with notable improvements needed.
-
-##### Strategically Building A $100,000 Dividend Portfolio, With Altria As Your Core Holding (20 hours ago)
-Timely news related to stock GOOGL. Impact level: 0 (neutral). Reason: Focuses on Altria, not directly affecting GOOGL.
-
-##### Alphabet Inc. Cl A stock outperforms competitors on strong trading day (21 hours ago)
-Timely news for GOOGL; impact level: 1 (positive). Reason: Strong trading performance boosts investor sentiment and market position.
-
-##### Apple finally added ChatGPT to the iPhone. There's no guarantee it’ll boost sales. (22 hours ago)
-Timely news for GOOGL; impact: -1. Apple’s integration of ChatGPT could enhance competition, negatively affecting GOOGL's market position.
-
-##### Mag 7 gains are supported by Fed's rate cuts, but not dependent (22 hours ago)
-Timely news for GOOGL, impact level 1, as Fed's rate cuts support growth outlook for Magnificent Seven.
-
-##### Alphabet Inc. (GOOGL)’s DeepMind Unveils Veo 2 and Imagen 3, Advancing AI-Driven Video and Image Generation with Enhanced Features (22 hours ago)
-Timely GOOGL news; impact level: 1 (positive). DeepMind's new AI advancements enhance competitive edge in tech innovation.
-
-##### Stock futures recover, government shutdown, Micron: 3 Things (23 hours ago)
-Timely GOOGL news; impact level 0 (neutral). Focus on broader market recovery, not directly affecting GOOGL's fundamentals.
-
-##### Down 30% From Its High, Should You Buy Uber Technologies Stock on the Dip? (23 hours ago)
-Timely news related to GOOGL; impact level 1: positive—Waymo's expansion may increase competition, benefiting GOOGL’s market position.
-
-##### D-Wave Quantum’s Largest Investor Sold $79 Million of Stock (23 hours ago)
-Timely news related to GOOGL; impact level 0: neutral, as it pertains to D-Wave Quantum, not directly affecting GOOGL.
-
-##### Nvidia stock rebounds after broad market rout as analysts stay bullish on outlook (1 days ago)
-1. Timely and related to GOOGL: Yes.  
-2. Impact level on stock price: 0 (neutral).  
-3. Reason: Nvidia's rebound is unrelated to GOOGL's core business and overall market sentiment remains mixed.
-
-##### Tesla FSD: Headed Straight Towards A Scientific Dead End (1 days ago)
-Timely news on GOOGL; impact level -1. Tesla's struggles may negatively affect market sentiment toward tech stocks, including Alphabet.
-
-##### Jim Cramer Says ‘I Bet’ Trump’s Justice Department Won’t Try to Break Up Alphabet (GOOG) (1 days ago)
-Timely news for GOOGL; impact level 0: neutral. Cramer's comments do not suggest immediate stock price change.
-
-##### The BATMMAAN tech stocks this strategist has his eye on (1 days ago)
-Timely news related to GOOGL; impact level: 1 (positive). Inclusion in 'BATMMAAN' highlights strong positioning and investor interest in AI tech.
-
-##### Nvidia vs. Broadcom: Which Is the Better AI Chip Stock to Own in 2025? (1 days ago)
-Timely news for GOOGL; impact level 0 (neutral). Focus is on Nvidia and Broadcom, not directly affecting GOOGL's stock.
-
-##### Google: Recent AI Breakthroughs Will Likely Boost FY2025 Revenue Consensus (1 days ago)
-Timely news on GOOGL indicates strong positive impact (2) due to AI breakthroughs enhancing revenue prospects.
-
-##### Hartford Climate Opportunities Fund Q3 2024 Commentary (1 days ago)
-Timely news for GOOGL; impact level 0. Commentary on climate fund is neutral and not directly related to GOOGL's performance.
-
-##### ICO criticises Google over ‘irresponsible’ advertising tracking change (1 days ago)
-Timely news related to GOOGL. Impact level: -1 (negative). Criticism from UK regulator may harm Google's reputation and advertising model.
-
-##### Impax Large Cap Fund Q3 2024 Commentary (1 days ago)
-Timely news for GOOGL. Impact level: 0 (neutral). Commentary indicates fund performance, not directly affecting GOOGL’s stock price.
-
-##### Here's Billionaire Investor Bill Ackman's Favorite Artificial Intelligence (AI) Stock -- and Why It's a No-Brainer Buy for 2025 (1 days ago)
-Timely news for GOOGL; impact level 1 (positive). Ackman's endorsement highlights AI potential, boosting investor confidence and interest.
-
-##### 3 Top Tech Stocks That Could Make You a Millionaire (1 days ago)
-News is timely for GOOGL. Impact level: 1 (positive). The headline highlights GOOGL's strong long-term prospects, boosting investor confidence.
-
-##### Google Maps image of large bag in car helps Spanish police solve murder case (1 days ago)
-Timely news for GOOGL, impact level 0: neutral. The incident highlights Google Maps usage, but lacks direct stock implications.
-
-##### The Gabelli Global Content & Connectivity Fund Q3 2024 Commentary (1 days ago)
-Timely news for GOOGL; impact level 0: neutral, as it primarily discusses a fund's performance, not GOOGL directly.
-
-##### The Gabelli SRI Fund Q3 2024 Commentary (1 days ago)
-Timely news related to GOOGL, impact level 0: neutral; commentary does not directly influence stock price.
-
-##### Buy the tech stock dip ahead of Trump rally, popular analyst says (1 days ago)
-Timely news related to GOOGL; impact level: 1 (positive). Analyst suggests buying on dip ahead of rally, boosting investor sentiment.
-
-##### IBM’s stock has missed the quantum-computing rally but could still be your ticket to ride that hot trend (1 days ago)
-News is timely but unrelated to GOOGL. Impact level: 0 (neutral). The article discusses IBM, not GOOGL's performance.
-
-##### The Gabelli Global Growth Fund Q3 2024 Commentary (1 days ago)
-Timely news for GOOGL; impact level 0: neutral. Commentary focuses on fund performance, not directly affecting GOOGL stock.
-
-![GOOGL Chart](.//2024-12-20/GOOGL.jpg)
+![GDYN Chart](.//2024-12-23/GDYN.jpg)
 
 ### GRND
-- **Current Price during run time**: 16.850000381469727
-- **Support Price**: 16.639999389648438
-- **Pressure Price**: 16.920000076293945
+- **Current Price during run time**: 17.309999465942383
+- **Support Price**: 15.5
+- **Pressure Price**: 15.9399995803833
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### High Growth Tech Stocks To Watch In December 2024 (23 hours ago)
-Timely news for GRND; impact level 1. Positive outlook on earnings growth supports potential for GRND's value increase.
+No news available
 
-##### Roam For the Holidays: Grindr Offers Free Access to Their Popular Travel Feature (1 days ago)
-Timely news for GRND; impact level 1 (positive). Free access to a popular feature may boost user engagement and revenue.
-
-![GRND Chart](.//2024-12-20/GRND.jpg)
+![GRND Chart](.//2024-12-23/GRND.jpg)
 
 ### GRRR
-- **Current Price during run time**: 12.734999656677246
+- **Current Price during run time**: 13.369999885559082
 - **Support Price**: 5.889999866485596
 - **Pressure Price**: 7.340000152587891
 - **Good Pivot**: True
@@ -250,110 +122,62 @@ Timely news for GRND; impact level 1 (positive). Free access to a popular featur
 #### News
 No news available
 
-![GRRR Chart](.//2024-12-20/GRRR.jpg)
+![GRRR Chart](.//2024-12-23/GRRR.jpg)
 
-### IONQ
-- **Current Price during run time**: 37.7599983215332
-- **Support Price**: 37.5
-- **Pressure Price**: 43.84000015258789
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### IonQ Recognized in Newsweek's 'Excellence 1000 Index' as a Champion of Business Excellence (6 hours ago)
-Timely news for IONQ. Impact level: 1 (positive). Recognition in a prestigious index boosts brand credibility and investor confidence.
-
-##### Wall Street Lunch: Adios Bitcoin? (22 hours ago)
-Timely news, related to IONQ; impact level: 0 (neutral). Reason: No direct correlation to IONQ or quantum computing performance.
-
-##### IonQ Recognized in Newsweek’s "Excellence 1000 Index" as a Champion of Business Excellence (1 days ago)
-Timely news for IONQ; impact level 1 (positive) due to recognition as a leader in innovation and ethics.
-
-##### DA Davidson Initiates Coverage of IonQ (IONQ) with Buy Recommendation (1 days ago)
-Timely news for IONQ. Impact level: 1 (positive). DA Davidson's coverage with a buy recommendation boosts investor confidence.
-
-##### The Age of Quantum Software Has Already Started (1 days ago)
-Timely news on IONQ; impact level: 1 (positive). Growing interest in quantum software enhances investor sentiment and validates IONQ's technology.
-
-##### IonQ Recognized in Newsweek’s “Excellence 1000 Index” as a Champion of Business Excellence (1 days ago)
-Timely news for IONQ; impact level: 1 (positive). Recognition highlights growth and innovation, boosting investor confidence.
-
-![IONQ Chart](.//2024-12-20/IONQ.jpg)
-
-### KLTR
-- **Current Price during run time**: 2.109999895095825
-- **Support Price**: 1.9800000190734863
-- **Pressure Price**: 2.3499999046325684
+### HLIT
+- **Current Price during run time**: 13.319999694824219
+- **Support Price**: 12.8100004196167
+- **Pressure Price**: 13.359999656677246
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![KLTR Chart](.//2024-12-20/KLTR.jpg)
+![HLIT Chart](.//2024-12-23/HLIT.jpg)
+
+### KC
+- **Current Price during run time**: 9.579999923706055
+- **Support Price**: 8.399999618530273
+- **Pressure Price**: 9.630000114440918
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![KC Chart](.//2024-12-23/KC.jpg)
 
 ### KULR
-- **Current Price during run time**: 2.240000009536743
+- **Current Price during run time**: 2.950000047683716
 - **Support Price**: 1.159999966621399
 - **Pressure Price**: 1.3200000524520874
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### KULR Technology: Sell The Hype (6 hours ago)
-Timely news for KULR. Impact level: -1. Reason: Analyst advises selling after a 600% rally, indicating potential overvaluation.
-
-![KULR Chart](.//2024-12-20/KULR.jpg)
-
-### KVYO
-- **Current Price during run time**: 42.779998779296875
-- **Support Price**: 41.9900016784668
-- **Pressure Price**: 43.18000030517578
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
 No news available
 
-![KVYO Chart](.//2024-12-20/KVYO.jpg)
+![KULR Chart](.//2024-12-23/KULR.jpg)
 
 ### MRVL
-- **Current Price during run time**: 109.11000061035156
+- **Current Price during run time**: 111.9000015258789
 - **Support Price**: 105.27999877929688
 - **Pressure Price**: 124.77999877929688
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Cramer Highlights Marvell Technology (MRVL) CEO’s Stock Buys Amid Strong AI-Driven Growth (18 hours ago)
-Timely news related to MRVL; impact level 1 (positive). CEO’s stock buys signal confidence in AI growth potential.
+##### Is Marvell Technology (NASDAQ:MRVL) Using Too Much Debt? (2 hours ago)
+Timely news for MRVL; impact level 0: neutral. Debt concerns may influence investor sentiment but lack immediate price implications.
 
-##### 3 Top Ranked Stocks to Buy for 2025 (GPOR, MCK, MRVL) (19 hours ago)
-Timely news related to MRVL; impact level 1 (positive) due to endorsement among top ranked stocks, indicating favorable market conditions.
+##### Marvell Technology, Inc. (MRVL) Gains Momentum with AI-Driven Growth and Upgraded Price Target from Morgan Stanley (1 days ago)
+Timely news for MRVL; impact level: 2. Strong AI-driven growth and a price target upgrade signal significant investor confidence.
 
-##### Marvell Technology Stock Gets a Higher Price Target on AI Chip Opportunity (20 hours ago)
-MRVL news is timely; impact level 1 (positive) due to projected 25% revenue growth from AI chip opportunities.
-
-##### Should You Forget Intel and Buy 2 Artificial Intelligence (AI) Stocks Right Now? (23 hours ago)
-1. Timely, related to MRVL.  
-2. Impact level: 0 (neutral).  
-3. The article mentions MRVL indirectly; no direct impact on price.
-
-##### Is It Worth Investing in Marvell (MRVL) Based on Wall Street's Bullish Views? (23 hours ago)
-Timely news for MRVL; impact level 1: positive. Analysts' bullish views suggest strong buy interest, boosting investor confidence.
-
-##### Despite currently being unprofitable, Marvell Technology (NASDAQ:MRVL) has delivered a 306% return to shareholders over 5 years (1 days ago)
-Timely news for MRVL; impact level 1. Highlighting long-term return enhances investor confidence despite current unprofitability.
-
-##### Semiconductor Manufacturing Stocks Q3 Earnings: Marvell Technology (NASDAQ:MRVL) Firing on All Cylinders (1 days ago)
-1. Timely and relevant news for MRVL.  
-2. Impact level: 1 (positive).  
-3. Strong Q3 performance highlights growth potential for Marvell, positively influencing investor sentiment.
-
-![MRVL Chart](.//2024-12-20/MRVL.jpg)
+![MRVL Chart](.//2024-12-23/MRVL.jpg)
 
 ### OB
-- **Current Price during run time**: 7.309999942779541
+- **Current Price during run time**: 7.349999904632568
 - **Support Price**: 7.260000228881836
 - **Pressure Price**: 7.579999923706055
 - **Good Pivot**: True
@@ -362,200 +186,308 @@ Timely news for MRVL; impact level 1. Highlighting long-term return enhances inv
 #### News
 No news available
 
-![OB Chart](.//2024-12-20/OB.jpg)
+![OB Chart](.//2024-12-23/OB.jpg)
 
-### PL
-- **Current Price during run time**: 3.880000114440918
-- **Support Price**: 3.869999885559082
-- **Pressure Price**: 4.329999923706055
+### PLTR
+- **Current Price during run time**: 80.55000305175781
+- **Support Price**: 70.88999938964844
+- **Pressure Price**: 76.33999633789062
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Trending tickers: Palantir, Spotify, Novo Nordisk, Honda and Direct Line (2 hours ago)
+Timely news related to PLTR; impact level 0: neutral due to general trending without specifics affecting investor sentiment.
+
+##### Expect A Roller Coaster Stock Market In 2025 (12 hours ago)
+1. Timely and related to PLTR: Yes.  
+2. Impact level: 0 (neutral).  
+3. Reason: General market commentary; no direct implications for PLTR's stock performance.
+
+##### Palantir: Instead Of Your Shares, Sell This (13 hours ago)
+Timely news for PLTR. Impact level: 0 (neutral). Recommendation to hold suggests stability, not immediate price movement.
+
+##### Palantir, Anduril join forces with tech groups to bid for Pentagon contracts, FT reports (1 days ago)
+Timely news for PLTR; impact level 1 (positive) due to strengthened position for lucrative Pentagon contracts.
+
+##### The Investing Cult Fueling MicroStrategy’s Ascent: ‘Have Fun Staying Poor’ (1 days ago)
+1. Timely and related to stock PLTR: No.  
+2. Impact level on the stock price: 0 (neutral).  
+3. Reason: The news focuses on MicroStrategy, not on PLTR, therefore no direct effect.
+
+![PLTR Chart](.//2024-12-23/PLTR.jpg)
+
+### RBBN
+- **Current Price during run time**: 4.170000076293945
+- **Support Price**: 3.9000000953674316
+- **Pressure Price**: 4.170000076293945
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![PL Chart](.//2024-12-20/PL.jpg)
-
-### PLTR
-- **Current Price during run time**: 74.20999908447266
-- **Support Price**: 71.51000213623047
-- **Pressure Price**: 76.06999969482422
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Costco Stock Is No Bargain. It’s Time to Sell. (12 hours ago)
-1. Timely and related to stock PLTR: No  
-2. Impact level on the stock price: 0  
-3. Reason for impact: News pertains to Costco, not PLTR.
-
-##### Palantir Unveils $619 Mil Army Contract Extension. Stock Rises. (16 hours ago)
-Timely news for PLTR; impact level 2. Strong positive as $619M Army contract extension boosts growth outlook and investor confidence.
-
-##### Tech is a 'strong play' for 2025 after the Fed's 'hawkish cut' (18 hours ago)
-Timely news for PLTR; impact level 1 (positive). Tech's bullish outlook for 2025 supports growth expectations for Palantir.
-
-##### Palantir Stock Jumps as U.S. Army Helps It Be All It Can Be (18 hours ago)
-Timely news related to PLTR; impact level: 1 (positive). Strong AI potential and U.S. Army endorsement boost investor confidence.
-
-##### These Stocks Moved the Most Today: Micron, Tesla, Palantir, Quantum Computing, Lamb Weston, Accenture, Vertex, Darden, and More (21 hours ago)
-Timely news related to PLTR. Impact level: 0 (neutral). Reason: The mention does not indicate positive or negative performance specifically for Palantir.
-
-##### Stock Market Today: Dow Jones Looks To End Losing Streak; AI Name Ends Long Win Streak (Live Coverage) (21 hours ago)
-Timely news for PLTR; impact level 0 (neutral) as it reflects broader market trends without specific PLTR insight.
-
-##### Palantir awarded $400.7M follow-on contract for Army Vantage (1 days ago)
-Timely news for PLTR; impact level: 1 (positive). The $400.7M contract enhances growth prospects and investor confidence.
-
-##### Palantir Technologies Expands Army Vantage Partnership with $618.9M Contract (1 days ago)
-Timely news for PLTR; impact level 2 (strong positive) due to significant contract expansion with U.S. Army enhancing revenue prospects.
-
-##### Buy the tech stock dip ahead of Trump rally, popular analyst says (1 days ago)
-Timely news on PLTR; impact level 1 (positive) due to buying sentiment ahead of a rally.
-
-![PLTR Chart](.//2024-12-20/PLTR.jpg)
+![RBBN Chart](.//2024-12-23/RBBN.jpg)
 
 ### RDDT
-- **Current Price during run time**: 163.72000122070312
+- **Current Price during run time**: 170.7100067138672
 - **Support Price**: 160.64999389648438
 - **Pressure Price**: 178.10000610351562
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Robinhood to add options trading in the UK at the beginning of 2025 (4 hours ago)
-Timely news for RDDT; impact level: 1. Positive sentiment due to expansion of trading services in a new market.
+##### Reddit (RDDT) Price Target Increased by 20.89% to 152.46 (7 hours ago)
+Timely news for RDDT; impact level: 1 (positive). Increased price target indicates market confidence and potential stock appreciation.
 
-##### Reddit Inc. (RDDT) Ascends While Market Falls: Some Facts to Note (15 hours ago)
-Timely news for RDDT, impact level 1 (positive); strong performance amid market decline suggests investor confidence in Reddit Inc.
+##### 'I Wish I Had Spent Past 10 Years Investing In Bitcoin Instead Of A 401(k)' – Man Nearing Retirement Realizes He'd Have Millions Saved Now (1 days ago)
+Timely news for RDDT, impact level 0: neutral; highlights investor regret but lacks direct relevance to RDDT's fundamentals.
 
-##### College Student With $400K In Stocks Grown In Just 4 Years Gets Mixed Reddit Advice – 'Should I Max Out My Roth IRA And Invest In S&P 500?' (19 hours ago)
-Timely news for RDDT; Impact level: 0 (neutral) due to general investment discussion, not directly affecting RDDT's stock price.
-
-##### What’s Next for Five of 2024’s Most Dramatic Tech Stock Stories (23 hours ago)
-Timely news for RDDT, impact level 0: neutral. Content mainly discusses broader tech trends, not directly affecting RDDT.
-
-##### Reddit Stock Dips 5% After COO Offloads Shares Worth $5.87 Million (1 days ago)
-Timely news related to RDDT; Impact: -1 (negative). COO's share sale raises concerns despite strong revenue growth.
-
-##### Reflecting On Social Networking Stocks’ Q3 Earnings: Meta (NASDAQ:META) (1 days ago)
-Timely news related to RDDT; impact level 0 (neutral); it discusses earnings of Meta, not directly affecting RDDT.
-
-![RDDT Chart](.//2024-12-20/RDDT.jpg)
+![RDDT Chart](.//2024-12-23/RDDT.jpg)
 
 ### SMWB
-- **Current Price during run time**: 14.069999694824219
+- **Current Price during run time**: 14.5600004196167
 - **Support Price**: 12.180000305175781
 - **Pressure Price**: 13.0600004196167
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### FDLS: Biblical Values ETF With High Fees And Turnover (1 days ago)
-Timely news related to SMWB; impact level 0: neutral. The headline focuses on ETF fees, not directly affecting SMWB's stock price.
+##### Can Netflix Avoid Glitches in Its Christmas Day NFL Broadcasts? (3 hours ago)
+1. Timely and related: Yes  
+2. Impact level: 0  
+3. Reason: The news primarily concerns Netflix, not SMWB, resulting in neutral impact.
 
-![SMWB Chart](.//2024-12-20/SMWB.jpg)
+![SMWB Chart](.//2024-12-23/SMWB.jpg)
 
-### UPLD
-- **Current Price during run time**: 4.579999923706055
-- **Support Price**: 4.519999980926514
-- **Pressure Price**: 5.050000190734863
+### TSEM
+- **Current Price during run time**: 51.02000045776367
+- **Support Price**: 50.54999923706055
+- **Pressure Price**: 52.45000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Tower Semiconductor : Appointment of New Board Member Form 6 K (7 hours ago)
+Timely news for TSEM; impact level 0 (neutral) as board member appointments do not typically affect stock prices significantly.
+
+##### Tower Semiconductor : Releases 300mm 65nm 3.3V Based BCD Power Management Platform Form 6 K (7 hours ago)
+Timely news for TSEM; impact level: 1 (positive). New platform may enhance product offerings and drive future revenue growth.
+
+##### Tower Semiconductor Releases 300mm 65nm 3.3V-Based BCD Power Management Platform (7 hours ago)
+Timely news for TSEM; impact level 1 (positive) due to the launch of an innovative power management platform boosting competitive positioning.
+
+![TSEM Chart](.//2024-12-23/TSEM.jpg)
+
+### VUZI
+- **Current Price during run time**: 4.400000095367432
+- **Support Price**: 2.4600000381469727
+- **Pressure Price**: 2.630000114440918
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![UPLD Chart](.//2024-12-20/UPLD.jpg)
+![VUZI Chart](.//2024-12-23/VUZI.jpg)
 
 ### WAY
-- **Current Price during run time**: 35.4900016784668
-- **Support Price**: 34.70000076293945
-- **Pressure Price**: 35.4900016784668
+- **Current Price during run time**: 36.81999969482422
+- **Support Price**: 29.770000457763672
+- **Pressure Price**: 31.25
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Waystar Holding Corp.(NasdaqGS: WAY) added to S&P Global BMI Index (19 hours ago)
+Timely news for WAY; impact level 1 (positive) due to S&P Global BMI Index inclusion enhancing visibility and investor interest.
+
+![WAY Chart](.//2024-12-23/WAY.jpg)
+
+### WEAV
+- **Current Price during run time**: 16.1200008392334
+- **Support Price**: 13.670000076293945
+- **Pressure Price**: 14.09000015258789
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![WAY Chart](.//2024-12-20/WAY.jpg)
-
-### WEAV
-- **Current Price during run time**: 15.609999656677246
-- **Support Price**: 15.479999542236328
-- **Pressure Price**: 15.949999809265137
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Weave Communications Is Turning The Corner To A Positive 2025 (Upgrade) (23 hours ago)
-Timely news related to WEAV; impact level 1. Strong Q3 performance and upbeat forecasts suggest positive investor sentiment.
-
-![WEAV Chart](.//2024-12-20/WEAV.jpg)
+![WEAV Chart](.//2024-12-23/WEAV.jpg)
 
 ### WK
-- **Current Price during run time**: 111.37999725341797
+- **Current Price during run time**: 114.77999877929688
 - **Support Price**: 96.8499984741211
 - **Pressure Price**: 98.72000122070312
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Workiva : Global Post-election Findings Indicate Executives Will Push Forward on Sustainability Despite Regulatory Outcomes (21 hours ago)
-Timely news for WK; impact level 1 (positive) due to executives' commitment to sustainability driving potential growth in demand for Workiva's services.
+##### 3 Reasons to Sell WK and 1 Stock to Buy Instead (4 hours ago)
+Timely negative news for WK; impact level -1. Analysts suggest selling due to potential overvaluation after a 61.6% price surge.
 
-![WK Chart](.//2024-12-20/WK.jpg)
+![WK Chart](.//2024-12-23/WK.jpg)
 
-### MESO
-- **Current Price during run time**: 16.760000228881836
-- **Support Price**: 10.380000114440918
-- **Pressure Price**: 11.949999809265137
+### ADUS
+- **Current Price during run time**: 131.39999389648438
+- **Support Price**: 120.2699966430664
+- **Pressure Price**: 124.41000366210938
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### MESO Stock Up as FDA Approves Ryoncil for Graft Versus Host Disease (19 hours ago)
-Timely news for MESO; impact level 2: strong positive due to FDA approval boosting investor confidence and driving share price up.
+No news available
 
-##### FDA approves Mesoblast’s Ryoncil for SR-aGvHD treatment (22 hours ago)
-Timely positive news for MESO; impact level: 2. FDA approval boosts prospects for Mesoblast's Ryoncil in the market.
+![ADUS Chart](.//2024-12-23/ADUS.jpg)
 
-##### Mesoblast's Cell Therapy Treatment For Graft Versus Host Disease Gets FDA Approval, Stock Surges (1 days ago)
-Timely news; impact level 2 (strong positive) due to FDA approval of Ryoncil, enhancing MESO’s market position and growth potential.
+### ALGS
+- **Current Price during run time**: 39.84000015258789
+- **Support Price**: 33.0099983215332
+- **Pressure Price**: 34.529998779296875
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
 
-##### Mesoblast Finally Gets Its Approval In GVHD: Where Now? (1 days ago)
-Timely news for MESO; impact level: 0. Approval faces investment risks and competition, leading to uncertain price effect.
+![ALGS Chart](.//2024-12-23/ALGS.jpg)
 
-![MESO Chart](.//2024-12-20/MESO.jpg)
+### ARQT
+- **Current Price during run time**: 14.989999771118164
+- **Support Price**: 12.25
+- **Pressure Price**: 13.149999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ARQT Chart](.//2024-12-23/ARQT.jpg)
+
+### CMRX
+- **Current Price during run time**: 2.990000009536743
+- **Support Price**: 2.7100000381469727
+- **Pressure Price**: 2.9800000190734863
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![CMRX Chart](.//2024-12-23/CMRX.jpg)
+
+### DSGN
+- **Current Price during run time**: 6.25
+- **Support Price**: 5.949999809265137
+- **Pressure Price**: 6.289999961853027
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![DSGN Chart](.//2024-12-23/DSGN.jpg)
+
+### EMBC
+- **Current Price during run time**: 20.229999542236328
+- **Support Price**: 19.510000228881836
+- **Pressure Price**: 20.209999084472656
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![EMBC Chart](.//2024-12-23/EMBC.jpg)
+
+### NAMS
+- **Current Price during run time**: 25.5
+- **Support Price**: 25.459999084472656
+- **Pressure Price**: 26.610000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NAMS Chart](.//2024-12-23/NAMS.jpg)
 
 ### PSNL
-- **Current Price during run time**: 5.260000228881836
+- **Current Price during run time**: 5.75
 - **Support Price**: 3.5799999237060547
 - **Pressure Price**: 4.150000095367432
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Personalis Advances Business Strategy with Investment from Merck and Extends Collaboration with Moderna (23 hours ago)
-Timely news for PSNL. Impact level: 2 (strong positive). Strategic investments and collaborations enhance growth prospects and investor confidence.
+No news available
 
-![PSNL Chart](.//2024-12-20/PSNL.jpg)
+![PSNL Chart](.//2024-12-23/PSNL.jpg)
 
 ### TEVA
-- **Current Price during run time**: 21.309999465942383
+- **Current Price during run time**: 22.09000015258789
 - **Support Price**: 16.5
 - **Pressure Price**: 17.81999969482422
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Teva price target raised to $28 from $26 at UBS (1 days ago)
-Teva news is timely; impact level is 1 (positive) due to raised price target and strong Phase 2 data.
+No news available
 
-![TEVA Chart](.//2024-12-20/TEVA.jpg)
+![TEVA Chart](.//2024-12-23/TEVA.jpg)
+
+### WRBY
+- **Current Price during run time**: 25.18000030517578
+- **Support Price**: 22.020000457763672
+- **Pressure Price**: 24.149999618530273
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![WRBY Chart](.//2024-12-23/WRBY.jpg)
+
+### BLX
+- **Current Price during run time**: 36.060001373291016
+- **Support Price**: 35.11000061035156
+- **Pressure Price**: 35.47999954223633
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![BLX Chart](.//2024-12-23/BLX.jpg)
+
+### CME
+- **Current Price during run time**: 238.52999877929688
+- **Support Price**: 234.3000030517578
+- **Pressure Price**: 246.02000427246094
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Dividend Champion, Contender, And Challenger Highlights: Week Of December 22 (1 days ago)
+Timely news for CME; impact level 1: positive due to increased investor interest in dividend-paying stocks.
+
+![CME Chart](.//2024-12-23/CME.jpg)
+
+### DAVE
+- **Current Price during run time**: 87.83999633789062
+- **Support Price**: 86.72000122070312
+- **Pressure Price**: 103.95999908447266
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![DAVE Chart](.//2024-12-23/DAVE.jpg)
 
 ### EHTH
-- **Current Price during run time**: 8.279999732971191
+- **Current Price during run time**: 8.319999694824219
 - **Support Price**: 5.460000038146973
 - **Pressure Price**: 5.75
 - **Good Pivot**: True
@@ -564,76 +496,94 @@ Teva news is timely; impact level is 1 (positive) due to raised price target and
 #### News
 No news available
 
-![EHTH Chart](.//2024-12-20/EHTH.jpg)
+![EHTH Chart](.//2024-12-23/EHTH.jpg)
 
-### LX
-- **Current Price during run time**: 5.829999923706055
-- **Support Price**: 5.739999771118164
-- **Pressure Price**: 5.96999979019165
+### GGAL
+- **Current Price during run time**: 63.59000015258789
+- **Support Price**: 61.29999923706055
+- **Pressure Price**: 68.72000122070312
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![LX Chart](.//2024-12-20/LX.jpg)
+![GGAL Chart](.//2024-12-23/GGAL.jpg)
 
-### MORN
-- **Current Price during run time**: 337.94000244140625
-- **Support Price**: 337.5
-- **Pressure Price**: 358.7799987792969
+### HOOD
+- **Current Price during run time**: 38.33000183105469
+- **Support Price**: 36.939998626708984
+- **Pressure Price**: 43.20000076293945
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Where Will Robinhood Markets' Stock Be in 3 Years? (20 hours ago)
+Timely news impacts HOOD stock at level 0; highlights past performance but offers no immediate outlook or catalyst for price change.
+
+##### How Scammers Are Using AI This Holiday Season to Steal Your Money (1 days ago)
+Timely news for HOOD, impact level -1: negative; highlights AI scams potentially harming investor confidence in trading platforms.
+
+![HOOD Chart](.//2024-12-23/HOOD.jpg)
+
+### KINS
+- **Current Price during run time**: 17.700000762939453
+- **Support Price**: 15.109999656677246
+- **Pressure Price**: 16.75
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![MORN Chart](.//2024-12-20/MORN.jpg)
+![KINS Chart](.//2024-12-23/KINS.jpg)
 
-### SEIC
-- **Current Price during run time**: 81.47000122070312
-- **Support Price**: 80.76000213623047
-- **Pressure Price**: 86.58000183105469
+### LC
+- **Current Price during run time**: 16.459999084472656
+- **Support Price**: 16.299999237060547
+- **Pressure Price**: 17.90999984741211
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Frontier Asset Management Selects SEI to Launch Active ETFs (5 hours ago)
-Timely news related to stock SEIC; impact level 1: positive due to selection for active ETF launch, signaling growth potential.
+##### Pulling back 8.1% this week, LendingClub's NYSE:LC) one-year decline in earnings may be coming into investors focus (50 minutes ago)
+Timely news related to stock LC. Impact level: -1 (negative). Reason: Declining earnings raise investor concerns, contributing to stock pullback.
 
-##### Buy 5 Investment Management Stocks to Enrich Your Portfolio in 2025 (1 days ago)
-Timely news related to SEIC; impact: 1 (positive). Highlights SEIC's strong growth potential in investment management, boosting investor interest.
+![LC Chart](.//2024-12-23/LC.jpg)
 
-![SEIC Chart](.//2024-12-20/SEIC.jpg)
-
-### SUPV
-- **Current Price during run time**: 14.5
-- **Support Price**: 14.470000267028809
-- **Pressure Price**: 15.539999961853027
+### OPRT
+- **Current Price during run time**: 3.930000066757202
+- **Support Price**: 3.799999952316284
+- **Pressure Price**: 4.090000152587891
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![SUPV Chart](.//2024-12-20/SUPV.jpg)
+![OPRT Chart](.//2024-12-23/OPRT.jpg)
 
-### PUMP
+### SLM
+- **Current Price during run time**: 27.790000915527344
+- **Support Price**: 26.09000015258789
+- **Pressure Price**: 27.8799991607666
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SLM Chart](.//2024-12-23/SLM.jpg)
+
+### PTLE
 - **Current Price during run time**: 8.949999809265137
-- **Support Price**: 8.899999618530273
-- **Pressure Price**: 9.670000076293945
+- **Support Price**: 7.760000228881836
+- **Pressure Price**: 9.479999542236328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### ProPetro Announces Contract for a 4th FORCE Electric Hydraulic Fracturing Fleet (5 hours ago)
-Timely news for PUMP; impact level: 1 (positive) due to contract expansion enhancing revenue prospects.
+No news available
 
-##### ProPetro : Announces Contract for a 4th FORCE® Electric Hydraulic Fracturing Fleet Form 8 K (20 hours ago)
-Timely news for PUMP; impact level: 1 (positive). Significant new contract enhances revenue potential and operational capacity.
-
-##### ProPetro Announces Contract for a 4th FORCE® Electric Hydraulic Fracturing Fleet (1 days ago)
-Timely news for PUMP; impact level 1 (positive) due to contract announcement enhancing operational capacity and revenue potential.
-
-![PUMP Chart](.//2024-12-20/PUMP.jpg)
+![PTLE Chart](.//2024-12-23/PTLE.jpg)
 

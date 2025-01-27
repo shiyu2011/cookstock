@@ -1,110 +1,87 @@
-# Daily Stock Analysis: 01_23_2025
+# Daily Stock Analysis: 01_27_2025
 
 This report provides an overview of selected stocks with volatility contraction patterns and analysis details.
 
 ## Stocks Overview
 
-### APH
-- **Current Price during run time**: 77.83999633789062
-- **Support Price**: 68.33999633789062
-- **Pressure Price**: 71.83000183105469
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Amphenol Corporation (APH) Q4 2024 Earnings Call Transcript (20 hours ago)
-Timely news related to APH; impact level: 1 (positive). Strong earnings call signals growth potential and investor confidence.
-
-##### Amphenol: Q4 Earnings Snapshot (1 days ago)
-Timely news for APH. Impact level: 1 (positive). Strong Q4 earnings may boost investor confidence and stock price.
-
-##### Amphenol Reports Record Fourth Quarter and Full Year 2024 Results (1 days ago)
-Timely news for APH; impact level 2. Strong earnings and sales growth signal robust company performance and investor confidence.
-
-![APH Chart](.//2025-01-23/APH.jpg)
-
-### ARM
-- **Current Price during run time**: 179.92999267578125
-- **Support Price**: 137.07000732421875
-- **Pressure Price**: 147.41000366210938
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Arm Holdings: Beware Of Project Stargate Speculation (6 hours ago)
-Timely news for ARM; impact level 1 (positive) due to significant stock price increase from Project Stargate speculation.
-
-![ARM Chart](.//2025-01-23/ARM.jpg)
-
-### CRDO
-- **Current Price during run time**: 85.5
-- **Support Price**: 69.04000091552734
-- **Pressure Price**: 76.63999938964844
+### AEIS
+- **Current Price during run time**: 125.36000061035156
+- **Support Price**: 125.29000091552734
+- **Pressure Price**: 127.55000305175781
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![CRDO Chart](.//2025-01-23/CRDO.jpg)
+![AEIS Chart](.//2025-01-27/AEIS.jpg)
 
-### DOYU
-- **Current Price during run time**: 15.75
-- **Support Price**: 15.699999809265137
-- **Pressure Price**: 15.920000076293945
+### BB
+- **Current Price during run time**: 4.170000076293945
+- **Support Price**: 3.990000009536743
+- **Pressure Price**: 4.210000038146973
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![DOYU Chart](.//2025-01-23/DOYU.jpg)
+![BB Chart](.//2025-01-27/BB.jpg)
 
-### ENFN
-- **Current Price during run time**: 11.109999656677246
-- **Support Price**: 9.850000381469727
-- **Pressure Price**: 10.6899995803833
+### BKSY
+- **Current Price during run time**: 14.960000038146973
+- **Support Price**: 9.550000190734863
+- **Pressure Price**: 11.869999885559082
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![ENFN Chart](.//2025-01-23/ENFN.jpg)
-
-### ETN
-- **Current Price during run time**: 371.2300109863281
-- **Support Price**: 340.1400146484375
-- **Pressure Price**: 348.55999755859375
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
-
-![ETN Chart](.//2025-01-23/ETN.jpg)
+![BKSY Chart](.//2025-01-27/BKSY.jpg)
 
 ### GILT
-- **Current Price during run time**: 7.110000133514404
+- **Current Price during run time**: 7.289999961853027
 - **Support Price**: 6.28000020980835
 - **Pressure Price**: 6.699999809265137
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Gilat to Report Fourth Quarter and Full Year 2024 Results on February 12th,2025. Conference call at 9: 30 AM E.T (1 days ago)
-Timely news for GILT; impact level 0 (neutral) as earnings report date is standard, lacking immediate market influence.
+No news available
 
-##### Gilat Satellite : to Report Fourth Quarter and Full Year 2024 Results on Wednesday, February 12th (1 days ago)
-Timely news for GILT; impact level 0 (neutral) due to anticipation of upcoming earnings report without prior expectations.
+![GILT Chart](.//2025-01-27/GILT.jpg)
 
-##### Gilat Satellite Networks - Gilat Awarded Over $5 Million to Support Critical Connectivity for Defense Forces (1 days ago)
-Timely news related to GILT, impact level: 1. Positive impact due to significant contract enhancing revenue prospects.
+### GWRE
+- **Current Price during run time**: 205.9600067138672
+- **Support Price**: 169.52000427246094
+- **Pressure Price**: 172.30999755859375
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Guidewire Software, Inc.(NYSE: GWRE) added to S&P Composite 1500 (19 hours ago)
+Timely news for GWRE; Impact level: 1 (positive). Inclusion in S&P Composite 1500 enhances credibility and investor interest.
 
-![GILT Chart](.//2025-01-23/GILT.jpg)
+##### Guidewire Software, Inc.(NYSE: GWRE) added to S&P 400 Information Technology (19 hours ago)
+Timely news for GWRE, impact level 2: strong positive, as S&P inclusion typically boosts visibility and investor interest.
+
+##### Guidewire Software, Inc.(NYSE: GWRE) added to S&P 400 Application Software (Sub Ind) (19 hours ago)
+Timely news for GWRE; impact level 1 (positive) due to S&P 400 inclusion enhancing visibility and credibility.
+
+##### Guidewire Software, Inc.(NYSE: GWRE) added to S&P 1000 (19 hours ago)
+Timely news for GWRE; impact level: 1 (positive). Being added to S&P 1000 increases visibility and investor interest.
+
+##### Guidewire Software, Inc.(NYSE: GWRE) added to S&P 400 (19 hours ago)
+Timely news for GWRE; impact level 2. Strong positive as S&P 400 inclusion boosts visibility and investor interest.
+
+##### Conestoga Capital Advisors Q4 2024 Quarterly Commentary (1 days ago)
+Timely news for GWRE; impact level 0 (neutral) due to general market commentary, not directly affecting the stock.
+
+![GWRE Chart](.//2025-01-27/GWRE.jpg)
 
 ### HIMX
-- **Current Price during run time**: 9.920000076293945
+- **Current Price during run time**: 12.850000381469727
 - **Support Price**: 7.199999809265137
 - **Pressure Price**: 8.210000038146973
 - **Good Pivot**: True
@@ -113,100 +90,108 @@ Timely news related to GILT, impact level: 1. Positive impact due to significant
 #### News
 No news available
 
-![HIMX Chart](.//2025-01-23/HIMX.jpg)
+![HIMX Chart](.//2025-01-27/HIMX.jpg)
 
-### PEGA
-- **Current Price during run time**: 106.51000213623047
-- **Support Price**: 92.75
-- **Pressure Price**: 96.08999633789062
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Workers Embrace Agentic AI Despite Concerns About Trust and Reliability, Says Research (1 days ago)
-Timely news for PEGA, impact level 1: Positive; highlights AI adoption potential, aligning with PEGA's market focus.
-
-![PEGA Chart](.//2025-01-23/PEGA.jpg)
-
-### PLXS
-- **Current Price during run time**: 170.49000549316406
-- **Support Price**: 155.22000122070312
-- **Pressure Price**: 161.64999389648438
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Plexus : Q1 2025 Earnings Call Presentation (21 hours ago)
-Timely news for PLXS; impact level 1. Strong earnings presentation boosts investor confidence and may drive stock price upward.
-
-##### Plexus : Press Release Q1 and Fiscal Year 2025 Financial Results (21 hours ago)
-Timely news for PLXS; impact level 1 (positive) due to strong Q1 results and optimistic guidance.
-
-##### Plexus: Fiscal Q1 Earnings Snapshot (21 hours ago)
-Timely news related to PLXS with a positive impact level of 1; strong Q1 earnings indicate robust financial performance.
-
-##### Plexus Announces Fiscal First Quarter Financial Results (21 hours ago)
-Timely news for PLXS. Impact level: 1 (positive). Strong financial results and guidance boost investor confidence.
-
-![PLXS Chart](.//2025-01-23/PLXS.jpg)
-
-### SNAL
-- **Current Price during run time**: 2.9100000858306885
-- **Support Price**: 1.840000033378601
-- **Pressure Price**: 2.119999885559082
+### HUBB
+- **Current Price during run time**: 455.260009765625
+- **Support Price**: 453.7900085449219
+- **Pressure Price**: 456.8599853515625
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![SNAL Chart](.//2025-01-23/SNAL.jpg)
+![HUBB Chart](.//2025-01-27/HUBB.jpg)
 
-### SRAD
-- **Current Price during run time**: 20.420000076293945
-- **Support Price**: 17.34000015258789
-- **Pressure Price**: 17.600000381469727
+### IREN
+- **Current Price during run time**: 13.319999694824219
+- **Support Price**: 10.460000038146973
+- **Pressure Price**: 11.770000457763672
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![SRAD Chart](.//2025-01-23/SRAD.jpg)
+![IREN Chart](.//2025-01-27/IREN.jpg)
 
-### TEL
-- **Current Price during run time**: 155.08999633789062
-- **Support Price**: 140.91000366210938
-- **Pressure Price**: 143.75999450683594
+### LEDS
+- **Current Price during run time**: 1.7200000286102295
+- **Support Price**: 1.649999976158142
+- **Pressure Price**: 1.75
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### TE Connectivity plc (TEL) Q1 2025 Earnings Call Transcript (1 days ago)
-Timely news for TEL; impact level 1 (positive) due to Q1 earnings call indicating potential growth and investor interest.
+No news available
 
-##### TE Connectivity forecasts Q2 profit below expectations as demand uncertainty weighs (1 days ago)
-Timely news for TEL; impact level -1. Demand uncertainty in transportation unit signals potential profit decline, negatively affecting stock price.
+![LEDS Chart](.//2025-01-27/LEDS.jpg)
 
-##### TE Connectivity plc 2025 Q1 - Results - Earnings Call Presentation (1 days ago)
-Timely news for TEL; impact level 1. Positive sentiment from Q1 earnings presentation may boost investor confidence.
+### OSIS
+- **Current Price during run time**: 199.8699951171875
+- **Support Price**: 153.35000610351562
+- **Pressure Price**: 187.75
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### OSI Systems: Security Play Showing Continued Momentum (20 hours ago)
+Timely news for OSIS; impact level 1 (positive). Strong growth in security business drives momentum and higher margins.
 
-##### TE Connectivity : Q1 2025 TE Connectivity Ltd. Earnings Conference Call (1 days ago)
-Timely news for TEL; impact level 1. Positive due to upcoming earnings call, indicating potential for strong performance insights.
+![OSIS Chart](.//2025-01-27/OSIS.jpg)
 
-##### TE Connectivity: Fiscal Q1 Earnings Snapshot (1 days ago)
-Timely news related to TEL; impact level: 1 (positive) due to solid earnings report, boosting investor confidence.
+### PL
+- **Current Price during run time**: 5.440000057220459
+- **Support Price**: 3.569999933242798
+- **Pressure Price**: 4.360000133514404
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+##### Conestoga Capital Advisors Q4 2024 Quarterly Commentary (1 days ago)
+News is timely and relevant to stock PL. Impact level: 0 (neutral). Commentary indicates broad market performance without specific implications for PL.
 
-##### TE Connectivity : Q125 Presentation (1 days ago)
-Timely news for TEL, impact level 1: positive; potential for strong earnings could boost investor confidence.
+![PL Chart](.//2025-01-27/PL.jpg)
 
-##### TE Connectivity announces first quarter results for fiscal year 2025 (1 days ago)
-Timely news for TEL; impact level 1 (positive) due to EPS exceeding guidance and record cash generation.
+### PYCR
+- **Current Price during run time**: 22.219999313354492
+- **Support Price**: 22.06999969482422
+- **Pressure Price**: 22.860000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
 
-![TEL Chart](.//2025-01-23/TEL.jpg)
+![PYCR Chart](.//2025-01-27/PYCR.jpg)
+
+### SEMR
+- **Current Price during run time**: 16.420000076293945
+- **Support Price**: 15.739999771118164
+- **Pressure Price**: 16.459999084472656
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SEMR Chart](.//2025-01-27/SEMR.jpg)
+
+### SMWB
+- **Current Price during run time**: 16.670000076293945
+- **Support Price**: 15.600000381469727
+- **Pressure Price**: 16.06999969482422
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![SMWB Chart](.//2025-01-27/SMWB.jpg)
 
 ### TSEM
-- **Current Price during run time**: 54.15999984741211
+- **Current Price during run time**: 54.7400016784668
 - **Support Price**: 50.54999923706055
 - **Pressure Price**: 52.099998474121094
 - **Good Pivot**: True
@@ -215,10 +200,22 @@ Timely news for TEL; impact level 1 (positive) due to EPS exceeding guidance and
 #### News
 No news available
 
-![TSEM Chart](.//2025-01-23/TSEM.jpg)
+![TSEM Chart](.//2025-01-27/TSEM.jpg)
+
+### TTD
+- **Current Price during run time**: 119.95999908447266
+- **Support Price**: 119.13999938964844
+- **Pressure Price**: 124.5
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![TTD Chart](.//2025-01-27/TTD.jpg)
 
 ### TUYA
-- **Current Price during run time**: 2.0999999046325684
+- **Current Price during run time**: 2.2799999713897705
 - **Support Price**: 1.600000023841858
 - **Pressure Price**: 1.899999976158142
 - **Good Pivot**: True
@@ -227,22 +224,10 @@ No news available
 #### News
 No news available
 
-![TUYA Chart](.//2025-01-23/TUYA.jpg)
-
-### VICR
-- **Current Price during run time**: 60.599998474121094
-- **Support Price**: 46.81999969482422
-- **Pressure Price**: 51.560001373291016
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
-
-![VICR Chart](.//2025-01-23/VICR.jpg)
+![TUYA Chart](.//2025-01-27/TUYA.jpg)
 
 ### VNET
-- **Current Price during run time**: 6.360000133514404
+- **Current Price during run time**: 6.989999771118164
 - **Support Price**: 5.079999923706055
 - **Pressure Price**: 5.760000228881836
 - **Good Pivot**: True
@@ -251,110 +236,95 @@ No news available
 #### News
 No news available
 
-![VNET Chart](.//2025-01-23/VNET.jpg)
+![VNET Chart](.//2025-01-27/VNET.jpg)
 
-### ADPT
-- **Current Price during run time**: 8.010000228881836
-- **Support Price**: 6.070000171661377
-- **Pressure Price**: 7.199999809265137
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Adaptive Biotechnologies to Report Fourth Quarter and Full Year 2024 Financial Results on February 11, 2025 (21 hours ago)
-Timely news for ADPT; impact level 0 (neutral) due to scheduled financial results without immediate details affecting stock price.
-
-![ADPT Chart](.//2025-01-23/ADPT.jpg)
-
-### AXSM
-- **Current Price during run time**: 102.2699966430664
-- **Support Price**: 91.93499755859375
-- **Pressure Price**: 93.75
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Axsome Therapeutics to Report Fourth Quarter and Full Year 2024 Financial Results on February 18 (1 days ago)
-Timely news for AXSM with a neutral impact (0) as financial results reporting typically has mixed market reactions.
-
-![AXSM Chart](.//2025-01-23/AXSM.jpg)
-
-### BFLY
-- **Current Price during run time**: 3.930000066757202
-- **Support Price**: 3.6700000762939453
-- **Pressure Price**: 3.940000057220459
+### ADUS
+- **Current Price during run time**: 130.6199951171875
+- **Support Price**: 127.11000061035156
+- **Pressure Price**: 135.9199981689453
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BFLY Chart](.//2025-01-23/BFLY.jpg)
+![ADUS Chart](.//2025-01-27/ADUS.jpg)
 
-### DCTH
-- **Current Price during run time**: 15.210000038146973
-- **Support Price**: 11.479999542236328
-- **Pressure Price**: 12.670000076293945
+### BTSG
+- **Current Price during run time**: 22.81999969482422
+- **Support Price**: 17.049999237060547
+- **Pressure Price**: 17.639999389648438
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![DCTH Chart](.//2025-01-23/DCTH.jpg)
+![BTSG Chart](.//2025-01-27/BTSG.jpg)
 
-### GH
-- **Current Price during run time**: 47.20000076293945
-- **Support Price**: 36.65999984741211
-- **Pressure Price**: 38.099998474121094
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Guardant Health to Present Data at ASCO GI Demonstrating the Value of Its Precision Oncology Tools for Cancer Detection, Treatment Decisions and Therapy Development (5 hours ago)
-Timely news related to stock GH. Impact level: 1 (positive). Reason: Highlighting innovative cancer detection tools can boost investor confidence and market interest.
-
-![GH Chart](.//2025-01-23/GH.jpg)
-
-### GMED
-- **Current Price during run time**: 93.31999969482422
-- **Support Price**: 81.83000183105469
-- **Pressure Price**: 84.41999816894531
+### CDRE
+- **Current Price during run time**: 39.5
+- **Support Price**: 31.979999542236328
+- **Pressure Price**: 32.58000183105469
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![GMED Chart](.//2025-01-23/GMED.jpg)
+![CDRE Chart](.//2025-01-27/CDRE.jpg)
+
+### CLOV
+- **Current Price during run time**: 4.820000171661377
+- **Support Price**: 3.130000114440918
+- **Pressure Price**: 3.309999942779541
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![CLOV Chart](.//2025-01-27/CLOV.jpg)
+
+### COEP
+- **Current Price during run time**: 11.90999984741211
+- **Support Price**: 9.270000457763672
+- **Pressure Price**: 9.5600004196167
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![COEP Chart](.//2025-01-27/COEP.jpg)
+
+### IBIO
+- **Current Price during run time**: 3.069999933242798
+- **Support Price**: 3.009999990463257
+- **Pressure Price**: 3.069999933242798
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![IBIO Chart](.//2025-01-27/IBIO.jpg)
 
 ### ICAD
-- **Current Price during run time**: 2.4100000858306885
+- **Current Price during run time**: 2.4200000762939453
 - **Support Price**: 1.8799999952316284
 - **Pressure Price**: 2.059999942779541
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-No news available
+##### ICAD Pre-Announces Estimated Q4 2024 Revenue (5 hours ago)
+Timely news for ICAD; impact level 1: positive due to Q4 revenue pre-announcement, indicating strong performance outlook.
 
-![ICAD Chart](.//2025-01-23/ICAD.jpg)
-
-### ISRG
-- **Current Price during run time**: 610.4500122070312
-- **Support Price**: 521.9600219726562
-- **Pressure Price**: 538.8300170898438
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Baron Health Care Fund Q4 2024 Shareholder Letter (1 days ago)
-Timely news related to ISRG; impact level 0: neutral. No direct implications for Isrg's stock price noted.
-
-![ISRG Chart](.//2025-01-23/ISRG.jpg)
+![ICAD Chart](.//2025-01-27/ICAD.jpg)
 
 ### ITCI
-- **Current Price during run time**: 127.1500015258789
+- **Current Price during run time**: 127.3499984741211
 - **Support Price**: 126.19999694824219
 - **Pressure Price**: 127.19000244140625
 - **Good Pivot**: True
@@ -363,47 +333,94 @@ Timely news related to ISRG; impact level 0: neutral. No direct implications for
 #### News
 No news available
 
-![ITCI Chart](.//2025-01-23/ITCI.jpg)
+![ITCI Chart](.//2025-01-27/ITCI.jpg)
+
+### MLSS
+- **Current Price during run time**: 1.3300000429153442
+- **Support Price**: 1.0800000429153442
+- **Pressure Price**: 1.2599999904632568
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![MLSS Chart](.//2025-01-27/MLSS.jpg)
+
+### NARI
+- **Current Price during run time**: 79.73999786376953
+- **Support Price**: 79.41999816894531
+- **Pressure Price**: 79.55000305175781
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NARI Chart](.//2025-01-27/NARI.jpg)
+
+### NMTC
+- **Current Price during run time**: 1.1950000524520874
+- **Support Price**: 1.0199999809265137
+- **Pressure Price**: 1.1399999856948853
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![NMTC Chart](.//2025-01-27/NMTC.jpg)
+
+### OPCH
+- **Current Price during run time**: 30.329999923706055
+- **Support Price**: 22.610000610351562
+- **Pressure Price**: 23.860000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![OPCH Chart](.//2025-01-27/OPCH.jpg)
+
+### PDCO
+- **Current Price during run time**: 30.93000030517578
+- **Support Price**: 30.899999618530273
+- **Pressure Price**: 30.950000762939453
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![PDCO Chart](.//2025-01-27/PDCO.jpg)
 
 ### PEN
-- **Current Price during run time**: 275.8399963378906
-- **Support Price**: 237.27999877929688
-- **Pressure Price**: 243.52000427246094
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### UBS Initiates Coverage of Penumbra (PEN) with Buy Recommendation (1 days ago)
-Timely news for PEN; impact level 1. UBS's buy recommendation suggests strong future performance and investor confidence.
-
-![PEN Chart](.//2025-01-23/PEN.jpg)
-
-### PLX
-- **Current Price during run time**: 2.369999885559082
-- **Support Price**: 2.1700000762939453
-- **Pressure Price**: 2.2699999809265137
+- **Current Price during run time**: 274.05999755859375
+- **Support Price**: 273.7799987792969
+- **Pressure Price**: 275.8399963378906
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![PLX Chart](.//2025-01-23/PLX.jpg)
+![PEN Chart](.//2025-01-27/PEN.jpg)
 
-### VRNA
-- **Current Price during run time**: 54.66999816894531
-- **Support Price**: 51.88999938964844
-- **Pressure Price**: 53.63999938964844
+### RPRX
+- **Current Price during run time**: 31.059999465942383
+- **Support Price**: 30.079999923706055
+- **Pressure Price**: 30.950000762939453
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![VRNA Chart](.//2025-01-23/VRNA.jpg)
+![RPRX Chart](.//2025-01-27/RPRX.jpg)
 
 ### AB
-- **Current Price during run time**: 40.369998931884766
+- **Current Price during run time**: 40.72999954223633
 - **Support Price**: 35.33000183105469
 - **Pressure Price**: 37.40999984741211
 - **Good Pivot**: True
@@ -412,132 +429,142 @@ No news available
 #### News
 No news available
 
-![AB Chart](.//2025-01-23/AB.jpg)
+![AB Chart](.//2025-01-27/AB.jpg)
 
-### AMP
-- **Current Price during run time**: 561.530029296875
-- **Support Price**: 515.47998046875
-- **Pressure Price**: 542.3900146484375
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### 427 Ameriprise Financial Advisor Teams Named to the Forbes Best-in-State Wealth Management Teams List (1 days ago)
-Timely news for AMP; impact level 1 (positive). Recognition enhances brand credibility, likely boosting investor confidence and stock performance.
-
-![AMP Chart](.//2025-01-23/AMP.jpg)
-
-### AOD
-- **Current Price during run time**: 8.739999771118164
-- **Support Price**: 8.460000038146973
-- **Pressure Price**: 8.510000228881836
+### ADX
+- **Current Price during run time**: 21.280000686645508
+- **Support Price**: 20.219999313354492
+- **Pressure Price**: 20.56999969482422
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![AOD Chart](.//2025-01-23/AOD.jpg)
+![ADX Chart](.//2025-01-27/ADX.jpg)
 
-### ASG
-- **Current Price during run time**: 6.0
-- **Support Price**: 5.590000152587891
-- **Pressure Price**: 5.75
+### AEG
+- **Current Price during run time**: 6.5
+- **Support Price**: 5.940000057220459
+- **Pressure Price**: 6.03000020980835
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![ASG Chart](.//2025-01-23/ASG.jpg)
+![AEG Chart](.//2025-01-27/AEG.jpg)
 
-### BDJ
-- **Current Price during run time**: 8.729999542236328
-- **Support Price**: 8.369999885559082
-- **Pressure Price**: 8.4399995803833
+### AXS
+- **Current Price during run time**: 88.16999816894531
+- **Support Price**: 87.48999786376953
+- **Pressure Price**: 90.2300033569336
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BDJ Chart](.//2025-01-23/BDJ.jpg)
+![AXS Chart](.//2025-01-27/AXS.jpg)
 
-### BGB
-- **Current Price during run time**: 12.350000381469727
-- **Support Price**: 12.270000457763672
-- **Pressure Price**: 12.319999694824219
+### BKU
+- **Current Price during run time**: 40.83000183105469
+- **Support Price**: 36.869998931884766
+- **Pressure Price**: 38.90999984741211
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BGB Chart](.//2025-01-23/BGB.jpg)
+![BKU Chart](.//2025-01-27/BKU.jpg)
 
-### BMEZ
-- **Current Price during run time**: 16.18000030517578
-- **Support Price**: 15.25
-- **Pressure Price**: 15.520000457763672
+### BLX
+- **Current Price during run time**: 37.63999938964844
+- **Support Price**: 37.189998626708984
+- **Pressure Price**: 39.130001068115234
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BMEZ Chart](.//2025-01-23/BMEZ.jpg)
+![BLX Chart](.//2025-01-27/BLX.jpg)
 
-### BRW
-- **Current Price during run time**: 7.78000020980835
-- **Support Price**: 7.769999980926514
-- **Pressure Price**: 7.809999942779541
+### BMTX
+- **Current Price during run time**: 4.989999771118164
+- **Support Price**: 4.869999885559082
+- **Pressure Price**: 4.909999847412109
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![BRW Chart](.//2025-01-23/BRW.jpg)
+![BMTX Chart](.//2025-01-27/BMTX.jpg)
 
-### C
-- **Current Price during run time**: 81.69000244140625
-- **Support Price**: 71.4000015258789
-- **Pressure Price**: 73.68000030517578
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Citigroup: Post-Earnings Technical Strength Is A Selling Opportunity (5 hours ago)
-Timely news related to stock C; impact level -1. Overvaluation concerns suggest a decline in stock price.
-
-##### Asian tech fundraising to expand 10% in 2025, says Citi (8 hours ago)
-Timely news related to stock C; impact level: 1 (positive) due to expected growth in tech fundraising.
-
-##### Dodge & Cox Balanced Fund Q4 2024 Shareholder Letter (11 hours ago)
-Timely news related to stock C; impact level: 1 (positive) due to overall market performance optimism benefiting investor sentiment.
-
-##### Citi Issuer Services Supports Inaugural Bond Issuance by The Climate Investment Funds (CIF) Capital Markets Mechanism (CCMM) (1 days ago)
-Timely news related to stock C. Impact level: 1 (positive). Strong involvement in sustainable finance enhances Citi's reputation and potential for future business.
-
-##### Banks Kick Q4 Earnings Season Off With A Bang As CEO Sentiment Improves (1 days ago)
-Timely news positively impacts stock C (1) due to strong earnings results boosting investor confidence in banking sector performance.
-
-![C Chart](.//2025-01-23/C.jpg)
-
-### DGHI
-- **Current Price during run time**: 2.5299999713897705
-- **Support Price**: 1.4900000095367432
-- **Pressure Price**: 1.6699999570846558
+### CASH
+- **Current Price during run time**: 79.7699966430664
+- **Support Price**: 72.51000213623047
+- **Pressure Price**: 75.22000122070312
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![DGHI Chart](.//2025-01-23/DGHI.jpg)
+![CASH Chart](.//2025-01-27/CASH.jpg)
+
+### DFS
+- **Current Price during run time**: 202.10000610351562
+- **Support Price**: 169.63999938964844
+- **Pressure Price**: 179.2100067138672
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![DFS Chart](.//2025-01-27/DFS.jpg)
+
+### FINV
+- **Current Price during run time**: 7.659999847412109
+- **Support Price**: 6.579999923706055
+- **Pressure Price**: 7.019999980926514
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![FINV Chart](.//2025-01-27/FINV.jpg)
+
+### FPH
+- **Current Price during run time**: 5.75
+- **Support Price**: 4.019999980926514
+- **Pressure Price**: 4.079999923706055
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![FPH Chart](.//2025-01-27/FPH.jpg)
+
+### FTF
+- **Current Price during run time**: 6.619999885559082
+- **Support Price**: 6.539999961853027
+- **Pressure Price**: 6.679999828338623
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![FTF Chart](.//2025-01-27/FTF.jpg)
 
 ### GHY
-- **Current Price during run time**: 13.020000457763672
+- **Current Price during run time**: 13.239999771118164
 - **Support Price**: 12.600000381469727
 - **Pressure Price**: 12.970000267028809
 - **Good Pivot**: True
@@ -546,75 +573,58 @@ No news available
 #### News
 No news available
 
-![GHY Chart](.//2025-01-23/GHY.jpg)
+![GHY Chart](.//2025-01-27/GHY.jpg)
 
-### GLO
-- **Current Price during run time**: 5.349999904632568
-- **Support Price**: 5.269999980926514
-- **Pressure Price**: 5.300000190734863
+### HBNC
+- **Current Price during run time**: 16.56999969482422
+- **Support Price**: 15.0
+- **Pressure Price**: 16.479999542236328
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![GLO Chart](.//2025-01-23/GLO.jpg)
+![HBNC Chart](.//2025-01-27/HBNC.jpg)
 
-### HOOD
-- **Current Price during run time**: 50.15999984741211
-- **Support Price**: 39.59000015258789
-- **Pressure Price**: 42.709999084472656
+### HOMB
+- **Current Price during run time**: 30.059999465942383
+- **Support Price**: 29.84000015258789
+- **Pressure Price**: 30.399999618530273
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![HOOD Chart](.//2025-01-23/HOOD.jpg)
+![HOMB Chart](.//2025-01-27/HOMB.jpg)
 
 ### IBKR
-- **Current Price during run time**: 209.77999877929688
+- **Current Price during run time**: 218.99000549316406
 - **Support Price**: 182.63999938964844
 - **Pressure Price**: 191.1699981689453
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Interactive Brokers : Q4 2024 Results - Earnings Call Transcript (1 days ago)
-Timely news for IBKR; impact level 1. Strong earnings suggest positive growth outlook.
+No news available
 
-##### Baron Focused Growth Fund Q4 2024 Shareholder Letter (1 days ago)
-Timely news for IBKR; impact level: 0 (neutral). Fund performance does not directly influence IBKR's stock price.
+![IBKR Chart](.//2025-01-27/IBKR.jpg)
 
-![IBKR Chart](.//2025-01-23/IBKR.jpg)
-
-### KYN
-- **Current Price during run time**: 13.550000190734863
-- **Support Price**: 12.829999923706055
-- **Pressure Price**: 13.210000038146973
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-##### Examining Midstream EBITDA Guidance For 2025 And Beyond (1 days ago)
-Timely news on KYN; impact level 1 (positive). Constructive EBITDA outlook supports midstream growth, enhancing investor confidence.
-
-![KYN Chart](.//2025-01-23/KYN.jpg)
-
-### NCZ
-- **Current Price during run time**: 3.2699999809265137
-- **Support Price**: 3.109999895095825
-- **Pressure Price**: 3.200000047683716
+### NBBK
+- **Current Price during run time**: 19.010000228881836
+- **Support Price**: 17.600000381469727
+- **Pressure Price**: 17.829999923706055
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![NCZ Chart](.//2025-01-23/NCZ.jpg)
+![NBBK Chart](.//2025-01-27/NBBK.jpg)
 
 ### NFJ
-- **Current Price during run time**: 13.039999961853027
+- **Current Price during run time**: 13.100000381469727
 - **Support Price**: 12.460000038146973
 - **Pressure Price**: 12.710000038146973
 - **Good Pivot**: True
@@ -623,79 +633,131 @@ No news available
 #### News
 No news available
 
-![NFJ Chart](.//2025-01-23/NFJ.jpg)
+![NFJ Chart](.//2025-01-27/NFJ.jpg)
+
+### ONB
+- **Current Price during run time**: 23.06999969482422
+- **Support Price**: 22.8700008392334
+- **Pressure Price**: 23.65999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ONB Chart](.//2025-01-27/ONB.jpg)
+
+### OPFI
+- **Current Price during run time**: 12.640000343322754
+- **Support Price**: 11.020000457763672
+- **Pressure Price**: 11.90999984741211
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![OPFI Chart](.//2025-01-27/OPFI.jpg)
 
 ### OWL
-- **Current Price during run time**: 25.530000686645508
+- **Current Price during run time**: 26.68000030517578
 - **Support Price**: 22.360000610351562
 - **Pressure Price**: 24.030000686645508
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Newmark Arranges $2.3 Billion Construction Financing for 206 MW Build-to-Suit Data Center (23 hours ago)
-Timely news for OWL. Impact level: 1. This financing boosts growth prospects for data center development, positively influencing stock outlook.
+No news available
 
-##### Blue Owl Capital Corporation Schedules Earnings Release and Quarterly Earnings Call to Discuss its Fourth Quarter and Fiscal Year Ended December 31, 2024 Financial Results (1 days ago)
-Timely news related to OWL; impact level: 1 (positive) due to anticipated financial results announcement.
+![OWL Chart](.//2025-01-27/OWL.jpg)
 
-![OWL Chart](.//2025-01-23/OWL.jpg)
-
-### OZK
-- **Current Price during run time**: 50.970001220703125
-- **Support Price**: 41.709999084472656
-- **Pressure Price**: 44.9900016784668
+### PNC
+- **Current Price during run time**: 199.52999877929688
+- **Support Price**: 196.3000030517578
+- **Pressure Price**: 200.44000244140625
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![OZK Chart](.//2025-01-23/OZK.jpg)
+![PNC Chart](.//2025-01-27/PNC.jpg)
 
-### PNFP
-- **Current Price during run time**: 122.04000091552734
-- **Support Price**: 118.05999755859375
-- **Pressure Price**: 119.95999908447266
+### SAN
+- **Current Price during run time**: 5.079999923706055
+- **Support Price**: 4.619999885559082
+- **Pressure Price**: 4.690000057220459
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Pinnacle Financial Partners, Inc. (PNFP) Q4 2024 Earnings Call Transcript (23 hours ago)
-Timely news for PNFP; impact level: 1 (positive). Strong earnings call can boost investor confidence and stock performance.
+##### Banco Santander Brasil: Slow And Steady Growth As Q4 Approaches (1 days ago)
+Timely news for SAN; impact level 1 (positive) due to improving profitability outlook amidst macro challenges.
 
-##### Pinnacle Financial Partners, Inc. 2024 Q4 - Results - Earnings Call Presentation (1 days ago)
-Timely news related to PNFP. Impact level: 1 (positive). Earnings call presentations typically indicate strong performance expectations.
+![SAN Chart](.//2025-01-27/SAN.jpg)
 
-![PNFP Chart](.//2025-01-23/PNFP.jpg)
-
-### RVT
-- **Current Price during run time**: 16.610000610351562
-- **Support Price**: 15.630000114440918
-- **Pressure Price**: 15.850000381469727
+### SFNC
+- **Current Price during run time**: 22.530000686645508
+- **Support Price**: 22.360000610351562
+- **Pressure Price**: 22.790000915527344
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![RVT Chart](.//2025-01-23/RVT.jpg)
+![SFNC Chart](.//2025-01-27/SFNC.jpg)
 
-### SLM
-- **Current Price during run time**: 29.079999923706055
-- **Support Price**: 26.950000762939453
-- **Pressure Price**: 28.200000762939453
+### UCB
+- **Current Price during run time**: 32.970001220703125
+- **Support Price**: 32.95000076293945
+- **Pressure Price**: 33.25
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
-##### Sallie Mae Declares Dividends on Preferred Stock Series B and Common Stock (21 hours ago)
-Timely news for SLM; impact level 1. Positive dividend announcement enhances investor confidence and stock attractiveness.
+No news available
 
-![SLM Chart](.//2025-01-23/SLM.jpg)
+![UCB Chart](.//2025-01-27/UCB.jpg)
+
+### ARIS
+- **Current Price during run time**: 29.719999313354492
+- **Support Price**: 28.850000381469727
+- **Pressure Price**: 29.799999237060547
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ARIS Chart](.//2025-01-27/ARIS.jpg)
+
+### ARLP
+- **Current Price during run time**: 29.239999771118164
+- **Support Price**: 26.229999542236328
+- **Pressure Price**: 26.610000610351562
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![ARLP Chart](.//2025-01-27/ARLP.jpg)
+
+### BE
+- **Current Price during run time**: 29.809999465942383
+- **Support Price**: 22.299999237060547
+- **Pressure Price**: 25.479999542236328
+- **Good Pivot**: True
+- **Deep Correction**: False
+- **Demand Dry**: True
+#### News
+No news available
+
+![BE Chart](.//2025-01-27/BE.jpg)
 
 ### BKV
-- **Current Price during run time**: 25.559999465942383
+- **Current Price during run time**: 26.489999771118164
 - **Support Price**: 23.8700008392334
 - **Pressure Price**: 24.450000762939453
 - **Good Pivot**: True
@@ -704,41 +766,17 @@ Timely news for SLM; impact level 1. Positive dividend announcement enhances inv
 #### News
 No news available
 
-![BKV Chart](.//2025-01-23/BKV.jpg)
+![BKV Chart](.//2025-01-27/BKV.jpg)
 
-### CTRA
-- **Current Price during run time**: 29.18000030517578
-- **Support Price**: 29.149999618530273
-- **Pressure Price**: 29.829999923706055
+### POWL
+- **Current Price during run time**: 290.79998779296875
+- **Support Price**: 290.44000244140625
+- **Pressure Price**: 311.3800048828125
 - **Good Pivot**: True
 - **Deep Correction**: False
 - **Demand Dry**: True
 #### News
 No news available
 
-![CTRA Chart](.//2025-01-23/CTRA.jpg)
-
-### PAA
-- **Current Price during run time**: 20.59000015258789
-- **Support Price**: 16.770000457763672
-- **Pressure Price**: 18.049999237060547
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
-
-![PAA Chart](.//2025-01-23/PAA.jpg)
-
-### SOC
-- **Current Price during run time**: 28.25
-- **Support Price**: 21.850000381469727
-- **Pressure Price**: 23.850000381469727
-- **Good Pivot**: True
-- **Deep Correction**: False
-- **Demand Dry**: True
-#### News
-No news available
-
-![SOC Chart](.//2025-01-23/SOC.jpg)
+![POWL Chart](.//2025-01-27/POWL.jpg)
 

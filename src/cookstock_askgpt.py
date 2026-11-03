@@ -40,7 +40,7 @@ def fetch_with_proxy(url, headers):
     try:
         proxy = get_random_proxy()
         # print(f"Using proxy: {proxy}")
-        response = requests.get(url, headers=headers, proxies=proxy, timeout=10, verify=False)
+        response = requests.get(url, headers=headers, proxies=proxy, timeout=10)
         # Check if the response was successful
         if response.status_code == 200:
             print("Request successful!")
